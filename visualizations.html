@@ -10,7 +10,8 @@
 		<script src="js/skel.min.js"></script>
 		<script src="js/skel-layers.min.js"></script>
 		<script src="js/init.js"></script>
-		<script src="http://d3js.org/d3.v3.min.js"></script>
+		<script src="//d3js.org/d3.v3.min.js"></script>
+		<script src="//d3js.org/topojson.v1.min.js"></script>
 		<style>
 			@import url(css/style.css?aea6f0a);
 		</style>
@@ -34,32 +35,20 @@
 			</nav>
 		</header>
 
-		<!-- <section id="one" class="wrapper style3 special"> -->
 		<section id="one" style="margin:auto" class="wrapper style3 special">
 			<div class="container">
-				<h1 style="color:white">Zoomable Treemaps, with Color</h1>
-				<p style="color:white">Hover on any cell to see next level of detail, or click on a cell to zoom in. Click on the top label to zoom out.</p>
-				<p id="chart">
+				<div id="zoomablemap"></div>
+				<script src="js/zoomablemap.js"></script>
+			</div>
+		</section>
+
+		<section id="two" style="margin:auto" class="wrapper style3 special">
+			<div class="container">
+				<div id="treemap"></div>
 				<script src="js/treemap.js"></script>
 			</div>
 		</section>
 
-<!-- 		<section id="two" class="wrapper style3 special">
-	<div class="container" style="padding-top:80px">
-		<style>
-			@import url(css/style.css?aea6f0a);
-		</style>
-
-	    <script> 
-	    $(function(){
-	      $("#includedContent").load("zoomablemap.html"); 
-	    });
-	    </script> 
-	    <div id="includedContent"></div>
-	</div>
-</section> -->
-
-		<!-- <section id="three" class="wrapper style3 special"> -->
 		<section id="three" style="margin:auto" class="wrapper style3 special">
 			<div class="container" style="padding-top:40px">
 			   	<div id="bubblechart"></div>

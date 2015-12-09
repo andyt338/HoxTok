@@ -1206,6 +1206,10 @@ rect {
   stroke-width: 1px;
 }
 
+rect-zoomablemap {
+  fill: none; 
+}
+
 rect.parent,
 .grandparent rect {
   stroke-width: 2px;
@@ -1247,4 +1251,26 @@ rect.parent,
   font-size: 15px;
   font-family: sans-serif;
   fill: black;
+}
+
+#background-states {
+  fill: none;
+  pointer-events: all;
+}
+
+#states {
+  fill: #aaa;
+}
+
+#states .active {
+  fill: orange;
+}
+
+#state-borders {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 1.5px;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+  pointer-events: none;
 }
