@@ -45,8 +45,15 @@
 		}
 
 	strong, b {
-		color: #484848;
+		color: white;
 		font-weight: 700;
+		font-size: 200%;
+	}
+
+	strong {
+		color: inherit;
+		font-weight: 700;
+		font-size: 200%;
 	}
 
 	em, i {
@@ -55,10 +62,11 @@
 
 	p {
 		margin: 0 0 2em 0;
+		color:white;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #484848;
+		color: #white;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -83,6 +91,7 @@
 	h4 {
 		font-size: 1.1em;
 		line-height: 1.5em;
+		color: white;
 	}
 
 	h5 {
@@ -209,6 +218,7 @@
 		header.major p {
 			font-size: 1.7em;
 			margin-bottom: 0;
+			color: white;
 		}
 
 /* Form */
@@ -924,7 +934,7 @@
 		box-shadow: 0px 0.0375em 0.125em 0px rgba(0, 0, 0, 0.05);
 		color: #484848;
 		cursor: default;
-		font-size: 1.25em;
+		font-size: .8em;
 		height: 4.5em;
 		left: 0;
 		line-height: 4.4em;
@@ -1093,7 +1103,7 @@
 /* Wrapper */
 
 	.wrapper {
-		padding: 6em 0 4em 0;
+		padding: 6.5em 0 4em 0;
 	}
 
 		.wrapper.style2 {
@@ -1102,7 +1112,7 @@
 
 		.wrapper.style3 {
 			background-attachment: fixed;
-			background-image: url("images/overlay.png"), url("../images/banner.jpg");
+			background-image: url("images/overlay.png"), url("../images/osprey.jpg");
 			background-position: center center;
 			background-size: cover;
 		}
@@ -1122,7 +1132,7 @@
 /* Footer */
 
 	#footer {
-		padding: 8em 0 6em 0;
+		padding: 2em 0 .2em 0;
 		background: #f6f6f6;
 		color: #aaa;
 		text-align: center;
