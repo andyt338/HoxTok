@@ -1116,6 +1116,13 @@
 			background-position: center center;
 			background-size: cover;
 		}
+		.wrapper.style3#one {
+			padding-top: 0%;
+			background-attachment: fixed;
+			background-image: url("images/overlay.png"), url("../images/osprey.jpg");
+			background-position: center center;
+			background-size: cover;
+		}
 
 			.wrapper.style3 header.major {
 				margin-bottom: 3em;
@@ -1290,3 +1297,22 @@ rect.parent,
   stroke: #ccc;
   stroke-width: 1.5px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
