@@ -30,21 +30,21 @@
 		margin-bottom: 1em;
 	}
 
-/* Banner */
+/* Emblem */
 
-	#banner {
+	#emblem {
 		padding: 6em 2em 6em 2em;
 	}
 
-		#banner br {
+		#emblem br {
 			display: none;
 		}
 
-		#banner h2 {
+		#emblem h2 {
 			font-size: 2.25em;
 		}
 
-		#banner p {
+		#emblem p {
 			font-size: 1.25em;
 		}
 
