@@ -23,7 +23,7 @@
 
     var g = svg.append("g");
 
-    d3.json("json/us.json", function(error, us) {
+    d3.json("/data/json/us.json", function(error, us) {
       if (error) throw error;
 
       g.append("g")
@@ -34,7 +34,7 @@
           .attr("d", path)
           .on("click", clicked);
 
-      d3.csv("cities.csv", function(error, data) {
+      d3.csv("/data/miscellaneous_data/cities.csv", function(error, data) {
         g.selectAll("image").data([0])
            .data(data)
            .enter()

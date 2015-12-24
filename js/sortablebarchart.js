@@ -27,7 +27,7 @@
     .append("g")
       .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-  d3.tsv("data.tsv", function(error, data) {
+  d3.tsv("/data/miscellaneous_data/data.tsv", function(error, data) {
 
     data.forEach(function(d) {
       d.frequency = +d.frequency;

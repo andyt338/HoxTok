@@ -246,7 +246,7 @@ d3.bullet = function() {
       .width(width)
       .height(height);
 
-  d3.json("json/bullets.json", function(error, data) {
+  d3.json("/data/json/bullets.json", function(error, data) {
     if (error) throw error;
 
     var svg = d3.select("#bulletchart").selectAll("svg")

@@ -129,7 +129,7 @@
         return (parseInt(hexcolor.replace('#', ''), 16) > 0xffffff/3) ? 'black':'white';
     }
 
-    d3.json("json/TBchangeInCases2006to2012.json", function(root) {
+    d3.json("/data/json/TBchangeInCases2006to2012.json", function(root) {
       console.log(root)
       initialize(root);
       accumulate(root);
