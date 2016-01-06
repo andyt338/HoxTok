@@ -52,8 +52,16 @@
 							if(d.week==week){
 								return {label:d.name, value:d.rec, color:returnColor(d)};
 							}
+							else if (week > 17){
+								week = 1;
+								return {label:d.name, value:d.rec, color:returnColor(d)};
+							}
+							else if (week == 9){ /* bye week */
+								week = 10;
+								return {label:d.name, value:d.rec, color:returnColor(d)};
+							}
 							else {
-								return {label:"", value:0};
+								return {label:"", value:0, color:returnColor(d)};
 							}
 						});
 					}
@@ -81,8 +89,8 @@
 
 					function changeData(){
 						Donut3D.transition("receivingDonut", selectData(), 130, 100, 30, 0.4);
-						week++;					
 						/*Donut3D.transition("quotesDonut", selectData(), 130, 100, 30, 0);*/
+						week++;
 					}
 					
 					d3.tsv("/data/receiving_data/seahawks_receiving.txt", function(data) {
