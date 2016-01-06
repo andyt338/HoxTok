@@ -61,10 +61,35 @@
 
 						function randomData(){
 							return data.map(function(d){ 
-								/*if(d.week=="1"){*/
-									return {label:d.name, value:d.rec};
-								/*}*/
+								if(d.week=="1"){
+									return {label:d.name, value:d.rec, color:returnColor(d)};
+								}
+								else {
+									return {label:"", value:0};
+								}
 							});
+						}
+
+						function returnColor(d){
+							if (d.name=="J. Kearse") return "#DC3912";
+							else if (d.name=="J. Graham") return "#3366CC";
+							else if (d.name=="D. Baldwin") return "#FF9900";
+							else if (d.name=="T. Lockett") return "#109618";
+							else if (d.name=="M. Lynch") return "#990099";
+							else if (d.name=="F. Jackson") return "#809fff";
+							else if (d.name=="C. Matthews") return "#000d33";
+							else if (d.name=="L. Willson") return "#99ff99";
+							else if (d.name=="D. Coleman") return "#003300";
+							else if (d.name=="B. Daniels") return "#ff9999";
+							else if (d.name=="R. Lockette") return "#ff99ff";
+							else if (d.name=="P. Richardson") return "#4d004c";
+							else if (d.name=="C. Helfet") return "#ffff80";
+							else if (d.name=="K. Smith") return "#4c4d00";
+							else if (d.name=="C. Michael") return "#99ffff";
+							else if (d.name=="C. Coffman") return "#006666";
+							else if (d.name=="K. Williams") return "#ffcc99";
+							else if (d.name=="W. Tukuafu") return "#4d2600";
+
 						}
 					});
 					
