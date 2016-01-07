@@ -39,20 +39,25 @@
 			<div class="container">
 				<h2 style="color:white">Seahawks</h2>
 				<h4>Offense - Receiving</h4>
-				<div id="donut3d" style="margin:auto"></div>
-				<div>
-				<p id="displayWeek"></p>
-				<button onClick="changeData()">Change Data</button>
 				<br></br>
-				<form>
-				  	<select id="category" style="width:95px; margin:auto; color:white; background:black;border-color:white">
-				    	<option value="rec">rec</option>
-				    	<option value="yds">yds</option>
-				    	<option value="td">td</option>
-				    	<option value="lg">lg</option>
-				  	</select>
-				</form>
+				<div id="donut3d" style="float:left; padding-left:30%"></div>
+				<div style="float:left; padding-left:5%">
+					<p id="displayWeek"></p>
+					<button onClick="changeData()">Change Data</button>
+					<br></br>
+					<form>
+					  	<select id="category" style="width:95px; margin:auto; color:black; background:white; border-color:black">
+					    	<option value="rec">rec</option>
+					    	<option value="yds">yds</option>
+					    	<option value="td">td</option>
+					    	<option value="lg">lg</option>
+					  	</select>
+					</form>
 				</div>
+				<br></br>
+				<br></br>
+				<br></br>
+				<br></br>
 				<script src="/js/Donut3D.js"></script>
 				<script>
 					var week = 1;
