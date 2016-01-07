@@ -13,6 +13,9 @@
 		<script src="/js/init.js"></script>
 		<script src="//d3js.org/d3.v3.min.js"></script>
 		<script src="//d3js.org/topojson.v1.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  		<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 		<style>
 			@import url(/css/style.css?aea6f0a);
 		</style>
@@ -25,7 +28,7 @@
 
 	<body class="wrapper style3 special">
 		<header id="header">
-			<h1><strong><a href="/index.html#">HoxTok</a></strong></h1>
+			<h3 style="padding-left:1.2%; padding-top:1.2%"><strong><a href="/index.html#">HoxTok</a></strong></h3>
 			<nav id="nav">
 				<ul>
 					<li><a href="/index.html#">Home</a></li>
@@ -41,17 +44,20 @@
 				<h4>Offense - Receiving</h4>
 				<br></br>
 				<div id="donut3d" style="float:left; padding-left:30%"></div>
-				<div style="float:left; padding-left:5%">
+				<div style="float:left; padding-left:5%; padding-top:5%">
 					<p id="displayWeek"></p>
-					<button onClick="changeData()">Change Data</button>
+					<button class="btn btn-primary" onClick="changeData()">Next Week</button>
 					<br></br>
-					<form>
-					  	<select id="category" style="width:95px; margin:auto; color:black; background:white; border-color:black">
-					    	<option value="rec">rec</option>
-					    	<option value="yds">yds</option>
-					    	<option value="td">td</option>
-					    	<option value="lg">lg</option>
-					  	</select>
+					<form role="form">
+				    	<div class="form-group">
+				      		<label for="category">Select list (select one):</label>
+						  	<select class="form-control" id="category" style="width:98.7344px; margin:auto; color:black; background:white; border-color:black">
+						    	<option value="rec">rec</option>
+						    	<option value="yds">yds</option>
+						    	<option value="td">td</option>
+						    	<option value="lg">lg</option>
+						  	</select>
+						</div>
 					</form>
 				</div>
 				<br></br>
@@ -64,6 +70,10 @@
 					var stats;
 					var e = document.getElementById("category");
 					var cat = e.options[e.selectedIndex].value;
+
+					$('#demolist li').on('click', function(){
+					    $('#datebox').val($(this).text());
+					});
 
 					function selectData(){
 						return stats.map(function(d){
