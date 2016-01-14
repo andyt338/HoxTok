@@ -1,0 +1,67 @@
+week1	name	att	yds	td	lg
+1	A. Ellington	12	69	1	18
+1	C. Johnson	10	37	0	12
+1	C. Palmer	3	14	0	12
+2	C. Johnson	20	72	0	8
+2	D. Johnson	5	42	1	14
+2	K. Williams	1	3	0	3
+2	C. Palmer	2	-2	0	-1
+3	C. Johnson	22	110	2	30
+3	D. Johnson	7	25	0	8
+3	S. Taylor	4	6	0	2
+3	C. Palmer	1	1	0	1
+3	D. Stanton	3	-3	0	-1
+4	C. Johnson	16	83	0	21
+4	D. Johnson	3	18	0	12
+4	Jo. Brown	1	13	0	13
+4	C. Palmer	1	-1	0	-1
+5	C. Johnson	11	103	0	40
+5	A. Ellington	3	63	1	63
+5	S. Taylor	4	19	0	16
+5	D. Johnson	3	6	2	4
+5	C. Palmer	1	-1	0	-1
+5	D. Stanton	3	-3	0	-1
+6	C. Johnson	14	40	0	11
+6	D. Johnson	3	9	0	8
+6	A. Ellington	1	7	0	7
+6	C. Palmer	2	-1	0	0
+7	C. Johnson	18	122	1	62
+7	A. Ellington	5	21	0	6
+7	D. Johnson	3	5	0	6
+7	C. Palmer	2	2	0	3
+8	C. Johnson	30	109	0	13
+8	C. Palmer	3	6	0	8
+8	D. Johnson	1	4	0	4
+8	A. Ellington	3	0	0	3
+8	J. Nelson	1	0	0	0
+10	A. Ellington	5	61	1	48
+10	C. Johnson	25	58	0	8
+10	C. Palmer	3	-2	0	0
+11	C. Johnson	18	63	3.5	0	9
+11	J. Brown	2	9	4.5	0	6
+11	D. Johnson	2	9	4.5	0	9
+11	A. Ellington	2	2	1.0	0	2
+11	C. Palmer	1	-1	-1.0	0	-1
+12	A. Ellington	5	24	0	13
+12	D. Johnson	8	21	1	10
+12	C. Johnson	12	17	0	6
+12	C. Palmer	3	6	1	8
+12	S. Taylor	1	2	0	2
+13	D. Johnson	22	99	0	23
+13	K. Williams	6	59	1	35
+13	S. Taylor	5	20	0	9
+13	D. Stanton	3	-3	0	-1
+14	D. Johnson	19	92	0	24
+14	C. Palmer	3	3	0	5
+14	K. Williams	6	2	0	7
+14	S. Taylor	1	0	0	0
+15	D. Johnson	29	187	3	47
+15	K. Williams	6	34	0	18
+15	S. Taylor	2	11	0	10
+15	D. Stanton	2	-2	0	-1
+16	K. Williams	8	44	0	19
+16	A. Ellington	7	40	0	16
+16	D. Johnson	9	39	1	14
+16	D. Stanton	2	-2	0	-1
+17	D. Johnson	11	25	0	5
+17	A. Ellington	2	2	0	3
