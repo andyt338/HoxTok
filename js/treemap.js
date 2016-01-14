@@ -130,7 +130,6 @@
     }
 
     d3.json("/data/json/TBchangeInCases2006to2012.json", function(root) {
-      console.log(root)
       initialize(root);
       accumulate(root);
       layout(root);

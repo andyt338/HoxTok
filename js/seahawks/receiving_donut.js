@@ -85,7 +85,7 @@ function changeData() {
 	}
 }
 
-d3.tsv("/data/receiving_data/seahawks_receiving.txt", function(data) {
+d3.tsv("/data/seahawks/receiving.txt", function(data) {
 	stats = data;
 	var svg = d3.select("#donut3d").append("svg").attr("width",300).attr("height",285);
 	svg.append("g").attr("id","receivingDonut");

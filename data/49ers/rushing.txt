@@ -1,0 +1,69 @@
+week1	name	att	yds	td	lg
+1	C. Hyde	26	168	2	18
+1	C. Kaepernick	7	41	0	12
+1	J. Hayne	4	13	0	9
+1	R. Bush	2	8	0	8
+2	C. Kaepernick	9	51	0	14
+2	C. Hyde	13	43	0	10
+2	M. Davis	7	14	0	5
+2	J. Hayne	2	3	0	2
+3	C. Hyde	15	51	0	14
+3	C. Kaepernick	7	46	1	12
+3	M. Davis	7	6	0	4
+4	C. Kaepernick	10	57	0	12
+4	C. Hyde	8	20	0	7
+4	R. Bush	1	0	0	0
+5	C. Hyde	21	93	1	22
+5	C. Kaepernick	3	23	0	15
+5	J. Hayne	2	9	0	8
+5	R. Bush	1	-1	0	-1
+6	C. Hyde	21	55	0	14
+6	C. Kaepernick	3	10	0	7
+6	M. Davis	1	0	0	0
+7	C. Hyde	11	40	0	13
+7	R. Bush	4	21	0	9
+8	C. Kaepernick	6	28	0	9
+8	K. Gaskins	5	6	0	3
+8	M. Davis	10	4	0	5
+9	S. Draughn	16	58	0	30
+9	B. Gabbert	8	32	0	10
+9	K. Gaskins	7	20	0	8
+9	P. Thomas	4	12	0	4
+9	B. Ellington	1	7	0	7
+9	B. Miller	2	4	0	3
+11	S. Draughn	12	37	0	9
+11	B. Gabbert	4	22	0	10
+12	S. Draughn	15	51	0	19
+12	B. Gabbert	1	11	0	11
+12	Q. Patton	1	5	0	5
+13	B. Gabbert	6	75	1	44
+13	S. Draughn	13	36	1	7
+13	T. Cadet	3	6	0	3
+13	B. Miller	1	4	0	4
+14	S. Draughn	11	43	0	15
+14	B. Gabbert	3	19	0	11
+14	T. Cadet	2	6	0	4
+14	B. Miller	1	3	0	3
+15	S. Draughn	9	38	0	14
+15	B. Gabbert	2	10	0	6
+15	T. Cadet	2	4	0	2
+15	B. Miller	2	3	1	2
+15	K. Gaskins	2	0	0	0
+16	D. Harris	11	73	0	25
+16	J. Hayne	9	27	0	11
+16	K. Gaskins	2	12	0	14
+16	B. Gabbert	1	9	0	9
+17	D. Harris	16	67	0	47
+17	M. Davis	10	34	0	13
+17	B. Gabbert	7	7	0	9
+
+
+
+
+
+
+
+
+
+
+
