@@ -1,0 +1,84 @@
+Passing	CP/AT	YDS	TD	INT
+J. Flacco	18/32	117	0	2
+Rushing	ATT	YDS	TD	LG
+J. Forsett	14	43	0	20
+J. Allen	9	30	0	8
+Receiving	REC	YDS	TD	LG
+M. Brown	2	25	0	22
+C. Gillmore	2	23	0	14
+K. Juszczyk	4	17	0	9
+M. Williams	1	15	0	15
+J. Forsett	4	13	0	7
+S. Smith	2	13	0	10
+M. Campanaro	1	8	0	8
+J. Allen	1	4	0	4
+K. Aiken	1	-1	0	-1
+Fumbles	FUM	LOST	REC	YDS
+Kicking	FG	LG	XP	PTS
+J. Tucker	2/2	52	1/1	7
+Punting	NO	AVG	I20	LG
+S. Koch	6	48.3	2	59
+Kickoff Returns	NO	AVG	TD	LG
+N. Boyle	1	10	0	10
+Punt Returns	NO	AVG	TD	LG
+S. Smith	2	16	0	22
+Defense	T-A	SCK	INT	FF
+J. Smith	8-0	0.0	1	0
+B. Williams	6-1	0.0	0	0
+K. Arrington	4-0	0.0	0	0
+W. Hill	4-1	0.0	0	0
+C. Mosley	4-1	2.0	0	0
+L. Guy	3-0	0.0	0	0
+L. Webb	3-0	0.0	0	0
+C. Canty	2-0	1.0	0	0
+C. Davis	2-1	0.0	0	0
+E. Dumervil	2-0	0.0	0	0
+K. Lewis-Moore	2-0	0.0	0	0
+D. Smith	2-4	0.0	0	0
+C. Upshaw	2-1	0.0	0	0
+K. Lewis	1-0	0.0	0	0
+A. McClellan	1-1	1.0	0	0
+
+Passing	CP/AT	YDS	TD	INT
+J. Flacco	32/45	384	2	1
+Rushing	ATT	YDS	TD	LG
+J. Forsett	15	68	0	16
+L. Taliaferro	7	34	1	7T
+J. Allen	1	5	0	5
+J. Flacco	2	2	0	2
+Receiving	REC	YDS	TD	LG
+S. Smith	10	150	0	37
+K. Aiken	5	89	0	38
+C. Gillmore	5	88	2	38
+M. Brown	2	12	0	7
+J. Forsett	4	12	0	7
+L. Taliaferro	3	12	0	6
+K. Juszczyk	1	11	0	11
+M. Williams	1	8	0	8
+J. Allen	1	2	0	2
+Fumbles	FUM	LOST	REC	YDS
+K. Aiken	1	1	0	0
+Kicking	FG	LG	XP	PTS
+J. Tucker	4/4	37	3/3	15
+Punting	NO	AVG	I20	LG
+S. Koch	2	43.5	1	46
+Kickoff Returns	NO	AVG	TD	LG
+M. Campanaro	1	29	0	29
+Punt Returns	NO	AVG	TD	LG
+Defense	T-A	SCK	INT	FF
+C. Mosley	8-1	0.0	0	0
+D. Smith	7-1	0.0	0	0
+J. Smith	5-0	1.0	0	0
+L. Webb	5-0	0.0	0	0
+K. Arrington	3-2	0.0	0	0
+L. Guy	3-1	0.0	0	0
+W. Hill	3-1	0.0	1	0
+E. Dumervil	2-0	0.0	0	0
+A. McClellan	2-0	0.0	0	0
+K. Lewis	1-2	0.0	0	0
+Z. Smith	1-0	0.0	0	0
+C. Upshaw	1-1	0.0	0	0
+B. Williams	1-0	0.0	0	0
+
+
+

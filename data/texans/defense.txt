@@ -1,0 +1,94 @@
+Passing	CP/AT	YDS	TD	INT
+B. Hoyer	18/34	236	1	1
+R. Mallett	8/13	98	1	0
+Rushing	ATT	YDS	TD	LG
+A. Blue	9	42	0	11
+J. Grimes	6	28	0	21
+C. Polk	5	22	0	13
+R. Mallett	1	6	0	6
+Receiving	REC	YDS	TD	LG
+N. Washington	6	105	0	32
+D. Hopkins	9	98	2	17
+C. Shorts	4	57	0	20
+K. Mumphery	2	23	0	17
+R. Griffin	1	18	0	18
+C. Fiedorowicz	1	15	0	15
+C. Polk	1	9	0	9
+A. Blue	1	7	0	7
+J. Grimes	1	2	0	2
+Fumbles	FUM	LOST	REC	YDS
+B. Hoyer	1	1	0	0
+K. Mumphery	1	0	1	0
+J. Clowney	0	0	0	0
+Kicking	FG	LG	XP	PTS
+R. Bullock	2/2	47	0/1	6
+Punting	NO	AVG	I20	LG
+S. Lechler	7	32.6	1	57
+Kickoff Returns	NO	AVG	TD	LG
+Punt Returns	NO	AVG	TD	LG
+K. Mumphery	4	3	0	8
+Defense	T-A	SCK	INT	FF
+J. Watt	9-0	2.0	0	0
+B. Cushing	6-4	0.0	0	0
+K. Jackson	6-0	0.0	0	0
+Q. Demps	4-1	0.0	0	0
+J. Joseph	4-0	0.0	0	0
+J. Clowney	3-1	0.0	0	1
+J. Crick	3-0	0.0	0	0
+A. Dent	3-1	0.0	0	0
+J. Simon	2-2	0.0	0	0
+A. Bouye	1-0	0.0	0	0
+A. Hal	1-0	0.0	0	0
+K. Johnson	1-0	0.0	0	0
+W. Mercilus	1-1	0.0	0	0
+R. Moore	1-2	0.0	0	0
+E. Pleasant	1-0	0.0	0	0
+
+Passing	CP/AT	YDS	TD	INT
+R. Mallett	27/58	244	1	1
+Rushing	ATT	YDS	TD	LG
+C. Polk	14	38	0	13
+J. Grimes	2	7	0	4
+A. Blue	5	6	0	4
+R. Mallett	1	6	1	6T
+J. Prosch	1	4	0	4
+Receiving	REC	YDS	TD	LG
+N. Washington	3	63	0	48
+D. Hopkins	5	53	0	16
+J. Grimes	6	40	0	14
+C. Shorts	6	34	0	16
+C. Fiedorowicz	1	19	0	19
+C. Worthy	2	15	0	12
+C. Polk	2	9	0	6
+G. Graham	1	7	1	7T
+A. Blue	1	4	0	4
+Fumbles	FUM	LOST	REC	YDS
+R. Moore	1	0	0	0
+J. Tuggle	0	0	1	0
+Kicking	FG	LG	XP	PTS
+R. Bullock	1/1	43	2/2	5
+Punting	NO	AVG	I20	LG
+S. Lechler	8	43.0	3	60
+Kickoff Returns	NO	AVG	TD	LG
+C. Worthy	1	27	0	27
+Punt Returns	NO	AVG	TD	LG
+K. Mumphery	6	9	0	15
+Defense	T-A	SCK	INT	FF
+B. Cushing	4-3	0.0	0	0
+J. Joseph	4-1	0.0	0	0
+J. Watt	4-1	1.0	0	0
+J. Crick	3-4	0.0	0	0
+K. Jackson	3-1	0.0	0	0
+R. Moore	3-0	0.0	1	0
+J. Tuggle	3-1	0.0	0	0
+J. Clowney	2-0	0.0	0	0
+Q. Demps	2-6	0.5	0	0
+K. Johnson	2-0	0.0	0	0
+W. Mercilus	2-2	0.0	0	0
+A. Dent	1-1	0.0	0	0
+B. McKinney	1-1	0.0	0	0
+E. Pleasant	0-1	0.5	0	0
+V. Wilfork	0-2	0.0	0	0
+
+
+

@@ -1,0 +1,87 @@
+Passing	CP/AT	YDS	TD	INT
+A. Luck	26/49	243	2	2
+Rushing	ATT	YDS	TD	LG
+F. Gore	8	31	0	9
+A. Luck	4	20	0	11
+J. Robinson	4	11	0	7
+T. Varga	1	2	0	2
+Receiving	REC	YDS	TD	LG
+T. Hilton	7	88	0	30
+D. Moncrief	6	46	1	15
+P. Dorsett	2	45	0	29
+A. Johnson	4	24	0	9
+T. Varga	1	18	0	18
+D. Allen	3	17	1	8
+C. Fleener	1	5	0	5
+F. Gore	2	0	0	2
+Fumbles	FUM	LOST	REC	YDS
+P. Dorsett	2	1	1	0
+D. Butler	0	0	0	0
+Kicking	FG	LG	XP	PTS
+A. Vinatieri	0/1	0	0/0	0
+Punting	NO	AVG	I20	LG
+P. McAfee	4	42.8	0	48
+Kickoff Returns	NO	AVG	TD	LG
+T. Varga	2	26	0	30
+D. Moncrief	1	5	0	5
+Punt Returns	NO	AVG	TD	LG
+P. Dorsett	2	0	0	1
+G. Whalen	0	0	0	0
+Defense	T-A	SCK	INT	FF
+H. Anderson	8-1	0.0	0	0
+D. Jackson	5-4	0.0	0	0
+D. Lowery	5-1	0.0	0	0
+D. Butler	4-4	0.0	0	1
+J. Freeman	4-2	0.0	0	0
+M. Adams	3-1	0.0	0	0
+K. Langford	3-0	0.0	0	0
+E. Walden	3-3	0.0	0	0
+J. Brown	2-0	0.0	0	0
+C. Geathers	2-0	0.0	0	0
+Z. Kerr	1-2	0.0	0	0
+D. Parry	1-0	0.0	0	0
+T. Cole	0-1	0.0	0	0
+
+Passing	CP/AT	YDS	TD	INT
+A. Luck	21/37	250	1	3
+Rushing	ATT	YDS	TD	LG
+F. Gore	15	57	0	18
+A. Luck	4	24	0	10
+J. Robinson	5	12	0	8
+Receiving	REC	YDS	TD	LG
+D. Moncrief	7	122	1	30
+T. Hilton	4	45	0	27
+A. Johnson	3	27	0	12
+J. Robinson	5	27	0	9
+P. Dorsett	1	25	0	25
+F. Gore	1	4	0	4
+Fumbles	FUM	LOST	REC	YDS
+F. Gore	1	1	0	0
+A. Luck	1	1	0	0
+D. Jackson	0	0	0	0
+Kicking	FG	LG	XP	PTS
+A. Vinatieri	0/1	0	1/1	1
+Punting	NO	AVG	I20	LG
+P. McAfee	3	49.7	1	57
+Kickoff Returns	NO	AVG	TD	LG
+T. Varga	4	24	0	27
+Punt Returns	NO	AVG	TD	LG
+G. Whalen	0	0	0	0
+Defense	T-A	SCK	INT	FF
+D. Jackson	6-3	0.0	0	1
+J. Brown	5-1	0.0	0	0
+D. Lowery	4-2	0.0	0	0
+M. Adams	3-1	0.0	1	0
+H. Anderson	3-2	1.0	0	0
+J. Freeman	3-7	0.0	0	0
+T. Cole	2-2	0.0	0	0
+V. Davis	2-0	0.0	0	0
+E. Patterson	2-0	0.0	0	0
+E. Walden	2-0	0.0	0	0
+C. Geathers	1-1	0.0	0	0
+R. Mathis	1-0	0.0	0	0
+D. Parry	1-2	0.0	0	0
+S. Price	1-0	0.0	0	0
+K. Langford	0-3	0.0	0	0
+B. Winn	0-2	0.0	0	0
+

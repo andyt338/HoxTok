@@ -1,0 +1,90 @@
+week	Kansas City Chiefs (1-0-0)		Houston Texans (0-1-0)		
+1	Passing	CP/AT	YDS	TD	INT
+1	A. Smith	22/33	243	3	0
+1	Rushing	ATT	YDS	TD	LG
+1	J. Charles	16	57	0	13
+1	K. Davis	6	16	0	10
+1	A. Smith	9	15	0	5
+1	D. Thomas	1	9	0	9
+1	Receiving	REC	YDS	TD	LG
+1	T. Kelce	6	106	2	42T
+1	J. Maclin	5	52	0	20
+1	J. Charles	5	46	1	17
+1	A. Wilson	3	25	0	13
+1	K. Davis	1	12	0	12
+1	D. Thomas	1	2	0	2
+1	A. Sherman	1	0	0	0
+1	Fumbles	FUM	LOST	REC	YDS
+1	J. Charles	1	0	0	0
+1	D. Thomas	1	0	1	0
+1	A. Bailey	0	0	1	0
+1	J. Houston	0	0	0	0
+1	Kicking	FG	LG	XP	PTS
+1	C. Santos	2/3	48	3/3	9
+1	Punting	NO	AVG	I20	LG
+1	D. Colquitt	7	36.1	4	56
+1	Kickoff Returns	NO	AVG	TD	LG
+1	K. Davis	1	30	0	30
+1	Punt Returns	NO	AVG	TD	LG
+1	D. Thomas	5	16	0	19
+1	Defense	T-A	SCK	INT	FF
+1	J. Fleming	7-0	0.0	0	0
+1	H. Abdullah	6-1	0.0	0	0
+1	D. Johnson	6-2	1.0	0	0
+1	M. Peters	5-2	0.0	1	0
+1	A. Bailey	3-1	2.0	0	0
+1	J. Houston	3-0	1.0	0	1
+1	E. Berry	2-0	0.0	0	0
+1	D. Ford	2-0	0.0	0	0
+1	T. Hali	2-1	0.0	0	0
+1	J. Howard	2-3	1.0	0	0
+1	J. Mauga	2-3	0.0	0	0
+1	R. Parker	2-2	0.0	0	0
+1	D. Poe	1-1	0.0	0	0
+1	T. Branch	0-1	0.0	0	0
+1	Total First Downs	19
+1	By Rushing	7
+1	By Passing	12
+1	By Penalty	
+1	Third Down Efficiency	3/13 - 23%
+1	Fourth Down Efficiency	0/0 - 0%
+1	Total Net Yards	330
+1	Total Rushing/Passing Plays (includes Sacks)	67
+1	Average Gain per Offensive Play	4.9
+1	Net Yards Rushing	97
+1	Total Rushing Plays	32
+1	Average Gain per Rushing Play	3.0
+1	Tackled for a Loss (Number-Yards)	5--9
+1	Net Yards Passing	233
+1	Times Sacked (Number-Yards)	2 - 10
+1	Gross Yards Passing	243
+1	Pass Comp-Att-Int	22 - 33 - 0
+1	Average Gain per Passing Play (includes Sacks)	6.7
+1	Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 6
+1	Punts (Number-Average)	7 - 43.9
+1	Blocked	0
+1	Net Punting Average	36.1
+1	FGs Blocked - PATs Blocked	0 - 0
+1	Total Return Yardage (excludes Kickoffs)	81
+1	Punt Returns (Number-Yards)	5 - 81
+1	Kickoff Returns (Number-Yards)	1 - 30
+1	Interception Returns (Number-Yards)	1 - 0
+1	Penalties (Number-Yards)	2 - 25
+1	Fumbles (Number-Lost)	2 - 0
+1	Touchdowns	3
+1	Rushing	0
+1	Passing	3
+1	Interceptions	0
+1	Kickoff Returns	0
+1	Fumble Returns	0
+1	Punt Returns	0
+1	Extra Points (Made-Attempted)	3 - 3
+1	Kicking (Made-Attempted)	3 - 3
+1	Two Point Conversions (Made-Attempted)	0 - 0
+1	Field Goals (Made-Attempted)	2 - 3
+1	Red Zone Efficiency	2/3 - 66%
+1	Goal To Go Efficiency	1/1 - 100%
+1	Safeties	0
+1	Final Score	27
+1	Time of Possession	35:19
+

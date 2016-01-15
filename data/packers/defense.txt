@@ -1,0 +1,82 @@
+Passing	CP/AT	YDS	TD	INT
+A. Rodgers	18/23	189	3	0
+Rushing	ATT	YDS	TD	LG
+E. Lacy	19	85	1	16
+A. Rodgers	8	35	0	15
+R. Rodgers	1	11	0	11
+J. Starks	2	2	0	3
+Receiving	REC	YDS	TD	LG
+D. Adams	4	59	0	25
+J. Jones	4	51	2	34
+R. Cobb	5	38	1	10
+R. Rodgers	3	27	0	20
+E. Lacy	2	14	0	9
+Fumbles	FUM	LOST	REC	YDS
+Kicking	FG	LG	XP	PTS
+M. Crosby	1/1	37	4/4	7
+Punting	NO	AVG	I20	LG
+T. Masthay	2	33.0	0	54
+Kickoff Returns	NO	AVG	TD	LG
+T. Montgomery	3	35	0	46
+A. Ripkowski	1	0	0	0
+Punt Returns	NO	AVG	TD	LG
+Defense	T-A	SCK	INT	FF
+C. Matthews	6-0	0.0	1	0
+N. Palmer	6-1	0.0	0	0
+S. Shields	6-1	0.0	0	0
+H. Clinton-Dix	5-1	0.0	0	0
+M. Hyde	4-0	0.0	0	0
+J. Peppers	4-2	1.5	0	0
+C. Hayward	3-0	0.0	0	0
+S. Richardson	3-0	0.0	0	0
+J. Elliott	2-0	0.0	0	0
+B. Raji	2-2	0.5	0	0
+S. Barrington	1-0	0.0	0	0
+J. Boyd	1-0	0.0	0	0
+M. Neal	1-1	0.0	0	0
+D. Randall	1-0	0.0	0	0
+M. Daniels	0-1	0.0	0	0
+M. Pennel	0-1	0.0	0	0
+
+Passing	CP/AT	YDS	TD	INT
+A. Rodgers	25/33	249	2	0
+Rushing	ATT	YDS	TD	LG
+J. Starks	20	95	0	35
+A. Rodgers	6	23	0	9
+E. Lacy	3	9	0	8
+Receiving	REC	YDS	TD	LG
+R. Cobb	8	116	0	25
+T. Montgomery	4	37	0	17
+D. Adams	5	33	0	13
+J. Jones	1	29	1	29T
+R. Rodgers	3	23	1	9
+J. Starks	4	11	0	6
+Fumbles	FUM	LOST	REC	YDS
+J. Elliott	1	0	1	0
+J. Starks	1	1	0	0
+M. Hyde	0	0	1	0
+Kicking	FG	LG	XP	PTS
+M. Crosby	4/4	54	1/1	13
+Punting	NO	AVG	I20	LG
+T. Masthay	3	39.0	0	49
+Kickoff Returns	NO	AVG	TD	LG
+T. Montgomery	1	19	0	19
+Punt Returns	NO	AVG	TD	LG
+M. Hyde	0	0	0	0
+Defense	T-A	SCK	INT	FF
+H. Clinton-Dix	7-2	0.0	0	0
+M. Hyde	6-0	0.0	0	0
+M. Burnett	3-0	0.0	0	0
+M. Daniels	3-2	1.0	0	0
+N. Palmer	3-1	0.0	0	0
+M. Pennel	3-0	0.0	0	0
+N. Perry	3-2	0.0	0	0
+C. Hayward	2-1	0.0	0	0
+D. Jones	2-0	0.0	0	0
+M. Neal	2-2	0.0	0	0
+B. Raji	2-0	0.0	0	0
+S. Shields	2-0	0.0	0	0
+J. Elliott	1-0	0.0	1	1
+C. Matthews	1-2	0.0	0	0
+J. Peppers	1-0	1.0	0	0
+

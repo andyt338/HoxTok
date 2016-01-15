@@ -1,0 +1,94 @@
+Passing	CP/AT	YDS	TD	INT
+A. Dalton	25/34	269	2	0
+Rushing	ATT	YDS	TD	LG
+G. Bernard	8	63	0	28
+J. Hill	19	63	2	11
+A. Dalton	4	1	0	3
+Receiving	REC	YDS	TD	LG
+T. Eifert	9	104	2	31
+A. Green	5	63	0	30
+M. Sanu	2	34	0	28
+G. Bernard	6	25	0	14
+R. Burkhead	1	24	0	24
+M. Jones	2	19	0	12
+Fumbles	FUM	LOST	REC	YDS
+G. Atkins	0	0	0	0
+M. Johnson	0	0	1	0
+A. Jones	0	0	0	0
+Kicking	FG	LG	XP	PTS
+M. Nugent	2/2	35	3/4	9
+Punting	NO	AVG	I20	LG
+K. Huber	5	38.4	1	53
+Kickoff Returns	NO	AVG	TD	LG
+B. Tate	2	7	0	8
+Punt Returns	NO	AVG	TD	LG
+A. Jones	2	11	0	18
+B. Tate	0	0	0	0
+Defense	T-A	SCK	INT	FF
+A. Jones	10-0	0.0	0	1
+V. Rey	6-3	0.0	0	0
+R. Maualuga	4-3	0.0	0	0
+D. Dennard	3-0	0.0	0	0
+G. Atkins	2-0	1.0	0	1
+C. Carter	2-1	0.0	0	0
+L. Hall	2-1	0.0	0	0
+D. Kirkpatrick	2-0	0.0	0	0
+S. Williams	2-0	0.0	0	0
+C. Dunlap	1-1	1.0	0	0
+A. Hawk	1-3	0.0	0	0
+G. Iloka	1-1	0.0	0	0
+M. Johnson	1-0	0.0	0	0
+E. Lamur	1-1	0.0	0	0
+P. Dawson	0-1	0.0	0	0
+R. Nelson	0-0	0.0	1	0
+P. Sims	0-1	0.0	0	0
+
+Passing	CP/AT	YDS	TD	INT
+A. Dalton	16/26	214	3	0
+Rushing	ATT	YDS	TD	LG
+G. Bernard	20	123	0	26
+J. Hill	10	39	0	9
+A. Dalton	5	10	0	6
+M. Jones	1	3	0	3
+Receiving	REC	YDS	TD	LG
+T. Eifert	4	49	1	15
+M. Jones	2	48	1	45T
+A. Green	3	45	1	23
+J. Fisher	1	31	0	31
+G. Bernard	3	16	0	9
+M. Sanu	1	15	0	15
+R. Burkhead	1	8	0	8
+J. Hill	1	2	0	2
+Fumbles	FUM	LOST	REC	YDS
+J. Hill	2	2	0	-7
+C. Carter	0	0	1	0
+W. Gilberry	0	0	0	0
+E. Lamur	0	0	1	0
+Kicking	FG	LG	XP	PTS
+M. Nugent	1/2	21	3/3	6
+Punting	NO	AVG	I20	LG
+K. Huber	3	47.0	2	58
+Kickoff Returns	NO	AVG	TD	LG
+A. Jones	2	22	0	29
+B. Tate	1	29	0	29
+Punt Returns	NO	AVG	TD	LG
+B. Tate	2	14	0	17
+A. Jones	1	0	0	0
+Defense	T-A	SCK	INT	FF
+A. Jones	7-2	0.0	0	0
+D. Kirkpatrick	7-0	0.0	0	0
+G. Iloka	5-0	0.0	0	0
+L. Hall	4-0	0.0	0	0
+C. Dunlap	3-3	1.5	0	0
+W. Gilberry	2-1	1.0	0	1
+M. Johnson	2-1	0.0	0	0
+E. Lamur	2-0	0.0	0	0
+R. Maualuga	2-3	0.0	0	0
+R. Nelson	2-2	0.0	0	0
+V. Rey	2-2	0.0	1	0
+G. Atkins	0-3	1.0	0	0
+W. Clarke	0-1	0.5	0	0
+D. Peko	0-2	0.0	0	0
+
+
+

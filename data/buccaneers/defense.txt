@@ -1,0 +1,99 @@
+Passing	CP/AT	YDS	TD	INT
+J. Winston	16/33	210	2	2
+Rushing	ATT	YDS	TD	LG
+D. Martin	11	52	0	14
+J. Winston	6	18	0	8
+C. Sims	5	12	0	7
+B. Rainey	3	10	0	7
+J. Lane	1	0	0	0
+Receiving	REC	YDS	TD	LG
+A. Seferian-Jenkins	5	110	2	41T
+V. Jackson	4	51	0	18
+C. Sims	2	23	0	18
+A. Humphries	2	14	0	12
+R. Shepard	1	6	0	6
+B. Rainey	1	4	0	4
+D. Martin	1	2	0	2
+Fumbles	FUM	LOST	REC	YDS
+J. Winston	2	0	2	-7
+L. David	0	0	0	0
+G. Johnson	0	0	1	0
+H. Melton	0	0	0	0
+Kicking	FG	LG	XP	PTS
+K. Brindza	0/0	0	2/2	2
+Punting	NO	AVG	I20	LG
+J. Schum	4	43.5	0	56
+Kickoff Returns	NO	AVG	TD	LG
+B. Rainey	3	27	0	32
+Punt Returns	NO	AVG	TD	LG
+B. Rainey	2	8	0	19
+Defense	T-A	SCK	INT	FF
+C. Conte	5-0	0.0	0	0
+C. McDonald	4-0	0.0	0	0
+A. Verner	4-0	0.0	0	0
+K. Alexander	3-2	0.0	0	0
+L. David	3-2	0.0	0	1
+D. Lansanah	3-2	0.0	0	0
+G. McCoy	3-0	1.0	0	0
+B. McDougald	3-1	0.0	0	0
+D. Swearinger	3-1	0.0	0	0
+J. Banks	2-0	0.0	0	0
+J. Smith	2-0	1.0	0	0
+W. Gholston	1-0	0.0	0	0
+G. Johnson	1-0	0.0	0	0
+H. Melton	1-1	0.0	0	1
+S. Moore	1-0	0.0	0	0
+M. Wright	1-1	0.0	0	0
+T. Jennings	0-1	0.0	0	0
+
+Passing	CP/AT	YDS	TD	INT
+J. Winston	14/21	207	1	0
+Rushing	ATT	YDS	TD	LG
+D. Martin	21	78	0	20
+C. Sims	8	38	0	12
+J. Winston	6	23	1	9
+Receiving	REC	YDS	TD	LG
+L. Murphy	3	82	0	54
+V. Jackson	3	54	1	22
+A. Seferian-Jenkins	2	29	0	21
+D. Martin	2	20	0	16
+C. Sims	3	14	0	12
+B. Rainey	1	8	0	8
+Fumbles	FUM	LOST	REC	YDS
+D. Martin	1	1	0	0
+J. Winston	1	1	0	0
+C. Conte	0	0	0	0
+H. Melton	0	0	1	0
+S. Moore	0	0	0	0
+J. Smith	0	0	0	0
+D. Swearinger	0	0	1	12
+Kicking	FG	LG	XP	PTS
+K. Brindza	4/5	55	2/2	14
+Punting	NO	AVG	I20	LG
+J. Schum	3	38.7	1	40
+Kickoff Returns	NO	AVG	TD	LG
+B. Rainey	1	37	0	37
+Punt Returns	NO	AVG	TD	LG
+B. Rainey	3	11	0	18
+Defense	T-A	SCK	INT	FF
+K. Alexander	4-4	0.0	0	0
+C. Conte	4-0	0.0	1	1
+L. David	4-4	0.0	0	0
+T. Jennings	4-1	0.0	0	0
+C. McDonald	4-2	0.0	0	0
+J. Banks	3-1	0.0	0	0
+W. Gholston	3-3	0.0	0	0
+B. McDougald	3-1	0.0	0	0
+J. Smith	3-0	3.0	0	2
+A. Verner	3-0	0.0	0	0
+D. Lansanah	2-0	0.0	0	0
+G. McCoy	2-0	1.0	0	0
+S. Moore	2-0	0.0	0	1
+T. McDaniel	1-0	0.0	0	0
+D. Swearinger	1-0	0.0	0	0
+G. Johnson	0-2	0.0	0	0
+H. Melton	0-1	0.0	0	0
+K. Tandy	0-1	0.0	0	0
+
+
+

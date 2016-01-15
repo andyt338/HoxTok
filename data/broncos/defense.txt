@@ -1,0 +1,86 @@
+Passing	CP/AT	YDS	TD	INT
+P. Manning	24/40	175	0	1
+Rushing	ATT	YDS	TD	LG
+R. Hillman	12	41	0	11
+C. Anderson	12	29	0	6
+P. Manning	1	-1	0	-1
+Receiving	REC	YDS	TD	LG
+E. Sanders	8	65	0	18
+D. Thomas	7	60	0	11
+J. Norwood	2	25	0	15
+C. Anderson	4	19	0	8
+O. Daniels	2	5	0	9
+A. Caldwell	1	1	0	1
+Fumbles	FUM	LOST	REC	YDS
+Kicking	FG	LG	XP	PTS
+B. McManus	4/4	57	1/1	13
+Punting	NO	AVG	I20	LG
+B. Colquitt	5	45.4	2	62
+Kickoff Returns	NO	AVG	TD	LG
+Punt Returns	NO	AVG	TD	LG
+E. Sanders	3	6	0	13
+Defense	T-A	SCK	INT	FF
+B. Marshall	6-1	1.0	0	0
+D. Trevathan	6-3	0.0	0	0
+C. Harris	3-0	0.0	0	0
+M. Jackson	3-0	0.0	0	0
+D. Stewart	3-1	0.0	1	0
+V. Walker	3-0	0.0	0	0
+D. Bruton	2-1	0.0	0	0
+A. Talib	2-1	0.0	1	0
+D. Ware	2-0	1.0	0	0
+S. Williams	2-1	0.0	0	0
+D. Kilgo	1-1	0.0	0	0
+V. Miller	1-0	0.0	0	0
+C. Nelson	1-0	0.0	0	0
+A. Smith	1-1	0.0	0	0
+S. Barrett	0-1	0.0	0	0
+B. Roby	0-1	0.0	0	0
+
+Passing	CP/AT	YDS	TD	INT
+P. Manning	26/45	256	3	1
+Rushing	ATT	YDS	TD	LG
+R. Hillman	9	34	0	16
+C. Anderson	12	27	0	14
+E. Sanders	1	0	0	0
+Receiving	REC	YDS	TD	LG
+D. Thomas	8	116	0	22
+E. Sanders	8	87	2	19T
+O. Daniels	3	19	0	8
+J. Norwood	3	14	0	7
+V. Green	2	12	1	11
+A. Caldwell	1	6	0	6
+C. Anderson	1	2	0	2
+Fumbles	FUM	LOST	REC	YDS
+D. Bruton	0	0	0	0
+T. Davis	0	0	1	0
+B. Fowler	0	0	0	0
+B. Marshall	0	0	0	0
+B. Roby	0	0	1	21
+D. Stewart	0	0	1	0
+Kicking	FG	LG	XP	PTS
+B. McManus	1/1	54	4/4	7
+Punting	NO	AVG	I20	LG
+B. Colquitt	7	42.7	1	56
+Kickoff Returns	NO	AVG	TD	LG
+A. Caldwell	1	21	0	21
+Punt Returns	NO	AVG	TD	LG
+E. Sanders	0	0	0	0
+Defense	T-A	SCK	INT	FF
+D. Trevathan	7-0	0.0	0	0
+D. Bruton	4-0	1.0	0	1
+C. Harris	4-0	0.0	1	0
+B. Marshall	4-1	0.0	0	1
+V. Miller	4-0	1.0	0	0
+D. Stewart	4-0	0.0	0	0
+D. Ware	4-0	1.0	0	0
+M. Jackson	3-0	1.0	0	0
+A. Smith	3-0	1.0	0	0
+T. Ward	3-1	0.0	0	0
+D. Kilgo	2-0	0.0	0	0
+A. Talib	2-0	0.0	1	0
+S. Barrett	1-0	0.0	0	0
+S. Williams	1-0	0.0	0	0
+
+
+

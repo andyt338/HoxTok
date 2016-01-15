@@ -1,0 +1,98 @@
+Passing	CP/AT	YDS	TD	INT
+M. Stafford	19/30	246	2	2
+Rushing	ATT	YDS	TD	LG
+A. Abdullah	7	50	1	24T
+J. Bell	6	14	0	7
+Z. Zenner	2	6	0	4
+M. Stafford	1	-1	0	-1
+Receiving	REC	YDS	TD	LG
+E. Ebron	4	53	1	18T
+A. Abdullah	4	44	0	36
+C. Johnson	2	39	0	28
+T. Riddick	2	37	1	21T
+J. Bell	2	27	0	18
+G. Tate	4	24	0	11
+L. Moore	1	22	0	22
+Fumbles	FUM	LOST	REC	YDS
+A. Abdullah	1	0	1	0
+J. Jones	0	0	0	0
+S. Tulloch	0	0	1	0
+Kicking	FG	LG	XP	PTS
+M. Prater	0/0	0	4/4	4
+Punting	NO	AVG	I20	LG
+S. Martin	5	35.2	3	42
+Kickoff Returns	NO	AVG	TD	LG
+A. Abdullah	3	35	0	48
+Punt Returns	NO	AVG	TD	LG
+G. Tate	2	17	0	20
+Defense	T-A	SCK	INT	FF
+R. Mathis	8-1	0.0	0	0
+G. Quin	7-1	0.0	1	0
+J. Bynes	6-2	0.0	0	0
+S. Tulloch	6-0	0.0	0	0
+J. Wilson	6-1	0.0	0	0
+P. Hunt	4-1	1.0	0	0
+J. Ihedigbo	3-1	0.0	0	0
+J. Jones	3-1	0.0	0	1
+D. Slay	3-2	0.0	1	0
+D. Tapp	3-0	0.0	0	0
+E. Ansah	2-0	1.0	0	0
+Q. Diggs	2-0	0.0	0	0
+H. Ngata	2-0	0.0	0	0
+D. Taylor	2-2	0.0	0	0
+T. Walker	2-1	0.0	0	0
+T. Whitehead	1-0	0.0	0	0
+G. Wright	1-0	0.0	0	0
+J. Cudjo	0-1	0.0	0	0
+
+Passing	CP/AT	YDS	TD	INT
+M. Stafford	32/53	286	2	1
+Rushing	ATT	YDS	TD	LG
+M. Stafford	4	20	0	9
+A. Abdullah	6	9	0	7
+T. Riddick	1	5	0	5
+J. Bell	4	2	0	3
+M. Burton	1	2	0	2
+Receiving	REC	YDS	TD	LG
+C. Johnson	10	83	1	18
+G. Tate	6	80	0	19
+E. Ebron	5	43	1	16
+T. Riddick	5	41	0	11
+J. Bell	2	16	0	16
+L. Moore	3	14	0	7
+A. Abdullah	1	9	0	9
+Fumbles	FUM	LOST	REC	YDS
+L. Moore	1	1	0	0
+T. Riddick	1	1	0	0
+J. Ihedigbo	0	0	0	0
+J. Wilson	0	0	1	0
+Kicking	FG	LG	XP	PTS
+M. Prater	1/1	26	1/1	4
+Punting	NO	AVG	I20	LG
+S. Martin	4	34.5	2	53
+Kickoff Returns	NO	AVG	TD	LG
+A. Abdullah	3	28	0	32
+Punt Returns	NO	AVG	TD	LG
+G. Tate	1	2	0	2
+L. Moore	0	0	0	0
+Defense	T-A	SCK	INT	FF
+J. Ihedigbo	9-2	0.0	0	2
+E. Ansah	6-1	1.0	0	0
+R. Mathis	5-0	0.0	0	0
+G. Quin	5-0	0.0	0	0
+J. Bynes	4-1	0.0	0	0
+D. Slay	4-1	0.0	0	0
+J. Jones	3-0	0.0	0	0
+T. Lewis	3-0	0.0	0	0
+P. Hunt	2-0	0.0	0	0
+T. Whitehead	2-1	0.0	0	0
+J. Wilson	2-1	0.0	0	0
+G. Wright	2-0	0.0	0	0
+H. Ngata	1-1	0.0	0	0
+T. Walker	1-1	0.0	0	0
+I. Abdul-Quddus	0-1	0.0	0	0
+D. Tapp	0-1	0.0	0	0
+S. Tulloch	0-6	0.0	0	0
+
+
+

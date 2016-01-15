@@ -1,0 +1,90 @@
+Passing	CP/AT	YDS	TD	INT
+M. McGloin	23/31	142	2	1
+D. Carr	7/12	61	0	0
+Rushing	ATT	YDS	TD	LG
+L. Murray	11	44	0	12
+D. Carr	1	8	0	8
+J. Olawale	1	6	0	6
+T. Jones	3	5	0	4
+Receiving	REC	YDS	TD	LG
+A. Cooper	5	47	0	24
+M. Crabtree	5	37	0	11
+L. Murray	7	36	0	11
+M. Reece	3	26	2	11T
+J. Olawale	3	19	0	11
+T. Jones	1	13	0	13
+S. Roberts	3	12	0	7
+R. Streater	1	8	0	8
+M. Rivera	1	4	0	4
+C. Walford	1	1	0	1
+Fumbles	FUM	LOST	REC	YDS
+D. Carr	1	0	0	0
+M. McGloin	1	1	0	0
+Kicking	FG	LG	XP	PTS
+S. Janikowski	0/0	0	1/1	1
+Punting	NO	AVG	I20	LG
+M. King	6	36.2	2	48
+Kickoff Returns	NO	AVG	TD	LG
+T. Jones	2	30	0	33
+L. Smith	1	8	0	8
+Punt Returns	NO	AVG	TD	LG
+T. Carrie	3	9	0	11
+Defense	T-A	SCK	INT	FF
+L. Asante	7-1	0.0	0	0
+M. Smith	6-1	0.0	0	0
+T. Carrie	5-1	0.0	0	0
+C. Woodson	5-2	0.0	0	0
+D. Hayden	3-1	0.0	0	0
+K. Mack	3-1	0.0	0	0
+J. Tuck	3-2	0.0	0	0
+D. Williams	3-1	0.0	0	0
+R. Armstrong	2-1	0.0	0	0
+C. Lofton	1-1	0.0	0	0
+A. Smith	1-1	0.0	0	0
+N. Allen	0-1	0.0	0	0
+
+Passing	CP/AT	YDS	TD	INT
+D. Carr	30/46	351	3	1
+Rushing	ATT	YDS	TD	LG
+L. Murray	15	65	1	9
+D. Carr	2	23	0	24
+T. Jones	2	9	0	7
+Receiving	REC	YDS	TD	LG
+M. Crabtree	9	111	1	37
+A. Cooper	7	109	1	68T
+A. Holmes	3	50	0	21
+L. Murray	3	22	0	12
+M. Reece	1	16	0	16
+M. Rivera	3	15	0	7
+S. Roberts	1	12	1	12T
+T. Jones	1	6	0	6
+L. Smith	1	6	0	6
+C. Walford	1	4	0	4
+Fumbles	FUM	LOST	REC	YDS
+T. Carrie	0	0	0	0
+C. Lofton	0	0	1	0
+Kicking	FG	LG	XP	PTS
+S. Janikowski	3/3	48	4/4	13
+Punting	NO	AVG	I20	LG
+M. King	2	49.0	1	70
+Kickoff Returns	NO	AVG	TD	LG
+Punt Returns	NO	AVG	TD	LG
+T. Carrie	2	2	0	5
+Defense	T-A	SCK	INT	FF
+C. Lofton	7-6	0.0	0	0
+M. Smith	7-5	0.0	0	0
+D. Hayden	4-2	0.0	0	0
+T. Carrie	3-1	0.0	0	1
+N. Thorpe	3-1	0.0	1	0
+C. Woodson	3-1	0.0	0	0
+L. Asante	2-3	0.0	0	0
+D. Autry	2-0	0.0	0	0
+T. Mays	2-3	0.0	0	0
+J. Tuck	2-2	0.0	0	0
+C. Wilson	2-0	0.0	0	0
+R. Armstrong	1-1	0.0	0	0
+B. Heeney	1-0	0.0	0	0
+K. Mack	1-0	0.0	0	0
+S. McGee	1-0	0.0	0	0
+A. Smith	1-0	0.0	0	0
+

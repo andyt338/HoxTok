@@ -1,0 +1,90 @@
+week	Passing	CP/AT	YDS	TD	INT
+1	N. Foles	18/27	297	1	0
+1	Rushing	ATT	YDS	TD	LG
+1	B. Cunningham	16	45	0	9
+1	T. Austin	4	17	1	16T
+1	N. Foles	4	11	1	9
+1	I. Pead	2	3	0	4
+1	Receiving	REC	YDS	TD	LG
+1	J. Cook	5	85	0	30
+1	B. Cunningham	4	77	0	42
+1	S. Bailey	3	58	0	29
+1	L. Kendricks	2	42	1	37T
+1	K. Britt	2	37	0	21
+1	T. Austin	2	-2	0	7
+1	Fumbles	FUM	LOST	REC	YDS
+1	N. Foles	2	2	0	-4
+1	T. Austin	1	0	1	0
+1	I. Pead	1	1	0	0
+1	Kicking	FG	LG	XP	PTS
+1	G. Zuerlein	2/2	37	4/4	10
+1	Punting	NO	AVG	I20	LG
+1	J. Hekker	3	26.3	0	55
+1	Kickoff Returns	NO	AVG	TD	LG
+1	I. Pead	3	21	0	22
+1	Punt Returns	NO	AVG	TD	LG
+1	T. Austin	2	42	1	75T
+1	Defense	T-A	SCK	INT	FF
+1	L. Joyner	7-0	1.0	0	0
+1	A. Donald	5-4	2.0	0	0
+1	J. Jenkins	5-1	0.0	0	0
+1	A. Ogletree	5-2	0.0	0	0
+1	M. Roberson	5-0	0.0	0	0
+1	J. Laurinaitis	4-3	0.0	0	0
+1	W. Hayes	3-1	0.0	0	0
+1	T. Johnson	3-0	0.0	1	0
+1	T. McDonald	3-2	0.0	0	0
+1	R. McLeod	3-3	0.0	0	0
+1	R. Quinn	3-2	2.0	0	0
+1	A. Ayers	2-0	0.0	0	0
+1	M. Barron	2-3	0.0	0	0
+1	M. Brockers	1-6	0.0	0	0
+1	C. Long	1-2	0.0	0	0
+1	E. Sims	1-1	1.0	0	0
+1	N. Fairley	0-1	0.0	0	0
+week	Total First Downs	19
+1	By Rushing	5
+1	By Passing	13
+1	By Penalty	
+1	Third Down Efficiency	6/11 - 54%
+1	Fourth Down Efficiency	0/0 - 0%
+1	Total Net Yards	352
+1	Total Rushing/Passing Plays (includes Sacks)	55
+1	Average Gain per Offensive Play	6.4
+1	Net Yards Rushing	76
+1	Total Rushing Plays	26
+1	Average Gain per Rushing Play	2.9
+1	Tackled for a Loss (Number-Yards)	5--8
+1	Net Yards Passing	276
+1	Times Sacked (Number-Yards)	2 - 21
+1	Gross Yards Passing	297
+1	Pass Comp-Att-Int	18 - 27 - 0
+1	Average Gain per Passing Play (includes Sacks)	9.5
+1	Kickoffs (Number-In End Zone-Touchbacks)	7 - 7 - 5
+1	Punts (Number-Average)	3 - 47.3
+1	Blocked	0
+1	Net Punting Average	26.3
+1	FGs Blocked - PATs Blocked	0 - 0
+1	Total Return Yardage (excludes Kickoffs)	100
+1	Punt Returns (Number-Yards)	2 - 85
+1	Kickoff Returns (Number-Yards)	3 - 63
+1	Interception Returns (Number-Yards)	1 - 15
+1	Penalties (Number-Yards)	4 - 30
+1	Fumbles (Number-Lost)	4 - 3
+1	Touchdowns	4
+1	Rushing	2
+1	Passing	1
+1	Interceptions	0
+1	Kickoff Returns	0
+1	Fumble Returns	0
+1	Punt Returns	1
+1	Extra Points (Made-Attempted)	4 - 4
+1	Kicking (Made-Attempted)	4 - 4
+1	Two Point Conversions (Made-Attempted)	0 - 0
+1	Field Goals (Made-Attempted)	2 - 2
+1	Red Zone Efficiency	2/4 - 50%
+1	Goal To Go Efficiency	1/1 - 100%
+1	Safeties	0
+1	Final Score	34
+1	Time of Possession	28:32
+

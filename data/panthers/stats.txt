@@ -1,0 +1,88 @@
+week	Carolina Panthers (1-0-0)	
+1	Passing	CP/AT	YDS	TD	INT
+1	C. Newton	18/31	175	1	1
+1	Rushing	ATT	YDS	TD	LG
+1	J. Stewart	18	56	0	22
+1	C. Newton	14	35	0	10
+1	M. Tolbert	1	12	0	12
+1	F. Whittaker	2	2	0	2
+1	Receiving	REC	YDS	TD	LG
+1	T. Ginn	2	54	0	37
+1	J. Cotchery	4	45	1	24
+1	J. Stewart	4	25	0	9
+1	C. Brown	2	13	0	7
+1	G. Olsen	1	11	0	11
+1	E. Dickson	1	9	0	9
+1	D. Funchess	1	9	0	9
+1	M. Tolbert	1	6	0	6
+1	F. Whittaker	2	3	0	5
+1	Fumbles	FUM	LOST	REC	YDS
+1	J. Norman	0	0	1	0
+1	Kicking	FG	LG	XP	PTS
+1	G. Gano	2/4	47	2/2	8
+1	Punting	NO	AVG	I20	LG
+1	B. Nortman	4	37.5	2	56
+1	Kickoff Returns	NO	AVG	TD	LG
+1	Punt Returns	NO	AVG	TD	LG
+1	T. Ginn	3	15	0	37
+1	Defense	T-A	SCK	INT	FF
+1	T. Davis	7-0	1.0	1	0
+1	L. Kuechly	7-0	1.0	0	0
+1	A. Klein	6-0	0.0	0	0
+1	B. Benwikere	5-1	0.0	0	0
+1	J. Norman	4-1	0.0	1	1
+1	C. Tillman	4-0	0.0	0	0
+1	K. Coleman	3-0	0.0	0	0
+1	M. Addison	2-0	2.0	0	0
+1	C. Johnson	2-0	1.0	0	0
+1	K. Short	2-0	0.0	0	0
+1	R. Harper	1-0	0.0	0	0
+1	W. Horton	1-0	0.0	0	0
+1	K. Love	1-0	0.0	0	0
+1	Total First Downs	17
+1	By Rushing	6
+1	By Passing	10
+1	By Penalty	
+1	Third Down Efficiency	8/17 - 47%
+1	Fourth Down Efficiency	1/1 - 100%
+1	Total Net Yards	263
+1	Total Rushing/Passing Plays (includes Sacks)	68
+1	Average Gain per Offensive Play	3.9
+1	Net Yards Rushing	105
+1	Total Rushing Plays	35
+1	Average Gain per Rushing Play	3.0
+1	Tackled for a Loss (Number-Yards)	3--13
+1	Net Yards Passing	158
+1	Times Sacked (Number-Yards)	2 - 17
+1	Gross Yards Passing	175
+1	Pass Comp-Att-Int	18 - 31 - 1
+1	Average Gain per Passing Play (includes Sacks)	4.8
+1	Kickoffs (Number-In End Zone-Touchbacks)	5 - 5 - 4
+1	Punts (Number-Average)	4 - 44.8
+1	Blocked	0
+1	Net Punting Average	37.5
+1	FGs Blocked - PATs Blocked	1 - 0
+1	Total Return Yardage (excludes Kickoffs)	77
+1	Punt Returns (Number-Yards)	3 - 46
+1	Kickoff Returns (Number-Yards)	0 - 0
+1	Interception Returns (Number-Yards)	2 - 31
+1	Penalties (Number-Yards)	3 - 22
+1	Fumbles (Number-Lost)	0 - 0
+1	Touchdowns	2
+1	Rushing	0
+1	Passing	1
+1	Interceptions	1
+1	Kickoff Returns	0
+1	Fumble Returns	0
+1	Punt Returns	0
+1	Extra Points (Made-Attempted)	2 - 2
+1	Kicking (Made-Attempted)	2 - 2
+1	Two Point Conversions (Made-Attempted)	0 - 0
+1	Field Goals (Made-Attempted)	2 - 4
+1	Red Zone Efficiency	1/3 - 33%
+1	Goal To Go Efficiency	1/2 - 50%
+1	Safeties	0
+1	Final Score	20
+1	Time of Possession	34:06
+
+

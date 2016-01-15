@@ -1,0 +1,93 @@
+1	Passing	CP/AT	YDS	TD	INT
+1	J. Winston	16/33	210	2	2
+1	Rushing	ATT	YDS	TD	LG
+1	D. Martin	11	52	0	14
+1	J. Winston	6	18	0	8
+1	C. Sims	5	12	0	7
+1	B. Rainey	3	10	0	7
+1	J. Lane	1	0	0	0
+1	Receiving	REC	YDS	TD	LG
+1	A. Seferian-Jenkins	5	110	2	41T
+1	V. Jackson	4	51	0	18
+1	C. Sims	2	23	0	18
+1	A. Humphries	2	14	0	12
+1	R. Shepard	1	6	0	6
+1	B. Rainey	1	4	0	4
+1	D. Martin	1	2	0	2
+1	Fumbles	FUM	LOST	REC	YDS
+1	J. Winston	2	0	2	-7
+1	L. David	0	0	0	0
+1	G. Johnson	0	0	1	0
+1	H. Melton	0	0	0	0
+1	Kicking	FG	LG	XP	PTS
+1	K. Brindza	0/0	0	2/2	2
+1	Punting	NO	AVG	I20	LG
+1	J. Schum	4	43.5	0	56
+1	Kickoff Returns	NO	AVG	TD	LG
+1	B. Rainey	3	27	0	32
+1	Punt Returns	NO	AVG	TD	LG
+1	B. Rainey	2	8	0	19
+1	Defense	T-A	SCK	INT	FF
+1	C. Conte	5-0	0.0	0	0
+1	C. McDonald	4-0	0.0	0	0
+1	A. Verner	4-0	0.0	0	0
+1	K. Alexander	3-2	0.0	0	0
+1	L. David	3-2	0.0	0	1
+1	D. Lansanah	3-2	0.0	0	0
+1	G. McCoy	3-0	1.0	0	0
+1	B. McDougald	3-1	0.0	0	0
+1	D. Swearinger	3-1	0.0	0	0
+1	J. Banks	2-0	0.0	0	0
+1	J. Smith	2-0	1.0	0	0
+1	W. Gholston	1-0	0.0	0	0
+1	G. Johnson	1-0	0.0	0	0
+1	H. Melton	1-1	0.0	0	1
+1	S. Moore	1-0	0.0	0	0
+1	M. Wright	1-1	0.0	0	0
+1	T. Jennings	0-1	0.0	0	0
+1	Total First Downs	16
+1	By Rushing	4
+1	By Passing	11
+1	By Penalty	
+1	Third Down Efficiency	3/14 - 21%
+1	Fourth Down Efficiency	2/4 - 50%
+1	Total Net Yards	273
+1	Total Rushing/Passing Plays (includes Sacks)	63
+1	Average Gain per Offensive Play	4.3
+1	Net Yards Rushing	92
+1	Total Rushing Plays	26
+1	Average Gain per Rushing Play	3.5
+1	Tackled for a Loss (Number-Yards)	2--4
+1	Net Yards Passing	181
+1	Times Sacked (Number-Yards)	4 - 29
+1	Gross Yards Passing	210
+1	Pass Comp-Att-Int	16 - 33 - 2
+1	Average Gain per Passing Play (includes Sacks)	4.9
+1	Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 2
+1	Punts (Number-Average)	4 - 47.0
+1	Blocked	0
+1	Net Punting Average	43.5
+1	FGs Blocked - PATs Blocked	0 - 0
+1	Total Return Yardage (excludes Kickoffs)	17
+1	Punt Returns (Number-Yards)	2 - 17
+1	Kickoff Returns (Number-Yards)	3 - 83
+1	Interception Returns (Number-Yards)	0 - 0
+1	Penalties (Number-Yards)	12 - 97
+1	Fumbles (Number-Lost)	2 - 0
+1	Touchdowns	2
+1	Rushing	0
+1	Passing	2
+1	Interceptions	0
+1	Kickoff Returns	0
+1	Fumble Returns	0
+1	Punt Returns	0
+1	Extra Points (Made-Attempted)	2 - 2
+1	Kicking (Made-Attempted)	2 - 2
+1	Two Point Conversions (Made-Attempted)	0 - 0
+1	Field Goals (Made-Attempted)	0 - 0
+1	Red Zone Efficiency	1/2 - 50%
+1	Goal To Go Efficiency	1/2 - 50%
+1	Safeties	0
+1	Final Score	14
+1	Time of Possession	28:29
+

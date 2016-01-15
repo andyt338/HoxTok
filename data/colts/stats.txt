@@ -1,0 +1,90 @@
+week	Indianapolis Colts (0-1-0)
+1	Passing	CP/AT	YDS	TD	INT
+1	A. Luck	26/49	243	2	2
+1	Rushing	ATT	YDS	TD	LG
+1	F. Gore	8	31	0	9
+1	A. Luck	4	20	0	11
+1	J. Robinson	4	11	0	7
+1	T. Varga	1	2	0	2
+1	Receiving	REC	YDS	TD	LG
+1	T. Hilton	7	88	0	30
+1	D. Moncrief	6	46	1	15
+1	P. Dorsett	2	45	0	29
+1	A. Johnson	4	24	0	9
+1	T. Varga	1	18	0	18
+1	D. Allen	3	17	1	8
+1	C. Fleener	1	5	0	5
+1	F. Gore	2	0	0	2
+1	Fumbles	FUM	LOST	REC	YDS
+1	P. Dorsett	2	1	1	0
+1	D. Butler	0	0	0	0
+1	Kicking	FG	LG	XP	PTS
+1	A. Vinatieri	0/1	0	0/0	0
+1	Punting	NO	AVG	I20	LG
+1	P. McAfee	4	42.8	0	48
+1	Kickoff Returns	NO	AVG	TD	LG
+1	T. Varga	2	26	0	30
+1	D. Moncrief	1	5	0	5
+1	Punt Returns	NO	AVG	TD	LG
+1	P. Dorsett	2	0	0	1
+1	G. Whalen	0	0	0	0
+1	Defense	T-A	SCK	INT	FF
+1	H. Anderson	8-1	0.0	0	0
+1	D. Jackson	5-4	0.0	0	0
+1	D. Lowery	5-1	0.0	0	0
+1	D. Butler	4-4	0.0	0	1
+1	J. Freeman	4-2	0.0	0	0
+1	M. Adams	3-1	0.0	0	0
+1	K. Langford	3-0	0.0	0	0
+1	E. Walden	3-3	0.0	0	0
+1	J. Brown	2-0	0.0	0	0
+1	C. Geathers	2-0	0.0	0	0
+1	Z. Kerr	1-2	0.0	0	0
+1	D. Parry	1-0	0.0	0	0
+1	T. Cole	0-1	0.0	0	0
+1	Total First Downs	23
+1	By Rushing	5
+1	By Passing	16
+1	By Penalty	
+1	Third Down Efficiency	8/15 - 53%
+1	Fourth Down Efficiency	1/2 - 50%
+1	Total Net Yards	304
+1	Total Rushing/Passing Plays (includes Sacks)	68
+1	Average Gain per Offensive Play	4.5
+1	Net Yards Rushing	64
+1	Total Rushing Plays	17
+1	Average Gain per Rushing Play	3.8
+1	Tackled for a Loss (Number-Yards)	0-0
+1	Net Yards Passing	240
+1	Times Sacked (Number-Yards)	2 - 3
+1	Gross Yards Passing	243
+1	Pass Comp-Att-Int	26 - 49 - 2
+1	Average Gain per Passing Play (includes Sacks)	4.7
+1	Kickoffs (Number-In End Zone-Touchbacks)	3 - 2 - 2
+1	Punts (Number-Average)	4 - 44.3
+1	Blocked	0
+1	Net Punting Average	42.8
+1	FGs Blocked - PATs Blocked	0 - 0
+1	Total Return Yardage (excludes Kickoffs)	1
+1	Punt Returns (Number-Yards)	2 - 1
+1	Kickoff Returns (Number-Yards)	3 - 58
+1	Interception Returns (Number-Yards)	0 - 0
+1	Penalties (Number-Yards)	5 - 49
+1	Fumbles (Number-Lost)	2 - 1
+1	Touchdowns	2
+1	Rushing	0
+1	Passing	2
+1	Interceptions	0
+1	Kickoff Returns	0
+1	Fumble Returns	0
+1	Punt Returns	0
+1	Extra Points (Made-Attempted)	1 - 2
+1	Kicking (Made-Attempted)	0 - 0
+1	Two Point Conversions (Made-Attempted)	1 - 2
+1	Field Goals (Made-Attempted)	0 - 1
+1	Red Zone Efficiency	2/2 - 100%
+1	Goal To Go Efficiency	2/2 - 100%
+1	Safeties	0
+1	Final Score	14
+1	Time of Possession	29:04
+

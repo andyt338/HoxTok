@@ -1,0 +1,98 @@
+Passing	CP/AT	YDS	TD	INT
+J. Manziel	13/24	182	1	1
+J. McCown	5/8	49	0	0
+Rushing	ATT	YDS	TD	LG
+J. Manziel	5	35	0	14
+J. McCown	3	23	0	13
+D. Johnson	7	22	0	8
+I. Crowell	12	20	0	8
+S. Draughn	1	4	0	4
+Receiving	REC	YDS	TD	LG
+T. Benjamin	3	89	1	54T
+G. Barnidge	3	38	0	22
+A. Hawkins	3	24	0	11
+T. Gabriel	2	20	0	11
+B. Hartline	2	20	0	11
+M. Johnson	2	14	0	8
+I. Crowell	2	13	0	8
+J. Dray	1	13	0	13
+Fumbles	FUM	LOST	REC	YDS
+J. Manziel	2	2	0	0
+T. Gipson	1	1	0	0
+J. McCown	1	1	0	0
+Kicking	FG	LG	XP	PTS
+T. Coons	1/1	26	1/1	4
+Punting	NO	AVG	I20	LG
+A. Lee	2	54.0	0	61
+Kickoff Returns	NO	AVG	TD	LG
+S. Draughn	1	27	0	27
+Punt Returns	NO	AVG	TD	LG
+T. Benjamin	1	10	0	10
+Defense	T-A	SCK	INT	FF
+K. Dansby	4-3	0.0	0	0
+J. Haden	4-2	0.0	0	0
+D. Whitner	4-6	0.0	0	0
+T. Williams	3-1	0.0	0	0
+T. Gipson	2-3	0.0	1	0
+P. Kruger	2-2	0.0	0	0
+A. Bryant	1-2	0.0	0	0
+B. Mingo	1-1	0.0	0	0
+C. Robertson	1-3	0.0	0	0
+D. Shelton	1-1	0.0	0	0
+R. Starks	1-3	0.0	0	0
+K. Williams	1-1	0.0	0	0
+D. Bryant	0-4	0.0	0	0
+J. Hughes	0-1	0.0	0	0
+C. Kirksey	0-2	0.0	0	0
+J. Meder	0-2	0.0	0	0
+J. Poyer	0-2	0.0	0	0
+S. Solomon	0-1	0.0	0	0
+
+Passing	CP/AT	YDS	TD	INT
+J. Manziel	8/15	172	2	0
+Rushing	ATT	YDS	TD	LG
+I. Crowell	15	72	1	15
+D. Johnson	12	43	0	20
+J. Manziel	3	1	0	2
+Receiving	REC	YDS	TD	LG
+T. Benjamin	3	115	2	60T
+A. Hawkins	3	43	0	18
+G. Barnidge	1	17	0	17
+T. Gabriel	1	-3	0	-3
+Fumbles	FUM	LOST	REC	YDS
+J. Manziel	2	0	0	0
+A. Bryant	0	0	0	0
+J. Haden	0	0	1	0
+J. Hughes	0	0	0	0
+D. Johnson	0	0	1	0
+C. Kirksey	0	0	1	0
+C. Robertson	0	0	0	0
+M. Schwartz	0	0	1	0
+R. Starks	0	0	1	0
+K. Williams	0	0	0	0
+Kicking	FG	LG	XP	PTS
+T. Coons	0/0	0	4/4	4
+Punting	NO	AVG	I20	LG
+A. Lee	6	43.0	2	62
+Kickoff Returns	NO	AVG	TD	LG
+S. Draughn	1	31	0	31
+Punt Returns	NO	AVG	TD	LG
+T. Benjamin	6	25	1	78T
+Defense	T-A	SCK	INT	FF
+T. Gipson	5-3	0.0	0	0
+C. Robertson	5-3	0.0	0	1
+K. Dansby	4-4	0.0	0	0
+J. Haden	4-2	0.0	0	0
+D. Whitner	4-4	0.5	0	0
+T. Williams	4-1	0.0	0	0
+A. Bryant	3-3	2.5	0	1
+K. Williams	3-0	1.0	0	1
+C. Kirksey	2-0	0.0	0	0
+B. Mingo	2-1	0.0	0	0
+D. Shelton	2-2	0.0	0	0
+J. Hughes	1-3	1.5	0	1
+P. Kruger	1-1	0.5	0	0
+J. Meder	1-2	1.0	0	0
+R. Starks	1-1	0.0	0	0
+
+

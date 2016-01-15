@@ -1,0 +1,88 @@
+Passing	CP/AT	YDS	TD	INT
+J. Cutler	18/36	225	1	1
+Rushing	ATT	YDS	TD	LG
+M. Forte	24	141	1	23
+J. Cutler	4	31	0	12
+J. Rodgers	4	16	0	5
+J. Langford	1	1	0	1
+Receiving	REC	YDS	TD	LG
+A. Jeffery	5	78	0	25
+M. Wilson	2	59	0	50
+M. Bennett	5	55	1	24T
+M. Forte	5	25	0	9
+E. Royal	1	8	0	8
+Fumbles	FUM	LOST	REC	YDS
+Kicking	FG	LG	XP	PTS
+R. Gould	3/3	50	2/2	11
+Punting	NO	AVG	I20	LG
+P. O'Donnell	1	56.0	0	56
+Kickoff Returns	NO	AVG	TD	LG
+M. Mariani	2	24	0	25
+J. Rodgers	1	15	0	15
+Punt Returns	NO	AVG	TD	LG
+M. Mariani	1	11	0	11
+Defense	T-A	SCK	INT	FF
+A. Amos	5-0	0.0	0	0
+P. McPhee	5-1	0.0	0	0
+C. Jones	4-3	0.0	0	0
+S. McClellin	4-4	0.0	0	0
+A. Rolle	4-2	0.0	0	0
+J. Allen	3-0	0.0	0	0
+A. Ball	3-0	0.0	0	0
+E. Goldman	2-0	0.0	0	0
+K. Fuller	1-1	0.0	0	0
+J. Jenkins	1-0	0.0	0	0
+S. McManis	0-2	0.0	0	0
+W. Young	0-1	0.0	0	0
+
+Passing	CP/AT	YDS	TD	INT
+J. Clausen	14/23	121	0	1
+J. Cutler	8/9	120	1	1
+Rushing	ATT	YDS	TD	LG
+M. Forte	15	61	0	27
+J. Cutler	3	24	0	10
+J. Langford	6	21	1	6
+J. Rodgers	2	8	0	5
+J. Clausen	2	-5	0	0
+Receiving	REC	YDS	TD	LG
+J. Bellamy	1	48	1	48T
+M. Bennett	4	48	0	21
+M. Forte	4	44	0	27
+E. Royal	7	41	0	15
+C. Meredith	3	36	0	22
+Z. Miller	2	14	0	9
+M. Wilson	1	10	0	10
+Fumbles	FUM	LOST	REC	YDS
+J. Clausen	1	0	1	0
+J. Cutler	1	0	0	0
+W. Montgomery	1	0	0	-2
+K. Long	0	0	1	0
+J. Rodgers	0	0	1	0
+Kicking	FG	LG	XP	PTS
+R. Gould	3/3	51	2/2	11
+Punting	NO	AVG	I20	LG
+P. O'Donnell	5	40.6	1	55
+Kickoff Returns	NO	AVG	TD	LG
+M. Mariani	3	28	0	31
+Punt Returns	NO	AVG	TD	LG
+M. Mariani	1	20	0	20
+Defense	T-A	SCK	INT	FF
+S. McClellin	4-5	0.0	0	0
+A. Rolle	4-0	0.0	0	0
+A. Amos	3-2	0.0	0	0
+A. Ball	3-1	0.0	0	0
+C. Jones	2-2	0.0	0	0
+S. McManis	2-0	0.0	0	0
+P. McPhee	2-1	0.0	0	0
+J. Allen	1-0	0.0	1	0
+B. Dunn	1-1	0.0	0	0
+K. Fuller	1-0	0.0	0	0
+E. Goldman	1-0	0.0	0	0
+L. Houston	1-0	0.0	0	0
+J. Jenkins	1-1	0.0	0	0
+T. Mitchell	1-0	0.0	0	0
+W. Sutton	1-1	0.0	0	0
+W. Young	1-0	0.0	0	0
+
+
+

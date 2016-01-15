@@ -1,0 +1,90 @@
+Passing	CP/AT	YDS	TD	INT
+T. Romo	36/45	356	3	2
+Rushing	ATT	YDS	TD	LG
+J. Randle	16	65	0	15
+D. McFadden	6	16	0	8
+T. Romo	1	-1	0	-1
+Receiving	REC	YDS	TD	LG
+L. Dunbar	8	70	0	24
+T. Williams	5	60	0	21
+J. Witten	8	60	2	15
+C. Beasley	4	49	0	16
+D. Bryant	5	48	0	18
+J. Randle	3	42	0	25
+D. McFadden	1	19	0	19
+G. Escobar	2	8	1	6
+Fumbles	FUM	LOST	REC	YDS
+C. Beasley	1	1	0	0
+T. Frederick	1	0	0	0
+J. Randle	1	0	1	0
+T. Romo	0	0	1	0
+Kicking	FG	LG	XP	PTS
+D. Bailey	2/2	32	3/3	9
+Punting	NO	AVG	I20	LG
+C. Jones	2	52.0	1	54
+Kickoff Returns	NO	AVG	TD	LG
+L. Dunbar	3	23	0	32
+T. Patmon	2	13	0	20
+Punt Returns	NO	AVG	TD	LG
+C. Beasley	1	-3	0	-3
+Defense	T-A	SCK	INT	FF
+S. Lee	7-2	0.0	0	0
+B. Carr	5-0	0.0	0	0
+B. Church	4-4	0.0	0	0
+A. Hitchens	4-4	0.0	0	0
+T. Crawford	3-0	1.0	0	0
+T. Patmon	3-1	0.0	0	0
+M. Claiborne	2-0	0.0	0	0
+T. McClain	2-0	0.0	0	0
+K. Wilber	2-0	0.0	0	0
+J. Wilcox	2-1	0.0	0	0
+B. Jones	1-0	0.0	0	0
+J. Crawford	0-1	0.0	0	0
+D. Lawrence	0-3	0.0	0	0
+J. Mincey	0-1	0.0	0	0
+
+Passing	CP/AT	YDS	TD	INT
+T. Romo	18/27	195	0	0
+B. Weeden	7/7	73	1	0
+Rushing	ATT	YDS	TD	LG
+J. Randle	18	51	0	6
+D. McFadden	10	31	0	9
+T. Romo	1	12	0	12
+L. Dunbar	1	8	0	8
+B. Weeden	3	7	0	9
+Receiving	REC	YDS	TD	LG
+T. Williams	4	84	1	42T
+J. Witten	7	56	0	11
+L. Dunbar	3	45	0	39
+D. McFadden	2	21	0	14
+D. Street	1	18	0	18
+G. Escobar	2	16	0	13
+C. Beasley	4	14	0	9
+J. Randle	1	14	0	14
+G. Swaim	1	0	0	0
+Fumbles	FUM	LOST	REC	YDS
+G. Escobar	1	1	0	0
+T. Romo	1	1	0	0
+N. Hayden	0	0	1	0
+Kicking	FG	LG	XP	PTS
+D. Bailey	2/2	28	2/2	8
+Punting	NO	AVG	I20	LG
+C. Jones	6	45.8	2	61
+Kickoff Returns	NO	AVG	TD	LG
+L. Dunbar	1	31	0	31
+Punt Returns	NO	AVG	TD	LG
+C. Beasley	2	0	0	1
+Defense	T-A	SCK	INT	FF
+S. Lee	9-5	0.0	1	0
+B. Church	4-2	0.0	0	0
+D. Lawrence	3-0	0.0	0	0
+B. Carr	2-0	0.0	0	0
+M. Claiborne	2-1	0.0	0	0
+N. Hayden	2-0	0.0	0	0
+A. Hitchens	2-3	1.0	0	0
+J. Mincey	2-1	0.0	0	0
+B. Jones	1-0	0.0	0	0
+J. Wilcox	1-0	0.0	1	0
+J. Crawford	0-1	0.0	0	0
+J. Heath	0-1	0.0	0	0
+

@@ -1,0 +1,87 @@
+1	Passing	CP/AT	YDS	TD	INT
+1	P. Rivers	34/41	403	2	2
+1	Rushing	ATT	YDS	TD	LG
+1	M. Gordon	14	51	0	14
+1	D. Woodhead	13	43	2	10
+1	B. Oliver	2	4	0	3
+1	P. Rivers	2	-2	0	-1
+1	Receiving	REC	YDS	TD	LG
+1	K. Allen	15	166	0	21
+1	S. Johnson	6	82	1	34
+1	L. Green	5	74	1	22
+1	M. Floyd	1	29	0	29
+1	D. Woodhead	3	19	0	15
+1	B. Oliver	1	17	0	17
+1	M. Gordon	3	16	0	9
+1	Fumbles	FUM	LOST	REC	YDS
+1	M. Gordon	1	1	0	0
+1	C. Watt	1	0	0	0
+1	P. Rivers	0	0	1	0
+1	P. Robinson	0	0	0	0
+1	Kicking	FG	LG	XP	PTS
+1	J. Lambo	2/2	32	3/4	9
+1	Punting	NO	AVG	I20	LG
+1	M. Scifres	2	35.0	0	58
+1	Kickoff Returns	NO	AVG	TD	LG
+1	J. Jones	1	24	0	24
+1	Punt Returns	NO	AVG	TD	LG
+1	J. Jones	0	0	0	0
+1	Defense	T-A	SCK	INT	FF
+1	E. Weddle	7-0	0.0	0	0
+1	J. Addae	4-0	0.0	0	0
+1	D. Butler	4-2	0.0	0	0
+1	M. Te'o	3-2	0.0	0	0
+1	J. Wilson	3-0	0.0	0	0
+1	K. Emanuel	2-1	1.0	1	0
+1	M. Ingram	2-2	0.0	0	0
+1	C. Liuget	2-0	0.0	0	0
+1	P. Robinson	2-1	0.0	1	1
+1	J. Verrett	2-2	0.0	0	0
+1	B. Flowers	1-0	0.0	0	0
+1	C. Law	1-0	0.0	0	0
+1	K. Reyes	0-1	0.0	0	0
+1	Total First Downs	28
+1	By Rushing	5
+1	By Passing	20
+1	By Penalty	
+1	Third Down Efficiency	6/11 - 54%
+1	Fourth Down Efficiency	0/0 - 0%
+1	Total Net Yards	483
+1	Total Rushing/Passing Plays (includes Sacks)	74
+1	Average Gain per Offensive Play	6.5
+1	Net Yards Rushing	96
+1	Total Rushing Plays	31
+1	Average Gain per Rushing Play	3.1
+1	Tackled for a Loss (Number-Yards)	3--5
+1	Net Yards Passing	387
+1	Times Sacked (Number-Yards)	2 - 16
+1	Gross Yards Passing	403
+1	Pass Comp-Att-Int	34 - 41 - 2
+1	Average Gain per Passing Play (includes Sacks)	9.0
+1	Kickoffs (Number-In End Zone-Touchbacks)	7 - 7 - 4
+1	Punts (Number-Average)	2 - 52.0
+1	Blocked	0
+1	Net Punting Average	35.0
+1	FGs Blocked - PATs Blocked	0 - 0
+1	Total Return Yardage (excludes Kickoffs)	27
+1	Punt Returns (Number-Yards)	0 - 0
+1	Kickoff Returns (Number-Yards)	1 - 24
+1	Interception Returns (Number-Yards)	2 - 27
+1	Penalties (Number-Yards)	5 - 40
+1	Fumbles (Number-Lost)	2 - 1
+1	Touchdowns	4
+1	Rushing	2
+1	Passing	2
+1	Interceptions	0
+1	Kickoff Returns	0
+1	Fumble Returns	0
+1	Punt Returns	0
+1	Extra Points (Made-Attempted)	3 - 4
+1	Kicking (Made-Attempted)	3 - 4
+1	Two Point Conversions (Made-Attempted)	0 - 0
+1	Field Goals (Made-Attempted)	2 - 2
+1	Red Zone Efficiency	4/7 - 57%
+1	Goal To Go Efficiency	2/3 - 66%
+1	Safeties	0
+1	Final Score	33
+1	Time of Possession	38:12

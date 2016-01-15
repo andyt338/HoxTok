@@ -1,0 +1,88 @@
+Passing	CP/AT	YDS	TD	INT
+M. Ryan	23/34	298	2	2
+Rushing	ATT	YDS	TD	LG
+T. Coleman	20	80	0	20
+D. Freeman	10	18	0	9
+M. Ryan	5	7	0	6
+Receiving	REC	YDS	TD	LG
+J. Jones	9	141	2	44
+R. White	4	84	0	25
+D. Freeman	3	29	0	12
+J. Tamme	3	19	0	8
+L. Hankerson	2	16	0	13
+N. Williams	1	5	0	5
+L. Toilolo	1	4	0	4
+Fumbles	FUM	LOST	REC	YDS
+J. Durant	0	0	0	0
+Kicking	FG	LG	XP	PTS
+M. Bryant	4/4	47	2/2	14
+Punting	NO	AVG	I20	LG
+M. Bosher	4	51.5	3	62
+Kickoff Returns	NO	AVG	TD	LG
+E. Weems	3	19	0	26
+Punt Returns	NO	AVG	TD	LG
+E. Weems	2	9	0	9
+Defense	T-A	SCK	INT	FF
+P. Worrilow	9-3	0.0	0	0
+W. Moore	7-2	0.0	1	0
+R. Allen	5-2	0.0	1	0
+J. Durant	4-4	0.0	0	1
+P. Adams	3-0	0.0	0	0
+K. Biermann	2-1	0.0	0	0
+J. Collins	2-0	0.0	0	0
+J. Babineaux	1-2	0.0	0	0
+V. Beasley	1-2	0.0	0	0
+A. Clayborn	1-0	0.0	0	0
+K. Ishmael	1-0	0.0	0	0
+O. Schofield	1-0	0.0	0	0
+R. Alford	0-1	0.0	0	0
+M. Goodman	0-2	0.0	0	0
+T. Jackson	0-1	0.0	0	0
+G. Jarrett	0-1	0.0	0	0
+
+Passing	CP/AT	YDS	TD	INT
+M. Ryan	30/46	363	1	0
+Rushing	ATT	YDS	TD	LG
+T. Coleman	9	32	1	11
+D. Freeman	12	25	1	7
+M. Ryan	1	-1	0	-1
+Receiving	REC	YDS	TD	LG
+J. Jones	13	135	0	37
+L. Hankerson	6	77	1	20
+J. Tamme	4	77	0	41
+D. Freeman	4	34	0	11
+P. DiMarco	1	19	0	19
+N. Williams	1	12	0	12
+T. Ward	1	9	0	9
+Fumbles	FUM	LOST	REC	YDS
+V. Beasley	0	0	0	0
+K. Biermann	0	0	0	0
+P. Soliai	0	0	1	0
+Kicking	FG	LG	XP	PTS
+M. Bryant	1/1	42	3/3	6
+Punting	NO	AVG	I20	LG
+M. Bosher	5	37.4	0	69
+Kickoff Returns	NO	AVG	TD	LG
+T. Ward	1	10	0	10
+E. Weems	1	21	0	21
+Punt Returns	NO	AVG	TD	LG
+E. Weems	1	10	0	10
+Defense	T-A	SCK	INT	FF
+J. Durant	9-1	0.0	0	0
+W. Moore	5-3	0.0	0	0
+P. Adams	4-3	0.0	0	0
+R. Alford	4-0	0.0	0	0
+J. Babineaux	4-2	0.0	0	0
+N. Stupar	4-1	0.0	0	0
+R. Allen	3-0	0.0	0	0
+V. Beasley	3-2	1.0	0	1
+K. Biermann	3-0	1.0	0	1
+J. Bartu	2-0	0.0	0	0
+T. Jackson	2-3	0.0	0	0
+P. Soliai	2-0	0.0	0	0
+P. Worrilow	2-1	0.0	0	0
+A. Bradford	1-0	0.0	0	0
+O. Schofield	1-2	0.0	0	0
+R. Therezie	1-0	0.0	0	0
+D. Trufant	1-2	0.0	0	0
+

@@ -1,0 +1,86 @@
+week	Passing	CP/AT	YDS	TD	INT
+1	J. Flacco	18/32	117	0	2
+1	Rushing	ATT	YDS	TD	LG
+1	J. Forsett	14	43	0	20
+1	J. Allen	9	30	0	8
+1	Receiving	REC	YDS	TD	LG
+1	M. Brown	2	25	0	22
+1	C. Gillmore	2	23	0	14
+1	K. Juszczyk	4	17	0	9
+1	M. Williams	1	15	0	15
+1	J. Forsett	4	13	0	7
+1	S. Smith	2	13	0	10
+1	M. Campanaro	1	8	0	8
+1	J. Allen	1	4	0	4
+1	K. Aiken	1	-1	0	-1
+1	Fumbles	FUM	LOST	REC	YDS
+1	Kicking	FG	LG	XP	PTS
+1	J. Tucker	2/2	52	1/1	7
+1	Punting	NO	AVG	I20	LG
+1	S. Koch	6	48.3	2	59
+1	Kickoff Returns	NO	AVG	TD	LG
+1	N. Boyle	1	10	0	10
+1	Punt Returns	NO	AVG	TD	LG
+1	S. Smith	2	16	0	22
+1	Defense	T-A	SCK	INT	FF
+1	J. Smith	8-0	0.0	1	0
+1	B. Williams	6-1	0.0	0	0
+1	K. Arrington	4-0	0.0	0	0
+1	W. Hill	4-1	0.0	0	0
+1	C. Mosley	4-1	2.0	0	0
+1	L. Guy	3-0	0.0	0	0
+1	L. Webb	3-0	0.0	0	0
+1	C. Canty	2-0	1.0	0	0
+1	C. Davis	2-1	0.0	0	0
+1	E. Dumervil	2-0	0.0	0	0
+1	K. Lewis-Moore	2-0	0.0	0	0
+1	D. Smith	2-4	0.0	0	0
+1	C. Upshaw	2-1	0.0	0	0
+1	K. Lewis	1-0	0.0	0	0
+1	A. McClellan	1-1	1.0	0	0
+1	Total First Downs	11
+1	By Rushing	6
+1	By Passing	4
+1	By Penalty	
+1	Third Down Efficiency	2/13 - 15%
+1	Fourth Down Efficiency	1/1 - 100%
+1	Total Net Yards	173
+1	Total Rushing/Passing Plays (includes Sacks)	57
+1	Average Gain per Offensive Play	3.0
+1	Net Yards Rushing	73
+1	Total Rushing Plays	23
+1	Average Gain per Rushing Play	3.2
+1	Tackled for a Loss (Number-Yards)	3--3
+1	Net Yards Passing	100
+1	Times Sacked (Number-Yards)	2 - 17
+1	Gross Yards Passing	117
+1	Pass Comp-Att-Int	18 - 32 - 2
+1	Average Gain per Passing Play (includes Sacks)	2.9
+1	Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 4
+1	Punts (Number-Average)	6 - 51.7
+1	Blocked	0
+1	Net Punting Average	48.3
+1	FGs Blocked - PATs Blocked	0 - 0
+1	Total Return Yardage (excludes Kickoffs)	56
+1	Punt Returns (Number-Yards)	2 - 32
+1	Kickoff Returns (Number-Yards)	1 - 10
+1	Interception Returns (Number-Yards)	1 - 24
+1	Penalties (Number-Yards)	3 - 15
+1	Fumbles (Number-Lost)	0 - 0
+1	Touchdowns	1
+1	Rushing	0
+1	Passing	0
+1	Interceptions	1
+1	Kickoff Returns	0
+1	Fumble Returns	0
+1	Punt Returns	0
+1	Extra Points (Made-Attempted)	1 - 1
+1	Kicking (Made-Attempted)	1 - 1
+1	Two Point Conversions (Made-Attempted)	0 - 0
+1	Field Goals (Made-Attempted)	2 - 2
+1	Red Zone Efficiency	0/1 - 0%
+1	Goal To Go Efficiency	0/0 - 0%
+1	Safeties	0
+1	Final Score	13
+1	Time of Possession	22:43
+

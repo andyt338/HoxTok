@@ -1,0 +1,91 @@
+week	Cincinnati Bengals (1-0-0)		Oakland Raiders (0-1-0)		
+1	Passing	CP/AT	YDS	TD	INT
+1	A. Dalton	25/34	269	2	0
+1	Rushing	ATT	YDS	TD	LG
+1	G. Bernard	8	63	0	28
+1	J. Hill	19	63	2	11
+1	A. Dalton	4	1	0	3
+1	Receiving	REC	YDS	TD	LG
+1	T. Eifert	9	104	2	31
+1	A. Green	5	63	0	30
+1	M. Sanu	2	34	0	28
+1	G. Bernard	6	25	0	14
+1	R. Burkhead	1	24	0	24
+1	M. Jones	2	19	0	12
+1	Fumbles	FUM	LOST	REC	YDS
+1	G. Atkins	0	0	0	0
+1	M. Johnson	0	0	1	0
+1	A. Jones	0	0	0	0
+1	Kicking	FG	LG	XP	PTS
+1	M. Nugent	2/2	35	3/4	9
+1	Punting	NO	AVG	I20	LG
+1	K. Huber	5	38.4	1	53
+1	Kickoff Returns	NO	AVG	TD	LG
+1	B. Tate	2	7	0	8
+1	Punt Returns	NO	AVG	TD	LG
+1	A. Jones	2	11	0	18
+1	B. Tate	0	0	0	0
+1	Defense	T-A	SCK	INT	FF
+1	A. Jones	10-0	0.0	0	1
+1	V. Rey	6-3	0.0	0	0
+1	R. Maualuga	4-3	0.0	0	0
+1	D. Dennard	3-0	0.0	0	0
+1	G. Atkins	2-0	1.0	0	1
+1	C. Carter	2-1	0.0	0	0
+1	L. Hall	2-1	0.0	0	0
+1	D. Kirkpatrick	2-0	0.0	0	0
+1	S. Williams	2-0	0.0	0	0
+1	C. Dunlap	1-1	1.0	0	0
+1	A. Hawk	1-3	0.0	0	0
+1	G. Iloka	1-1	0.0	0	0
+1	M. Johnson	1-0	0.0	0	0
+1	E. Lamur	1-1	0.0	0	0
+1	P. Dawson	0-1	0.0	0	0
+1	R. Nelson	0-0	0.0	1	0
+1	P. Sims	0-1	0.0	0	0
+1	Total First Downs	22
+1	By Rushing	7
+1	By Passing	13
+1	By Penalty	
+1	Third Down Efficiency	4/13 - 30%
+1	Fourth Down Efficiency	1/1 - 100%
+1	Total Net Yards	396
+1	Total Rushing/Passing Plays (includes Sacks)	65
+1	Average Gain per Offensive Play	6.1
+1	Net Yards Rushing	127
+1	Total Rushing Plays	31
+1	Average Gain per Rushing Play	4.1
+1	Tackled for a Loss (Number-Yards)	2--3
+1	Net Yards Passing	269
+1	Times Sacked (Number-Yards)	0 - 0
+1	Gross Yards Passing	269
+1	Pass Comp-Att-Int	25 - 34 - 0
+1	Average Gain per Passing Play (includes Sacks)	7.9
+1	Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 4
+1	Punts (Number-Average)	5 - 43.8
+1	Blocked	0
+1	Net Punting Average	38.4
+1	FGs Blocked - PATs Blocked	0 - 1
+1	Total Return Yardage (excludes Kickoffs)	23
+1	Punt Returns (Number-Yards)	2 - 23
+1	Kickoff Returns (Number-Yards)	2 - 14
+1	Interception Returns (Number-Yards)	1 - 0
+1	Penalties (Number-Yards)	6 - 50
+1	Fumbles (Number-Lost)	0 - 0
+1	Touchdowns	4
+1	Rushing	2
+1	Passing	2
+1	Interceptions	0
+1	Kickoff Returns	0
+1	Fumble Returns	0
+1	Punt Returns	0
+1	Extra Points (Made-Attempted)	3 - 4
+1	Kicking (Made-Attempted)	3 - 4
+1	Two Point Conversions (Made-Attempted)	0 - 0
+1	Field Goals (Made-Attempted)	2 - 2
+1	Red Zone Efficiency	4/6 - 66%
+1	Goal To Go Efficiency	2/2 - 100%
+1	Safeties	0
+1	Final Score	33
+1	Time of Possession	32:32
+
