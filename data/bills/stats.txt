@@ -83,3 +83,179 @@
 1	Final Score	27
 1	Time of Possession	30:56
 
+Passing 	CP/AT 	YDS 	TD 	INT
+T. Taylor 	23/30 	242 	3 	3
+Rushing 	ATT 	YDS 	TD 	LG
+L. McCoy 	15 	89 	0 	18
+T. Taylor 	5 	43 	1 	23
+Ka. Williams 	6 	21 	1 	7
+P. Harvin 	1 	7 	0 	7
+Receiving 	REC 	YDS 	TD 	LG
+S. Watkins 	6 	60 	1 	24T
+R. Woods 	3 	60 	1 	32T
+P. Harvin 	4 	47 	0 	25
+L. McCoy 	3 	27 	0 	11
+C. Clay 	3 	19 	1 	9T
+Ka. Williams 	2 	16 	0 	11
+C. Hogan 	1 	11 	0 	11
+M. Mulligan 	1 	2 	0 	2
+Fumbles 	FUM 	LOST 	REC 	YDS
+T. Taylor 	2 	0 	1 	0
+P. Harvin 	1 	0 	0 	0
+P. Brown 	0 	0 	1 	0
+C. Graham 	0 	0 	1 	29
+J. Hughes 	0 	0 	0 	0
+L. McCoy 	0 	0 	1 	6
+Kicking 	FG 	LG 	XP 	PTS
+D. Carpenter 	0/0 	0 	2/3 	2
+Punting 	NO 	AVG 	I20 	LG
+C. Schmidt 	6 	34.7 	2 	54
+Kickoff Returns 	NO 	AVG 	TD 	LG
+P. Harvin 	2 	22 	0 	25
+Punt Returns 	NO 	AVG 	TD 	LG
+M. Thigpen 	1 	14 	0 	14
+Defense 	T-A 	SCK 	INT 	FF
+P. Brown 	6-5 	0.0 	0 	1
+C. Graham 	6-3 	0.0 	0 	0
+N. Robey 	6-0 	0.0 	0 	0
+S. Gilmore 	5-0 	0.0 	0 	0
+R. Darby 	4-0 	0.0 	0 	0
+B. Rambo 	3-1 	0.0 	0 	0
+M. Williams 	3-0 	1.0 	0 	0
+A. Williams 	3-0 	0.0 	0 	0
+N. Bradham 	2-2 	0.0 	0 	0
+J. Hughes 	2-1 	1.0 	0 	1
+M. Lawson 	2-0 	0.0 	0 	0
+Ky. Williams 	1-1 	0.0 	0 	0
+M. Butler 	1-0 	0.0 	0 	0
+M. Dareus 	1-0 	0.0 	0 	0
+Total First Downs	23
+By Rushing	11
+By Passing	11
+By Penalty	
+Third Down Efficiency	4/13 - 30%
+Fourth Down Efficiency	1/1 - 100%
+Total Net Yards	349
+Total Rushing/Passing Plays (includes Sacks)	65
+Average Gain per Offensive Play	5.4
+Net Yards Rushing	160
+Total Rushing Plays	27
+Average Gain per Rushing Play	5.9
+Tackled for a Loss (Number-Yards)	3--3
+Net Yards Passing	189
+Times Sacked (Number-Yards)	8 - 53
+Gross Yards Passing	242
+Pass Comp-Att-Int	23 - 30 - 3
+Average Gain per Passing Play (includes Sacks)	5.0
+Kickoffs (Number-In End Zone-Touchbacks)	6 - 5 - 5
+Punts (Number-Average)	6 - 41.5
+Blocked	0
+Net Punting Average	34.7
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	14
+Punt Returns (Number-Yards)	1 - 14
+Kickoff Returns (Number-Yards)	2 - 45
+Interception Returns (Number-Yards)	0 - 0
+Penalties (Number-Yards)	14 - 140
+Fumbles (Number-Lost)	3 - 0
+Touchdowns	5
+Rushing	2
+Passing	3
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	2 - 5
+Kicking (Made-Attempted)	2 - 3
+Two Point Conversions (Made-Attempted)	0 - 2
+Field Goals (Made-Attempted)	0 - 0
+Red Zone Efficiency	3/3 - 100%
+Goal To Go Efficiency	2/2 - 100%
+Safeties	0
+Final Score	32
+Time of Possession	30:03
+
+Passing	CP/AT	YDS	TD	INT
+T. Taylor	21/29	277	3	0
+Rushing	ATT	YDS	TD	LG
+Ka. Williams	12	110	1	41T
+P. Harvin	2	16	0	9
+L. McCoy	11	16	0	9
+T. Taylor	3	12	0	6
+A. Dixon	5	-1	0	2
+E. Manuel	1	-2	0	-2
+Receiving	REC	YDS	TD	LG
+C. Clay	5	82	1	25T
+P. Harvin	7	66	0	18
+C. Hogan	3	42	1	38T
+S. Watkins	1	39	0	39
+R. Woods	4	38	0	16
+L. McCoy	1	10	1	10T
+Fumbles	FUM	LOST	REC	YDS
+S. Charles	0	0	0	0
+Kicking	FG	LG	XP	PTS
+D. Carpenter	2/3	51	5/5	11
+Punting	NO	AVG	I20	LG
+C. Schmidt	3	39.3	1	49
+Kickoff Returns	NO	AVG	TD	LG
+Punt Returns	NO	AVG	TD	LG
+M. Thigpen	2	3	0	7
+Defense	T-A	SCK	INT	FF
+C. Graham	10-2	0.0	0	0
+B. Rambo	6-1	0.0	0	0
+N. Bradham	4-0	0.0	0	0
+R. Darby	4-1	0.0	1	0
+M. Dareus	4-0	1.0	0	0
+P. Brown	3-4	0.0	2	0
+C. Bryant	3-0	0.0	0	0
+N. Robey	3-2	0.0	0	0
+Ky. Williams	1-1	0.0	0	0
+S. Charles	1-0	1.0	0	1
+S. Gilmore	1-0	0.0	0	0
+J. Hughes	1-0	0.0	0	0
+Total First Downs	21
+By Rushing	4
+By Passing	14
+By Penalty	
+Third Down Efficiency	7/13 - 53%
+Fourth Down Efficiency	0/0 - 0%
+Total Net Yards	428
+Total Rushing/Passing Plays (includes Sacks)	63
+Average Gain per Offensive Play	6.8
+Net Yards Rushing	151
+Total Rushing Plays	34
+Average Gain per Rushing Play	4.4
+Tackled for a Loss (Number-Yards)	7--12
+Net Yards Passing	277
+Times Sacked (Number-Yards)	0 - 0
+Gross Yards Passing	277
+Pass Comp-Att-Int	21 - 29 - 0
+Average Gain per Passing Play (includes Sacks)	9.6
+Kickoffs (Number-In End Zone-Touchbacks)	8 - 7 - 4
+Punts (Number-Average)	3 - 45.7
+Blocked	0
+Net Punting Average	39.3
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	74
+Punt Returns (Number-Yards)	2 - 7
+Kickoff Returns (Number-Yards)	0 - 0
+Interception Returns (Number-Yards)	3 - 67
+Penalties (Number-Yards)	5 - 40
+Fumbles (Number-Lost)	0 - 0
+Touchdowns	5
+Rushing	1
+Passing	3
+Interceptions	1
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	5 - 5
+Kicking (Made-Attempted)	5 - 5
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	2 - 3
+Red Zone Efficiency	1/2 - 50%
+Goal To Go Efficiency	0/0 - 0%
+Safeties	0
+Final Score	41
+Time of Possession	31:53
+

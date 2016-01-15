@@ -88,3 +88,177 @@ week	Indianapolis Colts (0-1-0)
 1	Final Score	14
 1	Time of Possession	29:04
 
+Passing	CP/AT	YDS	TD	INT
+A. Luck	21/37	250	1	3
+Rushing	ATT	YDS	TD	LG
+F. Gore	15	57	0	18
+A. Luck	4	24	0	10
+J. Robinson	5	12	0	8
+Receiving	REC	YDS	TD	LG
+D. Moncrief	7	122	1	30
+T. Hilton	4	45	0	27
+A. Johnson	3	27	0	12
+J. Robinson	5	27	0	9
+P. Dorsett	1	25	0	25
+F. Gore	1	4	0	4
+Fumbles	FUM	LOST	REC	YDS
+F. Gore	1	1	0	0
+A. Luck	1	1	0	0
+D. Jackson	0	0	0	0
+Kicking	FG	LG	XP	PTS
+A. Vinatieri	0/1	0	1/1	1
+Punting	NO	AVG	I20	LG
+P. McAfee	3	49.7	1	57
+Kickoff Returns	NO	AVG	TD	LG
+T. Varga	4	24	0	27
+Punt Returns	NO	AVG	TD	LG
+G. Whalen	0	0	0	0
+Defense	T-A	SCK	INT	FF
+D. Jackson	6-3	0.0	0	1
+J. Brown	5-1	0.0	0	0
+D. Lowery	4-2	0.0	0	0
+M. Adams	3-1	0.0	1	0
+H. Anderson	3-2	1.0	0	0
+J. Freeman	3-7	0.0	0	0
+T. Cole	2-2	0.0	0	0
+V. Davis	2-0	0.0	0	0
+E. Patterson	2-0	0.0	0	0
+E. Walden	2-0	0.0	0	0
+C. Geathers	1-1	0.0	0	0
+R. Mathis	1-0	0.0	0	0
+D. Parry	1-2	0.0	0	0
+S. Price	1-0	0.0	0	0
+K. Langford	0-3	0.0	0	0
+B. Winn	0-2	0.0	0	0
+Total First Downs	17
+By Rushing	4
+By Passing	11
+By Penalty	
+Third Down Efficiency	6/14 - 42%
+Fourth Down Efficiency	0/0 - 0%
+Total Net Yards	343
+Total Rushing/Passing Plays (includes Sacks)	61
+Average Gain per Offensive Play	5.6
+Net Yards Rushing	93
+Total Rushing Plays	24
+Average Gain per Rushing Play	3.9
+Tackled for a Loss (Number-Yards)	2--3
+Net Yards Passing	250
+Times Sacked (Number-Yards)	0 - 0
+Gross Yards Passing	250
+Pass Comp-Att-Int	21 - 37 - 3
+Average Gain per Passing Play (includes Sacks)	6.8
+Kickoffs (Number-In End Zone-Touchbacks)	2 - 2 - 2
+Punts (Number-Average)	3 - 49.7
+Blocked	0
+Net Punting Average	49.7
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	0
+Punt Returns (Number-Yards)	0 - 0
+Kickoff Returns (Number-Yards)	4 - 98
+Interception Returns (Number-Yards)	1 - 0
+Penalties (Number-Yards)	11 - 84
+Fumbles (Number-Lost)	2 - 2
+Touchdowns	1
+Rushing	0
+Passing	1
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	1 - 1
+Kicking (Made-Attempted)	1 - 1
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	0 - 1
+Red Zone Efficiency	0/2 - 0%
+Goal To Go Efficiency	0/1 - 0%
+Safeties	0
+Final Score	7
+Time of Possession	28:12
+
+Passing	CP/AT	YDS	TD	INT
+A. Luck	18/30	260	2	2
+Rushing	ATT	YDS	TD	LG
+F. Gore	14	86	2	25
+A. Luck	6	21	0	15
+P. McAfee	1	18	0	18
+J. Robinson	2	8	0	5
+Receiving	REC	YDS	TD	LG
+T. Hilton	4	94	0	48
+C. Fleener	4	51	0	19
+P. Dorsett	2	43	1	35T
+J. Doyle	3	32	0	19
+D. Moncrief	4	32	1	11T
+F. Gore	1	8	0	8
+Fumbles	FUM	LOST	REC	YDS
+A. Luck	1	0	1	0
+Kicking	FG	LG	XP	PTS
+A. Vinatieri	0/0	0	5/5	5
+Punting	NO	AVG	I20	LG
+P. McAfee	5	50.0	1	54
+Kickoff Returns	NO	AVG	TD	LG
+Punt Returns	NO	AVG	TD	LG
+G. Whalen	0	0	0	0
+Defense	T-A	SCK	INT	FF
+D. Jackson	8-4	0.0	0	0
+M. Adams	7-1	0.0	0	0
+J. Freeman	7-3	1.0	0	0
+J. Brown	5-2	0.0	0	0
+V. Davis	3-1	0.0	0	0
+J. Thomas	3-0	0.0	0	0
+K. Langford	2-1	0.0	0	0
+D. Parry	2-0	1.0	0	0
+E. Walden	2-0	0.0	0	0
+H. Anderson	1-0	0.0	0	0
+D. Lowery	1-1	0.0	2	0
+R. Mathis	1-0	1.0	0	0
+E. Okine	1-0	0.0	0	0
+B. Winn	1-0	0.0	0	0
+Z. Kerr	0-2	0.0	0	0
+B. Werner	0-1	0.0	0	0
+Total First Downs	20
+By Rushing	9
+By Passing	10
+By Penalty	
+Third Down Efficiency	4/11 - 36%
+Fourth Down Efficiency	1/1 - 100%
+Total Net Yards	378
+Total Rushing/Passing Plays (includes Sacks)	56
+Average Gain per Offensive Play	6.8
+Net Yards Rushing	133
+Total Rushing Plays	23
+Average Gain per Rushing Play	5.8
+Tackled for a Loss (Number-Yards)	1--1
+Net Yards Passing	245
+Times Sacked (Number-Yards)	3 - 15
+Gross Yards Passing	260
+Pass Comp-Att-Int	18 - 30 - 2
+Average Gain per Passing Play (includes Sacks)	7.4
+Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 6
+Punts (Number-Average)	5 - 49.8
+Blocked	0
+Net Punting Average	50.0
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	95
+Punt Returns (Number-Yards)	0 - 0
+Kickoff Returns (Number-Yards)	0 - 0
+Interception Returns (Number-Yards)	2 - 95
+Penalties (Number-Yards)	11 - 71
+Fumbles (Number-Lost)	1 - 0
+Touchdowns	5
+Rushing	2
+Passing	2
+Interceptions	1
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	5 - 5
+Kicking (Made-Attempted)	5 - 5
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	0 - 0
+Red Zone Efficiency	3/3 - 100%
+Goal To Go Efficiency	1/1 - 100%
+Safeties	0
+Final Score	35
+Time of Possession	25:01
+

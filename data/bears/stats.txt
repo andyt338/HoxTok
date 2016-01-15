@@ -79,3 +79,177 @@ week	Total First Downs	25
 1	Safeties	0
 1	Final Score	23
 1	Time of Possession	31:52
+
+Passing 	CP/AT 	YDS 	TD 	INT
+J. Clausen 	14/23 	121 	0 	1
+J. Cutler 	8/9 	120 	1 	1
+Rushing 	ATT 	YDS 	TD 	LG
+M. Forte 	15 	61 	0 	27
+J. Cutler 	3 	24 	0 	10
+J. Langford 	6 	21 	1 	6
+J. Rodgers 	2 	8 	0 	5
+J. Clausen 	2 	-5 	0 	0
+Receiving 	REC 	YDS 	TD 	LG
+J. Bellamy 	1 	48 	1 	48T
+M. Bennett 	4 	48 	0 	21
+M. Forte 	4 	44 	0 	27
+E. Royal 	7 	41 	0 	15
+C. Meredith 	3 	36 	0 	22
+Z. Miller 	2 	14 	0 	9
+M. Wilson 	1 	10 	0 	10
+Fumbles 	FUM 	LOST 	REC 	YDS
+J. Clausen 	1 	0 	1 	0
+J. Cutler 	1 	0 	0 	0
+W. Montgomery 	1 	0 	0 	-2
+K. Long 	0 	0 	1 	0
+J. Rodgers 	0 	0 	1 	0
+Kicking 	FG 	LG 	XP 	PTS
+R. Gould 	3/3 	51 	2/2 	11
+Punting 	NO 	AVG 	I20 	LG
+P. O'Donnell 	5 	40.6 	1 	55
+Kickoff Returns 	NO 	AVG 	TD 	LG
+M. Mariani 	3 	28 	0 	31
+Punt Returns 	NO 	AVG 	TD 	LG
+M. Mariani 	1 	20 	0 	20
+Defense 	T-A 	SCK 	INT 	FF
+S. McClellin 	4-5 	0.0 	0 	0
+A. Rolle 	4-0 	0.0 	0 	0
+A. Amos 	3-2 	0.0 	0 	0
+A. Ball 	3-1 	0.0 	0 	0
+C. Jones 	2-2 	0.0 	0 	0
+S. McManis 	2-0 	0.0 	0 	0
+P. McPhee 	2-1 	0.0 	0 	0
+J. Allen 	1-0 	0.0 	1 	0
+B. Dunn 	1-1 	0.0 	0 	0
+K. Fuller 	1-0 	0.0 	0 	0
+E. Goldman 	1-0 	0.0 	0 	0
+L. Houston 	1-0 	0.0 	0 	0
+J. Jenkins 	1-1 	0.0 	0 	0
+T. Mitchell 	1-0 	0.0 	0 	0
+W. Sutton 	1-1 	0.0 	0 	0
+W. Young 	1-0 	0.0 	0 	0
+Total First Downs	18
+By Rushing	8
+By Passing	7
+By Penalty	
+Third Down Efficiency	2/12 - 16%
+Fourth Down Efficiency	0/1 - 0%
+Total Net Yards	335
+Total Rushing/Passing Plays (includes Sacks)	62
+Average Gain per Offensive Play	5.4
+Net Yards Rushing	109
+Total Rushing Plays	28
+Average Gain per Rushing Play	3.9
+Tackled for a Loss (Number-Yards)	2--7
+Net Yards Passing	226
+Times Sacked (Number-Yards)	2 - 15
+Gross Yards Passing	241
+Pass Comp-Att-Int	22 - 32 - 2
+Average Gain per Passing Play (includes Sacks)	6.6
+Kickoffs (Number-In End Zone-Touchbacks)	5 - 4 - 3
+Punts (Number-Average)	5 - 45.8
+Blocked	0
+Net Punting Average	40.6
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	22
+Punt Returns (Number-Yards)	1 - 20
+Kickoff Returns (Number-Yards)	3 - 86
+Interception Returns (Number-Yards)	1 - 2
+Penalties (Number-Yards)	14 - 170
+Fumbles (Number-Lost)	3 - 0
+Touchdowns	2
+Rushing	1
+Passing	1
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	2 - 2
+Kicking (Made-Attempted)	2 - 2
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	3 - 3
+Red Zone Efficiency	1/2 - 50%
+Goal To Go Efficiency	1/1 - 100%
+Safeties	0
+Final Score	23
+Time of Possession	29:56
+
+Passing	CP/AT	YDS	TD	INT
+J. Clausen	9/17	63	0	0
+Rushing	ATT	YDS	TD	LG
+M. Forte	20	74	0	12
+J. Clausen	3	13	0	11
+J. Rodgers	4	11	0	5
+Receiving	REC	YDS	TD	LG
+Z. Miller	1	21	0	21
+E. Royal	3	17	0	9
+M. Bennett	4	15	0	6
+J. Rodgers	1	10	0	10
+Fumbles	FUM	LOST	REC	YDS
+Kicking	FG	LG	XP	PTS
+Punting	NO	AVG	I20	LG
+P. O'Donnell	10	38.4	3	72
+Kickoff Returns	NO	AVG	TD	LG
+M. Mariani	1	27	0	27
+Punt Returns	NO	AVG	TD	LG
+M. Mariani	0	0	0	0
+Defense	T-A	SCK	INT	FF
+A. Rolle	7-3	0.0	0	0
+P. McPhee	6-1	2.0	0	0
+A. Ball	5-4	0.0	0	0
+J. Jenkins	4-6	2.0	0	0
+C. Jones	4-2	0.0	0	0
+S. McClellin	3-3	0.0	0	0
+S. McManis	3-1	0.0	0	0
+A. Amos	2-0	0.0	0	0
+S. Acho	1-1	0.0	0	0
+K. Fuller	1-2	0.0	0	0
+J. Allen	0-1	0.0	0	0
+E. Ferguson	0-1	0.0	0	0
+W. Sutton	0-1	0.0	0	0
+Total First Downs	7
+By Rushing	5
+By Passing	2
+By Penalty	
+Third Down Efficiency	3/13 - 23%
+Fourth Down Efficiency	0/0 - 0%
+Total Net Yards	146
+Total Rushing/Passing Plays (includes Sacks)	46
+Average Gain per Offensive Play	3.2
+Net Yards Rushing	98
+Total Rushing Plays	27
+Average Gain per Rushing Play	3.6
+Tackled for a Loss (Number-Yards)	3--8
+Net Yards Passing	48
+Times Sacked (Number-Yards)	2 - 15
+Gross Yards Passing	63
+Pass Comp-Att-Int	9 - 17 - 0
+Average Gain per Passing Play (includes Sacks)	2.5
+Kickoffs (Number-In End Zone-Touchbacks)	1 - 1 - 0
+Punts (Number-Average)	10 - 47.7
+Blocked	0
+Net Punting Average	38.4
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	0
+Punt Returns (Number-Yards)	0 - 0
+Kickoff Returns (Number-Yards)	1 - 27
+Interception Returns (Number-Yards)	0 - 0
+Penalties (Number-Yards)	6 - 40
+Fumbles (Number-Lost)	0 - 0
+Touchdowns	0
+Rushing	0
+Passing	0
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	0 - 0
+Kicking (Made-Attempted)	0 - 0
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	0 - 0
+Red Zone Efficiency	0/0 - 0%
+Goal To Go Efficiency	0/0 - 0%
+Safeties	0
+Final Score	0
+Time of Possession	27:24
+

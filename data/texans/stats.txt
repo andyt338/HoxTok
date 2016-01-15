@@ -89,3 +89,186 @@
 1	Final Score	20
 1	Time of Possession	24:41
 
+week	Passing	CP/AT	YDS	TD	INT
+2	R. Mallett	27/58	244	1	1
+2	Rushing	ATT	YDS	TD	LG
+2	C. Polk	14	38	0	13
+2	J. Grimes	2	7	0	4
+2	A. Blue	5	6	0	4
+2	R. Mallett	1	6	1	6T
+2	J. Prosch	1	4	0	4
+2	Receiving	REC	YDS	TD	LG
+2	N. Washington	3	63	0	48
+2	D. Hopkins	5	53	0	16
+2	J. Grimes	6	40	0	14
+2	C. Shorts	6	34	0	16
+2	C. Fiedorowicz	1	19	0	19
+2	C. Worthy	2	15	0	12
+2	C. Polk	2	9	0	6
+2	G. Graham	1	7	1	7T
+2	A. Blue	1	4	0	4
+2	Fumbles	FUM	LOST	REC	YDS
+2	R. Moore	1	0	0	0
+2	J. Tuggle	0	0	1	0
+2	Kicking	FG	LG	XP	PTS
+2	R. Bullock	1/1	43	2/2	5
+2	Punting	NO	AVG	I20	LG
+2	S. Lechler	8	43.0	3	60
+2	Kickoff Returns	NO	AVG	TD	LG
+2	C. Worthy	1	27	0	27
+2	Punt Returns	NO	AVG	TD	LG
+2	K. Mumphery	6	9	0	15
+2	Defense	T-A	SCK	INT	FF
+2	B. Cushing	4-3	0.0	0	0
+2	J. Joseph	4-1	0.0	0	0
+2	J. Watt	4-1	1.0	0	0
+2	J. Crick	3-4	0.0	0	0
+2	K. Jackson	3-1	0.0	0	0
+2	R. Moore	3-0	0.0	1	0
+2	J. Tuggle	3-1	0.0	0	0
+2	J. Clowney	2-0	0.0	0	0
+2	Q. Demps	2-6	0.5	0	0
+2	K. Johnson	2-0	0.0	0	0
+2	W. Mercilus	2-2	0.0	0	0
+2	A. Dent	1-1	0.0	0	0
+2	B. McKinney	1-1	0.0	0	0
+2	E. Pleasant	0-1	0.5	0	0
+2	V. Wilfork	0-2	0.0	0	0
+2	Total First Downs	21
+2	By Rushing	5
+2	By Passing	11
+2	By Penalty	
+2	Third Down Efficiency	5/19 - 26%
+2	Fourth Down Efficiency	2/4 - 50%
+2	Total Net Yards	300
+2	Total Rushing/Passing Plays (includes Sacks)	82
+2	Average Gain per Offensive Play	3.7
+2	Net Yards Rushing	61
+2	Total Rushing Plays	23
+2	Average Gain per Rushing Play	2.7
+2	Tackled for a Loss (Number-Yards)	2--4
+2	Net Yards Passing	239
+2	Times Sacked (Number-Yards)	1 - 5
+2	Gross Yards Passing	244
+2	Pass Comp-Att-Int	27 - 58 - 1
+2	Average Gain per Passing Play (includes Sacks)	4.1
+2	Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 3
+2	Punts (Number-Average)	8 - 48.5
+2	Blocked	0
+2	Net Punting Average	43.0
+2	FGs Blocked - PATs Blocked	0 - 0
+2	Total Return Yardage (excludes Kickoffs)	75
+2	Punt Returns (Number-Yards)	6 - 58
+2	Kickoff Returns (Number-Yards)	1 - 27
+2	Interception Returns (Number-Yards)	1 - 17
+2	Penalties (Number-Yards)	10 - 70
+2	Fumbles (Number-Lost)	1 - 0
+2	Touchdowns	2
+2	Rushing	1
+2	Passing	1
+2	Interceptions	0
+2	Kickoff Returns	0
+2	Fumble Returns	0
+2	Punt Returns	0
+2	Extra Points (Made-Attempted)	2 - 2
+2	Kicking (Made-Attempted)	2 - 2
+2	Two Point Conversions (Made-Attempted)	0 - 0
+2	Field Goals (Made-Attempted)	1 - 1
+2	Red Zone Efficiency	2/3 - 66%
+2	Goal To Go Efficiency	0/0 - 0%
+2	Safeties	0
+2	Final Score	17
+2	Time of Possession	27:43
+
+Passing	CP/AT	YDS	TD	INT
+R. Mallett	24/39	228	1	1
+Rushing	ATT	YDS	TD	LG
+A. Blue	31	139	1	20T
+J. Prosch	3	24	0	16
+J. Grimes	6	19	0	7
+C. Polk	5	5	0	6
+R. Mallett	1	-1	0	-1
+Receiving	REC	YDS	TD	LG
+D. Hopkins	8	101	1	29
+C. Shorts	6	58	0	18
+N. Washington	4	42	0	14
+J. Grimes	4	19	0	9
+G. Graham	1	9	0	9
+C. Worthy	1	-1	0	-1
+Fumbles	FUM	LOST	REC	YDS
+A. Blue	1	0	0	0
+C. Worthy	1	0	0	0
+C. Clark	0	0	1	0
+W. Mercilus	0	0	1	0
+Kicking	FG	LG	XP	PTS
+R. Bullock	2/3	39	1/2	7
+Punting	NO	AVG	I20	LG
+S. Lechler	6	33.0	3	54
+Kickoff Returns	NO	AVG	TD	LG
+Q. Demps	2	23	0	23
+Punt Returns	NO	AVG	TD	LG
+C. Worthy	3	3	0	7
+C. Shorts	2	4	0	8
+Defense	T-A	SCK	INT	FF
+K. Jackson	6-0	0.0	0	0
+Q. Demps	4-0	0.0	1	0
+B. Cushing	3-1	0.0	0	0
+K. Johnson	2-1	0.0	0	0
+J. Joseph	2-1	0.0	0	0
+R. Moore	2-0	0.0	0	0
+J. Tuggle	2-0	0.0	0	0
+J. Watt	2-3	0.0	0	0
+J. Clowney	1-1	0.0	0	0
+C. Covington	1-0	0.0	0	0
+J. Crick	1-0	0.0	0	0
+B. McKinney	1-1	0.0	0	0
+W. Mercilus	1-1	0.0	0	0
+E. Pleasant	1-1	0.0	0	0
+J. Simon	1-0	0.0	0	0
+V. Wilfork	0-2	0.0	0	0
+Total First Downs	30
+By Rushing	10
+By Passing	16
+By Penalty	
+Third Down Efficiency	8/18 - 44%
+Fourth Down Efficiency	0/0 - 0%
+Total Net Yards	413
+Total Rushing/Passing Plays (includes Sacks)	86
+Average Gain per Offensive Play	4.8
+Net Yards Rushing	186
+Total Rushing Plays	46
+Average Gain per Rushing Play	4.0
+Tackled for a Loss (Number-Yards)	7--15
+Net Yards Passing	227
+Times Sacked (Number-Yards)	1 - 1
+Gross Yards Passing	228
+Pass Comp-Att-Int	24 - 39 - 1
+Average Gain per Passing Play (includes Sacks)	5.7
+Kickoffs (Number-In End Zone-Touchbacks)	5 - 5 - 4
+Punts (Number-Average)	6 - 44.3
+Blocked	0
+Net Punting Average	33.0
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	17
+Punt Returns (Number-Yards)	5 - 17
+Kickoff Returns (Number-Yards)	2 - 46
+Interception Returns (Number-Yards)	1 - 0
+Penalties (Number-Yards)	6 - 58
+Fumbles (Number-Lost)	2 - 0
+Touchdowns	2
+Rushing	1
+Passing	1
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	1 - 2
+Kicking (Made-Attempted)	1 - 2
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	2 - 3
+Red Zone Efficiency	1/2 - 50%
+Goal To Go Efficiency	1/2 - 50%
+Safeties	0
+Final Score	19
+Time of Possession	36:17
+

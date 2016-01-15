@@ -89,3 +89,190 @@ week	Passing	CP/AT	YDS	TD	INT
 1	Safeties	0
 1	Final Score	28
 1	Time of Possession	21:48
+
+
+Passing 	CP/AT 	YDS 	TD 	INT
+M. Stafford 	32/53 	286 	2 	1
+Rushing 	ATT 	YDS 	TD 	LG
+M. Stafford 	4 	20 	0 	9
+A. Abdullah 	6 	9 	0 	7
+T. Riddick 	1 	5 	0 	5
+J. Bell 	4 	2 	0 	3
+M. Burton 	1 	2 	0 	2
+Receiving 	REC 	YDS 	TD 	LG
+C. Johnson 	10 	83 	1 	18
+G. Tate 	6 	80 	0 	19
+E. Ebron 	5 	43 	1 	16
+T. Riddick 	5 	41 	0 	11
+J. Bell 	2 	16 	0 	16
+L. Moore 	3 	14 	0 	7
+A. Abdullah 	1 	9 	0 	9
+Fumbles 	FUM 	LOST 	REC 	YDS
+L. Moore 	1 	1 	0 	0
+T. Riddick 	1 	1 	0 	0
+J. Ihedigbo 	0 	0 	0 	0
+J. Wilson 	0 	0 	1 	0
+Kicking 	FG 	LG 	XP 	PTS
+M. Prater 	1/1 	26 	1/1 	4
+Punting 	NO 	AVG 	I20 	LG
+S. Martin 	4 	34.5 	2 	53
+Kickoff Returns 	NO 	AVG 	TD 	LG
+A. Abdullah 	3 	28 	0 	32
+Punt Returns 	NO 	AVG 	TD 	LG
+G. Tate 	1 	2 	0 	2
+L. Moore 	0 	0 	0 	0
+Defense 	T-A 	SCK 	INT 	FF
+J. Ihedigbo 	9-2 	0.0 	0 	2
+E. Ansah 	6-1 	1.0 	0 	0
+R. Mathis 	5-0 	0.0 	0 	0
+G. Quin 	5-0 	0.0 	0 	0
+J. Bynes 	4-1 	0.0 	0 	0
+D. Slay 	4-1 	0.0 	0 	0
+J. Jones 	3-0 	0.0 	0 	0
+T. Lewis 	3-0 	0.0 	0 	0
+P. Hunt 	2-0 	0.0 	0 	0
+T. Whitehead 	2-1 	0.0 	0 	0
+J. Wilson 	2-1 	0.0 	0 	0
+G. Wright 	2-0 	0.0 	0 	0
+H. Ngata 	1-1 	0.0 	0 	0
+T. Walker 	1-1 	0.0 	0 	0
+I. Abdul-Quddus 	0-1 	0.0 	0 	0
+D. Tapp 	0-1 	0.0 	0 	0
+S. Tulloch 	0-6 	0.0 	0 	0
+Total First Downs	25
+By Rushing	2
+By Passing	17
+By Penalty	
+Third Down Efficiency	6/13 - 46%
+Fourth Down Efficiency	2/2 - 100%
+Total Net Yards	323
+Total Rushing/Passing Plays (includes Sacks)	70
+Average Gain per Offensive Play	4.6
+Net Yards Rushing	38
+Total Rushing Plays	16
+Average Gain per Rushing Play	2.4
+Tackled for a Loss (Number-Yards)	2--7
+Net Yards Passing	285
+Times Sacked (Number-Yards)	1 - 1
+Gross Yards Passing	286
+Pass Comp-Att-Int	32 - 53 - 1
+Average Gain per Passing Play (includes Sacks)	5.3
+Kickoffs (Number-In End Zone-Touchbacks)	4 - 3 - 1
+Punts (Number-Average)	4 - 44.3
+Blocked	0
+Net Punting Average	34.5
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	2
+Punt Returns (Number-Yards)	1 - 2
+Kickoff Returns (Number-Yards)	3 - 84
+Interception Returns (Number-Yards)	0 - 0
+Penalties (Number-Yards)	6 - 39
+Fumbles (Number-Lost)	2 - 2
+Touchdowns	2
+Rushing	0
+Passing	2
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	1 - 2
+Kicking (Made-Attempted)	1 - 1
+Two Point Conversions (Made-Attempted)	0 - 1
+Field Goals (Made-Attempted)	1 - 1
+Red Zone Efficiency	2/3 - 66%
+Goal To Go Efficiency	0/0 - 0%
+Safeties	0
+Final Score	16
+Time of Possession	28:54
+
+Passing	CP/AT	YDS	TD	INT
+M. Stafford	31/45	282	1	2
+Rushing	ATT	YDS	TD	LG
+A. Abdullah	8	23	0	9
+J. Bell	10	6	1	3
+M. Stafford	1	-1	0	-1
+Receiving	REC	YDS	TD	LG
+C. Johnson	8	77	0	25
+T. Riddick	8	66	0	17
+E. Ebron	4	61	0	29
+G. Tate	5	57	0	33
+A. Abdullah	2	19	1	16T
+L. Moore	2	10	0	5
+J. Bell	1	-2	0	-2
+M. Stafford	1	-6	0	-6
+Fumbles	FUM	LOST	REC	YDS
+M. Stafford	1	1	0	0
+Q. Diggs	0	0	1	0
+R. Mathis	0	0	0	0
+Kicking	FG	LG	XP	PTS
+M. Prater	0/0	0	0/1	0
+Punting	NO	AVG	I20	LG
+S. Martin	5	46.6	1	66
+Kickoff Returns	NO	AVG	TD	LG
+Punt Returns	NO	AVG	TD	LG
+T. Jones	1	28	0	28
+Defense	T-A	SCK	INT	FF
+S. Tulloch	7-4	0.0	0	0
+R. Mathis	5-1	0.0	0	1
+J. Ihedigbo	4-3	0.0	0	0
+D. Slay	4-1	0.0	0	0
+J. Bynes	3-4	0.0	0	0
+J. Wilson	3-1	0.0	0	0
+E. Ansah	2-1	0.0	0	0
+D. Taylor	2-0	1.0	0	0
+T. Lewis	1-0	0.0	0	0
+G. Quin	1-1	0.0	1	0
+D. Tapp	1-0	0.0	0	0
+T. Walker	1-0	0.0	0	0
+I. Abdul-Quddus	0-2	0.0	0	0
+Q. Diggs	0-1	0.0	0	0
+C. Reid	0-1	0.0	0	0
+K. Van Noy	0-1	0.0	0	0
+T. Whitehead	0-2	0.0	0	0
+G. Wright	0-1	0.0	0	0
+Total First Downs	22
+By Rushing	3
+By Passing	14
+By Penalty	
+Third Down Efficiency	4/12 - 33%
+Fourth Down Efficiency	0/1 - 0%
+Total Net Yards	290
+Total Rushing/Passing Plays (includes Sacks)	68
+Average Gain per Offensive Play	4.3
+Net Yards Rushing	28
+Total Rushing Plays	19
+Average Gain per Rushing Play	1.5
+Tackled for a Loss (Number-Yards)	3--4
+Net Yards Passing	262
+Times Sacked (Number-Yards)	4 - 20
+Gross Yards Passing	282
+Pass Comp-Att-Int	31 - 45 - 2
+Average Gain per Passing Play (includes Sacks)	5.3
+Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 3
+Punts (Number-Average)	5 - 53.2
+Blocked	0
+Net Punting Average	46.6
+FGs Blocked - PATs Blocked	0 - 1
+Total Return Yardage (excludes Kickoffs)	29
+Punt Returns (Number-Yards)	1 - 28
+Kickoff Returns (Number-Yards)	0 - 0
+Interception Returns (Number-Yards)	1 - 1
+Penalties (Number-Yards)	9 - 75
+Fumbles (Number-Lost)	1 - 1
+Touchdowns	2
+Rushing	1
+Passing	1
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	0 - 2
+Kicking (Made-Attempted)	0 - 1
+Two Point Conversions (Made-Attempted)	0 - 1
+Field Goals (Made-Attempted)	0 - 0
+Red Zone Efficiency	2/3 - 66%
+Goal To Go Efficiency	2/2 - 100%
+Safeties	0
+Final Score	12
+Time of Possession	31:08
+

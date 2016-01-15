@@ -85,3 +85,186 @@
 1	Final Score	31
 1	Time of Possession	26:36
 
+Passing 	CP/AT 	YDS 	TD 	INT
+C. Palmer 	17/24 	185 	4 	1
+Rushing 	ATT 	YDS 	TD 	LG
+C. Johnson 	20 	72 	0 	8
+D. Johnson 	5 	42 	1 	14
+K. Williams 	1 	3 	0 	3
+C. Palmer 	2 	-2 	0 	-1
+Receiving 	REC 	YDS 	TD 	LG
+L. Fitzgerald 	8 	112 	3 	28T
+JO. Brown 	5 	45 	0 	13
+JA. Brown 	2 	20 	1 	14
+J. Gresham 	1 	5 	0 	5
+D. Johnson 	1 	3 	0 	3
+Fumbles 	FUM 	LOST 	REC 	YDS
+J. Nelson 	1 	1 	0 	0
+D. Bucannon 	0 	0 	0 	0
+F. Rucker 	0 	0 	0 	0
+Kicking 	FG 	LG 	XP 	PTS
+C. Catanzaro 	0/0 	0 	6/7 	6
+Punting 	NO 	AVG 	I20 	LG
+D. Butler 	3 	33.7 	2 	43
+Kickoff Returns 	NO 	AVG 	TD 	LG
+D. Johnson 	1 	108 	1 	108
+K. Williams 	1 	9 	0 	9
+Punt Returns 	NO 	AVG 	TD 	LG
+J. Nelson 	1 	0 	0 	0
+P. Peterson 	1 	6 	0 	6
+Defense 	T-A 	SCK 	INT 	FF
+T. Jefferson 	9-0 	0.0 	1 	0
+R. Johnson 	6-0 	0.0 	0 	0
+D. Bucannon 	4-0 	0.0 	0 	1
+C. Campbell 	4-2 	0.0 	0 	0
+T. Mathieu 	4-0 	0.0 	0 	0
+J. Mauro 	4-0 	1.0 	0 	0
+K. Minter 	4-0 	0.0 	0 	0
+J. Powers 	4-0 	0.0 	0 	0
+P. Peterson 	3-0 	0.0 	1 	0
+A. Okafor 	2-1 	0.0 	0 	0
+F. Rucker 	1-1 	0.0 	0 	1
+L. Woodley 	1-0 	0.0 	0 	0
+M. Golden 	0-1 	0.5 	0 	0
+K. Martin 	0-1 	0.5 	0 	0
+E. Stinson 	0-1 	0.0 	0 	0
+S. Weatherspoon 	0-1 	0.0 	0 	0
+Total First Downs	21
+By Rushing	6
+By Passing	12
+By Penalty	
+Third Down Efficiency	5/9 - 55%
+Fourth Down Efficiency	1/1 - 100%
+Total Net Yards	300
+Total Rushing/Passing Plays (includes Sacks)	52
+Average Gain per Offensive Play	5.8
+Net Yards Rushing	115
+Total Rushing Plays	28
+Average Gain per Rushing Play	4.1
+Tackled for a Loss (Number-Yards)	1--1
+Net Yards Passing	185
+Times Sacked (Number-Yards)	0 - 0
+Gross Yards Passing	185
+Pass Comp-Att-Int	17 - 24 - 1
+Average Gain per Passing Play (includes Sacks)	7.7
+Kickoffs (Number-In End Zone-Touchbacks)	8 - 8 - 5
+Punts (Number-Average)	3 - 40.3
+Blocked	0
+Net Punting Average	33.7
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	33
+Punt Returns (Number-Yards)	2 - 6
+Kickoff Returns (Number-Yards)	2 - 117
+Interception Returns (Number-Yards)	2 - 27
+Penalties (Number-Yards)	8 - 58
+Fumbles (Number-Lost)	1 - 1
+Touchdowns	7
+Rushing	1
+Passing	4
+Interceptions	1
+Kickoff Returns	1
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	6 - 7
+Kicking (Made-Attempted)	6 - 7
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	0 - 0
+Red Zone Efficiency	4/4 - 100%
+Goal To Go Efficiency	1/1 - 100%
+Safeties	0
+Final Score	48
+Time of Possession	30:04
+
+Passing	CP/AT	YDS	TD	INT
+C. Palmer	20/32	311	2	1
+Rushing	ATT	YDS	TD	LG
+C. Johnson	22	110	2	30
+D. Johnson	7	25	0	8
+S. Taylor	4	6	0	2
+C. Palmer	1	1	0	1
+D. Stanton	3	-3	0	-1
+Receiving	REC	YDS	TD	LG
+L. Fitzgerald	9	134	2	23
+JO. Brown	3	62	0	27
+C. Johnson	1	40	0	40
+J. Gresham	2	34	0	22
+D. Johnson	3	16	0	9
+D. Fells	1	13	0	13
+M. Floyd	1	12	0	12
+Fumbles	FUM	LOST	REC	YDS
+C. Palmer	1	0	1	0
+P. Peterson	1	0	0	0
+J. Bethel	0	0	0	0
+Kicking	FG	LG	XP	PTS
+C. Catanzaro	1/1	22	6/6	9
+Punting	NO	AVG	I20	LG
+D. Butler	4	21.8	2	40
+Kickoff Returns	NO	AVG	TD	LG
+P. Peterson	1	24	0	24
+Punt Returns	NO	AVG	TD	LG
+P. Peterson	2	2	0	4
+B. Golden	1	10	0	10
+Defense	T-A	SCK	INT	FF
+K. Minter	7-1	0.0	0	0
+R. Johnson	5-0	0.0	0	0
+T. Mathieu	5-0	0.0	2	0
+D. Bucannon	4-1	0.0	0	0
+R. Gunter	4-0	0.0	0	0
+F. Rucker	3-0	1.0	0	0
+S. Weatherspoon	2-0	0.0	0	0
+C. Campbell	1-1	0.0	0	0
+C. Clemons	1-0	0.0	0	0
+A. Fua	1-0	0.0	0	0
+M. Golden	1-0	0.0	0	0
+T. Jefferson	1-0	0.0	0	0
+J. Powers	1-0	0.0	1	0
+C. Redding	1-0	0.0	0	0
+L. Woodley	1-0	1.0	0	0
+J. Bethel	0-0	0.0	1	0
+A. Okafor	0-1	0.0	0	0
+Total First Downs	28
+By Rushing	9
+By Passing	15
+By Penalty	
+Third Down Efficiency	6/13 - 46%
+Fourth Down Efficiency	1/1 - 100%
+Total Net Yards	446
+Total Rushing/Passing Plays (includes Sacks)	70
+Average Gain per Offensive Play	6.4
+Net Yards Rushing	139
+Total Rushing Plays	37
+Average Gain per Rushing Play	3.8
+Tackled for a Loss (Number-Yards)	3--4
+Net Yards Passing	307
+Times Sacked (Number-Yards)	1 - 4
+Gross Yards Passing	311
+Pass Comp-Att-Int	20 - 32 - 1
+Average Gain per Passing Play (includes Sacks)	9.3
+Kickoffs (Number-In End Zone-Touchbacks)	7 - 7 - 3
+Punts (Number-Average)	4 - 36.0
+Blocked	0
+Net Punting Average	21.8
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	85
+Punt Returns (Number-Yards)	3 - 14
+Kickoff Returns (Number-Yards)	1 - 24
+Interception Returns (Number-Yards)	4 - 71
+Penalties (Number-Yards)	4 - 24
+Fumbles (Number-Lost)	2 - 0
+Touchdowns	6
+Rushing	2
+Passing	2
+Interceptions	2
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	6 - 6
+Kicking (Made-Attempted)	6 - 6
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	1 - 1
+Red Zone Efficiency	4/5 - 80%
+Goal To Go Efficiency	4/5 - 80%
+Safeties	1
+Final Score	47
+Time of Possession	36:32
+

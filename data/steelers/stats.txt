@@ -86,4 +86,177 @@ week	Pittsburgh Steelers (0-1-0)
 1	Final Score	21
 1	Time of Possession	32:05
 
+Passing	CP/AT	YDS	TD	INT
+B. Roethlisberger	21/27	369	3	0
+Rushing	ATT	YDS	TD	LG
+De. Williams	20	77	3	16
+J. Todman	1	11	0	11
+B. Roethlisberger	1	-1	0	-1
+M. Vick	3	-3	0	-1
+Receiving	REC	YDS	TD	LG
+A. Brown	9	195	1	59
+D. Heyward-Bey	4	77	1	41
+M. Wheaton	2	67	0	48
+De. Williams	4	15	0	11
+H. Miller	2	15	1	13
+Fumbles	FUM	LOST	REC	YDS
+R. Shazier	0	0	1	0
+Kicking	FG	LG	XP	PTS
+J. Scobee	0/0	0	3/4	3
+Punting	NO	AVG	I20	LG
+J. Berry	3	43.7	2	62
+Kickoff Returns	NO	AVG	TD	LG
+Punt Returns	NO	AVG	TD	LG
+A. Brown	1	16	0	16
+Defense	T-A	SCK	INT	FF
+R. Shazier	11-4	1.0	0	1
+A. Blake	10-0	0.0	0	0
+L. Timmons	6-3	0.0	0	0
+C. Heyward	5-0	1.0	0	0
+M. Mitchell	4-1	0.0	0	0
+W. Allen	3-2	0.0	0	0
+R. Cockrell	3-1	0.0	0	0
+B. Dupree	3-1	1.0	0	0
+W. Gay	3-0	0.0	0	0
+J. Jones	3-2	0.0	0	0
+A. Moats	2-1	0.5	0	0
+S. Tuitt	2-2	1.5	0	0
+B. Boykin	1-0	0.0	0	0
+J. Harrison	1-1	0.0	0	0
+S. McLendon	1-0	0.0	0	0
+D. McCullers	0-1	0.0	0	0
+S. Spence	0-1	0.0	0	0
+C. Thomas	0-1	0.0	0	0
+Total First Downs	21
+By Rushing	6
+By Passing	14
+By Penalty	
+Third Down Efficiency	6/10 - 60%
+Fourth Down Efficiency	0/0 - 0%
+Total Net Yards	453
+Total Rushing/Passing Plays (includes Sacks)	52
+Average Gain per Offensive Play	8.7
+Net Yards Rushing	84
+Total Rushing Plays	25
+Average Gain per Rushing Play	3.4
+Tackled for a Loss (Number-Yards)	0-0
+Net Yards Passing	369
+Times Sacked (Number-Yards)	0 - 0
+Gross Yards Passing	369
+Pass Comp-Att-Int	21 - 27 - 0
+Average Gain per Passing Play (includes Sacks)	13.7
+Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 4
+Punts (Number-Average)	3 - 47.3
+Blocked	0
+Net Punting Average	43.7
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	16
+Punt Returns (Number-Yards)	1 - 16
+Kickoff Returns (Number-Yards)	0 - 0
+Interception Returns (Number-Yards)	0 - 0
+Penalties (Number-Yards)	7 - 58
+Fumbles (Number-Lost)	0 - 0
+Touchdowns	6
+Rushing	3
+Passing	3
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	5 - 6
+Kicking (Made-Attempted)	3 - 4
+Two Point Conversions (Made-Attempted)	2 - 2
+Field Goals (Made-Attempted)	0 - 0
+Red Zone Efficiency	5/5 - 100%
+Goal To Go Efficiency	5/5 - 100%
+Safeties	0
+Final Score	43
+Time of Possession	23:01
+
+Passing	CP/AT	YDS	TD	INT
+B. Roethlisberger	20/24	192	0	1
+M. Vick	5/6	38	0	0
+Rushing	ATT	YDS	TD	LG
+L. Bell	19	62	1	23
+De. Williams	1	2	0	2
+M. Vick	2	-2	0	-1
+Receiving	REC	YDS	TD	LG
+A. Brown	11	108	0	19
+L. Bell	7	70	0	20
+D. Heyward-Bey	3	19	0	7
+H. Miller	2	17	0	9
+M. Wheaton	2	16	0	12
+Fumbles	FUM	LOST	REC	YDS
+M. Vick	1	0	0	0
+L. Bell	0	0	1	0
+Kicking	FG	LG	XP	PTS
+J. Scobee	2/2	41	0/0	6
+Punting	NO	AVG	I20	LG
+J. Berry	4	41.0	2	57
+Kickoff Returns	NO	AVG	TD	LG
+J. Todman	1	22	0	22
+Punt Returns	NO	AVG	TD	LG
+A. Brown	0	0	0	0
+Defense	T-A	SCK	INT	FF
+S. Tuitt	5-2	1.0	0	0
+W. Allen	4-3	0.0	1	0
+M. Mitchell	4-1	0.0	0	0
+W. Gay	3-2	0.0	0	0
+S. McLendon	2-0	0.0	0	0
+S. Spence	2-3	0.0	0	0
+L. Timmons	2-5	0.0	0	0
+A. Blake	1-1	0.0	0	0
+J. Jones	1-1	0.0	0	0
+A. Moats	1-1	1.0	0	0
+R. Cockrell	0-3	0.0	0	0
+B. Dupree	0-2	0.0	0	0
+J. Harrison	0-1	0.0	0	0
+C. Heyward	0-1	0.0	0	0
+V. Williams	0-2	0.0	0	0
+Total First Downs	17
+By Rushing	4
+By Passing	11
+By Penalty	
+Third Down Efficiency	6/12 - 50%
+Fourth Down Efficiency	0/0 - 0%
+Total Net Yards	259
+Total Rushing/Passing Plays (includes Sacks)	57
+Average Gain per Offensive Play	4.5
+Net Yards Rushing	62
+Total Rushing Plays	22
+Average Gain per Rushing Play	2.8
+Tackled for a Loss (Number-Yards)	4--9
+Net Yards Passing	197
+Times Sacked (Number-Yards)	5 - 33
+Gross Yards Passing	230
+Pass Comp-Att-Int	25 - 30 - 1
+Average Gain per Passing Play (includes Sacks)	5.6
+Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 2
+Punts (Number-Average)	4 - 49.0
+Blocked	0
+Net Punting Average	41.0
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	20
+Punt Returns (Number-Yards)	0 - 0
+Kickoff Returns (Number-Yards)	1 - 22
+Interception Returns (Number-Yards)	1 - 20
+Penalties (Number-Yards)	4 - 63
+Fumbles (Number-Lost)	1 - 0
+Touchdowns	1
+Rushing	1
+Passing	0
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	0 - 1
+Kicking (Made-Attempted)	0 - 0
+Two Point Conversions (Made-Attempted)	0 - 1
+Field Goals (Made-Attempted)	2 - 2
+Red Zone Efficiency	1/2 - 50%
+Goal To Go Efficiency	1/2 - 50%
+Safeties	0
+Final Score	12
+Time of Possession	32:19
+
 
