@@ -640,3 +640,96 @@ Safeties	0
 Final Score	34
 Time of Possession	30:38
 
+Passing	CP/AT	YDS	TD	INT
+D. Carr	24/44	301	4	1
+Rushing	ATT	YDS	TD	LG
+L. Murray	17	96	0	44
+M. Reece	3	21	0	12
+J. Olawale	1	19	1	19T
+D. Carr	2	3	0	4
+T. Jones	2	0	0	1
+Receiving	REC	YDS	TD	LG
+M. Crabtree	7	108	2	38T
+A. Cooper	7	88	1	21
+S. Roberts	3	73	0	36
+M. Rivera	2	16	0	8
+L. Smith	1	10	0	10
+T. Jones	1	6	0	6
+C. Walford	1	1	1	1T
+L. Murray	2	-1	0	3
+Fumbles	FUM	LOST	REC	YDS
+T. Jones	2	1	0	0
+L. Murray	2	1	0	0
+M. Thigpen	1	1	0	0
+R. Armstrong	0	0	1	0
+A. Holmes	0	0	0	0
+Kicking	FG	LG	XP	PTS
+S. Janikowski	0/0	0	5/5	5
+Punting	NO	AVG	I20	LG
+M. King	7	39.3	3	50
+Kickoff Returns	NO	AVG	TD	LG
+T. Jones	4	18	0	27
+M. Thigpen	1	2	0	2
+Punt Returns	NO	AVG	TD	LG
+M. Thigpen	1	1	0	1
+Defense	T-A	SCK	INT	FF
+D. Hayden	11-2	0.0	0	0
+D. Amerson	8-0	0.0	1	0
+C. Woodson	7-1	0.0	0	0
+L. Asante	4-0	0.0	0	0
+C. Lofton	4-0	0.0	0	0
+M. Edwards	3-0	0.0	0	0
+J. Ellis	3-0	0.0	0	0
+M. Smith	3-0	0.0	0	0
+A. Smith	3-0	1.0	0	0
+B. Mayowa	2-0	0.0	0	0
+N. Thorpe	2-1	0.0	0	0
+S. McGee	1-0	0.0	0	0
+D. Williams	1-2	0.0	0	0
+T. Mays	0-1	0.0	0	0
+Total First Downs	24
+By Rushing	6
+By Passing	17
+By Penalty	
+Third Down Efficiency	6/14 - 42%
+Fourth Down Efficiency	0/0 - 0%
+Total Net Yards	440
+Total Rushing/Passing Plays (includes Sacks)	69
+Average Gain per Offensive Play	6.4
+Net Yards Rushing	139
+Total Rushing Plays	25
+Average Gain per Rushing Play	5.6
+Tackled for a Loss (Number-Yards)	2--5
+Net Yards Passing	301
+Times Sacked (Number-Yards)	0 - 0
+Gross Yards Passing	301
+Pass Comp-Att-Int	24 - 44 - 1
+Average Gain per Passing Play (includes Sacks)	6.8
+Kickoffs (Number-In End Zone-Touchbacks)	6 - 5 - 2
+Punts (Number-Average)	7 - 39.6
+Blocked	0
+Net Punting Average	39.3
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	2
+Punt Returns (Number-Yards)	1 - 1
+Kickoff Returns (Number-Yards)	5 - 74
+Interception Returns (Number-Yards)	1 - 1
+Penalties (Number-Yards)	3 - 21
+Fumbles (Number-Lost)	5 - 3
+Touchdowns	5
+Rushing	1
+Passing	4
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	5 - 5
+Kicking (Made-Attempted)	5 - 5
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	0 - 0
+Red Zone Efficiency	3/4 - 75%
+Goal To Go Efficiency	1/1 - 100%
+Safeties	0
+Final Score	35
+Time of Possession	27:56
+

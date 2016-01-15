@@ -633,3 +633,93 @@ Time of Possession	28:42
 
 week 8 bye
 
+Passing	CP/AT	YDS	TD	INT
+K. Cousins	22/40	217	1	1
+Rushing	ATT	YDS	TD	LG
+M. Jones	11	27	0	10
+A. Morris	4	10	0	4
+Receiving	REC	YDS	TD	LG
+P. Garcon	4	70	0	36
+J. Crowder	6	50	0	16
+A. Roberts	2	26	0	18
+C. Thompson	2	21	0	13
+J. Reed	3	18	1	9
+M. Jones	2	17	0	12
+D. Jackson	3	15	0	9
+Fumbles	FUM	LOST	REC	YDS
+J. Crowder	1	0	0	0
+M. Jones	1	1	0	0
+W. Blackmon	0	0	1	0
+S. Paea	0	0	0	0
+Kicking	FG	LG	XP	PTS
+D. Hopkins	1/1	23	1/1	4
+Punting	NO	AVG	I20	LG
+T. Way	4	47.5	1	55
+Kickoff Returns	NO	AVG	TD	LG
+A. Roberts	2	15	0	26
+C. Thompson	1	18	0	18
+Punt Returns	NO	AVG	TD	LG
+J. Crowder	1	9	0	9
+Defense	T-A	SCK	INT	FF
+C. Baker	5-2	0.0	0	0
+D. Goldson	5-4	0.0	0	0
+J. Johnson	5-1	0.0	0	0
+W. Compton	4-6	0.0	0	0
+K. Jarrett	4-3	0.0	0	0
+T. Robinson	4-0	0.0	0	0
+K. Robinson	4-3	0.0	1	0
+W. Blackmon	3-5	0.0	0	1
+C. Culliver	2-0	0.0	0	0
+S. Paea	2-1	0.0	0	1
+R. Jean Francois	1-2	0.0	0	0
+R. Kerrigan	1-1	0.0	0	0
+P. Smith	1-0	0.0	0	0
+B. Breeland	0-1	0.0	0	0
+K. Golston	0-2	0.0	0	0
+T. Murphy	0-3	0.0	0	0
+Total First Downs	16
+By Rushing	3
+By Passing	12
+By Penalty	
+Third Down Efficiency	7/14 - 50%
+Fourth Down Efficiency	0/1 - 0%
+Total Net Yards	250
+Total Rushing/Passing Plays (includes Sacks)	56
+Average Gain per Offensive Play	4.5
+Net Yards Rushing	37
+Total Rushing Plays	15
+Average Gain per Rushing Play	2.5
+Tackled for a Loss (Number-Yards)	2--5
+Net Yards Passing	213
+Times Sacked (Number-Yards)	1 - 4
+Gross Yards Passing	217
+Pass Comp-Att-Int	22 - 40 - 1
+Average Gain per Passing Play (includes Sacks)	5.2
+Kickoffs (Number-In End Zone-Touchbacks)	3 - 2 - 1
+Punts (Number-Average)	4 - 47.0
+Blocked	0
+Net Punting Average	47.5
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	53
+Punt Returns (Number-Yards)	1 - 9
+Kickoff Returns (Number-Yards)	3 - 48
+Interception Returns (Number-Yards)	1 - 44
+Penalties (Number-Yards)	4 - 27
+Fumbles (Number-Lost)	2 - 1
+Touchdowns	1
+Rushing	0
+Passing	1
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	1 - 1
+Kicking (Made-Attempted)	1 - 1
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	1 - 1
+Red Zone Efficiency	1/2 - 50%
+Goal To Go Efficiency	1/2 - 50%
+Safeties	0
+Final Score	10
+Time of Possession	22:55
+
