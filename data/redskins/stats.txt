@@ -723,3 +723,100 @@ Safeties	0
 Final Score	10
 Time of Possession	22:55
 
+Passing	CP/AT	YDS	TD	INT
+K. Cousins	20/25	324	4	0
+Rushing	ATT	YDS	TD	LG
+A. Morris	15	92	0	28
+M. Jones	11	56	0	20
+C. Thompson	2	54	0	38
+D. Young	3	7	0	5
+Receiving	REC	YDS	TD	LG
+M. Jones	3	131	1	78T
+J. Crowder	4	60	1	31
+D. Jackson	2	44	0	42
+J. Reed	3	29	2	16T
+C. Thompson	1	23	0	23
+D. Carrier	1	14	0	14
+A. Morris	3	14	0	7
+P. Garcon	2	10	0	7
+D. Young	1	-1	0	-1
+Fumbles	FUM	LOST	REC	YDS
+K. Cousins	1	0	1	0
+J. Crowder	1	0	1	0
+D. Young	1	0	0	0
+B. Breeland	0	0	0	0
+S. Long	0	0	1	4
+Kicking	FG	LG	XP	PTS
+D. Hopkins	4/4	40	5/5	17
+Punting	NO	AVG	I20	LG
+T. Way	2	38.5	1	56
+Kickoff Returns	NO	AVG	TD	LG
+R. Ross	2	14	0	21
+Punt Returns	NO	AVG	TD	LG
+J. Crowder	4	6	0	11
+Defense	T-A	SCK	INT	FF
+B. Breeland	6-3	0.0	0	1
+D. Goldson	5-0	0.0	1	0
+P. Riley	4-2	0.0	1	0
+K. Jarrett	3-0	0.0	0	0
+W. Compton	2-6	0.0	0	0
+D. Everett	2-1	0.0	0	0
+W. Blackmon	1-1	0.0	0	0
+C. Culliver	1-2	0.0	0	0
+J. Hatcher	1-1	0.0	0	0
+R. Jean Francois	1-1	0.0	0	0
+R. Kerrigan	1-1	0.0	0	0
+T. Knighton	1-0	0.0	0	0
+T. Murphy	1-4	0.5	0	0
+S. Paea	1-2	1.0	0	0
+C. Baker	0-4	0.5	0	0
+M. Foster	0-1	0.0	0	0
+K. Golston	0-2	0.0	0	0
+D. Hall	0-2	0.0	0	0
+P. Smith	0-1	0.0	0	0
+Total First Downs	23
+By Rushing	9
+By Passing	12
+By Penalty	
+Third Down Efficiency	6/11 - 54%
+Fourth Down Efficiency	0/0 - 0%
+Total Net Yards	510
+Total Rushing/Passing Plays (includes Sacks)	59
+Average Gain per Offensive Play	8.6
+Net Yards Rushing	209
+Total Rushing Plays	31
+Average Gain per Rushing Play	6.7
+Tackled for a Loss (Number-Yards)	0-0
+Net Yards Passing	301
+Times Sacked (Number-Yards)	3 - 23
+Gross Yards Passing	324
+Pass Comp-Att-Int	20 - 25 - 0
+Average Gain per Passing Play (includes Sacks)	10.8
+Kickoffs (Number-In End Zone-Touchbacks)	9 - 8 - 6
+Punts (Number-Average)	2 - 43.5
+Blocked	0
+Net Punting Average	38.5
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	61
+Punt Returns (Number-Yards)	4 - 26
+Kickoff Returns (Number-Yards)	2 - 29
+Interception Returns (Number-Yards)	2 - 35
+Penalties (Number-Yards)	5 - 26
+Fumbles (Number-Lost)	3 - 0
+Touchdowns	5
+Rushing	0
+Passing	4
+Interceptions	1
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	5 - 5
+Kicking (Made-Attempted)	5 - 5
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	4 - 4
+Red Zone Efficiency	3/6 - 50%
+Goal To Go Efficiency	0/1 - 0%
+Safeties	0
+Final Score	47
+Time of Possession	33:34
+

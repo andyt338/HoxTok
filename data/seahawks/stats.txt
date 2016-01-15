@@ -694,3 +694,93 @@ Time of Possession	29:38
 
 week 9 bye
 
+Passing	CP/AT	YDS	TD	INT
+R. Wilson	14/32	240	1	1
+Rushing	ATT	YDS	TD	LG
+R. Wilson	6	52	0	20
+M. Lynch	8	42	1	16
+T. Rawls	2	19	0	13
+W. Tukuafu	2	2	1	1T
+Receiving	REC	YDS	TD	LG
+D. Baldwin	7	134	1	33
+J. Graham	3	41	0	30
+P. Richardson	1	40	0	40
+J. Kearse	1	10	0	10
+M. Lynch	1	8	0	8
+T. Lockett	1	7	0	7
+Fumbles	FUM	LOST	REC	YDS
+R. Wilson	2	0	1	0
+C. Avril	0	0	0	0
+B. Wagner	0	0	1	22
+K. Wright	0	0	1	4
+Kicking	FG	LG	XP	PTS
+S. Hauschka	2/2	46	2/2	8
+Punting	NO	AVG	I20	LG
+J. Ryan	5	35.0	2	57
+Kickoff Returns	NO	AVG	TD	LG
+T. Lockett	5	20	0	34
+Punt Returns	NO	AVG	TD	LG
+T. Lockett	1	0	0	0
+Defense	T-A	SCK	INT	FF
+K. Chancellor	5-12	0.0	0	0
+E. Thomas	4-0	0.0	1	0
+B. Wagner	4-7	0.0	0	0
+C. Williams	4-5	0.0	0	0
+K. Wright	4-5	1.0	0	1
+C. Avril	3-2	1.0	0	1
+A. Rubin	3-0	1.0	0	0
+R. Sherman	3-2	0.0	0	0
+F. Clark	2-0	0.0	0	0
+D. Dobbs	1-0	0.0	0	0
+J. Hill	1-0	0.0	0	0
+B. Irvin	1-4	0.0	0	0
+C. Marsh	1-0	0.0	0	0
+D. Shead	1-0	0.0	0	0
+M. Bennett	0-2	0.0	0	0
+B. Mebane	0-1	0.0	0	0
+Total First Downs	18
+By Rushing	9
+By Passing	7
+By Penalty	
+Third Down Efficiency	1/8 - 12%
+Fourth Down Efficiency	1/1 - 100%
+Total Net Yards	343
+Total Rushing/Passing Plays (includes Sacks)	52
+Average Gain per Offensive Play	6.6
+Net Yards Rushing	115
+Total Rushing Plays	18
+Average Gain per Rushing Play	6.4
+Tackled for a Loss (Number-Yards)	1--1
+Net Yards Passing	228
+Times Sacked (Number-Yards)	2 - 12
+Gross Yards Passing	240
+Pass Comp-Att-Int	14 - 32 - 1
+Average Gain per Passing Play (includes Sacks)	6.7
+Kickoffs (Number-In End Zone-Touchbacks)	8 - 6 - 2
+Punts (Number-Average)	5 - 40.8
+Blocked	0
+Net Punting Average	35.0
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	0
+Punt Returns (Number-Yards)	1 - 0
+Kickoff Returns (Number-Yards)	5 - 104
+Interception Returns (Number-Yards)	1 - 0
+Penalties (Number-Yards)	14 - 131
+Fumbles (Number-Lost)	2 - 0
+Touchdowns	4
+Rushing	2
+Passing	1
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	1
+Punt Returns	0
+Extra Points (Made-Attempted)	2 - 4
+Kicking (Made-Attempted)	2 - 2
+Two Point Conversions (Made-Attempted)	0 - 2
+Field Goals (Made-Attempted)	2 - 2
+Red Zone Efficiency	2/3 - 66%
+Goal To Go Efficiency	2/2 - 100%
+Safeties	0
+Final Score	32
+Time of Possession	21:08
+
