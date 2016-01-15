@@ -353,3 +353,95 @@ Safeties	0
 Final Score	23
 Time of Possession	41:08
 
+Passing	CP/AT	YDS	TD	INT
+K. Cousins	21/32	219	1	2
+Rushing	ATT	YDS	TD	LG
+M. Jones	11	20	1	7
+A. Morris	8	15	0	4
+C. Thompson	3	15	0	9
+K. Cousins	1	1	0	1
+J. Crowder	1	0	0	0
+Receiving	REC	YDS	TD	LG
+J. Crowder	8	87	0	26
+P. Garcon	3	51	0	21
+C. Thompson	6	33	0	14
+D. Carrier	2	27	1	20
+M. Jones	1	17	0	17
+R. Grant	1	4	0	4
+Fumbles	FUM	LOST	REC	YDS
+J. Crowder	1	0	0	0
+C. Baker	0	0	0	0
+W. Blackmon	0	0	0	0
+W. Compton	0	0	1	0
+Kicking	FG	LG	XP	PTS
+D. Hopkins	2/3	52	1/1	7
+Punting	NO	AVG	I20	LG
+T. Way	4	46.8	2	57
+Kickoff Returns	NO	AVG	TD	LG
+R. Ross	2	26	0	27
+Punt Returns	NO	AVG	TD	LG
+J. Crowder	1	10	0	10
+Defense	T-A	SCK	INT	FF
+D. Goldson	7-2	0.0	0	0
+W. Blackmon	6-1	0.0	0	1
+B. Breeland	6-2	0.0	1	0
+P. Riley	4-1	0.0	0	0
+T. Robinson	4-2	0.0	1	0
+J. Hatcher	3-0	0.0	0	0
+K. Jarrett	3-0	0.0	0	0
+R. Kerrigan	3-0	2.0	0	0
+K. Robinson	3-1	0.0	0	0
+C. Baker	2-0	1.0	0	2
+W. Compton	2-0	0.0	0	0
+T. Knighton	2-0	0.0	0	0
+T. Murphy	2-2	0.0	0	0
+P. Smith	2-0	0.0	0	0
+R. Jean Francois	1-1	0.0	0	0
+J. Johnson	1-0	0.0	0	0
+S. Paea	1-0	0.0	0	0
+Total First Downs	18
+By Rushing	4
+By Passing	13
+By Penalty	
+Third Down Efficiency	4/12 - 33%
+Fourth Down Efficiency	1/1 - 100%
+Total Net Yards	270
+Total Rushing/Passing Plays (includes Sacks)	57
+Average Gain per Offensive Play	4.7
+Net Yards Rushing	51
+Total Rushing Plays	24
+Average Gain per Rushing Play	2.1
+Tackled for a Loss (Number-Yards)	2--7
+Net Yards Passing	219
+Times Sacked (Number-Yards)	1 - 0
+Gross Yards Passing	219
+Pass Comp-Att-Int	21 - 32 - 2
+Average Gain per Passing Play (includes Sacks)	6.6
+Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 4
+Punts (Number-Average)	4 - 50.3
+Blocked	0
+Net Punting Average	46.8
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	46
+Punt Returns (Number-Yards)	1 - 10
+Kickoff Returns (Number-Yards)	2 - 53
+Interception Returns (Number-Yards)	2 - 36
+Penalties (Number-Yards)	5 - 51
+Fumbles (Number-Lost)	1 - 0
+Touchdowns	2
+Rushing	1
+Passing	1
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	1 - 2
+Kicking (Made-Attempted)	1 - 1
+Two Point Conversions (Made-Attempted)	0 - 1
+Field Goals (Made-Attempted)	2 - 3
+Red Zone Efficiency	2/3 - 66%
+Goal To Go Efficiency	2/3 - 66%
+Safeties	0
+Final Score	19
+Time of Possession	27:49
+
