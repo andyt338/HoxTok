@@ -1,4 +1,4 @@
-week1	name	att	yds	td	lg
+week	name	att	yds	td	lg
 1	A. Ellington	12	69	1	18
 1	C. Johnson	10	37	0	12
 1	C. Palmer	3	14	0	12

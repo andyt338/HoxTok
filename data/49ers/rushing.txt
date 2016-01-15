@@ -1,4 +1,4 @@
-week1	name	att	yds	td	lg
+week	name	att	yds	td	lg
 1	C. Hyde	26	168	2	18
 1	C. Kaepernick	7	41	0	12
 1	J. Hayne	4	13	0	9

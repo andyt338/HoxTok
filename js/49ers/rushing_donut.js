@@ -8,17 +8,17 @@ var count1 = 0;
 function selectData1() {
 	var rushingStats = [];
 	
-	rushingStats.push({week1:50, name:"C. Hyde", att:0, yds:0, td:0, lg:0, color:"#ef3c42"});
-	rushingStats.push({week1:50, name:"S. Draughn", att:0, yds:0, td:0, lg:0, color:"#52c67f"});
-	rushingStats.push({week1:50, name:"C. Kaepernick", att:0, yds:0, td:0, lg:0, color:"#3f77c4"});
-	rushingStats.push({week1:50, name:"M. Davis", att:0, yds:0, td:0, lg:0, color:"#ffff2d"});
-	rushingStats.push({week1:50, name:"B. Gabbert", att:0, yds:0, td:0, lg:0, color:"#f4aa2f"});
-	rushingStats.push({week1:50, name:"D. Harris", att:0, yds:0, td:0, lg:0, color:"#f25e40"});
-	rushingStats.push({week1:50, name:"J. Hayne", att:0, yds:0, td:0, lg:0, color:"#fad435"});
-	rushingStats.push({week1:50, name:"K. Gaskins", att:0, yds:0, td:0, lg:0, color:"#79c725"});
-	rushingStats.push({week1:50, name:"R. Bush", att:0, yds:0, td:0, lg:0, color:"#dff429"});
-	rushingStats.push({week1:50, name:"B. Miller", att:0, yds:0, td:0, lg:0, color:"#f2823a"});
-	rushingStats.push({week1:50, name:"B. Ellington", att:0, yds:0, td:0, lg:0, color:"#a7d52a"});
+	rushingStats.push({week:50, name:"C. Hyde", att:0, yds:0, td:0, lg:0, color:"#ef3c42"});
+	rushingStats.push({week:50, name:"S. Draughn", att:0, yds:0, td:0, lg:0, color:"#52c67f"});
+	rushingStats.push({week:50, name:"C. Kaepernick", att:0, yds:0, td:0, lg:0, color:"#3f77c4"});
+	rushingStats.push({week:50, name:"M. Davis", att:0, yds:0, td:0, lg:0, color:"#ffff2d"});
+	rushingStats.push({week:50, name:"B. Gabbert", att:0, yds:0, td:0, lg:0, color:"#f4aa2f"});
+	rushingStats.push({week:50, name:"D. Harris", att:0, yds:0, td:0, lg:0, color:"#f25e40"});
+	rushingStats.push({week:50, name:"J. Hayne", att:0, yds:0, td:0, lg:0, color:"#fad435"});
+	rushingStats.push({week:50, name:"K. Gaskins", att:0, yds:0, td:0, lg:0, color:"#79c725"});
+	rushingStats.push({week:50, name:"R. Bush", att:0, yds:0, td:0, lg:0, color:"#dff429"});
+	rushingStats.push({week:50, name:"B. Miller", att:0, yds:0, td:0, lg:0, color:"#f2823a"});
+	rushingStats.push({week:50, name:"B. Ellington", att:0, yds:0, td:0, lg:0, color:"#a7d52a"});
 	rushingStats.push({week:50, name:"Q. Patton", att:0, yds:0, td:0, lg:0, color:"#3438bd"});
 
 	var newRushingStats = newWeeklyArray1(rushingStats);
@@ -44,13 +44,13 @@ function newWeeklyArray1(array) {
 	if (week1 == 10) week1 = 11;
 	for (var i = 0; i < newWeeklyArray.length; i++) {
 		for (var j = temp1; j < (temp1 + newWeeklyArray.length); j++) {
-			if (stats1[j] && newWeeklyArray[i].name == stats1[j].name && stats1[j].week1 == week1){
+			if (stats1[j] && newWeeklyArray[i].name == stats1[j].name && stats1[j].week == week1){
 				count1++;
 				newWeeklyArray[i].att = stats1[j].att;
 				newWeeklyArray[i].yds = stats1[j].yds;
 				newWeeklyArray[i].td = stats1[j].td;
 				newWeeklyArray[i].lg = stats1[j].lg;
-				newWeeklyArray[i].week1 = week1;
+				newWeeklyArray[i].week = week1;
 				break;
 			}
 		}

@@ -1,4 +1,4 @@
-week1	name	att	yds	td	lg
+week	name	att	yds	td	lg
 1	M. Lynch	18	73	0	24
 1	R. Wilson	8	31	0	10
 1	F. Jackson	3	13	0	7

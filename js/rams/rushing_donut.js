@@ -8,19 +8,13 @@ var count1 = 0;
 function selectData1() {
 	var rushingStats = [];
 	
-	rushingStats.push({week:50, name:"T. Rawls", att:0, yds:0, td:0, lg:0, color:"#ef3c42"});
-	rushingStats.push({week:50, name:"M. Lynch", att:0, yds:0, td:0, lg:0, color:"#52c67f"});
-	rushingStats.push({week:50, name:"R. Wilson", att:0, yds:0, td:0, lg:0, color:"#dff429"});
-	rushingStats.push({week:50, name:"C. Michael", att:0, yds:0, td:0, lg:0, color:"#3f77c4"});
-	rushingStats.push({week:50, name:"F. Jackson", att:0, yds:0, td:0, lg:0, color:"#f4aa2f"});
-	rushingStats.push({week:50, name:"B. Brown", att:0, yds:0, td:0, lg:0, color:"#f25e40"});
-	rushingStats.push({week:50, name:"D. Coleman", att:0, yds:0, td:0, lg:0, color:"#fad435"});
-	rushingStats.push({week:50, name:"T. Jackson", att:0, yds:0, td:0, lg:0, color:"#79c725"});
-	rushingStats.push({week:50, name:"T. Lockett", att:0, yds:0, td:0, lg:0, color:"#ffff2d"});
-	rushingStats.push({week:50, name:"W. Tukuafu", att:0, yds:0, td:0, lg:0, color:"#f2823a"});
-	rushingStats.push({week:50, name:"K. Williams", att:0, yds:0, td:0, lg:0, color:"#a7d52a"});
-	rushingStats.push({week:50, name:"D. Harris", att:0, yds:0, td:0, lg:0, color:"#7328b6"});
-	rushingStats.push({week:50, name:"R. Smith", att:0, yds:0, td:0, lg:0, color:"#c32a94"});
+	rushingStats.push({week:50, name:"T. Gurley", att:0, yds:0, td:0, lg:0, color:"#ef3c42"});
+	rushingStats.push({week:50, name:"T. Mason", att:0, yds:0, td:0, lg:0, color:"#52c67f"});
+	rushingStats.push({week:50, name:"T. Austin", att:0, yds:0, td:0, lg:0, color:"#3f77c4"});
+	rushingStats.push({week:50, name:"B. Cunningham", att:0, yds:0, td:0, lg:0, color:"#ffff2d"});
+	rushingStats.push({week:50, name:"N. Foles", att:0, yds:0, td:0, lg:0, color:"#f4aa2f"});
+	rushingStats.push({week:50, name:"C. Keenum", att:0, yds:0, td:0, lg:0, color:"#f25e40"});
+	rushingStats.push({week:50, name:"M. Brown", att:0, yds:0, td:0, lg:0, color:"#fad435"});
 
 	var newRushingStats = newWeeklyArray1(rushingStats);
 
@@ -42,7 +36,7 @@ function selectData1() {
 
 function newWeeklyArray1(array) {
 	var newWeeklyArray = array;
-	if (week1 == 9) week1 = 10;
+	if (week1 == 6) week1 = 7;
 	for (var i = 0; i < newWeeklyArray.length; i++) {
 		for (var j = temp1; j < (temp1 + newWeeklyArray.length); j++) {
 			if (stats1[j] && newWeeklyArray[i].name == stats1[j].name && stats1[j].week == week1){
@@ -79,7 +73,7 @@ function changeData1() {
 	}
 }
 
-d3.tsv("/data/seahawks/rushing.txt", function(data) {
+d3.tsv("/data/rams/rushing.txt", function(data) {
 	stats1 = data;
 	var svg = d3.select("#donut3d1").append("svg").attr("width",300).attr("height",285);
 	svg.append("g").attr("id","rushingDonut");

@@ -1,0 +1,26 @@
+week	name	cmp	att	yds	td	int
+1	N. Foles	18	27	297	1	0
+2	N. Foles	17	32	150	1	0
+3	N. Foles	19	28	197	0	1
+3	J. Hekker	0	1	0	0	0
+4	N. Foles	16	24	171	3	0
+5	N. Foles	11	30	141	1	4
+5	J. Hekker	1	1	20	0	0
+7	N. Foles	15	23	163	0	0
+8	N. Foles	14	23	191	1	0
+9	N. Foles	18	33	168	0	0
+10	N. Foles	17	36	200	0	1
+10	J. Hekker	0	1	0	0	0
+11	C. Keenum	12	26	136	1	0
+12	N. Foles	30	46	228	0	3
+12	S. Mannion	6	7	31	0	0
+13	N. Foles	15	35	146	0	1
+14	C. Keenum	14	22	124	0	1
+15	C. Keenum	14	17	234	2	0
+16	C. Keenum	14	23	103	1	0
+17	C. Keenum	22	37	231	0	0
+17	J. Hekker	0	1	0	0	0
+
+
+
+
