@@ -528,4 +528,93 @@ Safeties	0
 Final Score	25
 Time of Possession	26:53
 
+Passing	CP/AT	YDS	TD	INT
+C. Kaepernick	13/24	124	0	0
+Rushing	ATT	YDS	TD	LG
+C. Hyde	11	40	0	13
+R. Bush	4	21	0	9
+Receiving	REC	YDS	TD	LG
+V. Davis	4	61	0	27
+A. Boldin	3	39	0	27
+R. Bush	3	13	0	8
+G. Celek	1	8	0	8
+Q. Patton	1	2	0	2
+V. McDonald	1	1	0	1
+Fumbles	FUM	LOST	REC	YDS
+C. Hyde	1	0	0	0
+E. Pears	0	0	1	0
+Kicking	FG	LG	XP	PTS
+P. Dawson	1/1	35	0/0	3
+Punting	NO	AVG	I20	LG
+B. Pinion	9	42.1	2	54
+Kickoff Returns	NO	AVG	TD	LG
+B. Ellington	3	24	0	25
+Q. Patton	1	31	0	31
+Punt Returns	NO	AVG	TD	LG
+R. Bush	1	9	0	9
+Defense	T-A	SCK	INT	FF
+M. Wilhoite	9-4	0.0	0	0
+N. Bowman	6-4	0.0	0	0
+J. Tartt	6-2	0.0	0	0
+A. Lynch	5-0	2.0	0	0
+I. Williams	5-0	0.0	0	0
+A. Bethea	4-1	0.0	0	0
+T. Brock	3-0	0.0	1	0
+C. Carradine	3-1	0.0	0	0
+E. Reid	3-0	0.0	0	0
+A. Brooks	2-3	2.0	0	0
+Q. Dial	2-1	1.0	0	0
+G. Dorsey	2-1	0.0	0	0
+J. Ward	2-1	0.0	0	0
+K. Acker	1-0	0.0	1	0
+E. Harold	1-1	0.0	0	0
+G. Hodges	1-0	0.0	0	0
+T. Jerod-Eddie	1-0	0.0	0	0
+K. Reaser	1-0	0.0	0	0
+Total First Downs	8
+By Rushing	3
+By Passing	5
+By Penalty	
+Third Down Efficiency	1/11 - 9%
+Fourth Down Efficiency	0/0 - 0%
+Total Net Yards	142
+Total Rushing/Passing Plays (includes Sacks)	45
+Average Gain per Offensive Play	3.2
+Net Yards Rushing	61
+Total Rushing Plays	15
+Average Gain per Rushing Play	4.1
+Tackled for a Loss (Number-Yards)	2--5
+Net Yards Passing	81
+Times Sacked (Number-Yards)	6 - 43
+Gross Yards Passing	124
+Pass Comp-Att-Int	13 - 24 - 0
+Average Gain per Passing Play (includes Sacks)	2.7
+Kickoffs (Number-In End Zone-Touchbacks)	2 - 1 - 1
+Punts (Number-Average)	9 - 43.3
+Blocked	0
+Net Punting Average	42.1
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	9
+Punt Returns (Number-Yards)	1 - 9
+Kickoff Returns (Number-Yards)	4 - 104
+Interception Returns (Number-Yards)	2 - 0
+Penalties (Number-Yards)	4 - 33
+Fumbles (Number-Lost)	1 - 0
+Touchdowns	0
+Rushing	0
+Passing	0
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	0 - 0
+Kicking (Made-Attempted)	0 - 0
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	1 - 1
+Red Zone Efficiency	0/1 - 0%
+Goal To Go Efficiency	0/0 - 0%
+Safeties	0
+Final Score	3
+Time of Possession	21:55
+
 
