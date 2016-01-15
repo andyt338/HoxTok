@@ -1,0 +1,21 @@
+week	name	cmp	att	yds	td	int
+1	C. Palmer	19	32	307	3	0
+2	C. Palmer	17	24	185	4	1
+3	C. Palmer	20	32	311	2	1
+4	C. Palmer	29	46	352	1	1
+5	C. Palmer	11	14	161	3	0
+5	D. Stanton	1	4	10	0	0
+6	C. Palmer	29	45	421	1	2
+7	C. Palmer	20	29	275	2	0
+8	C. Palmer	23	38	374	4	1
+10	C. Palmer	29	47	363	3	1
+11	C. Palmer	20	31	317	4	2
+12	C. Palmer	24	40	271	0	0
+13	C. Palmer	26	40	356	2	0
+13	D. Stanton	1	1	6	0	0
+14	C. Palmer	25	35	310	2	0
+15	C. Palmer	20	32	274	1	0
+15	D. Stanton	0	1	0	0	0
+16	C. Palmer	18	27	265	2	1
+16	C. Palmer	12	25	129	1	1
+
