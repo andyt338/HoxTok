@@ -259,4 +259,93 @@ Safeties	0
 Final Score	12
 Time of Possession	32:19
 
+Passing	CP/AT	YDS	TD	INT
+M. Vick	19/26	124	1	0
+Rushing	ATT	YDS	TD	LG
+L. Bell	22	129	1	22
+M. Vick	9	33	0	10
+De. Williams	2	5	0	8
+Receiving	REC	YDS	TD	LG
+A. Brown	5	42	0	17
+D. Heyward-Bey	4	31	1	12
+L. Bell	7	21	0	9
+M. Wheaton	1	18	0	18
+S. Coates	1	11	0	11
+H. Miller	1	1	0	1
+Fumbles	FUM	LOST	REC	YDS
+A. Brown	1	0	1	0
+M. Vick	1	0	1	0
+R. Cockrell	0	0	1	0
+C. Heyward	0	0	0	0
+Kicking	FG	LG	XP	PTS
+J. Scobee	2/4	45	2/2	8
+Punting	NO	AVG	I20	LG
+J. Berry	6	37.5	2	51
+Kickoff Returns	NO	AVG	TD	LG
+D. Archer	1	31	0	31
+Punt Returns	NO	AVG	TD	LG
+A. Brown	3	17	0	29
+Defense	T-A	SCK	INT	FF
+L. Timmons	10-1	1.0	0	0
+S. Tuitt	10-0	1.0	0	0
+W. Allen	8-0	0.0	0	0
+C. Heyward	7-0	1.0	0	1
+J. Harrison	5-3	1.0	0	0
+A. Blake	4-4	0.0	0	0
+S. Spence	4-3	1.0	0	0
+M. Mitchell	3-2	0.0	0	0
+B. Dupree	2-1	0.0	0	0
+W. Gay	2-0	0.0	0	0
+C. Thomas	2-0	0.0	0	0
+V. Williams	2-2	0.0	0	0
+R. Golden	1-0	0.0	0	0
+A. Moats	1-1	0.0	0	0
+R. Cockrell	0-0	0.0	1	0
+J. Jones	0-1	0.0	0	0
+Total First Downs	17
+By Rushing	8
+By Passing	8
+By Penalty	
+Third Down Efficiency	2/13 - 15%
+Fourth Down Efficiency	0/2 - 0%
+Total Net Yards	263
+Total Rushing/Passing Plays (includes Sacks)	63
+Average Gain per Offensive Play	4.2
+Net Yards Rushing	167
+Total Rushing Plays	33
+Average Gain per Rushing Play	5.1
+Tackled for a Loss (Number-Yards)	3--5
+Net Yards Passing	96
+Times Sacked (Number-Yards)	4 - 28
+Gross Yards Passing	124
+Pass Comp-Att-Int	19 - 26 - 0
+Average Gain per Passing Play (includes Sacks)	3.2
+Kickoffs (Number-In End Zone-Touchbacks)	4 - 3 - 3
+Punts (Number-Average)	6 - 39.8
+Blocked	0
+Net Punting Average	37.5
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	88
+Punt Returns (Number-Yards)	3 - 51
+Kickoff Returns (Number-Yards)	1 - 31
+Interception Returns (Number-Yards)	1 - 37
+Penalties (Number-Yards)	4 - 20
+Fumbles (Number-Lost)	2 - 0
+Touchdowns	2
+Rushing	1
+Passing	1
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	2 - 2
+Kicking (Made-Attempted)	2 - 2
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	2 - 4
+Red Zone Efficiency	2/3 - 66%
+Goal To Go Efficiency	0/0 - 0%
+Safeties	0
+Final Score	20
+Time of Possession	32:09
+
 
