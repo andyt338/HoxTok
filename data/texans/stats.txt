@@ -455,3 +455,92 @@ Safeties	0
 Final Score	20
 Time of Possession	32:27
 
+Passing	CP/AT	YDS	TD	INT
+B. Hoyer	24/36	293	3	0
+Rushing	ATT	YDS	TD	LG
+A. Foster	18	53	0	16
+C. Polk	8	37	0	12
+B. Hoyer	5	5	0	6
+Receiving	REC	YDS	TD	LG
+D. Hopkins	10	148	2	29
+C. Shorts	4	63	0	31
+A. Foster	5	59	1	15
+C. Fiedorowicz	1	8	0	8
+K. Mumphery	2	8	0	5
+J. Strong	1	5	0	5
+C. Polk	1	2	0	2
+Fumbles	FUM	LOST	REC	YDS
+A. Foster	1	0	0	0
+K. Lamm	0	0	1	0
+Kicking	FG	LG	XP	PTS
+N. Novak	1/1	41	4/4	7
+Punting	NO	AVG	I20	LG
+S. Lechler	3	30.7	1	43
+N. Novak	1	16.0	0	36
+Kickoff Returns	NO	AVG	TD	LG
+K. Mumphery	1	14	0	14
+Punt Returns	NO	AVG	TD	LG
+K. Mumphery	2	12	0	14
+Defense	T-A	SCK	INT	FF
+B. Cushing	9-3	0.0	0	0
+A. Bouye	7-0	0.0	1	0
+K. Johnson	4-0	0.0	0	0
+J. Joseph	4-2	0.0	0	0
+L. Ballentine	3-0	0.0	0	0
+W. Mercilus	3-0	2.0	0	0
+A. Hal	2-1	0.0	2	0
+B. McKinney	2-1	0.0	0	0
+J. Watt	2-0	0.0	0	0
+J. Crick	1-1	0.0	0	0
+K. Jackson	1-0	0.0	0	0
+R. Moore	1-0	0.0	0	0
+E. Pleasant	1-0	0.0	0	0
+J. Simon	1-1	1.0	0	0
+J. Tuggle	1-0	0.0	0	0
+V. Wilfork	1-1	0.0	0	0
+Total First Downs	24
+By Rushing	6
+By Passing	15
+By Penalty	
+Third Down Efficiency	7/14 - 50%
+Fourth Down Efficiency	1/2 - 50%
+Total Net Yards	382
+Total Rushing/Passing Plays (includes Sacks)	68
+Average Gain per Offensive Play	5.6
+Net Yards Rushing	95
+Total Rushing Plays	31
+Average Gain per Rushing Play	3.1
+Tackled for a Loss (Number-Yards)	4--10
+Net Yards Passing	287
+Times Sacked (Number-Yards)	1 - 6
+Gross Yards Passing	293
+Pass Comp-Att-Int	24 - 36 - 0
+Average Gain per Passing Play (includes Sacks)	7.8
+Kickoffs (Number-In End Zone-Touchbacks)	6 - 5 - 3
+Punts (Number-Average)	4 - 38.8
+Blocked	0
+Net Punting Average	27.0
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	59
+Punt Returns (Number-Yards)	2 - 25
+Kickoff Returns (Number-Yards)	1 - 14
+Interception Returns (Number-Yards)	3 - 34
+Penalties (Number-Yards)	10 - 69
+Fumbles (Number-Lost)	1 - 0
+Touchdowns	4
+Rushing	0
+Passing	3
+Interceptions	1
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	4 - 4
+Kicking (Made-Attempted)	4 - 4
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	1 - 1
+Red Zone Efficiency	2/2 - 100%
+Goal To Go Efficiency	1/1 - 100%
+Safeties	0
+Final Score	31
+Time of Possession	30:02
+

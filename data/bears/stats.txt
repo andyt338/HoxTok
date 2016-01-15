@@ -423,3 +423,93 @@ Safeties	0
 Final Score	18
 Time of Possession	33:37
 
+Passing	CP/AT	YDS	TD	INT
+J. Cutler	26/41	353	1	1
+Rushing	ATT	YDS	TD	LG
+M. Forte	24	69	1	11
+J. Cutler	2	12	0	10
+J. Langford	5	10	1	6
+Receiving	REC	YDS	TD	LG
+A. Jeffery	8	147	1	45
+M. Bennett	6	59	0	19
+M. Wilson	2	54	0	46
+E. Royal	5	49	0	30
+M. Forte	3	20	0	8
+J. Langford	1	17	0	17
+C. Meredith	1	7	0	7
+Fumbles	FUM	LOST	REC	YDS
+M. Forte	1	0	1	0
+S. Acho	0	0	0	0
+J. Bellamy	0	0	1	0
+C. Prosinski	0	0	1	0
+Kicking	FG	LG	XP	PTS
+R. Gould	4/4	38	2/2	14
+Punting	NO	AVG	I20	LG
+P. O'Donnell	5	44.4	2	52
+Kickoff Returns	NO	AVG	TD	LG
+M. Mariani	2	25	0	38
+Punt Returns	NO	AVG	TD	LG
+M. Mariani	4	6	0	15
+Defense	T-A	SCK	INT	FF
+K. Fuller	7-1	0.0	0	0
+C. Jones	6-3	0.0	0	0
+S. McManis	6-1	0.0	0	0
+L. Reynolds	5-0	0.0	0	0
+T. Porter	4-0	0.0	0	0
+S. Acho	3-0	0.0	0	1
+A. Amos	3-1	0.0	0	0
+E. Goldman	3-2	0.5	0	0
+H. Jones-Quartey	3-2	0.0	0	0
+P. McPhee	3-1	1.0	0	0
+J. Ratliff	3-0	0.0	0	0
+J. Anderson	2-1	0.0	1	0
+L. Houston	2-0	0.0	0	0
+A. Ball	1-0	0.0	0	0
+M. Mariani	1-0	0.0	0	0
+J. Jenkins	0-1	0.5	0	0
+Total First Downs	24
+By Rushing	7
+By Passing	13
+By Penalty	
+Third Down Efficiency	6/14 - 42%
+Fourth Down Efficiency	0/0 - 0%
+Total Net Yards	444
+Total Rushing/Passing Plays (includes Sacks)	73
+Average Gain per Offensive Play	6.1
+Net Yards Rushing	91
+Total Rushing Plays	31
+Average Gain per Rushing Play	2.9
+Tackled for a Loss (Number-Yards)	3--4
+Net Yards Passing	353
+Times Sacked (Number-Yards)	1 - 0
+Gross Yards Passing	353
+Pass Comp-Att-Int	26 - 41 - 1
+Average Gain per Passing Play (includes Sacks)	8.4
+Kickoffs (Number-In End Zone-Touchbacks)	8 - 8 - 5
+Punts (Number-Average)	5 - 44.4
+Blocked	0
+Net Punting Average	44.4
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	27
+Punt Returns (Number-Yards)	4 - 27
+Kickoff Returns (Number-Yards)	2 - 50
+Interception Returns (Number-Yards)	1 - 0
+Penalties (Number-Yards)	9 - 76
+Fumbles (Number-Lost)	1 - 0
+Touchdowns	3
+Rushing	2
+Passing	1
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	3 - 3
+Kicking (Made-Attempted)	2 - 2
+Two Point Conversions (Made-Attempted)	1 - 1
+Field Goals (Made-Attempted)	4 - 4
+Red Zone Efficiency	3/8 - 37%
+Goal To Go Efficiency	3/6 - 50%
+Safeties	0
+Final Score	34
+Time of Possession	33:34
+
