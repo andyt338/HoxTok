@@ -617,4 +617,95 @@ Safeties	0
 Final Score	3
 Time of Possession	21:55
 
+Passing	CP/AT	YDS	TD	INT
+C. Kaepernick	20/41	162	0	0
+Rushing	ATT	YDS	TD	LG
+C. Kaepernick	6	28	0	9
+K. Gaskins	5	6	0	3
+M. Davis	10	4	0	5
+Receiving	REC	YDS	TD	LG
+J. Simpson	3	34	0	16
+Q. Patton	2	33	0	33
+V. Davis	6	24	0	11
+T. Smith	2	19	0	11
+K. Gaskins	2	17	0	9
+M. Davis	2	14	0	11
+V. McDonald	1	13	0	13
+B. Ellington	2	8	0	4
+Fumbles	FUM	LOST	REC	YDS
+E. Harold	0	0	1	8
+J. Tartt	0	0	0	0
+Kicking	FG	LG	XP	PTS
+P. Dawson	2/2	54	0/0	6
+Punting	NO	AVG	I20	LG
+B. Pinion	9	43.8	3	60
+P. Dawson	1	47.0	0	48
+Kickoff Returns	NO	AVG	TD	LG
+B. Ellington	2	24	0	30
+Punt Returns	NO	AVG	TD	LG
+B. Ellington	4	9	0	27
+R. Bush	1	0	0	0
+Defense	T-A	SCK	INT	FF
+N. Bowman	6-6	0.0	0	0
+J. Tartt	5-1	0.0	0	1
+M. Wilhoite	4-2	0.0	0	0
+T. Brock	3-0	0.0	0	0
+Q. Dial	3-3	0.0	0	0
+E. Reid	3-0	0.0	0	0
+I. Williams	3-3	0.0	0	0
+K. Acker	2-1	0.0	0	0
+G. Dorsey	2-1	0.0	0	0
+T. Jerod-Eddie	2-0	0.0	0	0
+A. Brooks	1-1	0.0	0	0
+E. Harold	1-2	0.0	0	0
+G. Hodges	1-0	0.0	0	0
+J. Ward	1-1	0.0	0	0
+C. Lemonier	0-1	0.0	0	0
+A. Lynch	0-1	0.0	0	0
+Total First Downs	11
+By Rushing	1
+By Passing	8
+By Penalty	
+Third Down Efficiency	3/17 - 17%
+Fourth Down Efficiency	0/1 - 0%
+Total Net Yards	189
+Total Rushing/Passing Plays (includes Sacks)	65
+Average Gain per Offensive Play	2.9
+Net Yards Rushing	38
+Total Rushing Plays	21
+Average Gain per Rushing Play	1.8
+Tackled for a Loss (Number-Yards)	6--9
+Net Yards Passing	151
+Times Sacked (Number-Yards)	3 - 11
+Gross Yards Passing	162
+Pass Comp-Att-Int	20 - 41 - 0
+Average Gain per Passing Play (includes Sacks)	3.4
+Kickoffs (Number-In End Zone-Touchbacks)	4 - 2 - 2
+Punts (Number-Average)	10 - 46.0
+Blocked	0
+Net Punting Average	44.1
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	38
+Punt Returns (Number-Yards)	5 - 38
+Kickoff Returns (Number-Yards)	2 - 49
+Interception Returns (Number-Yards)	0 - 0
+Penalties (Number-Yards)	13 - 93
+Fumbles (Number-Lost)	0 - 0
+Touchdowns	0
+Rushing	0
+Passing	0
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	0 - 0
+Kicking (Made-Attempted)	0 - 0
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	2 - 2
+Red Zone Efficiency	0/1 - 0%
+Goal To Go Efficiency	0/1 - 0%
+Safeties	0
+Final Score	6
+Time of Possession	28:02
+
 

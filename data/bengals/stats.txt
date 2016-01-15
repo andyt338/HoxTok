@@ -539,3 +539,95 @@ Time of Possession	30:00
 
 week 7 bye
 
+Passing	CP/AT	YDS	TD	INT
+A. Dalton	23/38	231	1	2
+Rushing	ATT	YDS	TD	LG
+J. Hill	15	60	0	15
+G. Bernard	1	12	0	12
+A. Dalton	6	4	0	5
+M. Jones	1	2	0	2
+Receiving	REC	YDS	TD	LG
+A. Green	11	118	1	38
+T. Eifert	4	39	0	23
+G. Bernard	2	22	0	23
+R. Hewitt	1	22	0	22
+M. Jones	2	12	0	6
+M. Sanu	2	10	0	7
+J. Hill	1	8	0	8
+Fumbles	FUM	LOST	REC	YDS
+R. Bodine	1	0	0	-9
+A. Dalton	1	0	1	-15
+G. Bernard	0	0	1	0
+Kicking	FG	LG	XP	PTS
+M. Nugent	3/4	45	1/1	10
+Punting	NO	AVG	I20	LG
+K. Huber	4	34.0	3	42
+Kickoff Returns	NO	AVG	TD	LG
+B. Tate	2	26	0	27
+Punt Returns	NO	AVG	TD	LG
+A. Jones	2	16	0	18
+B. Tate	1	5	0	5
+Defense	T-A	SCK	INT	FF
+V. Burfict	5-0	0.0	0	0
+L. Hall	5-0	0.0	0	0
+A. Jones	5-0	0.0	0	0
+R. Nelson	5-0	0.0	2	0
+V. Rey	5-3	0.0	0	0
+G. Iloka	4-0	0.0	0	0
+D. Kirkpatrick	3-0	0.0	0	0
+G. Atkins	2-0	1.0	0	0
+C. Dunlap	2-0	0.0	0	0
+E. Lamur	2-0	0.0	0	0
+D. Peko	2-0	0.0	0	0
+P. Sims	2-2	0.0	0	0
+C. Carter	1-0	0.0	0	0
+W. Gilberry	1-0	1.0	0	0
+A. Hawk	1-0	0.0	0	0
+M. Johnson	1-0	1.0	0	0
+S. Williams	1-0	0.0	1	0
+Total First Downs	16
+By Rushing	3
+By Passing	11
+By Penalty	
+Third Down Efficiency	4/15 - 26%
+Fourth Down Efficiency	0/0 - 0%
+Total Net Yards	296
+Total Rushing/Passing Plays (includes Sacks)	64
+Average Gain per Offensive Play	4.6
+Net Yards Rushing	78
+Total Rushing Plays	23
+Average Gain per Rushing Play	3.4
+Tackled for a Loss (Number-Yards)	3--5
+Net Yards Passing	218
+Times Sacked (Number-Yards)	3 - 13
+Gross Yards Passing	231
+Pass Comp-Att-Int	23 - 38 - 2
+Average Gain per Passing Play (includes Sacks)	5.3
+Kickoffs (Number-In End Zone-Touchbacks)	5 - 5 - 3
+Punts (Number-Average)	4 - 34.0
+Blocked	0
+Net Punting Average	34.0
+FGs Blocked - PATs Blocked	1 - 0
+Total Return Yardage (excludes Kickoffs)	89
+Punt Returns (Number-Yards)	3 - 38
+Kickoff Returns (Number-Yards)	2 - 52
+Interception Returns (Number-Yards)	3 - 51
+Penalties (Number-Yards)	10 - 94
+Fumbles (Number-Lost)	2 - 0
+Touchdowns	1
+Rushing	0
+Passing	1
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	1 - 1
+Kicking (Made-Attempted)	1 - 1
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	3 - 4
+Red Zone Efficiency	1/3 - 33%
+Goal To Go Efficiency	0/1 - 0%
+Safeties	0
+Final Score	16
+Time of Possession	29:51
+

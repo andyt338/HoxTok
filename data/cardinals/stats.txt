@@ -621,3 +621,94 @@ Safeties	0
 Final Score	26
 Time of Possession	29:36
 
+Passing	CP/AT	YDS	TD	INT
+C. Palmer	23/38	374	4	1
+Rushing	ATT	YDS	TD	LG
+C. Johnson	30	109	0	13
+C. Palmer	3	6	0	8
+D. Johnson	1	4	0	4
+A. Ellington	3	0	0	3
+J. Nelson	1	0	0	0
+Receiving	REC	YDS	TD	LG
+M. Floyd	4	106	1	60T
+L. Fitzgerald	9	84	1	16
+J. Nelson	3	70	0	38
+D. Johnson	2	44	0	34
+JA. Brown	1	39	0	39
+J. Gresham	2	19	0	13
+T. Niklas	2	12	2	11T
+Fumbles	FUM	LOST	REC	YDS
+C. Johnson	2	2	0	0
+L. Fitzgerald	1	1	0	0
+D. Johnson	1	0	0	0
+D. Freeney	0	0	0	0
+C. Redding	0	0	1	0
+Kicking	FG	LG	XP	PTS
+C. Catanzaro	2/2	37	4/4	10
+Punting	NO	AVG	I20	LG
+D. Butler	2	40.5	0	50
+Kickoff Returns	NO	AVG	TD	LG
+D. Johnson	3	21	0	24
+Punt Returns	NO	AVG	TD	LG
+P. Peterson	4	12	0	38
+Defense	T-A	SCK	INT	FF
+T. Jefferson	5-1	0.0	0	0
+K. Minter	5-2	0.0	0	0
+D. Bucannon	4-0	0.0	0	0
+J. Bethel	3-0	0.0	0	0
+T. Mathieu	3-0	0.0	0	0
+P. Peterson	3-0	0.0	0	0
+C. Campbell	2-1	0.0	0	0
+R. Johnson	2-0	0.0	1	0
+J. Mauro	2-0	0.0	0	0
+F. Rucker	2-0	0.0	0	0
+L. Woodley	2-0	0.0	0	0
+D. Freeney	1-0	1.0	0	1
+M. Golden	1-0	0.0	0	0
+E. Stinson	1-0	0.0	0	0
+Total First Downs	25
+By Rushing	6
+By Passing	17
+By Penalty	
+Third Down Efficiency	13/16 - 81%
+Fourth Down Efficiency	0/0 - 0%
+Total Net Yards	491
+Total Rushing/Passing Plays (includes Sacks)	77
+Average Gain per Offensive Play	6.4
+Net Yards Rushing	119
+Total Rushing Plays	38
+Average Gain per Rushing Play	3.1
+Tackled for a Loss (Number-Yards)	3--5
+Net Yards Passing	372
+Times Sacked (Number-Yards)	1 - 2
+Gross Yards Passing	374
+Pass Comp-Att-Int	23 - 38 - 1
+Average Gain per Passing Play (includes Sacks)	9.5
+Kickoffs (Number-In End Zone-Touchbacks)	6 - 5 - 4
+Punts (Number-Average)	2 - 50.0
+Blocked	0
+Net Punting Average	40.5
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	50
+Punt Returns (Number-Yards)	4 - 50
+Kickoff Returns (Number-Yards)	3 - 63
+Interception Returns (Number-Yards)	1 - 0
+Penalties (Number-Yards)	5 - 25
+Fumbles (Number-Lost)	4 - 3
+Touchdowns	4
+Rushing	0
+Passing	4
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	4 - 4
+Kicking (Made-Attempted)	4 - 4
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	2 - 2
+Red Zone Efficiency	3/5 - 60%
+Goal To Go Efficiency	2/2 - 100%
+Safeties	0
+Final Score	34
+Time of Possession	34:23
+
