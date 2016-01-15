@@ -873,4 +873,6 @@ Safeties	0
 Final Score	30
 Time of Possession	27:17
 
+week 11 bye
+
 

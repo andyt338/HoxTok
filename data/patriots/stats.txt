@@ -833,3 +833,93 @@ Safeties	0
 Final Score	27
 Time of Possession	31:36
 
+Passing	CP/AT	YDS	TD	INT
+T. Brady	20/39	277	1	1
+Rushing	ATT	YDS	TD	LG
+L. Blount	16	56	0	17
+B. Bolden	4	15	0	7
+J. White	2	14	1	8
+Receiving	REC	YDS	TD	LG
+D. Amendola	9	117	0	41
+B. LaFell	4	66	0	27
+R. Gronkowski	2	37	0	27
+J. White	2	32	1	20T
+A. Dobson	1	17	0	17
+L. Blount	1	5	0	5
+S. Chandler	1	3	0	3
+Fumbles	FUM	LOST	REC	YDS
+J. Freeny	1	0	1	5
+B. King	0	0	0	0
+R. Ninkovich	0	0	0	0
+J. Sheard	0	0	0	0
+Kicking	FG	LG	XP	PTS
+S. Gostkowski	2/3	35	2/2	8
+Punting	NO	AVG	I20	LG
+R. Allen	7	40.0	3	52
+Kickoff Returns	NO	AVG	TD	LG
+D. McCourty	1	0	0	0
+M. Williams	1	10	0	10
+Punt Returns	NO	AVG	TD	LG
+D. Amendola	3	11	0	21
+C. Harper	0	0	0	0
+Defense	T-A	SCK	INT	FF
+L. Ryan	7-2	0.0	0	0
+J. Mayo	5-0	0.0	0	0
+J. Freeny	4-2	0.0	0	0
+D. Hightower	4-0	0.0	0	0
+R. Ninkovich	4-2	1.5	0	1
+J. Sheard	4-1	0.0	0	1
+M. Butler	3-0	0.0	0	0
+P. Chung	3-2	0.0	0	0
+T. Wilson	3-0	0.0	0	0
+M. Brown	2-1	0.0	0	0
+D. Easley	1-1	0.5	0	0
+C. Jones	1-0	0.0	0	0
+D. McCourty	1-0	0.0	0	0
+A. Hicks	0-1	0.0	0	0
+Total First Downs	18
+By Rushing	4
+By Passing	12
+By Penalty	
+Third Down Efficiency	4/14 - 28%
+Fourth Down Efficiency	0/0 - 0%
+Total Net Yards	356
+Total Rushing/Passing Plays (includes Sacks)	62
+Average Gain per Offensive Play	5.7
+Net Yards Rushing	85
+Total Rushing Plays	22
+Average Gain per Rushing Play	3.9
+Tackled for a Loss (Number-Yards)	1--2
+Net Yards Passing	271
+Times Sacked (Number-Yards)	1 - 6
+Gross Yards Passing	277
+Pass Comp-Att-Int	20 - 39 - 1
+Average Gain per Passing Play (includes Sacks)	6.8
+Kickoffs (Number-In End Zone-Touchbacks)	5 - 4 - 3
+Punts (Number-Average)	7 - 41.1
+Blocked	0
+Net Punting Average	40.0
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	34
+Punt Returns (Number-Yards)	3 - 34
+Kickoff Returns (Number-Yards)	2 - 10
+Interception Returns (Number-Yards)	0 - 0
+Penalties (Number-Yards)	5 - 61
+Fumbles (Number-Lost)	1 - 0
+Touchdowns	2
+Rushing	1
+Passing	1
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	2 - 2
+Kicking (Made-Attempted)	2 - 2
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	2 - 3
+Red Zone Efficiency	1/3 - 33%
+Goal To Go Efficiency	1/1 - 100%
+Safeties	0
+Final Score	20
+Time of Possession	27:05
+
