@@ -986,3 +986,90 @@ Safeties	0
 Final Score	33
 Time of Possession	29:30
 
+Passing	CP/AT	YDS	TD	INT
+M. Schaub	32/46	308	1	2
+Rushing	ATT	YDS	TD	LG
+J. Allen	17	63	0	16
+T. West	8	31	0	8
+M. Schaub	1	0	0	0
+Receiving	REC	YDS	TD	LG
+J. Allen	12	107	1	41T
+C. Givens	3	68	0	36
+K. Aiken	6	48	0	11
+J. Butler	4	43	0	22
+D. Brown	1	17	0	17
+N. Boyle	3	15	0	7
+C. Gillmore	1	7	0	7
+T. West	1	5	0	5
+K. Juszczyk	1	-2	0	-2
+Fumbles	FUM	LOST	REC	YDS
+K. Lewis	0	0	0	0
+C. Upshaw	0	0	1	0
+Kicking	FG	LG	XP	PTS
+J. Tucker	2/3	38	1/1	7
+Punting	NO	AVG	I20	LG
+S. Koch	5	46.4	2	67
+Kickoff Returns	NO	AVG	TD	LG
+R. Mostert	1	23	0	23
+Punt Returns	NO	AVG	TD	LG
+K. Clay	4	10	0	17
+L. Webb	1	7	0	7
+Defense	T-A	SCK	INT	FF
+D. Smith	9-0	1.0	0	0
+K. Lewis	5-0	0.0	0	1
+C. Mosley	4-0	0.0	0	0
+Z. Orr	3-0	0.0	0	0
+E. Dumervil	2-1	0.0	0	0
+W. Hill	2-1	0.0	0	0
+C. Upshaw	2-1	0.0	0	0
+S. Wright	2-0	0.0	0	0
+C. Canty	1-1	0.0	0	0
+Z. Smith	1-0	0.0	0	0
+L. Webb	1-0	0.0	0	0
+B. Williams	1-1	0.0	0	0
+Total First Downs	22
+By Rushing	4
+By Passing	18
+By Penalty	
+Third Down Efficiency	5/14 - 35%
+Fourth Down Efficiency	0/1 - 0%
+Total Net Yards	375
+Total Rushing/Passing Plays (includes Sacks)	75
+Average Gain per Offensive Play	5.0
+Net Yards Rushing	94
+Total Rushing Plays	26
+Average Gain per Rushing Play	3.6
+Tackled for a Loss (Number-Yards)	0-0
+Net Yards Passing	281
+Times Sacked (Number-Yards)	3 - 27
+Gross Yards Passing	308
+Pass Comp-Att-Int	32 - 46 - 2
+Average Gain per Passing Play (includes Sacks)	5.7
+Kickoffs (Number-In End Zone-Touchbacks)	4 - 3 - 2
+Punts (Number-Average)	5 - 53.4
+Blocked	0
+Net Punting Average	46.4
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	47
+Punt Returns (Number-Yards)	5 - 47
+Kickoff Returns (Number-Yards)	1 - 23
+Interception Returns (Number-Yards)	0 - 0
+Penalties (Number-Yards)	5 - 36
+Fumbles (Number-Lost)	0 - 0
+Touchdowns	1
+Rushing	0
+Passing	1
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	1 - 1
+Kicking (Made-Attempted)	1 - 1
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	2 - 3
+Red Zone Efficiency	0/2 - 0%
+Goal To Go Efficiency	0/0 - 0%
+Safeties	0
+Final Score	13
+Time of Possession	38:09
+

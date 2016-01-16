@@ -967,3 +967,97 @@ Safeties	0
 Final Score	31
 Time of Possession	31:24
 
+Passing	CP/AT	YDS	TD	INT
+P. Rivers	18/35	202	0	1
+Rushing	ATT	YDS	TD	LG
+M. Gordon	12	55	0	21
+D. Brown	7	26	0	11
+D. Woodhead	3	10	0	7
+D. Johnson	1	2	0	2
+Receiving	REC	YDS	TD	LG
+A. Gates	6	50	0	15
+D. Brown	1	31	0	31
+J. Herndon	2	30	0	16
+D. Woodhead	3	24	0	10
+L. Green	2	21	0	16
+M. Floyd	1	15	0	15
+D. Inman	1	15	0	15
+M. Gordon	1	8	0	8
+J. Phillips	1	8	0	8
+Fumbles	FUM	LOST	REC	YDS
+M. Gordon	2	1	0	0
+D. Brown	1	0	0	0
+M. Floyd	1	1	0	0
+Kicking	FG	LG	XP	PTS
+J. Lambo	1/2	51	0/0	3
+Punting	NO	AVG	I20	LG
+M. Scifres	4	42.8	2	51
+Kickoff Returns	NO	AVG	TD	LG
+J. Herndon	1	24	0	24
+Punt Returns	NO	AVG	TD	LG
+J. Herndon	1	4	0	4
+Defense	T-A	SCK	INT	FF
+D. Perryman	10-0	0.0	0	0
+P. Robinson	7-1	0.0	0	0
+M. Ingram	6-1	1.0	0	0
+J. Addae	4-3	0.0	0	0
+M. Te'o	4-2	0.0	0	0
+J. Verrett	4-0	0.0	1	0
+E. Weddle	4-2	0.0	0	0
+R. Mathews	3-0	0.0	0	0
+S. Williams	3-0	0.0	0	0
+J. Attaochu	2-1	0.0	0	0
+R. Carrethers	2-0	0.0	0	0
+D. Butler	1-0	0.0	0	0
+K. Emanuel	1-0	0.0	0	0Total First Downs	15
+By Rushing	6
+By Passing	8
+By Penalty	
+Third Down Efficiency	5/14 - 35%
+Fourth Down Efficiency	0/2 - 0%
+Total Net Yards	272
+Total Rushing/Passing Plays (includes Sacks)	62
+Average Gain per Offensive Play	4.4
+Net Yards Rushing	93
+Total Rushing Plays	23
+Average Gain per Rushing Play	4.0
+Tackled for a Loss (Number-Yards)	1--6
+Net Yards Passing	179
+Times Sacked (Number-Yards)	4 - 23
+Gross Yards Passing	202
+Pass Comp-Att-Int	18 - 35 - 1
+Average Gain per Passing Play (includes Sacks)	4.6
+Kickoffs (Number-In End Zone-Touchbacks)	2 - 2 - 1
+Punts (Number-Average)	4 - 48.0
+Blocked	0
+Net Punting Average	42.8
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	4
+Punt Returns (Number-Yards)	1 - 4
+Kickoff Returns (Number-Yards)	1 - 24
+Interception Returns (Number-Yards)	1 - 0
+Penalties (Number-Yards)	8 - 72
+Fumbles (Number-Lost)	4 - 2
+Touchdowns	0
+Rushing	0
+Passing	0
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	0 - 0
+Kicking (Made-Attempted)	0 - 0
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	1 - 2
+Red Zone Efficiency	0/0 - 0%
+Goal To Go Efficiency	0/0 - 0%
+Safeties	0
+Final Score	3
+Time of Possession	27:03
+
+
+B. Flowers	1-0	0.0	0	0
+C. Law	1-2	0.0	0	0
+D. Square	1-0	0.0	0	0
+C. Liuget	0-1	0.0	0	0
+K. Reyes	0-2	0.0	0	0

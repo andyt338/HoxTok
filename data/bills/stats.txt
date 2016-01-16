@@ -955,3 +955,86 @@ Safeties	0
 Final Score	22
 Time of Possession	30:32
 
+Passing	CP/AT	YDS	TD	INT
+T. Taylor	11/21	211	3	0
+Rushing	ATT	YDS	TD	LG
+L. McCoy	21	112	0	32
+M. Gillislee	7	41	0	30
+T. Taylor	7	28	1	9
+A. Dixon	1	6	0	6
+Receiving	REC	YDS	TD	LG
+S. Watkins	3	109	1	53
+C. Clay	4	66	1	40T
+R. Woods	2	19	1	17
+C. Hogan	1	12	0	12
+M. Gillislee	1	5	0	5
+Fumbles	FUM	LOST	REC	YDS
+Kicking	FG	LG	XP	PTS
+D. Carpenter	1/2	36	3/4	6
+Punting	NO	AVG	I20	LG
+C. Schmidt	6	45.3	2	64
+Kickoff Returns	NO	AVG	TD	LG
+M. Thigpen	4	21	0	25
+Punt Returns	NO	AVG	TD	LG
+M. Thigpen	2	8	0	16
+Defense	T-A	SCK	INT	FF
+M. Lawson	7-1	0.0	0	0
+R. Darby	6-1	0.0	0	0
+P. Brown	5-4	0.0	0	0
+C. Bryant	5-1	0.0	0	0
+N. Robey	5-0	0.0	0	0
+J. Hughes	4-2	1.0	0	0
+B. Rambo	4-2	1.0	0	0
+M. Dareus	3-1	0.0	0	0
+S. Gilmore	2-0	0.0	0	0
+C. Graham	2-1	0.0	0	0
+L. McKelvin	1-0	0.0	0	0
+K. Reddick	1-1	0.0	0	0
+T. Steward	1-1	0.0	0	0
+M. Easley	0-0	0.0	1	0
+Total First Downs	15
+By Rushing	8
+By Passing	7
+By Penalty	
+Third Down Efficiency	8/16 - 50%
+Fourth Down Efficiency	0/0 - 0%
+Total Net Yards	390
+Total Rushing/Passing Plays (includes Sacks)	58
+Average Gain per Offensive Play	6.7
+Net Yards Rushing	187
+Total Rushing Plays	36
+Average Gain per Rushing Play	5.2
+Tackled for a Loss (Number-Yards)	2--3
+Net Yards Passing	203
+Times Sacked (Number-Yards)	1 - 8
+Gross Yards Passing	211
+Pass Comp-Att-Int	11 - 21 - 0
+Average Gain per Passing Play (includes Sacks)	9.2
+Kickoffs (Number-In End Zone-Touchbacks)	6 - 5 - 5
+Punts (Number-Average)	6 - 45.3
+Blocked	0
+Net Punting Average	45.3
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	16
+Punt Returns (Number-Yards)	2 - 16
+Kickoff Returns (Number-Yards)	4 - 84
+Interception Returns (Number-Yards)	1 - 0
+Penalties (Number-Yards)	5 - 42
+Fumbles (Number-Lost)	0 - 0
+Touchdowns	4
+Rushing	1
+Passing	3
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	3 - 4
+Kicking (Made-Attempted)	3 - 4
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	1 - 2
+Red Zone Efficiency	3/4 - 75%
+Goal To Go Efficiency	3/3 - 100%
+Safeties	0
+Final Score	30
+Time of Possession	28:07
+
