@@ -1228,3 +1228,91 @@ Safeties	0
 Final Score	16
 Time of Possession	27:43
 
+Passing	CP/AT	YDS	TD	INT
+K. Moore	13/31	186	0	1
+Rushing	ATT	YDS	TD	LG
+D. McFadden	19	99	0	28
+R. Turbin	5	23	0	11
+K. Moore	1	-1	0	-1
+Receiving	REC	YDS	TD	LG
+B. Butler	4	74	0	34
+T. Williams	4	62	0	22
+C. Beasley	2	29	0	25
+J. Witten	1	12	0	12
+J. Hanna	1	10	0	10
+D. McFadden	1	-1	0	-1
+Fumbles	FUM	LOST	REC	YDS
+L. Whitehead	1	1	0	0
+B. Carr	0	0	1	5
+B. Church	0	0	0	0
+Kicking	FG	LG	XP	PTS
+D. Bailey	2/3	46	0/0	6
+Punting	NO	AVG	I20	LG
+C. Jones	4	34.5	3	45
+Kickoff Returns	NO	AVG	TD	LG
+L. Whitehead	1	15	0	15
+Punt Returns	NO	AVG	TD	LG
+L. Whitehead	2	16	0	28
+Defense	T-A	SCK	INT	FF
+S. Lee	11-4	0.5	0	0
+B. Carr	5-1	0.0	0	0
+B. Church	5-2	0.0	0	1
+R. McClain	5-0	1.0	0	0
+D. Olatoye	5-1	0.0	1	0
+B. Jones	3-2	0.0	0	0
+T. Mitchell	3-1	0.0	0	0
+A. Hitchens	2-1	0.0	0	0
+D. Lawrence	2-1	1.0	0	0
+J. Wilcox	2-2	0.0	0	0
+J. Crawford	1-1	0.0	0	0
+T. Crawford	1-0	0.0	0	0
+R. Gregory	1-1	0.0	0	0
+G. Hardy	1-2	0.5	0	0
+C. Walker	1-1	0.0	0	0
+N. Hayden	0-1	0.0	0	0
+Total First Downs	14
+By Rushing	3
+By Passing	10
+By Penalty	
+Third Down Efficiency	7/14 - 50%
+Fourth Down Efficiency	0/0 - 0%
+Total Net Yards	307
+Total Rushing/Passing Plays (includes Sacks)	56
+Average Gain per Offensive Play	5.5
+Net Yards Rushing	121
+Total Rushing Plays	25
+Average Gain per Rushing Play	4.8
+Tackled for a Loss (Number-Yards)	2--5
+Net Yards Passing	186
+Times Sacked (Number-Yards)	0 - 0
+Gross Yards Passing	186
+Pass Comp-Att-Int	13 - 31 - 1
+Average Gain per Passing Play (includes Sacks)	6.0
+Kickoffs (Number-In End Zone-Touchbacks)	3 - 1 - 1
+Punts (Number-Average)	4 - 34.5
+Blocked	0
+Net Punting Average	34.5
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	32
+Punt Returns (Number-Yards)	2 - 32
+Kickoff Returns (Number-Yards)	1 - 15
+Interception Returns (Number-Yards)	1 - 0
+Penalties (Number-Yards)	8 - 65
+Fumbles (Number-Lost)	1 - 1
+Touchdowns	0
+Rushing	0
+Passing	0
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	0 - 0
+Kicking (Made-Attempted)	0 - 0
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	2 - 3
+Red Zone Efficiency	0/1 - 0%
+Goal To Go Efficiency	0/1 - 0%
+Safeties	0
+Final Score	6
+Time of Possession	28:30
+

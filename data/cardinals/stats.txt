@@ -1247,3 +1247,101 @@ Safeties	0
 Final Score	40
 Time of Possession	37:28
 
+Passing	CP/AT	YDS	TD	INT
+C. Palmer	18/27	265	2	1
+D. Stanton	1/1	4	0	0
+Rushing	ATT	YDS	TD	LG
+K. Williams	8	44	0	19
+A. Ellington	7	40	0	16
+D. Johnson	9	39	1	14T
+D. Stanton	2	-2	0	-1
+Receiving	REC	YDS	TD	LG
+M. Floyd	6	111	0	47
+D. Johnson	3	88	0	44
+L. Fitzgerald	4	29	1	12
+Jo. Brown	3	25	1	14
+J. Gresham	1	7	0	7
+A. Ellington	1	5	0	5
+K. Williams	1	4	0	4
+Fumbles	FUM	LOST	REC	YDS
+P. Peterson	1	0	0	0
+K. Williams	1	1	0	0
+D. Bucannon	0	0	0	0
+C. Clemons	0	0	1	0
+D. Freeney	0	0	0	0
+K. Martin	0	0	0	0
+J. Powers	0	0	2	12
+C. Redding	0	0	1	36
+D. Swearinger	0	0	0	0
+Kicking	FG	LG	XP	PTS
+C. Catanzaro	1/1	19	5/5	8
+Punting	NO	AVG	I20	LG
+D. Butler	4	43.0	3	54
+Kickoff Returns	NO	AVG	TD	LG
+K. Williams	1	15	0	15
+Punt Returns	NO	AVG	TD	LG
+P. Peterson	2	4	0	9
+J. Nelson	0	0	0	0
+Defense	T-A	SCK	INT	FF
+J. Bethel	7-0	0.0	1	0
+K. Minter	6-2	0.0	0	0
+C. Campbell	5-1	2.5	0	0
+T. Jefferson	4-2	0.0	0	0
+D. Bucannon	3-1	1.0	0	1
+D. Freeney	3-0	3.0	0	1
+K. Martin	3-1	1.0	0	1
+A. Okafor	3-0	0.0	0	0
+P. Peterson	3-0	0.0	0	0
+J. Powers	2-1	0.0	0	0
+M. Golden	1-2	0.5	0	0
+R. Gunter	1-1	0.0	0	0
+C. Redding	1-0	0.0	0	0
+F. Rucker	1-1	1.0	0	0
+D. Swearinger	1-0	0.0	0	1
+R. Bryant	0-1	0.0	0	0
+Total First Downs	19
+By Rushing	5
+By Passing	13
+By Penalty	
+Third Down Efficiency	5/10 - 50%
+Fourth Down Efficiency	0/0 - 0%
+Total Net Yards	381
+Total Rushing/Passing Plays (includes Sacks)	56
+Average Gain per Offensive Play	6.8
+Net Yards Rushing	121
+Total Rushing Plays	26
+Average Gain per Rushing Play	4.7
+Tackled for a Loss (Number-Yards)	2--5
+Net Yards Passing	260
+Times Sacked (Number-Yards)	2 - 9
+Gross Yards Passing	269
+Pass Comp-Att-Int	19 - 28 - 1
+Average Gain per Passing Play (includes Sacks)	8.7
+Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 5
+Punts (Number-Average)	4 - 43.0
+Blocked	0
+Net Punting Average	43.0
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	9
+Punt Returns (Number-Yards)	2 - 9
+Kickoff Returns (Number-Yards)	1 - 15
+Interception Returns (Number-Yards)	1 - 0
+Penalties (Number-Yards)	10 - 119
+Fumbles (Number-Lost)	2 - 1
+Touchdowns	5
+Rushing	1
+Passing	2
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	2
+Punt Returns	0
+Extra Points (Made-Attempted)	5 - 5
+Kicking (Made-Attempted)	5 - 5
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	1 - 1
+Red Zone Efficiency	3/4 - 75%
+Goal To Go Efficiency	2/3 - 66%
+Safeties	0
+Final Score	38
+Time of Possession	30:16
+
