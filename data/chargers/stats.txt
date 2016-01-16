@@ -1055,6 +1055,91 @@ Safeties	0
 Final Score	3
 Time of Possession	27:03
 
+Passing	CP/AT	YDS	TD	INT
+P. Rivers	24/43	263	0	1
+Rushing	ATT	YDS	TD	LG
+M. Gordon	14	35	0	10
+D. Woodhead	3	5	0	3
+P. Rivers	1	4	0	4
+Receiving	REC	YDS	TD	LG
+A. Gates	6	76	0	19
+M. Floyd	3	56	0	41
+J. Herndon	5	47	0	21
+M. Gordon	4	28	0	15
+L. Green	2	26	0	22
+V. Brown	1	22	0	22
+D. Woodhead	3	8	0	5
+Fumbles	FUM	LOST	REC	YDS
+J. Attaochu	0	0	0	0
+M. Windt	0	0	1	0
+Kicking	FG	LG	XP	PTS
+J. Lambo	1/2	30	0/0	3
+Punting	NO	AVG	I20	LG
+M. Scifres	5	39.6	2	56
+Kickoff Returns	NO	AVG	TD	LG
+J. Herndon	1	34	0	34
+Punt Returns	NO	AVG	TD	LG
+J. Herndon	0	0	0	0
+Defense	T-A	SCK	INT	FF
+J. Verrett	8-0	0.0	1	0
+J. Addae	7-0	0.0	0	0
+D. Perryman	4-1	0.0	0	0
+J. Attaochu	3-0	1.0	0	0
+M. Te'o	3-1	0.0	0	0
+E. Weddle	3-0	0.0	0	0
+M. Ingram	2-0	1.0	0	0
+R. Mathews	2-1	0.0	0	0
+P. Robinson	2-0	0.0	0	0
+K. Emanuel	1-0	0.0	0	0
+D. Square	1-0	0.0	0	0
+J. Wilson	1-0	0.0	0	0
+K. Reyes	0-1	0.0	0	0
+Total First Downs	15
+By Rushing	2
+By Passing	12
+By Penalty	
+Third Down Efficiency	6/18 - 33%
+Fourth Down Efficiency	3/3 - 100%
+Total Net Yards	280
+Total Rushing/Passing Plays (includes Sacks)	66
+Average Gain per Offensive Play	4.2
+Net Yards Rushing	44
+Total Rushing Plays	18
+Average Gain per Rushing Play	2.4
+Tackled for a Loss (Number-Yards)	3--4
+Net Yards Passing	236
+Times Sacked (Number-Yards)	5 - 27
+Gross Yards Passing	263
+Pass Comp-Att-Int	24 - 43 - 1
+Average Gain per Passing Play (includes Sacks)	4.9
+Kickoffs (Number-In End Zone-Touchbacks)	2 - 2 - 1
+Punts (Number-Average)	5 - 46.8
+Blocked	0
+Net Punting Average	39.6
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	0
+Punt Returns (Number-Yards)	0 - 0
+Kickoff Returns (Number-Yards)	1 - 34
+Interception Returns (Number-Yards)	1 - 0
+Penalties (Number-Yards)	7 - 48
+Fumbles (Number-Lost)	0 - 0
+Touchdowns	0
+Rushing	0
+Passing	0
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	0 - 0
+Kicking (Made-Attempted)	0 - 0
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	1 - 2
+Red Zone Efficiency	0/2 - 0%
+Goal To Go Efficiency	0/1 - 0%
+Safeties	0
+Final Score	3
+Time of Possession	31:08
+
 
 B. Flowers	1-0	0.0	0	0
 C. Law	1-2	0.0	0	0
