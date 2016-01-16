@@ -1182,3 +1182,95 @@ Safeties	0
 Final Score	24
 Time of Possession	29:29
 
+Passing	CP/AT	YDS	TD	INT
+R. Tannehill	20/34	216	0	0
+Rushing	ATT	YDS	TD	LG
+J. Ajayi	6	27	1	12T
+L. Miller	9	12	0	7
+R. Tannehill	3	4	1	2
+Da. Williams	1	1	0	1
+Receiving	REC	YDS	TD	LG
+D. Parker	4	87	0	35
+J. Landry	8	54	0	14
+K. Stills	1	23	0	23
+J. Ajayi	1	15	0	15
+L. Miller	2	12	0	11
+Da. Williams	2	11	0	6
+D. Sims	1	9	0	9
+J. Cameron	1	5	0	5
+Fumbles	FUM	LOST	REC	YDS
+R. Jones	1	1	0	0
+R. Tannehill	1	0	0	0
+M. Pouncey	0	0	1	0
+Kicking	FG	LG	XP	PTS
+A. Franks	0/0	0	2/2	2
+Punting	NO	AVG	I20	LG
+M. Darr	8	40.3	1	53
+Kickoff Returns	NO	AVG	TD	LG
+Da. Williams	2	24	0	26
+R. Jones	2	21	0	25
+Punt Returns	NO	AVG	TD	LG
+J. Landry	3	5	0	16
+Defense	T-A	SCK	INT	FF
+K. Sheppard	10-1	0.0	0	0
+M. Thomas	10-1	0.0	0	0
+R. Jones	8-0	0.0	1	0
+O. Vernon	6-5	0.5	0	0
+N. Suh	4-0	0.5	0	0
+Bo. McCain	3-0	0.0	0	0
+D. Coleman	3-0	0.0	0	0
+K. Misi	3-1	0.0	0	0
+B. Grimes	2-1	0.0	1	0
+N. Hewitt	2-1	0.0	0	0
+D. Shelby	2-2	0.0	0	0
+T. Lippett	1-1	0.0	0	0
+D. Moore	1-0	0.0	0	0
+S. Paysinger	1-1	0.0	0	0
+J. Phillips	1-0	0.0	0	0
+Z. Vigil	1-0	0.0	0	0
+Total First Downs	13
+By Rushing	4
+By Passing	8
+By Penalty	
+Third Down Efficiency	2/14 - 14%
+Fourth Down Efficiency	3/3 - 100%
+Total Net Yards	231
+Total Rushing/Passing Plays (includes Sacks)	56
+Average Gain per Offensive Play	4.1
+Net Yards Rushing	44
+Total Rushing Plays	19
+Average Gain per Rushing Play	2.3
+Tackled for a Loss (Number-Yards)	3--9
+Net Yards Passing	187
+Times Sacked (Number-Yards)	3 - 29
+Gross Yards Passing	216
+Pass Comp-Att-Int	20 - 34 - 0
+Average Gain per Passing Play (includes Sacks)	5.1
+Kickoffs (Number-In End Zone-Touchbacks)	3 - 2 - 2
+Punts (Number-Average)	8 - 45.8
+Blocked	0
+Net Punting Average	40.3
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	59
+Punt Returns (Number-Yards)	3 - 16
+Kickoff Returns (Number-Yards)	4 - 92
+Interception Returns (Number-Yards)	2 - 43
+Penalties (Number-Yards)	9 - 72
+Fumbles (Number-Lost)	2 - 1
+Touchdowns	2
+Rushing	2
+Passing	0
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	2 - 2
+Kicking (Made-Attempted)	2 - 2
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	0 - 0
+Red Zone Efficiency	2/2 - 100%
+Goal To Go Efficiency	1/1 - 100%
+Safeties	0
+Final Score	14
+Time of Possession	21:07
+
