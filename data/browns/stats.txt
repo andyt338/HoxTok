@@ -921,3 +921,91 @@ Time of Possession	32:43
 
 week 11 bye
 
+Passing	CP/AT	YDS	TD	INT
+J. McCown	21/38	212	1	0
+A. Davis	7/10	77	1	0
+Rushing	ATT	YDS	TD	LG
+D. Johnson Jr	7	27	0	7
+J. McCown	2	12	0	8
+T. Benjamin	1	10	0	10
+I. Crowell	7	7	0	4
+A. Davis	1	7	0	7
+Receiving	REC	YDS	TD	LG
+G. Barnidge	7	91	0	30
+T. Benjamin	6	90	1	42T
+B. Hartline	8	74	0	16
+D. Johnson Jr	5	23	0	21
+M. Moore	1	10	1	10T
+M. Johnson	1	1	0	1
+Fumbles	FUM	LOST	REC	YDS
+Kicking	FG	LG	XP	PTS
+T. Coons	2/3	31	3/3	9
+Punting	NO	AVG	I20	LG
+A. Lee	6	28.5	1	61
+Kickoff Returns	NO	AVG	TD	LG
+J. Gilbert	2	39	0	40
+Punt Returns	NO	AVG	TD	LG
+T. Benjamin	1	12	0	12
+Defense	T-A	SCK	INT	FF
+T. Gipson	6-0	0.0	0	0
+D. Whitner	6-0	0.0	0	0
+K. Dansby	3-1	0.0	1	0
+C. Kirksey	3-0	0.0	0	0
+C. Robertson	3-2	0.0	0	0
+K. Williams	3-1	0.0	0	0
+T. Williams	3-1	0.0	1	0
+J. Hughes III	2-1	0.0	0	0
+J. Meder	2-0	0.0	0	0
+D. Bryant	1-0	0.0	0	0
+J. Gilbert	1-0	0.0	0	0
+P. Kruger	1-0	0.0	0	0
+B. Mingo	1-0	0.0	0	0
+N. Orchard	1-1	0.0	0	0
+J. Poyer	1-0	0.0	0	0
+D. Shelton	0-1	0.0	0	0
+Total First Downs	21
+By Rushing	4
+By Passing	15
+By Penalty	
+Third Down Efficiency	4/15 - 26%
+Fourth Down Efficiency	2/2 - 100%
+Total Net Yards	338
+Total Rushing/Passing Plays (includes Sacks)	68
+Average Gain per Offensive Play	5.0
+Net Yards Rushing	63
+Total Rushing Plays	18
+Average Gain per Rushing Play	3.5
+Tackled for a Loss (Number-Yards)	1--2
+Net Yards Passing	275
+Times Sacked (Number-Yards)	2 - 14
+Gross Yards Passing	289
+Pass Comp-Att-Int	28 - 48 - 0
+Average Gain per Passing Play (includes Sacks)	5.5
+Kickoffs (Number-In End Zone-Touchbacks)	6 - 2 - 2
+Punts (Number-Average)	6 - 47.2
+Blocked	0
+Net Punting Average	28.5
+FGs Blocked - PATs Blocked	1 - 0
+Total Return Yardage (excludes Kickoffs)	66
+Punt Returns (Number-Yards)	1 - 12
+Kickoff Returns (Number-Yards)	2 - 78
+Interception Returns (Number-Yards)	2 - 54
+Penalties (Number-Yards)	2 - 15
+Fumbles (Number-Lost)	0 - 0
+Touchdowns	3
+Rushing	0
+Passing	2
+Interceptions	1
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	3 - 3
+Kicking (Made-Attempted)	3 - 3
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	2 - 3
+Red Zone Efficiency	1/3 - 33%
+Goal To Go Efficiency	1/2 - 50%
+Safeties	0
+Final Score	27
+Time of Possession	30:30
+
