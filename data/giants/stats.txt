@@ -43,1444 +43,1443 @@ week	Passing	CP/AT	YDS	TD	INT
 1	C. Jenkins	1-0	0.0	0	0
 1	M. Kuhn	1-0	0.0	0	0
 1	G. Selvie	1-2	0.0	0	0
-1	Total First Downs	18
-1	By Rushing	6
-1	By Passing	10
-1	By Penalty	
-1	Third Down Efficiency	6/14 - 42%
-1	Fourth Down Efficiency	0/0 - 0%
-1	Total Net Yards	285
-1	Total Rushing/Passing Plays (includes Sacks)	61
-1	Average Gain per Offensive Play	4.7
-1	Net Yards Rushing	99
-1	Total Rushing Plays	24
-1	Average Gain per Rushing Play	4.1
-1	Tackled for a Loss (Number-Yards)	3--8
-1	Net Yards Passing	186
-1	Times Sacked (Number-Yards)	1 - 3
-1	Gross Yards Passing	189
-1	Pass Comp-Att-Int	20 - 36 - 0
-1	Average Gain per Passing Play (includes Sacks)	5.0
-1	Kickoffs (Number-In End Zone-Touchbacks)	7 - 5 - 2
-1	Punts (Number-Average)	4 - 44.8
-1	Blocked	0
-1	Net Punting Average	45.5
-1	FGs Blocked - PATs Blocked	0 - 0
-1	Total Return Yardage (excludes Kickoffs)	23
-1	Punt Returns (Number-Yards)	2 - 3
-1	Kickoff Returns (Number-Yards)	0 - 0
-1	Interception Returns (Number-Yards)	2 - 20
-1	Penalties (Number-Yards)	5 - 44
-1	Fumbles (Number-Lost)	1 - 0
-1	Touchdowns	2
-1	Rushing	1
-1	Passing	0
-1	Interceptions	0
-1	Kickoff Returns	0
-1	Fumble Returns	1
-1	Punt Returns	0
-1	Extra Points (Made-Attempted)	2 - 2
-1	Kicking (Made-Attempted)	2 - 2
-1	Two Point Conversions (Made-Attempted)	0 - 0
-1	Field Goals (Made-Attempted)	4 - 4
-1	Red Zone Efficiency	1/4 - 25%
-1	Goal To Go Efficiency	1/2 - 50%
-1	Safeties	0
-1	Final Score	26
-1	Time of Possession	22:50
-
-Passing 	CP/AT 	YDS 	TD 	INT
-E. Manning 	27/40 	292 	2 	0
-Rushing 	ATT 	YDS 	TD 	LG
-A. Williams 	6 	43 	0 	35
-E. Manning 	2 	23 	0 	18
-S. Vereen 	6 	19 	0 	12
-R. Jennings 	9 	12 	0 	6
-Receiving 	REC 	YDS 	TD 	LG
-O. Beckham Jr. 	7 	146 	1 	67T
-S. Vereen 	8 	76 	0 	37
-L. Donnell 	4 	28 	1 	10T
-P. Parker 	3 	17 	0 	6
-R. Jennings 	2 	12 	0 	9
-G. Davis 	1 	5 	0 	5
-R. Randle 	1 	5 	0 	5
-J. Cunningham 	1 	3 	0 	3
-Fumbles 	FUM 	LOST 	REC 	YDS
-E. Manning 	2 	1 	0 	0
-L. Donnell 	0 	0 	1 	0
-Kicking 	FG 	LG 	XP 	PTS
-J. Brown 	2/2 	44 	2/2 	8
-Punting 	NO 	AVG 	I20 	LG
-B. Wing 	4 	38.5 	3 	47
-Kickoff Returns 	NO 	AVG 	TD 	LG
-D. Harris 	2 	38 	0 	41
-Punt Returns 	NO 	AVG 	TD 	LG
-D. Harris 	4 	16 	0 	29
-Defense 	T-A 	SCK 	INT 	FF
-D. Kennard 	7-2 	0.0 	0 	0
-L. Collins 	6-0 	0.0 	0 	0
-J. Hosley 	6-2 	0.0 	0 	0
-B. Meriweather 	6-2 	0.0 	0 	0
-P. Amukamara 	4-0 	0.0 	0 	0
-K. Wynn 	4-0 	0.0 	0 	0
-R. Ayers Jr. 	3-0 	1.0 	0 	0
-G. Selvie 	3-1 	0.0 	0 	0
-J. Thomas 	3-4 	0.0 	0 	0
-J. Casillas 	2-0 	0.0 	0 	0
-J. Hankins 	2-0 	0.0 	0 	0
-D. Rodgers-Cromarti 	2-0 	0.0 	0 	0
-C. Jenkins 	1-1 	1.0 	0 	0
-U. Unga 	1-4 	0.0 	0 	0
-J. Bromley 	0-2 	0.0 	0 	0
-M. Herzlich 	0-1 	0.0 	0 	0
-T. McBride 	0-1 	0.0 	0 	0
-Total First Downs	19
-By Rushing	6
-By Passing	12
-By Penalty	
-Third Down Efficiency	10/17 - 58%
-Fourth Down Efficiency	0/1 - 0%
-Total Net Yards	388
-Total Rushing/Passing Plays (includes Sacks)	65
-Average Gain per Offensive Play	6.0
-Net Yards Rushing	97
-Total Rushing Plays	23
-Average Gain per Rushing Play	4.2
-Tackled for a Loss (Number-Yards)	5--15
-Net Yards Passing	291
-Times Sacked (Number-Yards)	2 - 1
-Gross Yards Passing	292
-Pass Comp-Att-Int	27 - 40 - 0
-Average Gain per Passing Play (includes Sacks)	6.9
-Kickoffs (Number-In End Zone-Touchbacks)	5 - 4 - 3
-Punts (Number-Average)	4 - 41.0
-Blocked	0
-Net Punting Average	38.5
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	66
-Punt Returns (Number-Yards)	4 - 66
-Kickoff Returns (Number-Yards)	2 - 77
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	6 - 35
-Fumbles (Number-Lost)	2 - 1
-Touchdowns	2
-Rushing	0
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 2
-Red Zone Efficiency	1/4 - 25%
-Goal To Go Efficiency	0/0 - 0%
-Safeties	0
-Final Score	20
-Time of Possession	28:25
-
-Passing	CP/AT	YDS	TD	INT
-E. Manning	23/32	279	2	0
-Rushing	ATT	YDS	TD	LG
-R. Jennings	11	32	0	9
-A. Williams	14	29	1	11
-S. Vereen	6	23	0	5
-Receiving	REC	YDS	TD	LG
-R. Randle	7	116	1	41T
-O. Beckham Jr.	7	79	1	30T
-L. Donnell	3	32	0	22
-D. Fells	3	27	0	23
-R. Jennings	3	25	0	18
-Fumbles	FUM	LOST	REC	YDS
-D. Harris	1	0	0	0
-O. Darkwa	0	0	1	0
-U. Unga	0	0	0	0
-T. Wade	0	0	0	0
-Kicking	FG	LG	XP	PTS
-J. Brown	3/3	48	3/3	12
-Punting	NO	AVG	I20	LG
-B. Wing	4	40.3	2	45
-Kickoff Returns	NO	AVG	TD	LG
-D. Harris	1	13	0	13
-S. Vereen	1	4	0	4
-Punt Returns	NO	AVG	TD	LG
-D. Harris	1	0	0	0
-Defense	T-A	SCK	INT	FF
-J. Casillas	7-0	1.0	0	0
-P. Amukamara	6-2	0.0	1	0
-U. Unga	6-3	0.0	1	1
-T. McBride	5-1	0.0	0	0
-L. Collins	4-2	0.0	0	0
-D. Kennard	4-1	0.0	0	0
-B. Meriweather	4-1	0.0	0	0
-K. Wynn	3-5	0.0	0	0
-J. Bromley	2-1	0.0	0	0
-J. Hankins	2-1	0.0	0	0
-T. Wade	2-0	0.0	0	1
-J. Hosley	1-0	0.0	0	0
-C. Jenkins	1-1	0.0	0	0
-D. Moore	1-0	0.0	0	0
-G. Selvie	1-1	0.0	0	0
-J. Thomas	1-0	0.0	0	0
-Total First Downs	19
-By Rushing	5
-By Passing	13
-By Penalty	
-Third Down Efficiency	4/12 - 33%
-Fourth Down Efficiency	1/1 - 100%
-Total Net Yards	363
-Total Rushing/Passing Plays (includes Sacks)	63
-Average Gain per Offensive Play	5.8
-Net Yards Rushing	84
-Total Rushing Plays	31
-Average Gain per Rushing Play	2.7
-Tackled for a Loss (Number-Yards)	1--1
-Net Yards Passing	279
-Times Sacked (Number-Yards)	0 - 0
-Gross Yards Passing	279
-Pass Comp-Att-Int	23 - 32 - 0
-Average Gain per Passing Play (includes Sacks)	8.7
-Kickoffs (Number-In End Zone-Touchbacks)	7 - 5 - 3
-Punts (Number-Average)	4 - 42.8
-Blocked	0
-Net Punting Average	40.3
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	6
-Punt Returns (Number-Yards)	1 - 0
-Kickoff Returns (Number-Yards)	2 - 17
-Interception Returns (Number-Yards)	2 - 6
-Penalties (Number-Yards)	8 - 67
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	3
-Rushing	1
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 3
-Kicking (Made-Attempted)	3 - 3
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	3 - 3
-Red Zone Efficiency	1/3 - 33%
-Goal To Go Efficiency	1/1 - 100%
-Safeties	1
-Final Score	32
-Time of Possession	31:30
-
-Passing	CP/AT	YDS	TD	INT
-E. Manning	20/35	212	3	1
-Rushing	ATT	YDS	TD	LG
-R. Jennings	9	38	0	14
-A. Williams	11	35	0	9
-S. Vereen	5	21	0	7
-E. Manning	3	-2	0	0
-Receiving	REC	YDS	TD	LG
-R. Jennings	2	54	1	51T
-D. Harris	5	51	1	21T
-O. Beckham Jr.	5	38	0	9
-L. Donnell	5	38	0	16
-R. Randle	3	31	1	22
-Fumbles	FUM	LOST	REC	YDS
-E. Manning	1	0	1	-6
-P. Amukamara	0	0	1	0
-Kicking	FG	LG	XP	PTS
-J. Brown	1/1	47	1/2	4
-Punting	NO	AVG	I20	LG
-B. Wing	8	41.9	4	55
-Kickoff Returns	NO	AVG	TD	LG
-S. Vereen	1	25	0	25
-Punt Returns	NO	AVG	TD	LG
-D. Harris	3	6	0	15
-Defense	T-A	SCK	INT	FF
-K. Wynn	7-1	0.0	0	0
-P. Amukamara	5-1	0.0	0	1
-L. Collins	4-2	0.0	0	0
-J. Beason	3-2	0.0	0	0
-J. Hankins	3-1	0.0	0	0
-T. McBride	3-0	0.0	0	0
-D. Rodgers-Cromarti	3-1	0.0	0	0
-J. Casillas	2-5	0.0	0	0
-C. Dahl	2-0	0.0	0	0
-B. Meriweather	2-3	0.0	0	0
-D. Moore	2-1	0.0	0	0
-J. Thomas	2-1	0.0	0	0
-J. Bromley	1-1	0.0	0	0
-C. Jenkins	1-0	1.0	0	0
-D. Kennard	1-3	0.0	1	0
-O. Odighizuwa	1-1	0.0	0	0
-U. Unga	1-1	0.0	0	0
-N. Whitlock	1-0	1.0	0	0
-M. Herzlich	0-1	0.0	0	0
-G. Selvie	0-1	0.0	0	0
-Total First Downs	19
-By Rushing	4
-By Passing	8
-By Penalty	
-Third Down Efficiency	3/15 - 20%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	303
-Total Rushing/Passing Plays (includes Sacks)	64
-Average Gain per Offensive Play	4.7
-Net Yards Rushing	92
-Total Rushing Plays	28
-Average Gain per Rushing Play	3.3
-Tackled for a Loss (Number-Yards)	4--6
-Net Yards Passing	211
-Times Sacked (Number-Yards)	1 - 1
-Gross Yards Passing	212
-Pass Comp-Att-Int	20 - 35 - 1
-Average Gain per Passing Play (includes Sacks)	5.9
-Kickoffs (Number-In End Zone-Touchbacks)	5 - 3 - 1
-Punts (Number-Average)	8 - 44.4
-Blocked	0
-Net Punting Average	41.9
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	18
-Punt Returns (Number-Yards)	3 - 18
-Kickoff Returns (Number-Yards)	1 - 25
-Interception Returns (Number-Yards)	1 - 0
-Penalties (Number-Yards)	11 - 85
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	3
-Rushing	0
-Passing	3
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 3
-Kicking (Made-Attempted)	1 - 2
-Two Point Conversions (Made-Attempted)	1 - 1
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	1/2 - 50%
-Goal To Go Efficiency	0/1 - 0%
-Safeties	0
-Final Score	24
-Time of Possession	30:33
-
-Passing	CP/AT	YDS	TD	INT
-E. Manning	41/54	441	3	1
-Rushing	ATT	YDS	TD	LG
-R. Jennings	11	46	0	7
-S. Vereen	5	24	0	10
-E. Manning	1	11	0	11
-O. Beckham Jr.	1	3	0	3
-A. Williams	3	0	0	2
-Receiving	REC	YDS	TD	LG
-O. Beckham Jr.	7	121	1	49
-S. Vereen	8	86	1	24
-D. Harris	6	72	0	24
-W. Tye	4	48	0	18
-R. Randle	5	42	0	16
-L. Donnell	6	35	1	12T
-R. Jennings	4	21	0	6
-G. Davis	1	16	0	16
-Fumbles	FUM	LOST	REC	YDS
-D. Moore	0	0	0	0
-D. Rodgers-Cromartie	0	0	0	0
-Kicking	FG	LG	XP	PTS
-J. Brown	3/3	41	3/3	12
-Punting	NO	AVG	I20	LG
-B. Wing	2	37.0	1	55
-Kickoff Returns	NO	AVG	TD	LG
-S. Vereen	2	22	0	24
-Punt Returns	NO	AVG	TD	LG
-D. Harris	3	10	0	14
-Defense	T-A	SCK	INT	FF
-U. Unga	7-0	0.0	0	0
-L. Collins	6-0	0.0	0	0
-P. Amukamara	5-1	0.0	0	0
-D. Rodgers-Cromarti	5-1	0.0	0	2
-M. Herzlich	4-1	0.0	0	0
-B. Meriweather	3-2	0.0	0	0
-D. Moore	3-0	2.0	0	1
-C. Dahl	2-0	0.0	0	0
-J. Hankins	2-1	0.0	0	0
-T. McBride	2-0	0.0	0	0
-J. Thomas	2-0	0.0	0	0
-T. Wade	2-1	0.0	0	0
-J. Brinkley	1-0	0.0	0	0
-J. Bromley	1-2	0.0	0	0
-C. Jenkins	1-1	0.0	0	0
-M. Kuhn	1-1	0.0	0	0
-O. Odighizuwa	1-0	0.0	0	0
-K. Wynn	1-3	0.0	0	0
-Total First Downs	30
-By Rushing	6
-By Passing	23
-By Penalty	
-Third Down Efficiency	9/14 - 64%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	525
-Total Rushing/Passing Plays (includes Sacks)	75
-Average Gain per Offensive Play	7.0
-Net Yards Rushing	84
-Total Rushing Plays	21
-Average Gain per Rushing Play	4.0
-Tackled for a Loss (Number-Yards)	2--2
-Net Yards Passing	441
-Times Sacked (Number-Yards)	0 - 0
-Gross Yards Passing	441
-Pass Comp-Att-Int	41 - 54 - 1
-Average Gain per Passing Play (includes Sacks)	8.2
-Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 5
-Punts (Number-Average)	2 - 45.0
-Blocked	0
-Net Punting Average	37.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	31
-Punt Returns (Number-Yards)	3 - 31
-Kickoff Returns (Number-Yards)	2 - 44
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	6 - 65
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	3
-Rushing	0
-Passing	3
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 3
-Kicking (Made-Attempted)	3 - 3
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	3 - 3
-Red Zone Efficiency	3/6 - 50%
-Goal To Go Efficiency	1/1 - 100%
-Safeties	0
-Final Score	30
-Time of Possession	31:58
-
-Passing	CP/AT	YDS	TD	INT
-E. Manning	24/38	189	1	2
-Rushing	ATT	YDS	TD	LG
-R. Jennings	13	63	0	14
-E. Manning	1	12	0	12
-A. Williams	5	6	0	3
-S. Vereen	4	0	0	4
-Receiving	REC	YDS	TD	LG
-O. Beckham Jr.	7	61	1	17
-R. Randle	5	44	0	15
-L. Donnell	3	29	0	16
-W. Tye	2	22	0	17
-R. Jennings	3	20	0	8
-D. Harris	2	18	0	11
-S. Vereen	1	6	0	6
-E. Flowers	1	-11	0	-11
-Fumbles	FUM	LOST	REC	YDS
-R. Jennings	1	1	0	0
-E. Manning	1	0	0	0
-E. Flowers	0	0	1	0
-D. Moore	0	0	1	7
-U. Unga	0	0	0	0
-Kicking	FG	LG	XP	PTS
-J. Brown	0/0	0	1/1	1
-Punting	NO	AVG	I20	LG
-B. Wing	8	39.3	2	51
-Kickoff Returns	NO	AVG	TD	LG
-D. Harris	2	24	0	26
-M. Herzlich	1	6	0	6
-S. Vereen	1	24	0	24
-Punt Returns	NO	AVG	TD	LG
-D. Harris	3	0	0	4
-Defense	T-A	SCK	INT	FF
-B. Meriweather	6-0	0.0	1	0
-U. Unga	6-1	0.0	0	1
-L. Collins	4-1	0.0	1	0
-C. Dahl	4-2	0.0	0	0
-D. Rodgers-Cromarti	4-0	0.0	0	0
-J. Thomas	4-1	0.0	0	0
-T. Wade	4-2	0.0	0	0
-K. Wynn	3-0	0.0	0	0
-J. Bromley	2-0	0.0	0	0
-J. Hankins	2-1	0.0	0	0
-M. Kuhn	2-1	0.0	0	0
-D. Moore	2-1	1.0	0	0
-G. Selvie	2-1	0.0	0	0
-J. Beason	1-1	0.0	0	0
-J. Casillas	1-2	0.0	0	0
-J. Hosley	1-3	0.0	1	0
-C. Jenkins	0-1	0.0	0	0
-Total First Downs	18
-By Rushing	3
-By Passing	11
-By Penalty	
-Third Down Efficiency	4/13 - 30%
-Fourth Down Efficiency	0/1 - 0%
-Total Net Yards	247
-Total Rushing/Passing Plays (includes Sacks)	64
-Average Gain per Offensive Play	3.9
-Net Yards Rushing	81
-Total Rushing Plays	23
-Average Gain per Rushing Play	3.5
-Tackled for a Loss (Number-Yards)	4--8
-Net Yards Passing	166
-Times Sacked (Number-Yards)	3 - 23
-Gross Yards Passing	189
-Pass Comp-Att-Int	24 - 38 - 2
-Average Gain per Passing Play (includes Sacks)	4.0
-Kickoffs (Number-In End Zone-Touchbacks)	2 - 1 - 0
-Punts (Number-Average)	8 - 42.4
-Blocked	0
-Net Punting Average	39.3
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	44
-Punt Returns (Number-Yards)	3 - 1
-Kickoff Returns (Number-Yards)	4 - 79
-Interception Returns (Number-Yards)	3 - 43
-Penalties (Number-Yards)	12 - 94
-Fumbles (Number-Lost)	2 - 1
-Touchdowns	1
-Rushing	0
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	1 - 1
-Kicking (Made-Attempted)	1 - 1
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	1/1 - 100%
-Goal To Go Efficiency	0/0 - 0%
-Safeties	0
-Final Score	7
-Time of Possession	29:36
-
-Passing	CP/AT	YDS	TD	INT
-E. Manning	13/24	170	0	0
-Rushing	ATT	YDS	TD	LG
-S. Vereen	4	56	0	39
-O. Darkwa	8	48	1	15T
-R. Jennings	5	19	0	8
-A. Williams	4	13	0	5
-E. Manning	4	-4	0	-1
-Receiving	REC	YDS	TD	LG
-R. Randle	2	68	0	44
-D. Harris	2	43	0	38
-O. Beckham Jr.	4	35	0	10
-L. Donnell	4	18	0	10
-S. Vereen	1	6	0	6
-Fumbles	FUM	LOST	REC	YDS
-M. White	0	0	1	0
-Kicking	FG	LG	XP	PTS
-J. Brown	2/2	47	3/3	9
-Punting	NO	AVG	I20	LG
-B. Wing	5	37.6	1	53
-Kickoff Returns	NO	AVG	TD	LG
-D. Harris	3	49	1	100
-Punt Returns	NO	AVG	TD	LG
-D. Harris	0	0	0	0
-Defense	T-A	SCK	INT	FF
-J. Beason	7-4	0.0	0	0
-D. Kennard	7-0	0.0	0	0
-L. Collins	6-3	0.0	0	0
-B. Meriweather	5-2	0.0	1	0
-T. Wade	5-1	0.0	0	0
-J. Casillas	4-3	0.0	0	0
-J. Bromley	3-1	0.0	0	0
-J. Hankins	3-1	0.0	0	0
-G. Selvie	3-3	0.5	0	0
-K. Wynn	3-3	0.0	0	0
-J. Hosley	2-1	0.0	0	0
-C. Jenkins	2-0	0.0	0	0
-D. Rodgers-Cromarti	2-0	0.0	2	0
-J. Thomas	2-4	0.0	0	0
-C. Dahl	1-0	0.0	0	0
-M. Kuhn	1-0	0.5	0	0
-R. Ayers Jr.	0-1	0.0	0	0
-Total First Downs	13
-By Rushing	4
-By Passing	7
-By Penalty	
-Third Down Efficiency	3/11 - 27%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	289
-Total Rushing/Passing Plays (includes Sacks)	51
-Average Gain per Offensive Play	5.7
-Net Yards Rushing	132
-Total Rushing Plays	25
-Average Gain per Rushing Play	5.3
-Tackled for a Loss (Number-Yards)	1--1
-Net Yards Passing	157
-Times Sacked (Number-Yards)	2 - 13
-Gross Yards Passing	170
-Pass Comp-Att-Int	13 - 24 - 0
-Average Gain per Passing Play (includes Sacks)	6.0
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 2 - 2
-Punts (Number-Average)	5 - 47.0
-Blocked	0
-Net Punting Average	37.6
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	70
-Punt Returns (Number-Yards)	0 - 0
-Kickoff Returns (Number-Yards)	3 - 149
-Interception Returns (Number-Yards)	3 - 70
-Penalties (Number-Yards)	3 - 13
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	3
-Rushing	1
-Passing	0
-Interceptions	1
-Kickoff Returns	1
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 3
-Kicking (Made-Attempted)	3 - 3
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 2
-Red Zone Efficiency	1/3 - 33%
-Goal To Go Efficiency	0/0 - 0%
-Safeties	0
-Final Score	27
-Time of Possession	21:56
-
-Passing	CP/AT	YDS	TD	INT
-E. Manning	30/41	350	6	0
-Rushing	ATT	YDS	TD	LG
-R. Jennings	10	54	0	17
-O. Darkwa	4	23	0	17
-A. Williams	5	7	0	4
-S. Vereen	2	3	0	7
-Receiving	REC	YDS	TD	LG
-O. Beckham Jr.	8	130	3	50T
-S. Vereen	8	60	1	24
-R. Randle	5	55	0	19
-D. Harris	3	37	2	20T
-R. Jennings	2	31	0	25
-L. Donnell	1	22	0	22
-M. White	1	8	0	8
-W. Tye	2	7	0	7
-Fumbles	FUM	LOST	REC	YDS
-E. Manning	1	0	1	0
-W. Tye	1	1	0	0
-C. Dahl	0	0	0	0
-Kicking	FG	LG	XP	PTS
-J. Brown	0/0	0	7/7	7
-Punting	NO	AVG	I20	LG
-B. Wing	4	40.5	1	62
-Kickoff Returns	NO	AVG	TD	LG
-D. Harris	3	29	0	33
-S. Vereen	2	41	0	46
-Punt Returns	NO	AVG	TD	LG
-D. Harris	1	13	0	13
-Defense	T-A	SCK	INT	FF
-D. Rodgers-Cromarti	6-0	0.0	1	0
-J. Hankins	5-2	0.0	0	0
-J. Hosley	5-2	0.0	0	0
-J. Casillas	4-2	0.0	0	0
-L. Collins	4-5	0.0	0	0
-T. McBride	4-0	0.0	1	0
-T. Wade	4-1	0.0	0	0
-U. Unga	3-2	0.0	0	0
-K. Wynn	3-2	0.0	0	0
-R. Ayers Jr.	2-1	0.0	0	0
-J. Brinkley	2-1	0.0	0	0
-C. Dahl	2-1	0.0	0	0
-D. Kennard	2-2	0.0	0	0
-J. Bromley	0-2	0.0	0	0
-B. Meriweather	0-1	0.0	0	0
-Total First Downs	28
-By Rushing	5
-By Passing	16
-By Penalty	
-Third Down Efficiency	1/8 - 12%
-Fourth Down Efficiency	2/2 - 100%
-Total Net Yards	416
-Total Rushing/Passing Plays (includes Sacks)	65
-Average Gain per Offensive Play	6.4
-Net Yards Rushing	87
-Total Rushing Plays	21
-Average Gain per Rushing Play	4.1
-Tackled for a Loss (Number-Yards)	2--5
-Net Yards Passing	329
-Times Sacked (Number-Yards)	3 - 21
-Gross Yards Passing	350
-Pass Comp-Att-Int	30 - 41 - 0
-Average Gain per Passing Play (includes Sacks)	7.5
-Kickoffs (Number-In End Zone-Touchbacks)	8 - 7 - 6
-Punts (Number-Average)	4 - 53.0
-Blocked	0
-Net Punting Average	40.5
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	78
-Punt Returns (Number-Yards)	1 - 13
-Kickoff Returns (Number-Yards)	5 - 169
-Interception Returns (Number-Yards)	2 - 65
-Penalties (Number-Yards)	6 - 53
-Fumbles (Number-Lost)	2 - 1
-Touchdowns	7
-Rushing	0
-Passing	6
-Interceptions	1
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	7 - 7
-Kicking (Made-Attempted)	7 - 7
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	4/4 - 100%
-Goal To Go Efficiency	3/3 - 100%
-Safeties	0
-Final Score	49
-Time of Possession	25:05
-
-Passing	CP/AT	YDS	TD	INT
-E. Manning	26/40	213	2	2
-Rushing	ATT	YDS	TD	LG
-R. Jennings	13	48	0	9
-A. Williams	7	30	0	11
-O. Darkwa	6	23	0	9
-S. Vereen	6	14	0	8
-J. Brown	0	0	0	0
-E. Manning	1	-1	0	-1
-Receiving	REC	YDS	TD	LG
-O. Beckham Jr.	9	105	0	24
-R. Randle	5	40	1	13
-S. Vereen	4	29	1	10
-W. Tye	2	19	0	15
-J. Cunningham	2	10	0	6
-A. Williams	1	7	0	7
-M. White	1	3	0	3
-D. Harris	1	1	0	1
-R. Jennings	1	-1	0	-1
-Fumbles	FUM	LOST	REC	YDS
-O. Beckham Jr.	1	0	0	0
-J. Brinkley	0	0	1	0
-J. Hankins	0	0	0	0
-T. Wade	0	0	2	5
-Kicking	FG	LG	XP	PTS
-J. Brown	4/4	53	2/2	14
-Punting	NO	AVG	I20	LG
-B. Wing	1	63.0	1	64
-Kickoff Returns	NO	AVG	TD	LG
-D. Harris	2	27	0	28
-Punt Returns	NO	AVG	TD	LG
-D. Harris	0	0	0	0
-Defense	T-A	SCK	INT	FF
-J. Casillas	6-0	0.0	0	0
-J. Brinkley	5-2	0.0	0	1
-L. Collins	4-1	0.0	0	0
-D. Kennard	4-2	0.0	0	0
-D. Rodgers-Cromarti	3-0	0.0	0	0
-J. Bromley	2-1	0.0	0	0
-C. Dahl	2-0	0.0	0	0
-J. Pierre-Paul	2-0	0.0	0	0
-T. Wade	2-0	0.0	0	0
-R. Ayers Jr.	1-0	0.0	0	0
-J. Hankins	1-0	0.0	0	1
-J. Hosley	1-0	0.0	0	0
-C. Jenkins	1-0	0.0	0	0
-T. McBride	1-0	0.0	0	0
-B. Meriweather	1-1	0.0	0	0
-D. Moore	1-0	0.0	0	0
-K. Wynn	1-0	0.0	0	0
-M. Herzlich	0-1	0.0	0	0
-Total First Downs	24
-By Rushing	6
-By Passing	14
-By Penalty	
-Third Down Efficiency	9/16 - 56%
-Fourth Down Efficiency	0/1 - 0%
-Total Net Yards	327
-Total Rushing/Passing Plays (includes Sacks)	73
-Average Gain per Offensive Play	4.5
-Net Yards Rushing	114
-Total Rushing Plays	33
-Average Gain per Rushing Play	3.5
-Tackled for a Loss (Number-Yards)	4--7
-Net Yards Passing	213
-Times Sacked (Number-Yards)	0 - 0
-Gross Yards Passing	213
-Pass Comp-Att-Int	26 - 40 - 2
-Average Gain per Passing Play (includes Sacks)	5.3
-Kickoffs (Number-In End Zone-Touchbacks)	7 - 7 - 3
-Punts (Number-Average)	1 - 64.0
-Blocked	0
-Net Punting Average	63.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	0
-Punt Returns (Number-Yards)	0 - 0
-Kickoff Returns (Number-Yards)	2 - 54
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	6 - 49
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	3
-Rushing	0
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	1
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 3
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 1
-Field Goals (Made-Attempted)	4 - 4
-Red Zone Efficiency	2/4 - 50%
-Goal To Go Efficiency	1/1 - 100%
-Safeties	0
-Final Score	32
-Time of Possession	34:55
-
-Passing	CP/AT	YDS	TD	INT
-E. Manning	24/44	361	2	0
-Rushing	ATT	YDS	TD	LG
-R. Jennings	11	39	0	6
-O. Darkwa	5	15	0	4
-S. Vereen	4	14	0	9
-E. Manning	1	10	0	10
-A. Williams	2	2	0	3
-Receiving	REC	YDS	TD	LG
-O. Beckham Jr.	4	104	1	87T
-D. Harris	6	82	1	30
-W. Tye	5	56	0	31
-R. Randle	3	51	0	31
-M. White	1	28	0	28
-J. Cunningham	1	16	0	16
-R. Jennings	2	12	0	7
-S. Vereen	2	12	0	11
-Fumbles	FUM	LOST	REC	YDS
-R. Jennings	1	0	0	0
-E. Manning	1	1	0	0
-R. Ayers Jr.	0	0	0	0
-J. Brinkley	0	0	0	0
-G. Davis	0	0	1	0
-M. Kuhn	0	0	1	8
-Kicking	FG	LG	XP	PTS
-J. Brown	4/4	53	2/2	14
-Punting	NO	AVG	I20	LG
-B. Wing	4	20.0	1	53
-Kickoff Returns	NO	AVG	TD	LG
-D. Harris	2	19	0	20
-R. Jennings	1	-7	0	-7
-Punt Returns	NO	AVG	TD	LG
-D. Harris	4	10	0	17
-Defense	T-A	SCK	INT	FF
-J. Brinkley	9-3	1.0	0	1
-J. Casillas	7-0	0.0	0	0
-D. Rodgers-Cromarti	7-0	0.0	0	0
-L. Collins	4-1	0.0	0	0
-C. Dahl	4-1	1.0	0	0
-D. Kennard	4-2	0.0	0	0
-B. Meriweather	4-0	0.0	0	0
-J. Hosley	3-0	0.0	0	0
-R. Ayers Jr.	2-0	1.0	0	1
-T. Wade	2-0	0.0	0	0
-C. Jenkins	1-1	0.0	0	0
-M. Kuhn	1-3	0.0	0	0
-K. Wynn	1-0	0.0	0	0
-M. Herzlich	0-2	0.0	0	0
-T. McBride	0-0	0.0	1	0
-D. Moore	0-1	0.0	0	0
-G. Selvie	0-1	0.0	0	0
-Total First Downs	21
-By Rushing	2
-By Passing	16
-By Penalty	
-Third Down Efficiency	7/15 - 46%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	422
-Total Rushing/Passing Plays (includes Sacks)	70
-Average Gain per Offensive Play	6.0
-Net Yards Rushing	80
-Total Rushing Plays	23
-Average Gain per Rushing Play	3.5
-Tackled for a Loss (Number-Yards)	1--1
-Net Yards Passing	342
-Times Sacked (Number-Yards)	3 - 19
-Gross Yards Passing	361
-Pass Comp-Att-Int	24 - 44 - 0
-Average Gain per Passing Play (includes Sacks)	7.3
-Kickoffs (Number-In End Zone-Touchbacks)	7 - 5 - 3
-Punts (Number-Average)	4 - 41.0
-Blocked	0
-Net Punting Average	20.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	43
-Punt Returns (Number-Yards)	4 - 41
-Kickoff Returns (Number-Yards)	3 - 31
-Interception Returns (Number-Yards)	1 - 2
-Penalties (Number-Yards)	8 - 49
-Fumbles (Number-Lost)	2 - 1
-Touchdowns	2
-Rushing	0
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	4 - 4
-Red Zone Efficiency	1/5 - 20%
-Goal To Go Efficiency	1/2 - 50%
-Safeties	0
-Final Score	26
-Time of Possession	28:24
-
-week 11 bye
-
-Passing	CP/AT	YDS	TD	INT
-E. Manning	26/51	321	2	3
-Rushing	ATT	YDS	TD	LG
-S. Vereen	2	15	0	8
-R. Jennings	6	14	0	5
-O. Darkwa	2	2	0	1
-D. Harris	1	1	0	1
-A. Williams	2	1	0	2
-Receiving	REC	YDS	TD	LG
-O. Beckham Jr.	9	142	1	31
-W. Tye	6	74	0	28
-R. Randle	1	36	1	40T
-D. Harris	2	28	0	15
-S. Vereen	4	21	0	9
-R. Jennings	2	14	0	9
-H. Nicks	1	4	0	4
-J. Cunningham	1	2	0	2
-Fumbles	FUM	LOST	REC	YDS
-E. Manning	2	0	1	0
-D. Harris	1	0	1	0
-Kicking	FG	LG	XP	PTS
-J. Brown	0/0	0	2/2	2
-Punting	NO	AVG	I20	LG
-B. Wing	7	41.0	3	61
-Kickoff Returns	NO	AVG	TD	LG
-D. Harris	1	19	0	19
-Punt Returns	NO	AVG	TD	LG
-D. Harris	4	3	0	6
-Defense	T-A	SCK	INT	FF
-L. Collins	7-1	0.0	0	0
-J. Brinkley	5-2	0.0	0	0
-C. Dahl	5-2	0.0	0	0
-D. Kennard	5-5	0.0	0	0
-P. Amukamara	3-1	0.0	0	0
-J. Casillas	3-2	0.0	0	0
-B. Meriweather	3-2	0.0	0	0
-T. Wade	3-1	0.0	0	0
-R. Ayers Jr.	2-1	0.0	0	0
-M. Hughes	2-0	0.0	0	0
-J. Pierre-Paul	2-2	0.0	0	0
-J. Hosley	1-1	0.0	0	0
-C. Jenkins	1-2	0.0	0	0
-D. Rodgers-Cromarti	1-0	0.0	0	0
-K. Wynn	1-4	0.0	0	0
-M. Kuhn	0-3	0.0	0	0
-Total First Downs	17
-By Rushing	1
-By Passing	14
-By Penalty	
-Third Down Efficiency	3/15 - 20%
-Fourth Down Efficiency	2/2 - 100%
-Total Net Yards	332
-Total Rushing/Passing Plays (includes Sacks)	67
-Average Gain per Offensive Play	5.0
-Net Yards Rushing	33
-Total Rushing Plays	13
-Average Gain per Rushing Play	2.5
-Tackled for a Loss (Number-Yards)	2--5
-Net Yards Passing	299
-Times Sacked (Number-Yards)	3 - 22
-Gross Yards Passing	321
-Pass Comp-Att-Int	26 - 51 - 3
-Average Gain per Passing Play (includes Sacks)	5.5
-Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 0
-Punts (Number-Average)	7 - 50.4
-Blocked	0
-Net Punting Average	41.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	14
-Punt Returns (Number-Yards)	4 - 14
-Kickoff Returns (Number-Yards)	1 - 19
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	4 - 35
-Fumbles (Number-Lost)	3 - 0
-Touchdowns	2
-Rushing	0
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	0/1 - 0%
-Goal To Go Efficiency	0/1 - 0%
-Safeties	0
-Final Score	14
-Time of Possession	24:00
-
-Passing	CP/AT	YDS	TD	INT
-E. Manning	18/34	297	1	1
-Rushing	ATT	YDS	TD	LG
-O. Darkwa	8	23	0	6
-A. Williams	6	22	0	13
-R. Jennings	5	14	0	5
-S. Vereen	4	13	0	11
-E. Manning	1	2	0	2
-Receiving	REC	YDS	TD	LG
-O. Beckham Jr.	6	149	1	72T
-W. Tye	3	70	0	45
-R. Randle	2	22	0	16
-R. Jennings	1	19	0	19
-O. Darkwa	1	10	0	10
-D. Harris	1	8	0	8
-H. Nicks	1	7	0	7
-S. Vereen	2	7	0	7
-M. White	1	5	0	5
-Fumbles	FUM	LOST	REC	YDS
-J. Brinkley	0	0	0	0
-J. Pierre-Paul	0	0	1	0
-Kicking	FG	LG	XP	PTS
-J. Brown	2/3	35	2/2	8
-Punting	NO	AVG	I20	LG
-B. Wing	5	42.4	4	49
-Kickoff Returns	NO	AVG	TD	LG
-D. Harris	4	26	0	43
-Punt Returns	NO	AVG	TD	LG
-D. Harris	2	48	1	80T
-Defense	T-A	SCK	INT	FF
-J. Casillas	7-0	0.0	0	0
-L. Collins	6-1	0.0	0	0
-T. Wade	6-0	0.0	0	0
-J. Brinkley	5-0	0.0	0	1
-J. Pierre-Paul	5-1	0.0	0	0
-P. Amukamara	4-1	0.0	0	0
-C. Dahl	4-0	0.0	0	0
-R. Ayers Jr.	3-2	2.0	0	0
-D. Moore	3-2	0.0	0	0
-U. Unga	3-1	0.0	0	0
-J. Bromley	2-0	0.0	0	0
-D. Rodgers-Cromarti	2-3	0.0	0	0
-C. Taylor	2-1	0.0	0	0
-J. Thomas	2-0	0.0	0	0
-M. Herzlich	1-1	0.0	0	0
-C. Jenkins	1-1	1.0	0	0
-M. Kuhn	1-2	0.0	0	0
-K. Wynn	1-0	0.0	0	0
-Total First Downs	14
-By Rushing	2
-By Passing	9
-By Penalty	
-Third Down Efficiency	4/15 - 26%
-Fourth Down Efficiency	1/2 - 50%
-Total Net Yards	355
-Total Rushing/Passing Plays (includes Sacks)	61
-Average Gain per Offensive Play	5.8
-Net Yards Rushing	74
-Total Rushing Plays	24
-Average Gain per Rushing Play	3.1
-Tackled for a Loss (Number-Yards)	1--1
-Net Yards Passing	281
-Times Sacked (Number-Yards)	3 - 16
-Gross Yards Passing	297
-Pass Comp-Att-Int	18 - 34 - 1
-Average Gain per Passing Play (includes Sacks)	7.6
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 3 - 1
-Punts (Number-Average)	5 - 42.2
-Blocked	0
-Net Punting Average	42.4
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	96
-Punt Returns (Number-Yards)	2 - 96
-Kickoff Returns (Number-Yards)	4 - 104
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	8 - 60
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	2
-Rushing	0
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	1
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 3
-Red Zone Efficiency	0/3 - 0%
-Goal To Go Efficiency	0/1 - 0%
-Safeties	0
-Final Score	20
-Time of Possession	29:56
-
-Passing	CP/AT	YDS	TD	INT
-E. Manning	27/31	337	4	0
-Rushing	ATT	YDS	TD	LG
-R. Jennings	22	81	0	21
-O. Darkwa	2	10	0	10
-A. Williams	3	3	0	5
-S. Vereen	1	0	0	0
-E. Manning	3	-2	0	0
-Receiving	REC	YDS	TD	LG
-O. Beckham Jr.	7	166	2	84T
-R. Randle	5	58	1	22
-D. Harris	5	41	0	12
-W. Tye	5	30	1	9
-R. Jennings	2	21	0	19
-S. Vereen	1	10	0	10
-O. Darkwa	1	6	0	6
-H. Nicks	1	5	0	5
-Fumbles	FUM	LOST	REC	YDS
-E. Manning	1	1	0	0
-L. Collins	0	0	0	0
-M. Herzlich	0	0	0	0
-J. Pierre-Paul	0	0	1	0
-Kicking	FG	LG	XP	PTS
-J. Brown	1/2	35	4/4	7
-Punting	NO	AVG	I20	LG
-B. Wing	4	37.5	0	54
-Kickoff Returns	NO	AVG	TD	LG
-D. Harris	1	22	0	22
-Punt Returns	NO	AVG	TD	LG
-D. Harris	2	17	0	20
-Defense	T-A	SCK	INT	FF
-P. Amukamara	5-0	0.0	0	0
-L. Collins	5-2	0.0	0	1
-J. Brinkley	4-2	0.0	0	0
-T. Wade	4-0	0.0	0	0
-D. Rodgers-Cromarti	3-0	0.0	0	0
-M. Kuhn	2-1	0.0	0	0
-J. Thomas	2-1	0.0	0	0
-U. Unga	2-1	0.0	0	0
-R. Ayers Jr.	1-0	1.0	0	0
-J. Bromley	1-0	0.0	0	0
-J. Casillas	1-1	0.0	0	0
-C. Dahl	1-2	0.0	0	0
-M. Herzlich	1-0	0.0	0	1
-J. Pierre-Paul	1-2	0.0	0	0
-G. Selvie	1-0	0.0	0	0
-C. Taylor	1-2	0.0	0	0
-K. Wynn	1-0	0.0	0	0
-C. Jenkins	0-1	0.0	0	0
-T. McBride	0-1	0.0	0	0
-Total First Downs	25
-By Rushing	6
-By Passing	15
-By Penalty	
-Third Down Efficiency	5/11 - 45%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	429
-Total Rushing/Passing Plays (includes Sacks)	62
-Average Gain per Offensive Play	6.9
-Net Yards Rushing	92
-Total Rushing Plays	31
-Average Gain per Rushing Play	3.0
-Tackled for a Loss (Number-Yards)	5--13
-Net Yards Passing	337
-Times Sacked (Number-Yards)	0 - 0
-Gross Yards Passing	337
-Pass Comp-Att-Int	27 - 31 - 0
-Average Gain per Passing Play (includes Sacks)	10.9
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 4 - 2
-Punts (Number-Average)	4 - 45.0
-Blocked	0
-Net Punting Average	37.5
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	35
-Punt Returns (Number-Yards)	2 - 35
-Kickoff Returns (Number-Yards)	1 - 22
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	3 - 25
-Fumbles (Number-Lost)	1 - 1
-Touchdowns	4
-Rushing	0
-Passing	4
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	4 - 4
-Kicking (Made-Attempted)	4 - 4
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 2
-Red Zone Efficiency	3/4 - 75%
-Goal To Go Efficiency	3/3 - 100%
-Safeties	0
-Final Score	31
-Time of Possession	30:31
-
-Passing	CP/AT	YDS	TD	INT
-E. Manning	29/46	245	4	1
-Rushing	ATT	YDS	TD	LG
-R. Jennings	16	107	1	38T
-S. Vereen	4	29	0	19
-A. Williams	6	21	0	10
-E. Manning	1	4	0	4
-Receiving	REC	YDS	TD	LG
-O. Beckham Jr.	6	76	1	40
-R. Randle	4	47	1	27T
-W. Tye	5	43	1	20
-S. Vereen	8	43	1	9
-H. Nicks	1	10	0	10
-M. White	1	10	0	10
-D. Harris	2	9	0	5
-J. Cunningham	1	7	0	7
-R. Jennings	1	0	0	0
-Fumbles	FUM	LOST	REC	YDS
-O. Beckham Jr.	1	0	0	0
-R. Jennings	1	1	0	0
-K. Wynn	0	0	1	0
-Kicking	FG	LG	XP	PTS
-J. Brown	0/0	0	5/5	5
-Punting	NO	AVG	I20	LG
-B. Wing	7	35.9	2	58
-Kickoff Returns	NO	AVG	TD	LG
-D. Harris	1	19	0	19
-Punt Returns	NO	AVG	TD	LG
-D. Harris	3	3	0	9
-O. Beckham Jr.	1	21	0	21
-Defense	T-A	SCK	INT	FF
-P. Amukamara	7-0	0.0	0	0
-L. Collins	7-2	0.0	0	0
-R. Ayers Jr.	6-0	2.0	0	0
-C. Dahl	5-2	0.0	0	0
-J. Brinkley	4-5	0.0	0	0
-J. Casillas	4-0	0.0	0	0
-J. Pierre-Paul	3-0	1.0	0	0
-D. Rodgers-Cromarti	3-0	0.0	0	0
-J. Thomas	3-4	0.0	0	0
-U. Unga	3-2	0.0	0	0
-J. Bromley	2-1	0.0	0	0
-C. Jenkins	2-0	0.0	0	0
-T. McBride	1-0	0.0	0	0
-C. Taylor	1-1	0.0	0	0
-M. Hughes	0-2	0.0	0	0
-K. Wynn	0-2	0.0	0	0
-Total First Downs	21
-By Rushing	7
-By Passing	11
-By Penalty	
-Third Down Efficiency	6/15 - 40%
-Fourth Down Efficiency	2/2 - 100%
-Total Net Yards	406
-Total Rushing/Passing Plays (includes Sacks)	73
-Average Gain per Offensive Play	5.6
-Net Yards Rushing	161
-Total Rushing Plays	27
-Average Gain per Rushing Play	6.0
-Tackled for a Loss (Number-Yards)	0-0
-Net Yards Passing	245
-Times Sacked (Number-Yards)	0 - 0
-Gross Yards Passing	245
-Pass Comp-Att-Int	29 - 46 - 1
-Average Gain per Passing Play (includes Sacks)	5.3
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 2 - 1
-Punts (Number-Average)	7 - 45.0
-Blocked	0
-Net Punting Average	35.9
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	32
-Punt Returns (Number-Yards)	4 - 32
-Kickoff Returns (Number-Yards)	1 - 19
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	7 - 47
-Fumbles (Number-Lost)	2 - 1
-Touchdowns	5
-Rushing	1
-Passing	4
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	5 - 5
-Kicking (Made-Attempted)	5 - 5
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	3/4 - 75%
-Goal To Go Efficiency	0/0 - 0%
-Safeties	0
-Final Score	35
-Time of Possession	29:08
-
-Passing	CP/AT	YDS	TD	INT
-E. Manning	15/29	234	1	3
-R. Nassib	5/5	68	1	0
-Rushing	ATT	YDS	TD	LG
-R. Jennings	14	74	0	16
-O. Darkwa	1	9	0	9
-A. Williams	3	5	0	3
-S. Vereen	1	3	0	3
-E. Manning	1	0	0	0
-Receiving	REC	YDS	TD	LG
-R. Randle	2	80	1	72T
-R. Jennings	2	62	0	50
-M. White	2	34	1	25T
-W. Tye	3	28	0	14
-M. LaCosse	3	22	0	10
-J. Cunningham	2	21	0	12
-S. Vereen	2	21	0	12
-O. Darkwa	1	15	0	15
-B. Edwards	1	9	0	9
-D. Harris	1	6	0	6
-H. Nicks	1	4	0	4
-Fumbles	FUM	LOST	REC	YDS
-D. Aiken	1	0	0	0
-D. Harris	1	0	1	0
-E. Manning	1	0	1	-13
-B. Wing	0	0	1	0
-Kicking	FG	LG	XP	PTS
-J. Brown	1/1	27	2/2	5
-Punting	NO	AVG	I20	LG
-B. Wing	6	40.0	2	48
-Kickoff Returns	NO	AVG	TD	LG
-S. Vereen	7	20	0	23
-B. Edwards	1	20	0	20
-Punt Returns	NO	AVG	TD	LG
-D. Harris	2	6	0	12
-Defense	T-A	SCK	INT	FF
-L. Collins	7-1	0.0	0	0
-P. Amukamara	6-0	0.0	0	0
-J. Casillas	6-3	1.0	0	0
-R. Ayers Jr.	5-1	1.5	0	0
-J. Brinkley	5-2	0.0	0	0
-D. Rodgers-Cromarti	4-0	0.0	0	0
-J. Thomas	3-0	0.0	0	0
-J. Bromley	2-2	0.0	0	0
-C. Dahl	2-0	0.0	0	0
-J. Pierre-Paul	2-0	0.0	0	0
-G. Selvie	2-1	0.5	0	0
-K. Wynn	2-0	0.0	0	0
-M. Herzlich	1-1	0.0	0	0
-C. Jenkins	1-0	0.0	0	0
-B. Meriweather	1-1	0.0	0	0
-T. Wade	1-0	0.0	0	0
-Total First Downs	15
-By Rushing	3
-By Passing	11
-By Penalty	
-Third Down Efficiency	1/11 - 9%
-Fourth Down Efficiency	0/2 - 0%
-Total Net Yards	363
-Total Rushing/Passing Plays (includes Sacks)	58
-Average Gain per Offensive Play	6.3
-Net Yards Rushing	91
-Total Rushing Plays	20
-Average Gain per Rushing Play	4.6
-Tackled for a Loss (Number-Yards)	1--2
-Net Yards Passing	272
-Times Sacked (Number-Yards)	4 - 30
-Gross Yards Passing	302
-Pass Comp-Att-Int	20 - 34 - 3
-Average Gain per Passing Play (includes Sacks)	7.2
-Kickoffs (Number-In End Zone-Touchbacks)	4 - 0 - 0
-Punts (Number-Average)	6 - 40.2
-Blocked	0
-Net Punting Average	40.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	12
-Punt Returns (Number-Yards)	2 - 12
-Kickoff Returns (Number-Yards)	8 - 162
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	7 - 48
-Fumbles (Number-Lost)	3 - 0
-Touchdowns	2
-Rushing	0
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	0/1 - 0%
-Goal To Go Efficiency	0/0 - 0%
-Safeties	0
-Final Score	17
-Time of Possession	25:03
-
-Passing	CP/AT	YDS	TD	INT
-E. Manning	24/43	302	2	0
-Rushing	ATT	YDS	TD	LG
-R. Jennings	27	170	1	35
-A. Williams	5	26	0	9
-S. Vereen	4	12	0	4
-Receiving	REC	YDS	TD	LG
-R. Randle	4	79	1	45T
-S. Vereen	6	72	0	15
-W. Tye	5	67	1	18
-O. Beckham	5	54	0	24
-H. Nicks	2	24	0	19
-R. Jennings	2	6	0	3
-Fumbles	FUM	LOST	REC	YDS
-E. Manning	1	1	0	0
-T. Ott	1	0	0	0
-J. Brinkley	0	0	0	0
-G. Selvie	0	0	1	0
-B. Wing	0	0	1	0
-Kicking	FG	LG	XP	PTS
-J. Brown	3/3	48	3/3	12
-Punting	NO	AVG	I20	LG
-B. Wing	3	35.7	3	42
-Kickoff Returns	NO	AVG	TD	LG
-Punt Returns	NO	AVG	TD	LG
-O. Beckham	1	5	0	5
-Defense	T-A	SCK	INT	FF
-J. Brinkley	8-1	0.0	0	1
-J. Casillas	7-0	0.0	1	0
-J. Pierre-Paul	6-0	0.0	0	0
-P. Amukamara	4-0	0.0	0	0
-R. Ayers Jr.	4-3	1.0	0	0
-L. Collins	4-4	0.0	0	0
-B. Meriweather	4-0	0.0	0	0
-T. Wade	4-3	0.0	0	0
-T. McBride	3-0	0.0	0	0
-G. Selvie	2-0	0.0	0	0
-J. Bromley	1-4	0.0	0	0
-M. Herzlich	1-0	0.0	0	0
-M. Hughes	1-1	0.0	0	0
-C. Jenkins	1-2	0.0	0	0
-D. Rodgers-Cromarti	1-1	0.0	0	0
-Total First Downs	30
-By Rushing	11
-By Passing	18
-By Penalty	
-Third Down Efficiency	7/15 - 46%
-Fourth Down Efficiency	1/2 - 50%
-Total Net Yards	502
-Total Rushing/Passing Plays (includes Sacks)	81
-Average Gain per Offensive Play	6.2
-Net Yards Rushing	208
-Total Rushing Plays	36
-Average Gain per Rushing Play	5.8
-Tackled for a Loss (Number-Yards)	2--4
-Net Yards Passing	294
-Times Sacked (Number-Yards)	2 - 8
-Gross Yards Passing	302
-Pass Comp-Att-Int	24 - 43 - 0
-Average Gain per Passing Play (includes Sacks)	6.5
-Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 5
-Punts (Number-Average)	3 - 35.7
-Blocked	0
-Net Punting Average	35.7
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	5
-Punt Returns (Number-Yards)	1 - 5
-Kickoff Returns (Number-Yards)	0 - 0
-Interception Returns (Number-Yards)	1 - 0
-Penalties (Number-Yards)	2 - 10
-Fumbles (Number-Lost)	2 - 1
-Touchdowns	3
-Rushing	1
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 3
-Kicking (Made-Attempted)	3 - 3
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	3 - 3
-Red Zone Efficiency	2/5 - 40%
-Goal To Go Efficiency	1/2 - 50%
-Safeties	0
-Final Score	30
-Time of Possession	31:54
-
+1	Total First Downs	18			
+1	By Rushing	6			
+1	By Passing	10			
+1	By Penalty				
+1	Third Down Efficiency	6/14 - 42%			
+1	Fourth Down Efficiency	0/0 - 0%			
+1	Total Net Yards	285			
+1	Total Rushing/Passing Plays (includes Sacks)	61			
+1	Average Gain per Offensive Play	4.7			
+1	Net Yards Rushing	99			
+1	Total Rushing Plays	24			
+1	Average Gain per Rushing Play	4.1			
+1	Tackled for a Loss (Number-Yards)	3--8			
+1	Net Yards Passing	186			
+1	Times Sacked (Number-Yards)	1 - 3			
+1	Gross Yards Passing	189			
+1	Pass Comp-Att-Int	20 - 36 - 0			
+1	Average Gain per Passing Play (includes Sacks)	5.0			
+1	Kickoffs (Number-In End Zone-Touchbacks)	7 - 5 - 2			
+1	Punts (Number-Average)	4 - 44.8			
+1	Blocked	0			
+1	Net Punting Average	45.5			
+1	FGs Blocked - PATs Blocked	0 - 0			
+1	Total Return Yardage (excludes Kickoffs)	23			
+1	Punt Returns (Number-Yards)	2 - 3			
+1	Kickoff Returns (Number-Yards)	0 - 0			
+1	Interception Returns (Number-Yards)	2 - 20			
+1	Penalties (Number-Yards)	5 - 44			
+1	Fumbles (Number-Lost)	1 - 0			
+1	Touchdowns	2			
+1	Rushing	1			
+1	Passing	0			
+1	Interceptions	0			
+1	Kickoff Returns	0			
+1	Fumble Returns	1			
+1	Punt Returns	0			
+1	Extra Points (Made-Attempted)	2 - 2			
+1	Kicking (Made-Attempted)	2 - 2			
+1	Two Point Conversions (Made-Attempted)	0 - 0			
+1	Field Goals (Made-Attempted)	4 - 4			
+1	Red Zone Efficiency	1/4 - 25%			
+1	Goal To Go Efficiency	1/2 - 50%			
+1	Safeties	0			
+1	Final Score	26			
+1	Time of Possession	22:50			
+					
+2	Passing 	CP/AT 	YDS 	TD 	INT
+2	E. Manning 	27/40 	292 	2 	0
+2	Rushing 	ATT 	YDS 	TD 	LG
+2	A. Williams 	6 	43 	0 	35
+2	E. Manning 	2 	23 	0 	18
+2	S. Vereen 	6 	19 	0 	12
+2	R. Jennings 	9 	12 	0 	6
+2	Receiving 	REC 	YDS 	TD 	LG
+2	O. Beckham Jr. 	7 	146 	1 	67T
+2	S. Vereen 	8 	76 	0 	37
+2	L. Donnell 	4 	28 	1 	10T
+2	P. Parker 	3 	17 	0 	6
+2	R. Jennings 	2 	12 	0 	9
+2	G. Davis 	1 	5 	0 	5
+2	R. Randle 	1 	5 	0 	5
+2	J. Cunningham 	1 	3 	0 	3
+2	Fumbles 	FUM 	LOST 	REC 	YDS
+2	E. Manning 	2 	1 	0 	0
+2	L. Donnell 	0 	0 	1 	0
+2	Kicking 	FG 	LG 	XP 	PTS
+2	J. Brown 	2/2 	44 	2/2 	8
+2	Punting 	NO 	AVG 	I20 	LG
+2	B. Wing 	4 	38.5 	3 	47
+2	Kickoff Returns 	NO 	AVG 	TD 	LG
+2	D. Harris 	2 	38 	0 	41
+2	Punt Returns 	NO 	AVG 	TD 	LG
+2	D. Harris 	4 	16 	0 	29
+2	Defense 	T-A 	SCK 	INT 	FF
+2	D. Kennard 	7-2 	0.0 	0 	0
+2	L. Collins 	6-0 	0.0 	0 	0
+2	J. Hosley 	6-2 	0.0 	0 	0
+2	B. Meriweather 	6-2 	0.0 	0 	0
+2	P. Amukamara 	4-0 	0.0 	0 	0
+2	K. Wynn 	4-0 	0.0 	0 	0
+2	R. Ayers Jr. 	3-0 	1.0 	0 	0
+2	G. Selvie 	3-1 	0.0 	0 	0
+2	J. Thomas 	3-4 	0.0 	0 	0
+2	J. Casillas 	2-0 	0.0 	0 	0
+2	J. Hankins 	2-0 	0.0 	0 	0
+2	D. Rodgers-Cromarti 	2-0 	0.0 	0 	0
+2	C. Jenkins 	1-1 	1.0 	0 	0
+2	U. Unga 	1-4 	0.0 	0 	0
+2	J. Bromley 	0-2 	0.0 	0 	0
+2	M. Herzlich 	0-1 	0.0 	0 	0
+2	T. McBride 	0-1 	0.0 	0 	0
+2	Total First Downs	19			
+2	By Rushing	6			
+2	By Passing	12			
+2	By Penalty				
+2	Third Down Efficiency	10/17 - 58%			
+2	Fourth Down Efficiency	0/1 - 0%			
+2	Total Net Yards	388			
+2	Total Rushing/Passing Plays (includes Sacks)	65			
+2	Average Gain per Offensive Play	6.0			
+2	Net Yards Rushing	97			
+2	Total Rushing Plays	23			
+2	Average Gain per Rushing Play	4.2			
+2	Tackled for a Loss (Number-Yards)	5--15			
+2	Net Yards Passing	291			
+2	Times Sacked (Number-Yards)	2 - 1			
+2	Gross Yards Passing	292			
+2	Pass Comp-Att-Int	27 - 40 - 0			
+2	Average Gain per Passing Play (includes Sacks)	6.9			
+2	Kickoffs (Number-In End Zone-Touchbacks)	5 - 4 - 3			
+2	Punts (Number-Average)	4 - 41.0			
+2	Blocked	0			
+2	Net Punting Average	38.5			
+2	FGs Blocked - PATs Blocked	0 - 0			
+2	Total Return Yardage (excludes Kickoffs)	66			
+2	Punt Returns (Number-Yards)	4 - 66			
+2	Kickoff Returns (Number-Yards)	2 - 77			
+2	Interception Returns (Number-Yards)	0 - 0			
+2	Penalties (Number-Yards)	6 - 35			
+2	Fumbles (Number-Lost)	2 - 1			
+2	Touchdowns	2			
+2	Rushing	0			
+2	Passing	2			
+2	Interceptions	0			
+2	Kickoff Returns	0			
+2	Fumble Returns	0			
+2	Punt Returns	0			
+2	Extra Points (Made-Attempted)	2 - 2			
+2	Kicking (Made-Attempted)	2 - 2			
+2	Two Point Conversions (Made-Attempted)	0 - 0			
+2	Field Goals (Made-Attempted)	2 - 2			
+2	Red Zone Efficiency	1/4 - 25%			
+2	Goal To Go Efficiency	0/0 - 0%			
+2	Safeties	0			
+2	Final Score	20			
+2	Time of Possession	28:25			
+					
+3	Passing	CP/AT	YDS	TD	INT
+3	E. Manning	23/32	279	2	0
+3	Rushing	ATT	YDS	TD	LG
+3	R. Jennings	11	32	0	9
+3	A. Williams	14	29	1	11
+3	S. Vereen	6	23	0	5
+3	Receiving	REC	YDS	TD	LG
+3	R. Randle	7	116	1	41T
+3	O. Beckham Jr.	7	79	1	30T
+3	L. Donnell	3	32	0	22
+3	D. Fells	3	27	0	23
+3	R. Jennings	3	25	0	18
+3	Fumbles	FUM	LOST	REC	YDS
+3	D. Harris	1	0	0	0
+3	O. Darkwa	0	0	1	0
+3	U. Unga	0	0	0	0
+3	T. Wade	0	0	0	0
+3	Kicking	FG	LG	XP	PTS
+3	J. Brown	3/3	48	3/3	12
+3	Punting	NO	AVG	I20	LG
+3	B. Wing	4	40.3	2	45
+3	Kickoff Returns	NO	AVG	TD	LG
+3	D. Harris	1	13	0	13
+3	S. Vereen	1	4	0	4
+3	Punt Returns	NO	AVG	TD	LG
+3	D. Harris	1	0	0	0
+3	Defense	T-A	SCK	INT	FF
+3	J. Casillas	7-0	1.0	0	0
+3	P. Amukamara	6-2	0.0	1	0
+3	U. Unga	6-3	0.0	1	1
+3	T. McBride	5-1	0.0	0	0
+3	L. Collins	4-2	0.0	0	0
+3	D. Kennard	4-1	0.0	0	0
+3	B. Meriweather	4-1	0.0	0	0
+3	K. Wynn	3-5	0.0	0	0
+3	J. Bromley	2-1	0.0	0	0
+3	J. Hankins	2-1	0.0	0	0
+3	T. Wade	2-0	0.0	0	1
+3	J. Hosley	1-0	0.0	0	0
+3	C. Jenkins	1-1	0.0	0	0
+3	D. Moore	1-0	0.0	0	0
+3	G. Selvie	1-1	0.0	0	0
+3	J. Thomas	1-0	0.0	0	0
+3	Total First Downs	19			
+3	By Rushing	5			
+3	By Passing	13			
+3	By Penalty				
+3	Third Down Efficiency	4/12 - 33%			
+3	Fourth Down Efficiency	1/1 - 100%			
+3	Total Net Yards	363			
+3	Total Rushing/Passing Plays (includes Sacks)	63			
+3	Average Gain per Offensive Play	5.8			
+3	Net Yards Rushing	84			
+3	Total Rushing Plays	31			
+3	Average Gain per Rushing Play	2.7			
+3	Tackled for a Loss (Number-Yards)	1--1			
+3	Net Yards Passing	279			
+3	Times Sacked (Number-Yards)	0 - 0			
+3	Gross Yards Passing	279			
+3	Pass Comp-Att-Int	23 - 32 - 0			
+3	Average Gain per Passing Play (includes Sacks)	8.7			
+3	Kickoffs (Number-In End Zone-Touchbacks)	7 - 5 - 3			
+3	Punts (Number-Average)	4 - 42.8			
+3	Blocked	0			
+3	Net Punting Average	40.3			
+3	FGs Blocked - PATs Blocked	0 - 0			
+3	Total Return Yardage (excludes Kickoffs)	6			
+3	Punt Returns (Number-Yards)	1 - 0			
+3	Kickoff Returns (Number-Yards)	2 - 17			
+3	Interception Returns (Number-Yards)	2 - 6			
+3	Penalties (Number-Yards)	8 - 67			
+3	Fumbles (Number-Lost)	1 - 0			
+3	Touchdowns	3			
+3	Rushing	1			
+3	Passing	2			
+3	Interceptions	0			
+3	Kickoff Returns	0			
+3	Fumble Returns	0			
+3	Punt Returns	0			
+3	Extra Points (Made-Attempted)	3 - 3			
+3	Kicking (Made-Attempted)	3 - 3			
+3	Two Point Conversions (Made-Attempted)	0 - 0			
+3	Field Goals (Made-Attempted)	3 - 3			
+3	Red Zone Efficiency	1/3 - 33%			
+3	Goal To Go Efficiency	1/1 - 100%			
+3	Safeties	1			
+3	Final Score	32			
+3	Time of Possession	31:30			
+					
+4	Passing	CP/AT	YDS	TD	INT
+4	E. Manning	20/35	212	3	1
+4	Rushing	ATT	YDS	TD	LG
+4	R. Jennings	9	38	0	14
+4	A. Williams	11	35	0	9
+4	S. Vereen	5	21	0	7
+4	E. Manning	3	-2	0	0
+4	Receiving	REC	YDS	TD	LG
+4	R. Jennings	2	54	1	51T
+4	D. Harris	5	51	1	21T
+4	O. Beckham Jr.	5	38	0	9
+4	L. Donnell	5	38	0	16
+4	R. Randle	3	31	1	22
+4	Fumbles	FUM	LOST	REC	YDS
+4	E. Manning	1	0	1	-6
+4	P. Amukamara	0	0	1	0
+4	Kicking	FG	LG	XP	PTS
+4	J. Brown	1/1	47	1/2	4
+4	Punting	NO	AVG	I20	LG
+4	B. Wing	8	41.9	4	55
+4	Kickoff Returns	NO	AVG	TD	LG
+4	S. Vereen	1	25	0	25
+4	Punt Returns	NO	AVG	TD	LG
+4	D. Harris	3	6	0	15
+4	Defense	T-A	SCK	INT	FF
+4	K. Wynn	7-1	0.0	0	0
+4	P. Amukamara	5-1	0.0	0	1
+4	L. Collins	4-2	0.0	0	0
+4	J. Beason	3-2	0.0	0	0
+4	J. Hankins	3-1	0.0	0	0
+4	T. McBride	3-0	0.0	0	0
+4	D. Rodgers-Cromarti	3-1	0.0	0	0
+4	J. Casillas	2-5	0.0	0	0
+4	C. Dahl	2-0	0.0	0	0
+4	B. Meriweather	2-3	0.0	0	0
+4	D. Moore	2-1	0.0	0	0
+4	J. Thomas	2-1	0.0	0	0
+4	J. Bromley	1-1	0.0	0	0
+4	C. Jenkins	1-0	1.0	0	0
+4	D. Kennard	1-3	0.0	1	0
+4	O. Odighizuwa	1-1	0.0	0	0
+4	U. Unga	1-1	0.0	0	0
+4	N. Whitlock	1-0	1.0	0	0
+4	M. Herzlich	0-1	0.0	0	0
+4	G. Selvie	0-1	0.0	0	0
+4	Total First Downs	19			
+4	By Rushing	4			
+4	By Passing	8			
+4	By Penalty				
+4	Third Down Efficiency	3/15 - 20%			
+4	Fourth Down Efficiency	0/0 - 0%			
+4	Total Net Yards	303			
+4	Total Rushing/Passing Plays (includes Sacks)	64			
+4	Average Gain per Offensive Play	4.7			
+4	Net Yards Rushing	92			
+4	Total Rushing Plays	28			
+4	Average Gain per Rushing Play	3.3			
+4	Tackled for a Loss (Number-Yards)	4--6			
+4	Net Yards Passing	211			
+4	Times Sacked (Number-Yards)	1 - 1			
+4	Gross Yards Passing	212			
+4	Pass Comp-Att-Int	20 - 35 - 1			
+4	Average Gain per Passing Play (includes Sacks)	5.9			
+4	Kickoffs (Number-In End Zone-Touchbacks)	5 - 3 - 1			
+4	Punts (Number-Average)	8 - 44.4			
+4	Blocked	0			
+4	Net Punting Average	41.9			
+4	FGs Blocked - PATs Blocked	0 - 0			
+4	Total Return Yardage (excludes Kickoffs)	18			
+4	Punt Returns (Number-Yards)	3 - 18			
+4	Kickoff Returns (Number-Yards)	1 - 25			
+4	Interception Returns (Number-Yards)	1 - 0			
+4	Penalties (Number-Yards)	11 - 85			
+4	Fumbles (Number-Lost)	1 - 0			
+4	Touchdowns	3			
+4	Rushing	0			
+4	Passing	3			
+4	Interceptions	0			
+4	Kickoff Returns	0			
+4	Fumble Returns	0			
+4	Punt Returns	0			
+4	Extra Points (Made-Attempted)	2 - 3			
+4	Kicking (Made-Attempted)	1 - 2			
+4	Two Point Conversions (Made-Attempted)	1 - 1			
+4	Field Goals (Made-Attempted)	1 - 1			
+4	Red Zone Efficiency	1/2 - 50%			
+4	Goal To Go Efficiency	0/1 - 0%			
+4	Safeties	0			
+4	Final Score	24			
+4	Time of Possession	30:33			
+					
+5	Passing	CP/AT	YDS	TD	INT
+5	E. Manning	41/54	441	3	1
+5	Rushing	ATT	YDS	TD	LG
+5	R. Jennings	11	46	0	7
+5	S. Vereen	5	24	0	10
+5	E. Manning	1	11	0	11
+5	O. Beckham Jr.	1	3	0	3
+5	A. Williams	3	0	0	2
+5	Receiving	REC	YDS	TD	LG
+5	O. Beckham Jr.	7	121	1	49
+5	S. Vereen	8	86	1	24
+5	D. Harris	6	72	0	24
+5	W. Tye	4	48	0	18
+5	R. Randle	5	42	0	16
+5	L. Donnell	6	35	1	12T
+5	R. Jennings	4	21	0	6
+5	G. Davis	1	16	0	16
+5	Fumbles	FUM	LOST	REC	YDS
+5	D. Moore	0	0	0	0
+5	D. Rodgers-Cromartie	0	0	0	0
+5	Kicking	FG	LG	XP	PTS
+5	J. Brown	3/3	41	3/3	12
+5	Punting	NO	AVG	I20	LG
+5	B. Wing	2	37.0	1	55
+5	Kickoff Returns	NO	AVG	TD	LG
+5	S. Vereen	2	22	0	24
+5	Punt Returns	NO	AVG	TD	LG
+5	D. Harris	3	10	0	14
+5	Defense	T-A	SCK	INT	FF
+5	U. Unga	7-0	0.0	0	0
+5	L. Collins	6-0	0.0	0	0
+5	P. Amukamara	5-1	0.0	0	0
+5	D. Rodgers-Cromarti	5-1	0.0	0	2
+5	M. Herzlich	4-1	0.0	0	0
+5	B. Meriweather	3-2	0.0	0	0
+5	D. Moore	3-0	2.0	0	1
+5	C. Dahl	2-0	0.0	0	0
+5	J. Hankins	2-1	0.0	0	0
+5	T. McBride	2-0	0.0	0	0
+5	J. Thomas	2-0	0.0	0	0
+5	T. Wade	2-1	0.0	0	0
+5	J. Brinkley	1-0	0.0	0	0
+5	J. Bromley	1-2	0.0	0	0
+5	C. Jenkins	1-1	0.0	0	0
+5	M. Kuhn	1-1	0.0	0	0
+5	O. Odighizuwa	1-0	0.0	0	0
+5	K. Wynn	1-3	0.0	0	0
+5	Total First Downs	30			
+5	By Rushing	6			
+5	By Passing	23			
+5	By Penalty				
+5	Third Down Efficiency	9/14 - 64%			
+5	Fourth Down Efficiency	0/0 - 0%			
+5	Total Net Yards	525			
+5	Total Rushing/Passing Plays (includes Sacks)	75			
+5	Average Gain per Offensive Play	7.0			
+5	Net Yards Rushing	84			
+5	Total Rushing Plays	21			
+5	Average Gain per Rushing Play	4.0			
+5	Tackled for a Loss (Number-Yards)	2--2			
+5	Net Yards Passing	441			
+5	Times Sacked (Number-Yards)	0 - 0			
+5	Gross Yards Passing	441			
+5	Pass Comp-Att-Int	41 - 54 - 1			
+5	Average Gain per Passing Play (includes Sacks)	8.2			
+5	Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 5			
+5	Punts (Number-Average)	2 - 45.0			
+5	Blocked	0			
+5	Net Punting Average	37.0			
+5	FGs Blocked - PATs Blocked	0 - 0			
+5	Total Return Yardage (excludes Kickoffs)	31			
+5	Punt Returns (Number-Yards)	3 - 31			
+5	Kickoff Returns (Number-Yards)	2 - 44			
+5	Interception Returns (Number-Yards)	0 - 0			
+5	Penalties (Number-Yards)	6 - 65			
+5	Fumbles (Number-Lost)	0 - 0			
+5	Touchdowns	3			
+5	Rushing	0			
+5	Passing	3			
+5	Interceptions	0			
+5	Kickoff Returns	0			
+5	Fumble Returns	0			
+5	Punt Returns	0			
+5	Extra Points (Made-Attempted)	3 - 3			
+5	Kicking (Made-Attempted)	3 - 3			
+5	Two Point Conversions (Made-Attempted)	0 - 0			
+5	Field Goals (Made-Attempted)	3 - 3			
+5	Red Zone Efficiency	3/6 - 50%			
+5	Goal To Go Efficiency	1/1 - 100%			
+5	Safeties	0			
+5	Final Score	30			
+5	Time of Possession	31:58			
+					
+6	Passing	CP/AT	YDS	TD	INT
+6	E. Manning	24/38	189	1	2
+6	Rushing	ATT	YDS	TD	LG
+6	R. Jennings	13	63	0	14
+6	E. Manning	1	12	0	12
+6	A. Williams	5	6	0	3
+6	S. Vereen	4	0	0	4
+6	Receiving	REC	YDS	TD	LG
+6	O. Beckham Jr.	7	61	1	17
+6	R. Randle	5	44	0	15
+6	L. Donnell	3	29	0	16
+6	W. Tye	2	22	0	17
+6	R. Jennings	3	20	0	8
+6	D. Harris	2	18	0	11
+6	S. Vereen	1	6	0	6
+6	E. Flowers	1	-11	0	-11
+6	Fumbles	FUM	LOST	REC	YDS
+6	R. Jennings	1	1	0	0
+6	E. Manning	1	0	0	0
+6	E. Flowers	0	0	1	0
+6	D. Moore	0	0	1	7
+6	U. Unga	0	0	0	0
+6	Kicking	FG	LG	XP	PTS
+6	J. Brown	0/0	0	1/1	1
+6	Punting	NO	AVG	I20	LG
+6	B. Wing	8	39.3	2	51
+6	Kickoff Returns	NO	AVG	TD	LG
+6	D. Harris	2	24	0	26
+6	M. Herzlich	1	6	0	6
+6	S. Vereen	1	24	0	24
+6	Punt Returns	NO	AVG	TD	LG
+6	D. Harris	3	0	0	4
+6	Defense	T-A	SCK	INT	FF
+6	B. Meriweather	6-0	0.0	1	0
+6	U. Unga	6-1	0.0	0	1
+6	L. Collins	4-1	0.0	1	0
+6	C. Dahl	4-2	0.0	0	0
+6	D. Rodgers-Cromarti	4-0	0.0	0	0
+6	J. Thomas	4-1	0.0	0	0
+6	T. Wade	4-2	0.0	0	0
+6	K. Wynn	3-0	0.0	0	0
+6	J. Bromley	2-0	0.0	0	0
+6	J. Hankins	2-1	0.0	0	0
+6	M. Kuhn	2-1	0.0	0	0
+6	D. Moore	2-1	1.0	0	0
+6	G. Selvie	2-1	0.0	0	0
+6	J. Beason	1-1	0.0	0	0
+6	J. Casillas	1-2	0.0	0	0
+6	J. Hosley	1-3	0.0	1	0
+6	C. Jenkins	0-1	0.0	0	0
+6	Total First Downs	18			
+6	By Rushing	3			
+6	By Passing	11			
+6	By Penalty				
+6	Third Down Efficiency	4/13 - 30%			
+6	Fourth Down Efficiency	0/1 - 0%			
+6	Total Net Yards	247			
+6	Total Rushing/Passing Plays (includes Sacks)	64			
+6	Average Gain per Offensive Play	3.9			
+6	Net Yards Rushing	81			
+6	Total Rushing Plays	23			
+6	Average Gain per Rushing Play	3.5			
+6	Tackled for a Loss (Number-Yards)	4--8			
+6	Net Yards Passing	166			
+6	Times Sacked (Number-Yards)	3 - 23			
+6	Gross Yards Passing	189			
+6	Pass Comp-Att-Int	24 - 38 - 2			
+6	Average Gain per Passing Play (includes Sacks)	4.0			
+6	Kickoffs (Number-In End Zone-Touchbacks)	2 - 1 - 0			
+6	Punts (Number-Average)	8 - 42.4			
+6	Blocked	0			
+6	Net Punting Average	39.3			
+6	FGs Blocked - PATs Blocked	0 - 0			
+6	Total Return Yardage (excludes Kickoffs)	44			
+6	Punt Returns (Number-Yards)	3 - 1			
+6	Kickoff Returns (Number-Yards)	4 - 79			
+6	Interception Returns (Number-Yards)	3 - 43			
+6	Penalties (Number-Yards)	12 - 94			
+6	Fumbles (Number-Lost)	2 - 1			
+6	Touchdowns	1			
+6	Rushing	0			
+6	Passing	1			
+6	Interceptions	0			
+6	Kickoff Returns	0			
+6	Fumble Returns	0			
+6	Punt Returns	0			
+6	Extra Points (Made-Attempted)	1 - 1			
+6	Kicking (Made-Attempted)	1 - 1			
+6	Two Point Conversions (Made-Attempted)	0 - 0			
+6	Field Goals (Made-Attempted)	0 - 0			
+6	Red Zone Efficiency	1/1 - 100%			
+6	Goal To Go Efficiency	0/0 - 0%			
+6	Safeties	0			
+6	Final Score	7			
+6	Time of Possession	29:36			
+					
+7	Passing	CP/AT	YDS	TD	INT
+7	E. Manning	13/24	170	0	0
+7	Rushing	ATT	YDS	TD	LG
+7	S. Vereen	4	56	0	39
+7	O. Darkwa	8	48	1	15T
+7	R. Jennings	5	19	0	8
+7	A. Williams	4	13	0	5
+7	E. Manning	4	-4	0	-1
+7	Receiving	REC	YDS	TD	LG
+7	R. Randle	2	68	0	44
+7	D. Harris	2	43	0	38
+7	O. Beckham Jr.	4	35	0	10
+7	L. Donnell	4	18	0	10
+7	S. Vereen	1	6	0	6
+7	Fumbles	FUM	LOST	REC	YDS
+7	M. White	0	0	1	0
+7	Kicking	FG	LG	XP	PTS
+7	J. Brown	2/2	47	3/3	9
+7	Punting	NO	AVG	I20	LG
+7	B. Wing	5	37.6	1	53
+7	Kickoff Returns	NO	AVG	TD	LG
+7	D. Harris	3	49	1	100
+7	Punt Returns	NO	AVG	TD	LG
+7	D. Harris	0	0	0	0
+7	Defense	T-A	SCK	INT	FF
+7	J. Beason	7-4	0.0	0	0
+7	D. Kennard	7-0	0.0	0	0
+7	L. Collins	6-3	0.0	0	0
+7	B. Meriweather	5-2	0.0	1	0
+7	T. Wade	5-1	0.0	0	0
+7	J. Casillas	4-3	0.0	0	0
+7	J. Bromley	3-1	0.0	0	0
+7	J. Hankins	3-1	0.0	0	0
+7	G. Selvie	3-3	0.5	0	0
+7	K. Wynn	3-3	0.0	0	0
+7	J. Hosley	2-1	0.0	0	0
+7	C. Jenkins	2-0	0.0	0	0
+7	D. Rodgers-Cromarti	2-0	0.0	2	0
+7	J. Thomas	2-4	0.0	0	0
+7	C. Dahl	1-0	0.0	0	0
+7	M. Kuhn	1-0	0.5	0	0
+7	R. Ayers Jr.	0-1	0.0	0	0
+7	Total First Downs	13			
+7	By Rushing	4			
+7	By Passing	7			
+7	By Penalty				
+7	Third Down Efficiency	3/11 - 27%			
+7	Fourth Down Efficiency	0/0 - 0%			
+7	Total Net Yards	289			
+7	Total Rushing/Passing Plays (includes Sacks)	51			
+7	Average Gain per Offensive Play	5.7			
+7	Net Yards Rushing	132			
+7	Total Rushing Plays	25			
+7	Average Gain per Rushing Play	5.3			
+7	Tackled for a Loss (Number-Yards)	1--1			
+7	Net Yards Passing	157			
+7	Times Sacked (Number-Yards)	2 - 13			
+7	Gross Yards Passing	170			
+7	Pass Comp-Att-Int	13 - 24 - 0			
+7	Average Gain per Passing Play (includes Sacks)	6.0			
+7	Kickoffs (Number-In End Zone-Touchbacks)	6 - 2 - 2			
+7	Punts (Number-Average)	5 - 47.0			
+7	Blocked	0			
+7	Net Punting Average	37.6			
+7	FGs Blocked - PATs Blocked	0 - 0			
+7	Total Return Yardage (excludes Kickoffs)	70			
+7	Punt Returns (Number-Yards)	0 - 0			
+7	Kickoff Returns (Number-Yards)	3 - 149			
+7	Interception Returns (Number-Yards)	3 - 70			
+7	Penalties (Number-Yards)	3 - 13			
+7	Fumbles (Number-Lost)	0 - 0			
+7	Touchdowns	3			
+7	Rushing	1			
+7	Passing	0			
+7	Interceptions	1			
+7	Kickoff Returns	1			
+7	Fumble Returns	0			
+7	Punt Returns	0			
+7	Extra Points (Made-Attempted)	3 - 3			
+7	Kicking (Made-Attempted)	3 - 3			
+7	Two Point Conversions (Made-Attempted)	0 - 0			
+7	Field Goals (Made-Attempted)	2 - 2			
+7	Red Zone Efficiency	1/3 - 33%			
+7	Goal To Go Efficiency	0/0 - 0%			
+7	Safeties	0			
+7	Final Score	27			
+7	Time of Possession	21:56			
+					
+8	Passing	CP/AT	YDS	TD	INT
+8	E. Manning	30/41	350	6	0
+8	Rushing	ATT	YDS	TD	LG
+8	R. Jennings	10	54	0	17
+8	O. Darkwa	4	23	0	17
+8	A. Williams	5	7	0	4
+8	S. Vereen	2	3	0	7
+8	Receiving	REC	YDS	TD	LG
+8	O. Beckham Jr.	8	130	3	50T
+8	S. Vereen	8	60	1	24
+8	R. Randle	5	55	0	19
+8	D. Harris	3	37	2	20T
+8	R. Jennings	2	31	0	25
+8	L. Donnell	1	22	0	22
+8	M. White	1	8	0	8
+8	W. Tye	2	7	0	7
+8	Fumbles	FUM	LOST	REC	YDS
+8	E. Manning	1	0	1	0
+8	W. Tye	1	1	0	0
+8	C. Dahl	0	0	0	0
+8	Kicking	FG	LG	XP	PTS
+8	J. Brown	0/0	0	7/7	7
+8	Punting	NO	AVG	I20	LG
+8	B. Wing	4	40.5	1	62
+8	Kickoff Returns	NO	AVG	TD	LG
+8	D. Harris	3	29	0	33
+8	S. Vereen	2	41	0	46
+8	Punt Returns	NO	AVG	TD	LG
+8	D. Harris	1	13	0	13
+8	Defense	T-A	SCK	INT	FF
+8	D. Rodgers-Cromarti	6-0	0.0	1	0
+8	J. Hankins	5-2	0.0	0	0
+8	J. Hosley	5-2	0.0	0	0
+8	J. Casillas	4-2	0.0	0	0
+8	L. Collins	4-5	0.0	0	0
+8	T. McBride	4-0	0.0	1	0
+8	T. Wade	4-1	0.0	0	0
+8	U. Unga	3-2	0.0	0	0
+8	K. Wynn	3-2	0.0	0	0
+8	R. Ayers Jr.	2-1	0.0	0	0
+8	J. Brinkley	2-1	0.0	0	0
+8	C. Dahl	2-1	0.0	0	0
+8	D. Kennard	2-2	0.0	0	0
+8	J. Bromley	0-2	0.0	0	0
+8	B. Meriweather	0-1	0.0	0	0
+8	Total First Downs	28			
+8	By Rushing	5			
+8	By Passing	16			
+8	By Penalty				
+8	Third Down Efficiency	1/8 - 12%			
+8	Fourth Down Efficiency	2/2 - 100%			
+8	Total Net Yards	416			
+8	Total Rushing/Passing Plays (includes Sacks)	65			
+8	Average Gain per Offensive Play	6.4			
+8	Net Yards Rushing	87			
+8	Total Rushing Plays	21			
+8	Average Gain per Rushing Play	4.1			
+8	Tackled for a Loss (Number-Yards)	2--5			
+8	Net Yards Passing	329			
+8	Times Sacked (Number-Yards)	3 - 21			
+8	Gross Yards Passing	350			
+8	Pass Comp-Att-Int	30 - 41 - 0			
+8	Average Gain per Passing Play (includes Sacks)	7.5			
+8	Kickoffs (Number-In End Zone-Touchbacks)	8 - 7 - 6			
+8	Punts (Number-Average)	4 - 53.0			
+8	Blocked	0			
+8	Net Punting Average	40.5			
+8	FGs Blocked - PATs Blocked	0 - 0			
+8	Total Return Yardage (excludes Kickoffs)	78			
+8	Punt Returns (Number-Yards)	1 - 13			
+8	Kickoff Returns (Number-Yards)	5 - 169			
+8	Interception Returns (Number-Yards)	2 - 65			
+8	Penalties (Number-Yards)	6 - 53			
+8	Fumbles (Number-Lost)	2 - 1			
+8	Touchdowns	7			
+8	Rushing	0			
+8	Passing	6			
+8	Interceptions	1			
+8	Kickoff Returns	0			
+8	Fumble Returns	0			
+8	Punt Returns	0			
+8	Extra Points (Made-Attempted)	7 - 7			
+8	Kicking (Made-Attempted)	7 - 7			
+8	Two Point Conversions (Made-Attempted)	0 - 0			
+8	Field Goals (Made-Attempted)	0 - 0			
+8	Red Zone Efficiency	4/4 - 100%			
+8	Goal To Go Efficiency	3/3 - 100%			
+8	Safeties	0			
+8	Final Score	49			
+8	Time of Possession	25:05			
+					
+9	Passing	CP/AT	YDS	TD	INT
+9	E. Manning	26/40	213	2	2
+9	Rushing	ATT	YDS	TD	LG
+9	R. Jennings	13	48	0	9
+9	A. Williams	7	30	0	11
+9	O. Darkwa	6	23	0	9
+9	S. Vereen	6	14	0	8
+9	J. Brown	0	0	0	0
+9	E. Manning	1	-1	0	-1
+9	Receiving	REC	YDS	TD	LG
+9	O. Beckham Jr.	9	105	0	24
+9	R. Randle	5	40	1	13
+9	S. Vereen	4	29	1	10
+9	W. Tye	2	19	0	15
+9	J. Cunningham	2	10	0	6
+9	A. Williams	1	7	0	7
+9	M. White	1	3	0	3
+9	D. Harris	1	1	0	1
+9	R. Jennings	1	-1	0	-1
+9	Fumbles	FUM	LOST	REC	YDS
+9	O. Beckham Jr.	1	0	0	0
+9	J. Brinkley	0	0	1	0
+9	J. Hankins	0	0	0	0
+9	T. Wade	0	0	2	5
+9	Kicking	FG	LG	XP	PTS
+9	J. Brown	4/4	53	2/2	14
+9	Punting	NO	AVG	I20	LG
+9	B. Wing	1	63.0	1	64
+9	Kickoff Returns	NO	AVG	TD	LG
+9	D. Harris	2	27	0	28
+9	Punt Returns	NO	AVG	TD	LG
+9	D. Harris	0	0	0	0
+9	Defense	T-A	SCK	INT	FF
+9	J. Casillas	6-0	0.0	0	0
+9	J. Brinkley	5-2	0.0	0	1
+9	L. Collins	4-1	0.0	0	0
+9	D. Kennard	4-2	0.0	0	0
+9	D. Rodgers-Cromarti	3-0	0.0	0	0
+9	J. Bromley	2-1	0.0	0	0
+9	C. Dahl	2-0	0.0	0	0
+9	J. Pierre-Paul	2-0	0.0	0	0
+9	T. Wade	2-0	0.0	0	0
+9	R. Ayers Jr.	1-0	0.0	0	0
+9	J. Hankins	1-0	0.0	0	1
+9	J. Hosley	1-0	0.0	0	0
+9	C. Jenkins	1-0	0.0	0	0
+9	T. McBride	1-0	0.0	0	0
+9	B. Meriweather	1-1	0.0	0	0
+9	D. Moore	1-0	0.0	0	0
+9	K. Wynn	1-0	0.0	0	0
+9	M. Herzlich	0-1	0.0	0	0
+9	Total First Downs	24			
+9	By Rushing	6			
+9	By Passing	14			
+9	By Penalty				
+9	Third Down Efficiency	9/16 - 56%			
+9	Fourth Down Efficiency	0/1 - 0%			
+9	Total Net Yards	327			
+9	Total Rushing/Passing Plays (includes Sacks)	73			
+9	Average Gain per Offensive Play	4.5			
+9	Net Yards Rushing	114			
+9	Total Rushing Plays	33			
+9	Average Gain per Rushing Play	3.5			
+9	Tackled for a Loss (Number-Yards)	4--7			
+9	Net Yards Passing	213			
+9	Times Sacked (Number-Yards)	0 - 0			
+9	Gross Yards Passing	213			
+9	Pass Comp-Att-Int	26 - 40 - 2			
+9	Average Gain per Passing Play (includes Sacks)	5.3			
+9	Kickoffs (Number-In End Zone-Touchbacks)	7 - 7 - 3			
+9	Punts (Number-Average)	1 - 64.0			
+9	Blocked	0			
+9	Net Punting Average	63.0			
+9	FGs Blocked - PATs Blocked	0 - 0			
+9	Total Return Yardage (excludes Kickoffs)	0			
+9	Punt Returns (Number-Yards)	0 - 0			
+9	Kickoff Returns (Number-Yards)	2 - 54			
+9	Interception Returns (Number-Yards)	0 - 0			
+9	Penalties (Number-Yards)	6 - 49			
+9	Fumbles (Number-Lost)	1 - 0			
+9	Touchdowns	3			
+9	Rushing	0			
+9	Passing	2			
+9	Interceptions	0			
+9	Kickoff Returns	0			
+9	Fumble Returns	1			
+9	Punt Returns	0			
+9	Extra Points (Made-Attempted)	2 - 3			
+9	Kicking (Made-Attempted)	2 - 2			
+9	Two Point Conversions (Made-Attempted)	0 - 1			
+9	Field Goals (Made-Attempted)	4 - 4			
+9	Red Zone Efficiency	2/4 - 50%			
+9	Goal To Go Efficiency	1/1 - 100%			
+9	Safeties	0			
+9	Final Score	32			
+9	Time of Possession	34:55			
+					
+10	Passing	CP/AT	YDS	TD	INT
+10	E. Manning	24/44	361	2	0
+10	Rushing	ATT	YDS	TD	LG
+10	R. Jennings	11	39	0	6
+10	O. Darkwa	5	15	0	4
+10	S. Vereen	4	14	0	9
+10	E. Manning	1	10	0	10
+10	A. Williams	2	2	0	3
+10	Receiving	REC	YDS	TD	LG
+10	O. Beckham Jr.	4	104	1	87T
+10	D. Harris	6	82	1	30
+10	W. Tye	5	56	0	31
+10	R. Randle	3	51	0	31
+10	M. White	1	28	0	28
+10	J. Cunningham	1	16	0	16
+10	R. Jennings	2	12	0	7
+10	S. Vereen	2	12	0	11
+10	Fumbles	FUM	LOST	REC	YDS
+10	R. Jennings	1	0	0	0
+10	E. Manning	1	1	0	0
+10	R. Ayers Jr.	0	0	0	0
+10	J. Brinkley	0	0	0	0
+10	G. Davis	0	0	1	0
+10	M. Kuhn	0	0	1	8
+10	Kicking	FG	LG	XP	PTS
+10	J. Brown	4/4	53	2/2	14
+10	Punting	NO	AVG	I20	LG
+10	B. Wing	4	20.0	1	53
+10	Kickoff Returns	NO	AVG	TD	LG
+10	D. Harris	2	19	0	20
+10	R. Jennings	1	-7	0	-7
+10	Punt Returns	NO	AVG	TD	LG
+10	D. Harris	4	10	0	17
+10	Defense	T-A	SCK	INT	FF
+10	J. Brinkley	9-3	1.0	0	1
+10	J. Casillas	7-0	0.0	0	0
+10	D. Rodgers-Cromarti	7-0	0.0	0	0
+10	L. Collins	4-1	0.0	0	0
+10	C. Dahl	4-1	1.0	0	0
+10	D. Kennard	4-2	0.0	0	0
+10	B. Meriweather	4-0	0.0	0	0
+10	J. Hosley	3-0	0.0	0	0
+10	R. Ayers Jr.	2-0	1.0	0	1
+10	T. Wade	2-0	0.0	0	0
+10	C. Jenkins	1-1	0.0	0	0
+10	M. Kuhn	1-3	0.0	0	0
+10	K. Wynn	1-0	0.0	0	0
+10	M. Herzlich	0-2	0.0	0	0
+10	T. McBride	0-0	0.0	1	0
+10	D. Moore	0-1	0.0	0	0
+10	G. Selvie	0-1	0.0	0	0
+10	Total First Downs	21			
+10	By Rushing	2			
+10	By Passing	16			
+10	By Penalty				
+10	Third Down Efficiency	7/15 - 46%			
+10	Fourth Down Efficiency	0/0 - 0%			
+10	Total Net Yards	422			
+10	Total Rushing/Passing Plays (includes Sacks)	70			
+10	Average Gain per Offensive Play	6.0			
+10	Net Yards Rushing	80			
+10	Total Rushing Plays	23			
+10	Average Gain per Rushing Play	3.5			
+10	Tackled for a Loss (Number-Yards)	1--1			
+10	Net Yards Passing	342			
+10	Times Sacked (Number-Yards)	3 - 19			
+10	Gross Yards Passing	361			
+10	Pass Comp-Att-Int	24 - 44 - 0			
+10	Average Gain per Passing Play (includes Sacks)	7.3			
+10	Kickoffs (Number-In End Zone-Touchbacks)	7 - 5 - 3			
+10	Punts (Number-Average)	4 - 41.0			
+10	Blocked	0			
+10	Net Punting Average	20.0			
+10	FGs Blocked - PATs Blocked	0 - 0			
+10	Total Return Yardage (excludes Kickoffs)	43			
+10	Punt Returns (Number-Yards)	4 - 41			
+10	Kickoff Returns (Number-Yards)	3 - 31			
+10	Interception Returns (Number-Yards)	1 - 2			
+10	Penalties (Number-Yards)	8 - 49			
+10	Fumbles (Number-Lost)	2 - 1			
+10	Touchdowns	2			
+10	Rushing	0			
+10	Passing	2			
+10	Interceptions	0			
+10	Kickoff Returns	0			
+10	Fumble Returns	0			
+10	Punt Returns	0			
+10	Extra Points (Made-Attempted)	2 - 2			
+10	Kicking (Made-Attempted)	2 - 2			
+10	Two Point Conversions (Made-Attempted)	0 - 0			
+10	Field Goals (Made-Attempted)	4 - 4			
+10	Red Zone Efficiency	1/5 - 20%			
+10	Goal To Go Efficiency	1/2 - 50%			
+10	Safeties	0			
+10	Final Score	26			
+10	Time of Possession	28:24			
+					
+	week 11 bye				
+					
+12	Passing	CP/AT	YDS	TD	INT
+12	E. Manning	26/51	321	2	3
+12	Rushing	ATT	YDS	TD	LG
+12	S. Vereen	2	15	0	8
+12	R. Jennings	6	14	0	5
+12	O. Darkwa	2	2	0	1
+12	D. Harris	1	1	0	1
+12	A. Williams	2	1	0	2
+12	Receiving	REC	YDS	TD	LG
+12	O. Beckham Jr.	9	142	1	31
+12	W. Tye	6	74	0	28
+12	R. Randle	1	36	1	40T
+12	D. Harris	2	28	0	15
+12	S. Vereen	4	21	0	9
+12	R. Jennings	2	14	0	9
+12	H. Nicks	1	4	0	4
+12	J. Cunningham	1	2	0	2
+12	Fumbles	FUM	LOST	REC	YDS
+12	E. Manning	2	0	1	0
+12	D. Harris	1	0	1	0
+12	Kicking	FG	LG	XP	PTS
+12	J. Brown	0/0	0	2/2	2
+12	Punting	NO	AVG	I20	LG
+12	B. Wing	7	41.0	3	61
+12	Kickoff Returns	NO	AVG	TD	LG
+12	D. Harris	1	19	0	19
+12	Punt Returns	NO	AVG	TD	LG
+12	D. Harris	4	3	0	6
+12	Defense	T-A	SCK	INT	FF
+12	L. Collins	7-1	0.0	0	0
+12	J. Brinkley	5-2	0.0	0	0
+12	C. Dahl	5-2	0.0	0	0
+12	D. Kennard	5-5	0.0	0	0
+12	P. Amukamara	3-1	0.0	0	0
+12	J. Casillas	3-2	0.0	0	0
+12	B. Meriweather	3-2	0.0	0	0
+12	T. Wade	3-1	0.0	0	0
+12	R. Ayers Jr.	2-1	0.0	0	0
+12	M. Hughes	2-0	0.0	0	0
+12	J. Pierre-Paul	2-2	0.0	0	0
+12	J. Hosley	1-1	0.0	0	0
+12	C. Jenkins	1-2	0.0	0	0
+12	D. Rodgers-Cromarti	1-0	0.0	0	0
+12	K. Wynn	1-4	0.0	0	0
+12	M. Kuhn	0-3	0.0	0	0
+12	Total First Downs	17			
+12	By Rushing	1			
+12	By Passing	14			
+12	By Penalty				
+12	Third Down Efficiency	3/15 - 20%			
+12	Fourth Down Efficiency	2/2 - 100%			
+12	Total Net Yards	332			
+12	Total Rushing/Passing Plays (includes Sacks)	67			
+12	Average Gain per Offensive Play	5.0			
+12	Net Yards Rushing	33			
+12	Total Rushing Plays	13			
+12	Average Gain per Rushing Play	2.5			
+12	Tackled for a Loss (Number-Yards)	2--5			
+12	Net Yards Passing	299			
+12	Times Sacked (Number-Yards)	3 - 22			
+12	Gross Yards Passing	321			
+12	Pass Comp-Att-Int	26 - 51 - 3			
+12	Average Gain per Passing Play (includes Sacks)	5.5			
+12	Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 0			
+12	Punts (Number-Average)	7 - 50.4			
+12	Blocked	0			
+12	Net Punting Average	41.0			
+12	FGs Blocked - PATs Blocked	0 - 0			
+12	Total Return Yardage (excludes Kickoffs)	14			
+12	Punt Returns (Number-Yards)	4 - 14			
+12	Kickoff Returns (Number-Yards)	1 - 19			
+12	Interception Returns (Number-Yards)	0 - 0			
+12	Penalties (Number-Yards)	4 - 35			
+12	Fumbles (Number-Lost)	3 - 0			
+12	Touchdowns	2			
+12	Rushing	0			
+12	Passing	2			
+12	Interceptions	0			
+12	Kickoff Returns	0			
+12	Fumble Returns	0			
+12	Punt Returns	0			
+12	Extra Points (Made-Attempted)	2 - 2			
+12	Kicking (Made-Attempted)	2 - 2			
+12	Two Point Conversions (Made-Attempted)	0 - 0			
+12	Field Goals (Made-Attempted)	0 - 0			
+12	Red Zone Efficiency	0/1 - 0%			
+12	Goal To Go Efficiency	0/1 - 0%			
+12	Safeties	0			
+12	Final Score	14			
+12	Time of Possession	24:00			
+					
+13	Passing	CP/AT	YDS	TD	INT
+13	E. Manning	18/34	297	1	1
+13	Rushing	ATT	YDS	TD	LG
+13	O. Darkwa	8	23	0	6
+13	A. Williams	6	22	0	13
+13	R. Jennings	5	14	0	5
+13	S. Vereen	4	13	0	11
+13	E. Manning	1	2	0	2
+13	Receiving	REC	YDS	TD	LG
+13	O. Beckham Jr.	6	149	1	72T
+13	W. Tye	3	70	0	45
+13	R. Randle	2	22	0	16
+13	R. Jennings	1	19	0	19
+13	O. Darkwa	1	10	0	10
+13	D. Harris	1	8	0	8
+13	H. Nicks	1	7	0	7
+13	S. Vereen	2	7	0	7
+13	M. White	1	5	0	5
+13	Fumbles	FUM	LOST	REC	YDS
+13	J. Brinkley	0	0	0	0
+13	J. Pierre-Paul	0	0	1	0
+13	Kicking	FG	LG	XP	PTS
+13	J. Brown	2/3	35	2/2	8
+13	Punting	NO	AVG	I20	LG
+13	B. Wing	5	42.4	4	49
+13	Kickoff Returns	NO	AVG	TD	LG
+13	D. Harris	4	26	0	43
+13	Punt Returns	NO	AVG	TD	LG
+13	D. Harris	2	48	1	80T
+13	Defense	T-A	SCK	INT	FF
+13	J. Casillas	7-0	0.0	0	0
+13	L. Collins	6-1	0.0	0	0
+13	T. Wade	6-0	0.0	0	0
+13	J. Brinkley	5-0	0.0	0	1
+13	J. Pierre-Paul	5-1	0.0	0	0
+13	P. Amukamara	4-1	0.0	0	0
+13	C. Dahl	4-0	0.0	0	0
+13	R. Ayers Jr.	3-2	2.0	0	0
+13	D. Moore	3-2	0.0	0	0
+13	U. Unga	3-1	0.0	0	0
+13	J. Bromley	2-0	0.0	0	0
+13	D. Rodgers-Cromarti	2-3	0.0	0	0
+13	C. Taylor	2-1	0.0	0	0
+13	J. Thomas	2-0	0.0	0	0
+13	M. Herzlich	1-1	0.0	0	0
+13	C. Jenkins	1-1	1.0	0	0
+13	M. Kuhn	1-2	0.0	0	0
+13	K. Wynn	1-0	0.0	0	0
+13	Total First Downs	14			
+13	By Rushing	2			
+13	By Passing	9			
+13	By Penalty				
+13	Third Down Efficiency	4/15 - 26%			
+13	Fourth Down Efficiency	1/2 - 50%			
+13	Total Net Yards	355			
+13	Total Rushing/Passing Plays (includes Sacks)	61			
+13	Average Gain per Offensive Play	5.8			
+13	Net Yards Rushing	74			
+13	Total Rushing Plays	24			
+13	Average Gain per Rushing Play	3.1			
+13	Tackled for a Loss (Number-Yards)	1--1			
+13	Net Yards Passing	281			
+13	Times Sacked (Number-Yards)	3 - 16			
+13	Gross Yards Passing	297			
+13	Pass Comp-Att-Int	18 - 34 - 1			
+13	Average Gain per Passing Play (includes Sacks)	7.6			
+13	Kickoffs (Number-In End Zone-Touchbacks)	6 - 3 - 1			
+13	Punts (Number-Average)	5 - 42.2			
+13	Blocked	0			
+13	Net Punting Average	42.4			
+13	FGs Blocked - PATs Blocked	0 - 0			
+13	Total Return Yardage (excludes Kickoffs)	96			
+13	Punt Returns (Number-Yards)	2 - 96			
+13	Kickoff Returns (Number-Yards)	4 - 104			
+13	Interception Returns (Number-Yards)	0 - 0			
+13	Penalties (Number-Yards)	8 - 60			
+13	Fumbles (Number-Lost)	0 - 0			
+13	Touchdowns	2			
+13	Rushing	0			
+13	Passing	1			
+13	Interceptions	0			
+13	Kickoff Returns	0			
+13	Fumble Returns	0			
+13	Punt Returns	1			
+13	Extra Points (Made-Attempted)	2 - 2			
+13	Kicking (Made-Attempted)	2 - 2			
+13	Two Point Conversions (Made-Attempted)	0 - 0			
+13	Field Goals (Made-Attempted)	2 - 3			
+13	Red Zone Efficiency	0/3 - 0%			
+13	Goal To Go Efficiency	0/1 - 0%			
+13	Safeties	0			
+13	Final Score	20			
+13	Time of Possession	29:56			
+					
+14	Passing	CP/AT	YDS	TD	INT
+14	E. Manning	27/31	337	4	0
+14	Rushing	ATT	YDS	TD	LG
+14	R. Jennings	22	81	0	21
+14	O. Darkwa	2	10	0	10
+14	A. Williams	3	3	0	5
+14	S. Vereen	1	0	0	0
+14	E. Manning	3	-2	0	0
+14	Receiving	REC	YDS	TD	LG
+14	O. Beckham Jr.	7	166	2	84T
+14	R. Randle	5	58	1	22
+14	D. Harris	5	41	0	12
+14	W. Tye	5	30	1	9
+14	R. Jennings	2	21	0	19
+14	S. Vereen	1	10	0	10
+14	O. Darkwa	1	6	0	6
+14	H. Nicks	1	5	0	5
+14	Fumbles	FUM	LOST	REC	YDS
+14	E. Manning	1	1	0	0
+14	L. Collins	0	0	0	0
+14	M. Herzlich	0	0	0	0
+14	J. Pierre-Paul	0	0	1	0
+14	Kicking	FG	LG	XP	PTS
+14	J. Brown	1/2	35	4/4	7
+14	Punting	NO	AVG	I20	LG
+14	B. Wing	4	37.5	0	54
+14	Kickoff Returns	NO	AVG	TD	LG
+14	D. Harris	1	22	0	22
+14	Punt Returns	NO	AVG	TD	LG
+14	D. Harris	2	17	0	20
+14	Defense	T-A	SCK	INT	FF
+14	P. Amukamara	5-0	0.0	0	0
+14	L. Collins	5-2	0.0	0	1
+14	J. Brinkley	4-2	0.0	0	0
+14	T. Wade	4-0	0.0	0	0
+14	D. Rodgers-Cromarti	3-0	0.0	0	0
+14	M. Kuhn	2-1	0.0	0	0
+14	J. Thomas	2-1	0.0	0	0
+14	U. Unga	2-1	0.0	0	0
+14	R. Ayers Jr.	1-0	1.0	0	0
+14	J. Bromley	1-0	0.0	0	0
+14	J. Casillas	1-1	0.0	0	0
+14	C. Dahl	1-2	0.0	0	0
+14	M. Herzlich	1-0	0.0	0	1
+14	J. Pierre-Paul	1-2	0.0	0	0
+14	G. Selvie	1-0	0.0	0	0
+14	C. Taylor	1-2	0.0	0	0
+14	K. Wynn	1-0	0.0	0	0
+14	C. Jenkins	0-1	0.0	0	0
+14	T. McBride	0-1	0.0	0	0
+14	Total First Downs	25			
+14	By Rushing	6			
+14	By Passing	15			
+14	By Penalty				
+14	Third Down Efficiency	5/11 - 45%			
+14	Fourth Down Efficiency	0/0 - 0%			
+14	Total Net Yards	429			
+14	Total Rushing/Passing Plays (includes Sacks)	62			
+14	Average Gain per Offensive Play	6.9			
+14	Net Yards Rushing	92			
+14	Total Rushing Plays	31			
+14	Average Gain per Rushing Play	3.0			
+14	Tackled for a Loss (Number-Yards)	5--13			
+14	Net Yards Passing	337			
+14	Times Sacked (Number-Yards)	0 - 0			
+14	Gross Yards Passing	337			
+14	Pass Comp-Att-Int	27 - 31 - 0			
+14	Average Gain per Passing Play (includes Sacks)	10.9			
+14	Kickoffs (Number-In End Zone-Touchbacks)	6 - 4 - 2			
+14	Punts (Number-Average)	4 - 45.0			
+14	Blocked	0			
+14	Net Punting Average	37.5			
+14	FGs Blocked - PATs Blocked	0 - 0			
+14	Total Return Yardage (excludes Kickoffs)	35			
+14	Punt Returns (Number-Yards)	2 - 35			
+14	Kickoff Returns (Number-Yards)	1 - 22			
+14	Interception Returns (Number-Yards)	0 - 0			
+14	Penalties (Number-Yards)	3 - 25			
+14	Fumbles (Number-Lost)	1 - 1			
+14	Touchdowns	4			
+14	Rushing	0			
+14	Passing	4			
+14	Interceptions	0			
+14	Kickoff Returns	0			
+14	Fumble Returns	0			
+14	Punt Returns	0			
+14	Extra Points (Made-Attempted)	4 - 4			
+14	Kicking (Made-Attempted)	4 - 4			
+14	Two Point Conversions (Made-Attempted)	0 - 0			
+14	Field Goals (Made-Attempted)	1 - 2			
+14	Red Zone Efficiency	3/4 - 75%			
+14	Goal To Go Efficiency	3/3 - 100%			
+14	Safeties	0			
+14	Final Score	31			
+14	Time of Possession	30:31			
+					
+15	Passing	CP/AT	YDS	TD	INT
+15	E. Manning	29/46	245	4	1
+15	Rushing	ATT	YDS	TD	LG
+15	R. Jennings	16	107	1	38T
+15	S. Vereen	4	29	0	19
+15	A. Williams	6	21	0	10
+15	E. Manning	1	4	0	4
+15	Receiving	REC	YDS	TD	LG
+15	O. Beckham Jr.	6	76	1	40
+15	R. Randle	4	47	1	27T
+15	W. Tye	5	43	1	20
+15	S. Vereen	8	43	1	9
+15	H. Nicks	1	10	0	10
+15	M. White	1	10	0	10
+15	D. Harris	2	9	0	5
+15	J. Cunningham	1	7	0	7
+15	R. Jennings	1	0	0	0
+15	Fumbles	FUM	LOST	REC	YDS
+15	O. Beckham Jr.	1	0	0	0
+15	R. Jennings	1	1	0	0
+15	K. Wynn	0	0	1	0
+15	Kicking	FG	LG	XP	PTS
+15	J. Brown	0/0	0	5/5	5
+15	Punting	NO	AVG	I20	LG
+15	B. Wing	7	35.9	2	58
+15	Kickoff Returns	NO	AVG	TD	LG
+15	D. Harris	1	19	0	19
+15	Punt Returns	NO	AVG	TD	LG
+15	D. Harris	3	3	0	9
+15	O. Beckham Jr.	1	21	0	21
+15	Defense	T-A	SCK	INT	FF
+15	P. Amukamara	7-0	0.0	0	0
+15	L. Collins	7-2	0.0	0	0
+15	R. Ayers Jr.	6-0	2.0	0	0
+15	C. Dahl	5-2	0.0	0	0
+15	J. Brinkley	4-5	0.0	0	0
+15	J. Casillas	4-0	0.0	0	0
+15	J. Pierre-Paul	3-0	1.0	0	0
+15	D. Rodgers-Cromarti	3-0	0.0	0	0
+15	J. Thomas	3-4	0.0	0	0
+15	U. Unga	3-2	0.0	0	0
+15	J. Bromley	2-1	0.0	0	0
+15	C. Jenkins	2-0	0.0	0	0
+15	T. McBride	1-0	0.0	0	0
+15	C. Taylor	1-1	0.0	0	0
+15	M. Hughes	0-2	0.0	0	0
+15	K. Wynn	0-2	0.0	0	0
+15	Total First Downs	21			
+15	By Rushing	7			
+15	By Passing	11			
+15	By Penalty				
+15	Third Down Efficiency	6/15 - 40%			
+15	Fourth Down Efficiency	2/2 - 100%			
+15	Total Net Yards	406			
+15	Total Rushing/Passing Plays (includes Sacks)	73			
+15	Average Gain per Offensive Play	5.6			
+15	Net Yards Rushing	161			
+15	Total Rushing Plays	27			
+15	Average Gain per Rushing Play	6.0			
+15	Tackled for a Loss (Number-Yards)	0-0			
+15	Net Yards Passing	245			
+15	Times Sacked (Number-Yards)	0 - 0			
+15	Gross Yards Passing	245			
+15	Pass Comp-Att-Int	29 - 46 - 1			
+15	Average Gain per Passing Play (includes Sacks)	5.3			
+15	Kickoffs (Number-In End Zone-Touchbacks)	6 - 2 - 1			
+15	Punts (Number-Average)	7 - 45.0			
+15	Blocked	0			
+15	Net Punting Average	35.9			
+15	FGs Blocked - PATs Blocked	0 - 0			
+15	Total Return Yardage (excludes Kickoffs)	32			
+15	Punt Returns (Number-Yards)	4 - 32			
+15	Kickoff Returns (Number-Yards)	1 - 19			
+15	Interception Returns (Number-Yards)	0 - 0			
+15	Penalties (Number-Yards)	7 - 47			
+15	Fumbles (Number-Lost)	2 - 1			
+15	Touchdowns	5			
+15	Rushing	1			
+15	Passing	4			
+15	Interceptions	0			
+15	Kickoff Returns	0			
+15	Fumble Returns	0			
+15	Punt Returns	0			
+15	Extra Points (Made-Attempted)	5 - 5			
+15	Kicking (Made-Attempted)	5 - 5			
+15	Two Point Conversions (Made-Attempted)	0 - 0			
+15	Field Goals (Made-Attempted)	0 - 0			
+15	Red Zone Efficiency	3/4 - 75%			
+15	Goal To Go Efficiency	0/0 - 0%			
+15	Safeties	0			
+15	Final Score	35			
+15	Time of Possession	29:08			
+					
+16	Passing	CP/AT	YDS	TD	INT
+16	E. Manning	15/29	234	1	3
+16	R. Nassib	5/5	68	1	0
+16	Rushing	ATT	YDS	TD	LG
+16	R. Jennings	14	74	0	16
+16	O. Darkwa	1	9	0	9
+16	A. Williams	3	5	0	3
+16	S. Vereen	1	3	0	3
+16	E. Manning	1	0	0	0
+16	Receiving	REC	YDS	TD	LG
+16	R. Randle	2	80	1	72T
+16	R. Jennings	2	62	0	50
+16	M. White	2	34	1	25T
+16	W. Tye	3	28	0	14
+16	M. LaCosse	3	22	0	10
+16	J. Cunningham	2	21	0	12
+16	S. Vereen	2	21	0	12
+16	O. Darkwa	1	15	0	15
+16	B. Edwards	1	9	0	9
+16	D. Harris	1	6	0	6
+16	H. Nicks	1	4	0	4
+16	Fumbles	FUM	LOST	REC	YDS
+16	D. Aiken	1	0	0	0
+16	D. Harris	1	0	1	0
+16	E. Manning	1	0	1	-13
+16	B. Wing	0	0	1	0
+16	Kicking	FG	LG	XP	PTS
+16	J. Brown	1/1	27	2/2	5
+16	Punting	NO	AVG	I20	LG
+16	B. Wing	6	40.0	2	48
+16	Kickoff Returns	NO	AVG	TD	LG
+16	S. Vereen	7	20	0	23
+16	B. Edwards	1	20	0	20
+16	Punt Returns	NO	AVG	TD	LG
+16	D. Harris	2	6	0	12
+16	Defense	T-A	SCK	INT	FF
+16	L. Collins	7-1	0.0	0	0
+16	P. Amukamara	6-0	0.0	0	0
+16	J. Casillas	6-3	1.0	0	0
+16	R. Ayers Jr.	5-1	1.5	0	0
+16	J. Brinkley	5-2	0.0	0	0
+16	D. Rodgers-Cromarti	4-0	0.0	0	0
+16	J. Thomas	3-0	0.0	0	0
+16	J. Bromley	2-2	0.0	0	0
+16	C. Dahl	2-0	0.0	0	0
+16	J. Pierre-Paul	2-0	0.0	0	0
+16	G. Selvie	2-1	0.5	0	0
+16	K. Wynn	2-0	0.0	0	0
+16	M. Herzlich	1-1	0.0	0	0
+16	C. Jenkins	1-0	0.0	0	0
+16	B. Meriweather	1-1	0.0	0	0
+16	T. Wade	1-0	0.0	0	0
+16	Total First Downs	15			
+16	By Rushing	3			
+16	By Passing	11			
+16	By Penalty				
+16	Third Down Efficiency	1/11 - 9%			
+16	Fourth Down Efficiency	0/2 - 0%			
+16	Total Net Yards	363			
+16	Total Rushing/Passing Plays (includes Sacks)	58			
+16	Average Gain per Offensive Play	6.3			
+16	Net Yards Rushing	91			
+16	Total Rushing Plays	20			
+16	Average Gain per Rushing Play	4.6			
+16	Tackled for a Loss (Number-Yards)	1--2			
+16	Net Yards Passing	272			
+16	Times Sacked (Number-Yards)	4 - 30			
+16	Gross Yards Passing	302			
+16	Pass Comp-Att-Int	20 - 34 - 3			
+16	Average Gain per Passing Play (includes Sacks)	7.2			
+16	Kickoffs (Number-In End Zone-Touchbacks)	4 - 0 - 0			
+16	Punts (Number-Average)	6 - 40.2			
+16	Blocked	0			
+16	Net Punting Average	40.0			
+16	FGs Blocked - PATs Blocked	0 - 0			
+16	Total Return Yardage (excludes Kickoffs)	12			
+16	Punt Returns (Number-Yards)	2 - 12			
+16	Kickoff Returns (Number-Yards)	8 - 162			
+16	Interception Returns (Number-Yards)	0 - 0			
+16	Penalties (Number-Yards)	7 - 48			
+16	Fumbles (Number-Lost)	3 - 0			
+16	Touchdowns	2			
+16	Rushing	0			
+16	Passing	2			
+16	Interceptions	0			
+16	Kickoff Returns	0			
+16	Fumble Returns	0			
+16	Punt Returns	0			
+16	Extra Points (Made-Attempted)	2 - 2			
+16	Kicking (Made-Attempted)	2 - 2			
+16	Two Point Conversions (Made-Attempted)	0 - 0			
+16	Field Goals (Made-Attempted)	1 - 1			
+16	Red Zone Efficiency	0/1 - 0%			
+16	Goal To Go Efficiency	0/0 - 0%			
+16	Safeties	0			
+16	Final Score	17			
+16	Time of Possession	25:03			
+					
+17	Passing	CP/AT	YDS	TD	INT
+17	E. Manning	24/43	302	2	0
+17	Rushing	ATT	YDS	TD	LG
+17	R. Jennings	27	170	1	35
+17	A. Williams	5	26	0	9
+17	S. Vereen	4	12	0	4
+17	Receiving	REC	YDS	TD	LG
+17	R. Randle	4	79	1	45T
+17	S. Vereen	6	72	0	15
+17	W. Tye	5	67	1	18
+17	O. Beckham	5	54	0	24
+17	H. Nicks	2	24	0	19
+17	R. Jennings	2	6	0	3
+17	Fumbles	FUM	LOST	REC	YDS
+17	E. Manning	1	1	0	0
+17	T. Ott	1	0	0	0
+17	J. Brinkley	0	0	0	0
+17	G. Selvie	0	0	1	0
+17	B. Wing	0	0	1	0
+17	Kicking	FG	LG	XP	PTS
+17	J. Brown	3/3	48	3/3	12
+17	Punting	NO	AVG	I20	LG
+17	B. Wing	3	35.7	3	42
+17	Kickoff Returns	NO	AVG	TD	LG
+17	Punt Returns	NO	AVG	TD	LG
+17	O. Beckham	1	5	0	5
+17	Defense	T-A	SCK	INT	FF
+17	J. Brinkley	8-1	0.0	0	1
+17	J. Casillas	7-0	0.0	1	0
+17	J. Pierre-Paul	6-0	0.0	0	0
+17	P. Amukamara	4-0	0.0	0	0
+17	R. Ayers Jr.	4-3	1.0	0	0
+17	L. Collins	4-4	0.0	0	0
+17	B. Meriweather	4-0	0.0	0	0
+17	T. Wade	4-3	0.0	0	0
+17	T. McBride	3-0	0.0	0	0
+17	G. Selvie	2-0	0.0	0	0
+17	J. Bromley	1-4	0.0	0	0
+17	M. Herzlich	1-0	0.0	0	0
+17	M. Hughes	1-1	0.0	0	0
+17	C. Jenkins	1-2	0.0	0	0
+17	D. Rodgers-Cromarti	1-1	0.0	0	0
+17	Total First Downs	30			
+17	By Rushing	11			
+17	By Passing	18			
+17	By Penalty				
+17	Third Down Efficiency	7/15 - 46%			
+17	Fourth Down Efficiency	1/2 - 50%			
+17	Total Net Yards	502			
+17	Total Rushing/Passing Plays (includes Sacks)	81			
+17	Average Gain per Offensive Play	6.2			
+17	Net Yards Rushing	208			
+17	Total Rushing Plays	36			
+17	Average Gain per Rushing Play	5.8			
+17	Tackled for a Loss (Number-Yards)	2--4			
+17	Net Yards Passing	294			
+17	Times Sacked (Number-Yards)	2 - 8			
+17	Gross Yards Passing	302			
+17	Pass Comp-Att-Int	24 - 43 - 0			
+17	Average Gain per Passing Play (includes Sacks)	6.5			
+17	Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 5			
+17	Punts (Number-Average)	3 - 35.7			
+17	Blocked	0			
+17	Net Punting Average	35.7			
+17	FGs Blocked - PATs Blocked	0 - 0			
+17	Total Return Yardage (excludes Kickoffs)	5			
+17	Punt Returns (Number-Yards)	1 - 5			
+17	Kickoff Returns (Number-Yards)	0 - 0			
+17	Interception Returns (Number-Yards)	1 - 0			
+17	Penalties (Number-Yards)	2 - 10			
+17	Fumbles (Number-Lost)	2 - 1			
+17	Touchdowns	3			
+17	Rushing	1			
+17	Passing	2			
+17	Interceptions	0			
+17	Kickoff Returns	0			
+17	Fumble Returns	0			
+17	Punt Returns	0			
+17	Extra Points (Made-Attempted)	3 - 3			
+17	Kicking (Made-Attempted)	3 - 3			
+17	Two Point Conversions (Made-Attempted)	0 - 0			
+17	Field Goals (Made-Attempted)	3 - 3			
+17	Red Zone Efficiency	2/5 - 40%			
+17	Goal To Go Efficiency	1/2 - 50%			
+17	Safeties	0			
+17	Final Score	30			
+17	Time of Possession	31:54			

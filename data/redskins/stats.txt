@@ -1,4 +1,4 @@
-1	Passing	CP/AT	YDS	TD	INT
+week	Passing	CP/AT	YDS	TD	INT
 1	K. Cousins	21/31	196	1	2
 1	Rushing	ATT	YDS	TD	LG
 1	A. Morris	25	121	0	14
@@ -41,1423 +41,1422 @@
 1	C. Baker	0-3	0.5	0	0
 1	C. Culliver	0-1	0.0	0	0
 1	T. Murphy	0-3	0.0	0	0
-1	Total First Downs	20
-1	By Rushing	6
-1	By Passing	12
-1	By Penalty	
-1	Third Down Efficiency	6/14 - 42%
-1	Fourth Down Efficiency	0/1 - 0%
-1	Total Net Yards	349
-1	Total Rushing/Passing Plays (includes Sacks)	69
-1	Average Gain per Offensive Play	5.1
-1	Net Yards Rushing	161
-1	Total Rushing Plays	37
-1	Average Gain per Rushing Play	4.4
-1	Tackled for a Loss (Number-Yards)	3--6
-1	Net Yards Passing	188
-1	Times Sacked (Number-Yards)	1 - 8
-1	Gross Yards Passing	196
-1	Pass Comp-Att-Int	21 - 31 - 2
-1	Average Gain per Passing Play (includes Sacks)	5.9
-1	Kickoffs (Number-In End Zone-Touchbacks)	3 - 2 - 1
-1	Punts (Number-Average)	3 - 41.3
-1	Blocked	0
-1	Net Punting Average	10.0
-1	FGs Blocked - PATs Blocked	0 - 0
-1	Total Return Yardage (excludes Kickoffs)	23
-1	Punt Returns (Number-Yards)	2 - 23
-1	Kickoff Returns (Number-Yards)	1 - 36
-1	Interception Returns (Number-Yards)	0 - 0
-1	Penalties (Number-Yards)	11 - 88
-1	Fumbles (Number-Lost)	1 - 0
-1	Touchdowns	1
-1	Rushing	0
-1	Passing	1
-1	Interceptions	0
-1	Kickoff Returns	0
-1	Fumble Returns	0
-1	Punt Returns	0
-1	Extra Points (Made-Attempted)	1 - 1
-1	Kicking (Made-Attempted)	1 - 1
-1	Two Point Conversions (Made-Attempted)	0 - 0
-1	Field Goals (Made-Attempted)	1 - 2
-1	Red Zone Efficiency	1/1 - 100%
-1	Goal To Go Efficiency	1/1 - 100%
-1	Safeties	0
-1	Final Score	10
-1	Time of Possession	37:54
-
-Passing 	CP/AT 	YDS 	TD 	INT
-K. Cousins 	23/27 	203 	1 	0
-Rushing 	ATT 	YDS 	TD 	LG
-M. Jones 	19 	123 	2 	39T
-A. Morris 	18 	59 	0 	35
-Receiving 	REC 	YDS 	TD 	LG
-J. Reed 	6 	82 	0 	29
-R. Grant 	3 	45 	0 	35
-P. Garcon 	6 	23 	1 	6
-M. Jones 	3 	23 	0 	18
-A. Morris 	2 	13 	0 	9
-C. Thompson 	1 	10 	0 	10
-J. Crowder 	1 	7 	0 	7
-A. Roberts 	1 	0 	0 	0
-Fumbles 	FUM 	LOST 	REC 	YDS
-M. Jones 	1 	1 	0 	0
-R. Kerrigan 	0 	0 	0 	0
-Kicking 	FG 	LG 	XP 	PTS
-D. Hopkins 	1/1 	46 	3/3 	6
-Punting 	NO 	AVG 	I20 	LG
-T. Way 	6 	37.3 	1 	56
-Kickoff Returns 	NO 	AVG 	TD 	LG
-R. Ross 	1 	23 	0 	23
-Punt Returns 	NO 	AVG 	TD 	LG
-J. Crowder 	5 	2 	0 	10
-Defense 	T-A 	SCK 	INT 	FF
-T. Robinson 	5-1 	0.0 	0 	0
-K. Robinson 	4-2 	0.0 	0 	0
-D. Hall 	3-1 	0.0 	0 	0
-S. Paea 	3-0 	0.0 	0 	0
-R. Kerrigan 	2-2 	0.0 	0 	1
-P. Riley 	2-2 	0.0 	0 	0
-B. Breeland 	1-0 	0.0 	0 	0
-W. Compton 	1-1 	0.0 	0 	0
-D. Goldson 	1-0 	0.0 	0 	0
-K. Jarrett 	1-1 	0.0 	0 	0
-R. Jean Francois 	1-0 	0.0 	0 	0
-T. Murphy 	1-1 	0.0 	0 	0
-C. Baker 	0-1 	0.0 	0 	0
-J. Hatcher 	0-1 	0.0 	0 	0
-T. Knighton 	0-1 	0.0 	0 	0
-Total First Downs	19
-By Rushing	8
-By Passing	10
-By Penalty	
-Third Down Efficiency	8/16 - 50%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	373
-Total Rushing/Passing Plays (includes Sacks)	66
-Average Gain per Offensive Play	5.7
-Net Yards Rushing	182
-Total Rushing Plays	37
-Average Gain per Rushing Play	4.9
-Tackled for a Loss (Number-Yards)	5--9
-Net Yards Passing	191
-Times Sacked (Number-Yards)	2 - 12
-Gross Yards Passing	203
-Pass Comp-Att-Int	23 - 27 - 0
-Average Gain per Passing Play (includes Sacks)	6.6
-Kickoffs (Number-In End Zone-Touchbacks)	5 - 5 - 4
-Punts (Number-Average)	6 - 40.7
-Blocked	0
-Net Punting Average	37.3
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	12
-Punt Returns (Number-Yards)	5 - 12
-Kickoff Returns (Number-Yards)	1 - 23
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	7 - 53
-Fumbles (Number-Lost)	1 - 1
-Touchdowns	3
-Rushing	2
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 3
-Kicking (Made-Attempted)	3 - 3
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	2/2 - 100%
-Goal To Go Efficiency	2/2 - 100%
-Safeties	0
-Final Score	24
-Time of Possession	37:44
-
-Passing	CP/AT	YDS	TD	INT
-K. Cousins	30/49	316	1	2
-Rushing	ATT	YDS	TD	LG
-M. Jones	11	38	0	10
-C. Thompson	2	29	0	26
-A. Morris	6	19	0	7
-D. Young	1	2	0	2
-Receiving	REC	YDS	TD	LG
-J. Reed	6	96	0	26
-P. Garcon	5	64	0	19
-C. Thompson	8	57	1	14
-J. Crowder	6	45	0	15
-R. Ross	2	27	0	20
-A. Roberts	1	18	0	18
-R. Grant	2	9	0	6
-Fumbles	FUM	LOST	REC	YDS
-M. Jones	1	1	0	0
-C. Thompson	1	0	0	0
-Kicking	FG	LG	XP	PTS
-D. Hopkins	2/2	44	1/1	7
-Punting	NO	AVG	I20	LG
-T. Way	1	18.0	0	36
-Kickoff Returns	NO	AVG	TD	LG
-R. Ross	4	39	1	101
-Punt Returns	NO	AVG	TD	LG
-J. Crowder	1	10	0	10
-Defense	T-A	SCK	INT	FF
-K. Robinson	10-3	0.0	0	0
-W. Compton	8-3	0.0	0	0
-D. Goldson	7-3	0.0	0	0
-C. Baker	5-1	0.0	0	0
-C. Culliver	4-0	0.0	0	0
-W. Blackmon	3-0	0.0	0	0
-D. Hall	3-1	0.0	0	0
-T. Knighton	3-3	0.0	0	0
-T. Robinson	3-4	0.0	0	0
-B. Breeland	2-1	0.0	0	0
-R. Jean Francois	1-3	0.0	0	0
-R. Kerrigan	1-0	0.0	0	0
-S. Paea	1-0	0.0	0	0
-T. Murphy	0-3	0.0	0	0
-Total First Downs	22
-By Rushing	3
-By Passing	16
-By Penalty	
-Third Down Efficiency	6/15 - 40%
-Fourth Down Efficiency	2/3 - 66%
-Total Net Yards	393
-Total Rushing/Passing Plays (includes Sacks)	70
-Average Gain per Offensive Play	5.6
-Net Yards Rushing	88
-Total Rushing Plays	20
-Average Gain per Rushing Play	4.4
-Tackled for a Loss (Number-Yards)	1--3
-Net Yards Passing	305
-Times Sacked (Number-Yards)	1 - 11
-Gross Yards Passing	316
-Pass Comp-Att-Int	30 - 49 - 2
-Average Gain per Passing Play (includes Sacks)	6.1
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 3 - 3
-Punts (Number-Average)	2 - 18.0
-Blocked	1
-Net Punting Average	12.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	10
-Punt Returns (Number-Yards)	1 - 10
-Kickoff Returns (Number-Yards)	4 - 158
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	7 - 58
-Fumbles (Number-Lost)	2 - 1
-Touchdowns	2
-Rushing	0
-Passing	1
-Interceptions	0
-Kickoff Returns	1
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	1 - 1
-Two Point Conversions (Made-Attempted)	1 - 1
-Field Goals (Made-Attempted)	2 - 2
-Red Zone Efficiency	1/3 - 33%
-Goal To Go Efficiency	0/0 - 0%
-Safeties	0
-Final Score	21
-Time of Possession	28:30
-
-Passing	CP/AT	YDS	TD	INT
-K. Cousins	31/46	290	1	0
-Rushing	ATT	YDS	TD	LG
-A. Morris	17	62	0	16
-C. Thompson	6	53	0	42
-M. Jones	7	11	0	7
-K. Cousins	1	1	1	1T
-D. Young	1	0	0	0
-Receiving	REC	YDS	TD	LG
-J. Crowder	7	65	0	22
-P. Garcon	7	55	1	14
-R. Grant	5	45	0	16
-R. Ross	1	43	0	43
-J. Reed	5	37	0	15
-C. Thompson	2	24	0	19
-D. Carrier	2	18	0	15
-A. Morris	2	3	0	2
-Fumbles	FUM	LOST	REC	YDS
-K. Cousins	1	0	1	0
-J. Reed	1	1	0	0
-T. Murphy	0	0	1	0
-K. Robinson	0	0	1	0
-Kicking	FG	LG	XP	PTS
-D. Hopkins	3/3	38	2/2	11
-Punting	NO	AVG	I20	LG
-T. Way	5	31.2	0	63
-Kickoff Returns	NO	AVG	TD	LG
-R. Ross	1	22	0	22
-Punt Returns	NO	AVG	TD	LG
-J. Crowder	2	1	0	8
-Defense	T-A	SCK	INT	FF
-W. Compton	5-2	0.0	0	0
-K. Jarrett	5-0	0.0	0	0
-B. Breeland	4-1	0.0	0	0
-R. Kerrigan	4-0	1.0	0	0
-P. Smith	3-0	1.0	0	0
-C. Baker	2-1	2.0	0	0
-D. Goldson	2-1	0.0	0	0
-W. Blackmon	1-0	0.0	0	0
-C. Culliver	1-0	0.0	0	0
-T. Murphy	1-1	1.0	0	0
-S. Paea	1-1	0.0	0	0
-K. Robinson	1-2	0.0	0	0
-T. Robinson	1-2	0.0	0	0
-R. Jean Francois	0-1	0.0	0	0
-T. Knighton	0-1	0.0	0	0
-Total First Downs	25
-By Rushing	4
-By Passing	18
-By Penalty	
-Third Down Efficiency	9/17 - 52%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	417
-Total Rushing/Passing Plays (includes Sacks)	79
-Average Gain per Offensive Play	5.3
-Net Yards Rushing	127
-Total Rushing Plays	32
-Average Gain per Rushing Play	4.0
-Tackled for a Loss (Number-Yards)	3--3
-Net Yards Passing	290
-Times Sacked (Number-Yards)	1 - 0
-Gross Yards Passing	290
-Pass Comp-Att-Int	31 - 46 - 0
-Average Gain per Passing Play (includes Sacks)	6.2
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 6
-Punts (Number-Average)	5 - 44.2
-Blocked	0
-Net Punting Average	31.2
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	2
-Punt Returns (Number-Yards)	2 - 2
-Kickoff Returns (Number-Yards)	1 - 22
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	10 - 110
-Fumbles (Number-Lost)	2 - 1
-Touchdowns	2
-Rushing	1
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	3 - 3
-Red Zone Efficiency	2/4 - 50%
-Goal To Go Efficiency	2/3 - 66%
-Safeties	0
-Final Score	23
-Time of Possession	41:08
-
-Passing	CP/AT	YDS	TD	INT
-K. Cousins	21/32	219	1	2
-Rushing	ATT	YDS	TD	LG
-M. Jones	11	20	1	7
-A. Morris	8	15	0	4
-C. Thompson	3	15	0	9
-K. Cousins	1	1	0	1
-J. Crowder	1	0	0	0
-Receiving	REC	YDS	TD	LG
-J. Crowder	8	87	0	26
-P. Garcon	3	51	0	21
-C. Thompson	6	33	0	14
-D. Carrier	2	27	1	20
-M. Jones	1	17	0	17
-R. Grant	1	4	0	4
-Fumbles	FUM	LOST	REC	YDS
-J. Crowder	1	0	0	0
-C. Baker	0	0	0	0
-W. Blackmon	0	0	0	0
-W. Compton	0	0	1	0
-Kicking	FG	LG	XP	PTS
-D. Hopkins	2/3	52	1/1	7
-Punting	NO	AVG	I20	LG
-T. Way	4	46.8	2	57
-Kickoff Returns	NO	AVG	TD	LG
-R. Ross	2	26	0	27
-Punt Returns	NO	AVG	TD	LG
-J. Crowder	1	10	0	10
-Defense	T-A	SCK	INT	FF
-D. Goldson	7-2	0.0	0	0
-W. Blackmon	6-1	0.0	0	1
-B. Breeland	6-2	0.0	1	0
-P. Riley	4-1	0.0	0	0
-T. Robinson	4-2	0.0	1	0
-J. Hatcher	3-0	0.0	0	0
-K. Jarrett	3-0	0.0	0	0
-R. Kerrigan	3-0	2.0	0	0
-K. Robinson	3-1	0.0	0	0
-C. Baker	2-0	1.0	0	2
-W. Compton	2-0	0.0	0	0
-T. Knighton	2-0	0.0	0	0
-T. Murphy	2-2	0.0	0	0
-P. Smith	2-0	0.0	0	0
-R. Jean Francois	1-1	0.0	0	0
-J. Johnson	1-0	0.0	0	0
-S. Paea	1-0	0.0	0	0
-Total First Downs	18
-By Rushing	4
-By Passing	13
-By Penalty	
-Third Down Efficiency	4/12 - 33%
-Fourth Down Efficiency	1/1 - 100%
-Total Net Yards	270
-Total Rushing/Passing Plays (includes Sacks)	57
-Average Gain per Offensive Play	4.7
-Net Yards Rushing	51
-Total Rushing Plays	24
-Average Gain per Rushing Play	2.1
-Tackled for a Loss (Number-Yards)	2--7
-Net Yards Passing	219
-Times Sacked (Number-Yards)	1 - 0
-Gross Yards Passing	219
-Pass Comp-Att-Int	21 - 32 - 2
-Average Gain per Passing Play (includes Sacks)	6.6
-Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 4
-Punts (Number-Average)	4 - 50.3
-Blocked	0
-Net Punting Average	46.8
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	46
-Punt Returns (Number-Yards)	1 - 10
-Kickoff Returns (Number-Yards)	2 - 53
-Interception Returns (Number-Yards)	2 - 36
-Penalties (Number-Yards)	5 - 51
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	2
-Rushing	1
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	1 - 2
-Kicking (Made-Attempted)	1 - 1
-Two Point Conversions (Made-Attempted)	0 - 1
-Field Goals (Made-Attempted)	2 - 3
-Red Zone Efficiency	2/3 - 66%
-Goal To Go Efficiency	2/3 - 66%
-Safeties	0
-Final Score	19
-Time of Possession	27:49
-
-Passing	CP/AT	YDS	TD	INT
-K. Cousins	25/43	196	1	2
-J. Crowder	0/1	0	0	0
-Rushing	ATT	YDS	TD	LG
-A. Morris	11	21	0	6
-C. Thompson	5	12	0	8
-K. Cousins	1	1	0	1
-Receiving	REC	YDS	TD	LG
-J. Crowder	4	40	0	18
-D. Carrier	4	39	0	20
-P. Garcon	5	28	1	12
-C. Thompson	6	26	0	13
-R. Grant	2	22	0	16
-R. Ross	1	16	0	16
-A. Morris	1	11	0	11
-D. Young	1	8	0	8
-A. Roberts	1	6	0	6
-Fumbles	FUM	LOST	REC	YDS
-B. Breeland	0	0	2	-1
-K. Jarrett	0	0	0	0
-Kicking	FG	LG	XP	PTS
-D. Hopkins	2/2	54	2/2	8
-Punting	NO	AVG	I20	LG
-T. Way	6	42.3	1	53
-Kickoff Returns	NO	AVG	TD	LG
-R. Ross	5	19	0	25
-Punt Returns	NO	AVG	TD	LG
-J. Crowder	0	0	0	0
-Defense	T-A	SCK	INT	FF
-D. Goldson	7-6	0.0	0	0
-K. Jarrett	6-1	0.0	0	1
-T. Robinson	6-2	0.0	0	0
-B. Breeland	3-1	0.0	1	1
-P. Riley	3-5	0.0	0	0
-K. Robinson	3-7	0.0	0	0
-C. Baker	2-3	0.0	0	0
-W. Blackmon	1-0	0.0	0	0
-J. Hatcher	1-0	0.0	0	0
-R. Jean Francois	1-1	0.0	0	0
-T. Knighton	1-2	0.0	0	0
-W. Compton	0-1	0.0	0	0
-K. Golston	0-4	0.0	0	0
-J. Johnson	0-2	0.0	0	0
-F. Kearse	0-2	0.0	0	0
-R. Kerrigan	0-1	0.0	0	0
-T. Murphy	0-1	0.0	0	0
-P. Smith	0-1	0.0	0	0
-Total First Downs	14
-By Rushing	1
-By Passing	12
-By Penalty	
-Third Down Efficiency	5/15 - 33%
-Fourth Down Efficiency	1/2 - 50%
-Total Net Yards	225
-Total Rushing/Passing Plays (includes Sacks)	62
-Average Gain per Offensive Play	3.6
-Net Yards Rushing	34
-Total Rushing Plays	17
-Average Gain per Rushing Play	2.0
-Tackled for a Loss (Number-Yards)	5--6
-Net Yards Passing	191
-Times Sacked (Number-Yards)	1 - 5
-Gross Yards Passing	196
-Pass Comp-Att-Int	25 - 44 - 2
-Average Gain per Passing Play (includes Sacks)	4.2
-Kickoffs (Number-In End Zone-Touchbacks)	5 - 2 - 1
-Punts (Number-Average)	6 - 48.0
-Blocked	0
-Net Punting Average	42.3
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	28
-Punt Returns (Number-Yards)	0 - 0
-Kickoff Returns (Number-Yards)	5 - 96
-Interception Returns (Number-Yards)	1 - 28
-Penalties (Number-Yards)	3 - 15
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	2
-Rushing	0
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 2
-Red Zone Efficiency	1/3 - 33%
-Goal To Go Efficiency	1/2 - 50%
-Safeties	0
-Final Score	20
-Time of Possession	27:21
-
-Passing	CP/AT	YDS	TD	INT
-K. Cousins	33/40	317	3	0
-Rushing	ATT	YDS	TD	LG
-M. Jones	9	29	0	11
-K. Cousins	3	15	1	8T
-A. Morris	6	5	0	5
-D. Young	1	1	0	1
-Receiving	REC	YDS	TD	LG
-J. Reed	11	72	2	13
-P. Garcon	5	55	0	21
-R. Grant	3	54	1	32
-A. Roberts	3	49	0	38
-J. Crowder	5	48	0	18
-M. Jones	3	22	0	12
-D. Carrier	2	15	0	9
-A. Morris	1	2	0	2
-Fumbles	FUM	LOST	REC	YDS
-K. Cousins	1	1	0	0
-C. Baker	0	0	1	0
-J. Jeffcoat	0	0	0	0
-Kicking	FG	LG	XP	PTS
-D. Hopkins	1/1	35	4/4	7
-Punting	NO	AVG	I20	LG
-T. Way	4	42.8	1	52
-Kickoff Returns	NO	AVG	TD	LG
-R. Ross	2	24	0	30
-Punt Returns	NO	AVG	TD	LG
-J. Crowder	1	4	0	4
-Defense	T-A	SCK	INT	FF
-B. Breeland	7-5	0.0	0	0
-D. Goldson	6-8	0.0	0	0
-T. Robinson	5-5	0.0	0	0
-W. Blackmon	2-0	0.0	0	0
-W. Compton	2-2	0.0	0	0
-J. Hatcher	2-1	0.0	0	0
-J. Jeffcoat	2-0	0.0	0	1
-K. Robinson	2-6	0.0	0	0
-P. Smith	2-2	0.0	0	0
-C. Baker	1-5	0.0	0	0
-R. Kerrigan	1-0	0.0	0	0
-T. Knighton	1-1	0.5	0	0
-P. Riley	1-1	0.0	0	0
-K. Jarrett	0-1	0.0	0	0
-R. Jean Francois	0-2	0.0	0	0
-J. Johnson	0-1	0.0	0	0
-T. Murphy	0-1	0.0	0	0
-S. Paea	0-1	0.5	0	0
-Total First Downs	27
-By Rushing	4
-By Passing	16
-By Penalty	
-Third Down Efficiency	5/11 - 45%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	355
-Total Rushing/Passing Plays (includes Sacks)	60
-Average Gain per Offensive Play	5.9
-Net Yards Rushing	50
-Total Rushing Plays	19
-Average Gain per Rushing Play	2.6
-Tackled for a Loss (Number-Yards)	5--6
-Net Yards Passing	305
-Times Sacked (Number-Yards)	1 - 12
-Gross Yards Passing	317
-Pass Comp-Att-Int	33 - 40 - 0
-Average Gain per Passing Play (includes Sacks)	7.4
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 5 - 4
-Punts (Number-Average)	4 - 47.3
-Blocked	0
-Net Punting Average	42.8
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	4
-Punt Returns (Number-Yards)	1 - 4
-Kickoff Returns (Number-Yards)	2 - 48
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	4 - 20
-Fumbles (Number-Lost)	1 - 1
-Touchdowns	4
-Rushing	1
-Passing	3
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	4 - 4
-Kicking (Made-Attempted)	4 - 4
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	4/5 - 80%
-Goal To Go Efficiency	4/4 - 100%
-Safeties	0
-Final Score	31
-Time of Possession	28:42
-
-week 8 bye
-
-Passing	CP/AT	YDS	TD	INT
-K. Cousins	22/40	217	1	1
-Rushing	ATT	YDS	TD	LG
-M. Jones	11	27	0	10
-A. Morris	4	10	0	4
-Receiving	REC	YDS	TD	LG
-P. Garcon	4	70	0	36
-J. Crowder	6	50	0	16
-A. Roberts	2	26	0	18
-C. Thompson	2	21	0	13
-J. Reed	3	18	1	9
-M. Jones	2	17	0	12
-D. Jackson	3	15	0	9
-Fumbles	FUM	LOST	REC	YDS
-J. Crowder	1	0	0	0
-M. Jones	1	1	0	0
-W. Blackmon	0	0	1	0
-S. Paea	0	0	0	0
-Kicking	FG	LG	XP	PTS
-D. Hopkins	1/1	23	1/1	4
-Punting	NO	AVG	I20	LG
-T. Way	4	47.5	1	55
-Kickoff Returns	NO	AVG	TD	LG
-A. Roberts	2	15	0	26
-C. Thompson	1	18	0	18
-Punt Returns	NO	AVG	TD	LG
-J. Crowder	1	9	0	9
-Defense	T-A	SCK	INT	FF
-C. Baker	5-2	0.0	0	0
-D. Goldson	5-4	0.0	0	0
-J. Johnson	5-1	0.0	0	0
-W. Compton	4-6	0.0	0	0
-K. Jarrett	4-3	0.0	0	0
-T. Robinson	4-0	0.0	0	0
-K. Robinson	4-3	0.0	1	0
-W. Blackmon	3-5	0.0	0	1
-C. Culliver	2-0	0.0	0	0
-S. Paea	2-1	0.0	0	1
-R. Jean Francois	1-2	0.0	0	0
-R. Kerrigan	1-1	0.0	0	0
-P. Smith	1-0	0.0	0	0
-B. Breeland	0-1	0.0	0	0
-K. Golston	0-2	0.0	0	0
-T. Murphy	0-3	0.0	0	0
-Total First Downs	16
-By Rushing	3
-By Passing	12
-By Penalty	
-Third Down Efficiency	7/14 - 50%
-Fourth Down Efficiency	0/1 - 0%
-Total Net Yards	250
-Total Rushing/Passing Plays (includes Sacks)	56
-Average Gain per Offensive Play	4.5
-Net Yards Rushing	37
-Total Rushing Plays	15
-Average Gain per Rushing Play	2.5
-Tackled for a Loss (Number-Yards)	2--5
-Net Yards Passing	213
-Times Sacked (Number-Yards)	1 - 4
-Gross Yards Passing	217
-Pass Comp-Att-Int	22 - 40 - 1
-Average Gain per Passing Play (includes Sacks)	5.2
-Kickoffs (Number-In End Zone-Touchbacks)	3 - 2 - 1
-Punts (Number-Average)	4 - 47.0
-Blocked	0
-Net Punting Average	47.5
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	53
-Punt Returns (Number-Yards)	1 - 9
-Kickoff Returns (Number-Yards)	3 - 48
-Interception Returns (Number-Yards)	1 - 44
-Penalties (Number-Yards)	4 - 27
-Fumbles (Number-Lost)	2 - 1
-Touchdowns	1
-Rushing	0
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	1 - 1
-Kicking (Made-Attempted)	1 - 1
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	1/2 - 50%
-Goal To Go Efficiency	1/2 - 50%
-Safeties	0
-Final Score	10
-Time of Possession	22:55
-
-Passing	CP/AT	YDS	TD	INT
-K. Cousins	20/25	324	4	0
-Rushing	ATT	YDS	TD	LG
-A. Morris	15	92	0	28
-M. Jones	11	56	0	20
-C. Thompson	2	54	0	38
-D. Young	3	7	0	5
-Receiving	REC	YDS	TD	LG
-M. Jones	3	131	1	78T
-J. Crowder	4	60	1	31
-D. Jackson	2	44	0	42
-J. Reed	3	29	2	16T
-C. Thompson	1	23	0	23
-D. Carrier	1	14	0	14
-A. Morris	3	14	0	7
-P. Garcon	2	10	0	7
-D. Young	1	-1	0	-1
-Fumbles	FUM	LOST	REC	YDS
-K. Cousins	1	0	1	0
-J. Crowder	1	0	1	0
-D. Young	1	0	0	0
-B. Breeland	0	0	0	0
-S. Long	0	0	1	4
-Kicking	FG	LG	XP	PTS
-D. Hopkins	4/4	40	5/5	17
-Punting	NO	AVG	I20	LG
-T. Way	2	38.5	1	56
-Kickoff Returns	NO	AVG	TD	LG
-R. Ross	2	14	0	21
-Punt Returns	NO	AVG	TD	LG
-J. Crowder	4	6	0	11
-Defense	T-A	SCK	INT	FF
-B. Breeland	6-3	0.0	0	1
-D. Goldson	5-0	0.0	1	0
-P. Riley	4-2	0.0	1	0
-K. Jarrett	3-0	0.0	0	0
-W. Compton	2-6	0.0	0	0
-D. Everett	2-1	0.0	0	0
-W. Blackmon	1-1	0.0	0	0
-C. Culliver	1-2	0.0	0	0
-J. Hatcher	1-1	0.0	0	0
-R. Jean Francois	1-1	0.0	0	0
-R. Kerrigan	1-1	0.0	0	0
-T. Knighton	1-0	0.0	0	0
-T. Murphy	1-4	0.5	0	0
-S. Paea	1-2	1.0	0	0
-C. Baker	0-4	0.5	0	0
-M. Foster	0-1	0.0	0	0
-K. Golston	0-2	0.0	0	0
-D. Hall	0-2	0.0	0	0
-P. Smith	0-1	0.0	0	0
-Total First Downs	23
-By Rushing	9
-By Passing	12
-By Penalty	
-Third Down Efficiency	6/11 - 54%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	510
-Total Rushing/Passing Plays (includes Sacks)	59
-Average Gain per Offensive Play	8.6
-Net Yards Rushing	209
-Total Rushing Plays	31
-Average Gain per Rushing Play	6.7
-Tackled for a Loss (Number-Yards)	0-0
-Net Yards Passing	301
-Times Sacked (Number-Yards)	3 - 23
-Gross Yards Passing	324
-Pass Comp-Att-Int	20 - 25 - 0
-Average Gain per Passing Play (includes Sacks)	10.8
-Kickoffs (Number-In End Zone-Touchbacks)	9 - 8 - 6
-Punts (Number-Average)	2 - 43.5
-Blocked	0
-Net Punting Average	38.5
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	61
-Punt Returns (Number-Yards)	4 - 26
-Kickoff Returns (Number-Yards)	2 - 29
-Interception Returns (Number-Yards)	2 - 35
-Penalties (Number-Yards)	5 - 26
-Fumbles (Number-Lost)	3 - 0
-Touchdowns	5
-Rushing	0
-Passing	4
-Interceptions	1
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	5 - 5
-Kicking (Made-Attempted)	5 - 5
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	4 - 4
-Red Zone Efficiency	3/6 - 50%
-Goal To Go Efficiency	0/1 - 0%
-Safeties	0
-Final Score	47
-Time of Possession	33:34
-
-Passing	CP/AT	YDS	TD	INT
-K. Cousins	22/30	207	1	1
-Rushing	ATT	YDS	TD	LG
-C. Thompson	4	10	0	6
-K. Cousins	1	4	0	4
-M. Jones	5	0	0	2
-A. Morris	2	0	0	2
-Receiving	REC	YDS	TD	LG
-D. Jackson	5	87	1	56T
-J. Reed	6	46	0	13
-P. Garcon	3	43	0	17
-M. Jones	2	12	0	7
-D. Carrier	2	7	0	5
-C. Thompson	3	7	0	6
-J. Crowder	1	5	0	5
-Fumbles	FUM	LOST	REC	YDS
-K. Cousins	2	2	0	0
-M. Jones	1	1	0	0
-J. Reed	1	1	0	0
-C. Thompson	1	0	0	0
-M. Moses	0	0	1	0
-Kicking	FG	LG	XP	PTS
-D. Hopkins	0/0	0	2/2	2
-Punting	NO	AVG	I20	LG
-T. Way	5	53.0	3	57
-Kickoff Returns	NO	AVG	TD	LG
-A. Roberts	4	44	1	99
-J. Crowder	1	13	0	13
-Punt Returns	NO	AVG	TD	LG
-J. Crowder	2	1	0	2
-Defense	T-A	SCK	INT	FF
-B. Breeland	8-3	0.0	0	0
-C. Culliver	5-0	0.0	0	0
-P. Riley	5-4	0.0	0	0
-J. Johnson	3-2	0.0	0	0
-W. Compton	2-7	0.0	0	0
-D. Goldson	2-5	0.0	0	0
-K. Jarrett	2-1	0.0	0	0
-R. Kerrigan	2-1	1.0	0	0
-T. Murphy	2-1	0.0	0	0
-P. Smith	2-1	1.0	0	0
-C. Baker	1-5	0.0	0	0
-H. Bates	1-0	0.0	0	0
-W. Blackmon	1-0	0.0	0	0
-T. Knighton	1-2	0.0	0	0
-S. Paea	1-3	0.0	0	0
-M. Foster	0-1	0.0	0	0
-R. Jean Francois	0-2	0.0	0	0
-Total First Downs	9
-By Rushing	1
-By Passing	8
-By Penalty	
-Third Down Efficiency	2/9 - 22%
-Fourth Down Efficiency	1/1 - 100%
-Total Net Yards	186
-Total Rushing/Passing Plays (includes Sacks)	47
-Average Gain per Offensive Play	4.0
-Net Yards Rushing	14
-Total Rushing Plays	12
-Average Gain per Rushing Play	1.2
-Tackled for a Loss (Number-Yards)	3--6
-Net Yards Passing	172
-Times Sacked (Number-Yards)	5 - 35
-Gross Yards Passing	207
-Pass Comp-Att-Int	22 - 30 - 1
-Average Gain per Passing Play (includes Sacks)	4.9
-Kickoffs (Number-In End Zone-Touchbacks)	3 - 2 - 1
-Punts (Number-Average)	5 - 53.2
-Blocked	0
-Net Punting Average	53.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	3
-Punt Returns (Number-Yards)	2 - 3
-Kickoff Returns (Number-Yards)	5 - 190
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	9 - 68
-Fumbles (Number-Lost)	5 - 4
-Touchdowns	2
-Rushing	0
-Passing	1
-Interceptions	0
-Kickoff Returns	1
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	0/0 - 0%
-Goal To Go Efficiency	0/0 - 0%
-Safeties	1
-Final Score	16
-Time of Possession	21:53
-
-Passing	CP/AT	YDS	TD	INT
-K. Cousins	20/29	302	1	0
-Rushing	ATT	YDS	TD	LG
-A. Morris	23	78	0	9
-M. Jones	8	19	0	12
-C. Thompson	2	7	0	8
-K. Cousins	4	1	1	1T
-Receiving	REC	YDS	TD	LG
-J. Reed	8	98	0	26
-D. Jackson	2	66	1	63T
-M. Jones	1	45	0	45
-P. Garcon	3	35	0	16
-R. Grant	1	19	0	19
-J. Crowder	2	12	0	9
-A. Morris	1	12	0	12
-C. Thompson	1	9	0	9
-D. Carrier	1	6	0	6
-Fumbles	FUM	LOST	REC	YDS
-K. Cousins	1	0	1	-2
-Kicking	FG	LG	XP	PTS
-D. Hopkins	2/3	41	2/2	8
-Punting	NO	AVG	I20	LG
-T. Way	6	42.3	3	60
-Kickoff Returns	NO	AVG	TD	LG
-A. Roberts	1	24	0	24
-R. Ross	1	25	0	25
-C. Thompson	1	9	0	9
-Punt Returns	NO	AVG	TD	LG
-J. Crowder	2	12	0	16
-D. Jackson	1	2	0	2
-Defense	T-A	SCK	INT	FF
-B. Breeland	4-1	0.0	0	0
-W. Compton	4-6	0.0	0	0
-D. Hall	4-0	0.0	0	0
-R. Kerrigan	3-0	2.0	0	0
-P. Riley	3-3	0.0	1	0
-Q. Dunbar	2-0	0.0	1	0
-D. Goldson	2-5	0.0	0	0
-C. Baker	1-0	1.0	0	0
-W. Blackmon	1-2	0.0	1	0
-J. Hatcher	1-0	0.0	0	0
-K. Jarrett	1-1	0.0	0	0
-T. Knighton	1-2	0.0	0	0
-S. Paea	1-0	0.0	0	0
-P. Smith	1-2	0.0	0	0
-R. Jean Francois	0-1	0.0	0	0
-Total First Downs	18
-By Rushing	5
-By Passing	12
-By Penalty	
-Third Down Efficiency	4/15 - 26%
-Fourth Down Efficiency	1/2 - 50%
-Total Net Yards	407
-Total Rushing/Passing Plays (includes Sacks)	66
-Average Gain per Offensive Play	6.2
-Net Yards Rushing	105
-Total Rushing Plays	37
-Average Gain per Rushing Play	2.8
-Tackled for a Loss (Number-Yards)	6--6
-Net Yards Passing	302
-Times Sacked (Number-Yards)	0 - 0
-Gross Yards Passing	302
-Pass Comp-Att-Int	20 - 29 - 0
-Average Gain per Passing Play (includes Sacks)	10.4
-Kickoffs (Number-In End Zone-Touchbacks)	5 - 4 - 4
-Punts (Number-Average)	6 - 44.7
-Blocked	0
-Net Punting Average	42.3
-FGs Blocked - PATs Blocked	1 - 0
-Total Return Yardage (excludes Kickoffs)	39
-Punt Returns (Number-Yards)	3 - 26
-Kickoff Returns (Number-Yards)	3 - 58
-Interception Returns (Number-Yards)	3 - 13
-Penalties (Number-Yards)	7 - 80
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	2
-Rushing	1
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 3
-Red Zone Efficiency	1/2 - 50%
-Goal To Go Efficiency	1/1 - 100%
-Safeties	0
-Final Score	20
-Time of Possession	36:00
-
-Passing	CP/AT	YDS	TD	INT
-K. Cousins	22/31	219	1	0
-Rushing	ATT	YDS	TD	LG
-M. Jones	18	49	0	10
-A. Morris	6	12	0	3
-K. Cousins	1	6	0	6
-C. Thompson	1	6	0	6
-Receiving	REC	YDS	TD	LG
-D. Jackson	6	80	1	28T
-P. Garcon	5	54	0	23
-J. Reed	3	33	0	16
-J. Crowder	3	29	0	20
-C. Thompson	4	18	0	9
-M. Jones	1	5	0	5
-Fumbles	FUM	LOST	REC	YDS
-K. Cousins	1	0	1	0
-D. Jackson	1	1	0	0
-C. Baker	0	0	0	0
-W. Blackmon	0	0	1	0
-M. Foster	0	0	1	0
-D. Goldson	0	0	1	0
-J. Hatcher	0	0	0	0
-Kicking	FG	LG	XP	PTS
-D. Hopkins	3/4	46	1/1	10
-Punting	NO	AVG	I20	LG
-T. Way	6	33.7	1	53
-Kickoff Returns	NO	AVG	TD	LG
-R. Ross	4	29	0	41
-D. Jackson	1	8	0	8
-Punt Returns	NO	AVG	TD	LG
-J. Crowder	1	7	0	7
-D. Jackson	1	-7	0	-7
-Defense	T-A	SCK	INT	FF
-C. Baker	4-0	0.0	0	1
-B. Breeland	4-1	0.0	0	0
-W. Compton	4-3	0.0	0	0
-M. Foster	4-3	0.0	0	1
-D. Goldson	4-2	0.0	0	1
-W. Blackmon	2-0	0.0	0	0
-Q. Dunbar	2-0	0.0	0	0
-D. Hall	2-2	0.0	0	0
-J. Hatcher	2-0	0.0	0	1
-R. Kerrigan	2-0	0.0	0	0
-T. Murphy	2-0	1.0	0	0
-H. Bates	1-0	0.0	0	0
-K. Jarrett	1-4	0.0	0	0
-P. Smith	1-0	0.0	0	0
-K. Golston	0-1	0.0	0	0
-R. Jean Francois	0-1	0.0	0	0
-Total First Downs	15
-By Rushing	4
-By Passing	9
-By Penalty	
-Third Down Efficiency	6/16 - 37%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	266
-Total Rushing/Passing Plays (includes Sacks)	60
-Average Gain per Offensive Play	4.4
-Net Yards Rushing	73
-Total Rushing Plays	26
-Average Gain per Rushing Play	2.8
-Tackled for a Loss (Number-Yards)	6--10
-Net Yards Passing	193
-Times Sacked (Number-Yards)	3 - 26
-Gross Yards Passing	219
-Pass Comp-Att-Int	22 - 31 - 0
-Average Gain per Passing Play (includes Sacks)	5.7
-Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 2
-Punts (Number-Average)	6 - 42.2
-Blocked	0
-Net Punting Average	33.7
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	0
-Punt Returns (Number-Yards)	2 - 0
-Kickoff Returns (Number-Yards)	5 - 125
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	9 - 72
-Fumbles (Number-Lost)	2 - 1
-Touchdowns	1
-Rushing	0
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	1 - 1
-Kicking (Made-Attempted)	1 - 1
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	3 - 4
-Red Zone Efficiency	0/1 - 0%
-Goal To Go Efficiency	0/0 - 0%
-Safeties	0
-Final Score	16
-Time of Possession	32:47
-
-Passing	CP/AT	YDS	TD	INT
-K. Cousins	24/31	300	1	1
-Rushing	ATT	YDS	TD	LG
-M. Jones	18	62	0	11
-A. Morris	11	24	1	5
-K. Cousins	4	13	1	9
-Receiving	REC	YDS	TD	LG
-J. Reed	9	120	1	32
-P. Garcon	5	52	0	19
-D. Jackson	2	43	0	29
-R. Ross	2	27	0	17
-M. Jones	2	24	0	18
-J. Crowder	1	13	0	13
-P. Thomas	1	12	0	12
-D. Carrier	1	7	0	7
-D. Young	1	2	0	2
-Fumbles	FUM	LOST	REC	YDS
-M. Jones	1	0	1	0
-T. Murphy	0	0	1	0
-Kicking	FG	LG	XP	PTS
-D. Hopkins	1/1	47	3/3	6
-Punting	NO	AVG	I20	LG
-T. Way	4	34.0	1	64
-Kickoff Returns	NO	AVG	TD	LG
-R. Ross	2	22	0	22
-Punt Returns	NO	AVG	TD	LG
-J. Crowder	2	3	0	6
-Defense	T-A	SCK	INT	FF
-M. Foster	6-0	0.0	0	0
-D. Hall	6-0	0.0	0	0
-B. Breeland	4-1	0.0	0	0
-W. Compton	4-0	0.0	0	0
-D. Goldson	4-0	0.0	0	0
-R. Kerrigan	4-1	1.0	0	0
-C. Baker	2-0	0.0	0	0
-W. Blackmon	2-0	0.0	0	0
-Q. Dunbar	2-0	0.0	0	0
-K. Jarrett	1-2	0.0	0	0
-T. Knighton	1-0	1.0	0	0
-T. Murphy	1-0	1.0	0	1
-P. Smith	1-0	0.0	0	0
-Total First Downs	24
-By Rushing	10
-By Passing	13
-By Penalty	
-Third Down Efficiency	7/12 - 58%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	374
-Total Rushing/Passing Plays (includes Sacks)	67
-Average Gain per Offensive Play	5.6
-Net Yards Rushing	99
-Total Rushing Plays	33
-Average Gain per Rushing Play	3.0
-Tackled for a Loss (Number-Yards)	4--8
-Net Yards Passing	275
-Times Sacked (Number-Yards)	3 - 25
-Gross Yards Passing	300
-Pass Comp-Att-Int	24 - 31 - 1
-Average Gain per Passing Play (includes Sacks)	8.1
-Kickoffs (Number-In End Zone-Touchbacks)	5 - 4 - 3
-Punts (Number-Average)	4 - 43.0
-Blocked	0
-Net Punting Average	34.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	7
-Punt Returns (Number-Yards)	2 - 7
-Kickoff Returns (Number-Yards)	2 - 44
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	8 - 63
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	3
-Rushing	2
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 3
-Kicking (Made-Attempted)	3 - 3
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	3/3 - 100%
-Goal To Go Efficiency	3/3 - 100%
-Safeties	0
-Final Score	24
-Time of Possession	34:22
-
-Passing	CP/AT	YDS	TD	INT
-K. Cousins	22/28	319	4	0
-Rushing	ATT	YDS	TD	LG
-A. Morris	14	84	0	48
-M. Jones	10	28	0	13
-K. Cousins	3	11	1	13T
-Receiving	REC	YDS	TD	LG
-D. Jackson	6	153	1	77T
-J. Reed	7	84	2	24
-P. Garcon	3	34	1	18
-J. Crowder	3	21	0	12
-R. Grant	1	13	0	13
-M. Jones	1	8	0	8
-D. Young	1	6	0	6
-Fumbles	FUM	LOST	REC	YDS
-J. Crowder	1	1	0	0
-R. Kerrigan	0	0	0	0
-Kicking	FG	LG	XP	PTS
-D. Hopkins	0/0	0	5/5	5
-Punting	NO	AVG	I20	LG
-T. Way	3	40.0	1	57
-Kickoff Returns	NO	AVG	TD	LG
-R. Ross	3	16	0	19
-Punt Returns	NO	AVG	TD	LG
-J. Crowder	2	2	0	5
-Defense	T-A	SCK	INT	FF
-D. Hall	8-1	0.0	0	0
-W. Blackmon	4-0	1.0	0	0
-B. Breeland	4-1	0.0	0	0
-Q. Dunbar	3-1	0.0	0	0
-M. Foster	3-3	0.0	0	0
-J. Hatcher	3-0	1.0	0	0
-R. Kerrigan	3-0	1.0	0	1
-D. Goldson	2-2	0.0	0	0
-K. Jarrett	2-2	0.0	0	0
-T. Knighton	2-0	0.0	0	0
-P. Smith	2-2	1.0	0	0
-H. Bates	1-0	0.0	0	0
-W. Compton	1-4	0.0	0	0
-R. Jean Francois	1-1	1.0	0	0
-T. Murphy	1-0	0.0	0	0
-C. Baker	0-2	0.0	0	0
-F. Kearse	0-1	0.0	0	0
-K. Robinson	0-1	0.0	0	0
-Total First Downs	23
-By Rushing	7
-By Passing	13
-By Penalty	
-Third Down Efficiency	7/11 - 63%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	431
-Total Rushing/Passing Plays (includes Sacks)	56
-Average Gain per Offensive Play	7.7
-Net Yards Rushing	123
-Total Rushing Plays	27
-Average Gain per Rushing Play	4.6
-Tackled for a Loss (Number-Yards)	3--12
-Net Yards Passing	308
-Times Sacked (Number-Yards)	1 - 11
-Gross Yards Passing	319
-Pass Comp-Att-Int	22 - 28 - 0
-Average Gain per Passing Play (includes Sacks)	10.6
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 5 - 3
-Punts (Number-Average)	3 - 46.7
-Blocked	0
-Net Punting Average	40.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	5
-Punt Returns (Number-Yards)	2 - 5
-Kickoff Returns (Number-Yards)	3 - 50
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	5 - 6
-Fumbles (Number-Lost)	1 - 1
-Touchdowns	5
-Rushing	1
-Passing	4
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	5 - 5
-Kicking (Made-Attempted)	5 - 5
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	4/4 - 100%
-Goal To Go Efficiency	3/3 - 100%
-Safeties	0
-Final Score	35
-Time of Possession	29:04
-
-Passing	CP/AT	YDS	TD	INT
-K. Cousins	31/46	365	4	0
-Rushing	ATT	YDS	TD	LG
-A. Morris	17	49	0	8
-P. Thomas	4	22	0	9
-K. Cousins	5	-4	0	0
-Receiving	REC	YDS	TD	LG
-J. Reed	9	129	2	28
-P. Garcon	7	80	1	25
-P. Thomas	7	67	0	15
-D. Jackson	4	40	0	22
-R. Grant	1	24	0	24
-J. Crowder	2	13	0	7
-C. Thompson	1	12	1	12T
-Fumbles	FUM	LOST	REC	YDS
-K. Cousins	1	0	1	-3
-B. Breeland	0	0	0	0
-D. Goldson	0	0	1	14
-D. Hall	0	0	1	17
-P. Smith	0	0	0	0
-Kicking	FG	LG	XP	PTS
-D. Hopkins	1/1	28	3/4	6
-Punting	NO	AVG	I20	LG
-T. Way	7	47.1	1	57
-Kickoff Returns	NO	AVG	TD	LG
-R. Ross	1	19	0	19
-Punt Returns	NO	AVG	TD	LG
-J. Crowder	2	5	0	5
-Defense	T-A	SCK	INT	FF
-D. Goldson	9-1	0.0	0	0
-W. Compton	7-1	1.0	0	0
-M. Foster	7-1	0.0	0	0
-K. Jarrett	6-2	0.0	0	0
-D. Hall	4-0	0.0	0	1
-R. Kerrigan	4-0	0.0	0	0
-W. Blackmon	3-0	0.0	0	0
-B. Breeland	3-0	0.0	0	1
-P. Smith	3-1	3.0	0	1
-Q. Dunbar	2-0	0.0	0	0
-R. Jean Francois	2-0	1.0	0	0
-T. Knighton	2-0	0.0	0	0
-Total First Downs	25
-By Rushing	4
-By Passing	21
-By Penalty	
-Third Down Efficiency	5/14 - 35%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	418
-Total Rushing/Passing Plays (includes Sacks)	74
-Average Gain per Offensive Play	5.6
-Net Yards Rushing	67
-Total Rushing Plays	26
-Average Gain per Rushing Play	2.6
-Tackled for a Loss (Number-Yards)	2--2
-Net Yards Passing	351
-Times Sacked (Number-Yards)	2 - 14
-Gross Yards Passing	365
-Pass Comp-Att-Int	31 - 46 - 0
-Average Gain per Passing Play (includes Sacks)	7.3
-Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 5
-Punts (Number-Average)	7 - 49.6
-Blocked	0
-Net Punting Average	47.1
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	10
-Punt Returns (Number-Yards)	2 - 10
-Kickoff Returns (Number-Yards)	1 - 19
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	8 - 70
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	5
-Rushing	0
-Passing	4
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	1
-Punt Returns	0
-Extra Points (Made-Attempted)	4 - 5
-Kicking (Made-Attempted)	3 - 4
-Two Point Conversions (Made-Attempted)	1 - 1
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	3/5 - 60%
-Goal To Go Efficiency	1/3 - 33%
-Safeties	0
-Final Score	38
-Time of Possession	34:15
-
-Passing	CP/AT	YDS	TD	INT
-K. Cousins	12/15	176	3	0
-C. McCoy	7/11	128	1	0
-Rushing	ATT	YDS	TD	LG
-A. Morris	19	100	0	23
-P. Thomas	7	30	0	11
-C. Thompson	7	19	0	8
-C. McCoy	3	-3	0	-1
-Receiving	REC	YDS	TD	LG
-J. Crowder	5	109	1	44
-R. Ross	2	71	1	71T
-P. Garcon	3	49	1	39T
-J. Reed	4	45	0	26
-R. Grant	3	18	1	11
-D. Young	1	7	0	7
-P. Thomas	1	5	0	5
-Fumbles	FUM	LOST	REC	YDS
-C. McCoy	1	0	0	0
-J. Reed	1	0	0	0
-C. Baker	0	0	1	0
-W. Blackmon	0	0	0	0
-J. LeRibeus	0	0	1	0
-Kicking	FG	LG	XP	PTS
-D. Hopkins	2/2	33	4/4	10
-Punting	NO	AVG	I20	LG
-T. Way	4	48.5	3	58
-Kickoff Returns	NO	AVG	TD	LG
-Punt Returns	NO	AVG	TD	LG
-J. Crowder	2	3	0	4
-Defense	T-A	SCK	INT	FF
-W. Blackmon	7-0	0.0	1	1
-W. Compton	5-0	0.0	1	0
-K. Robinson	5-0	0.0	0	0
-M. Foster	4-1	0.0	0	0
-B. Breeland	3-1	0.0	0	0
-D. Hall	3-0	0.0	0	0
-K. Jarrett	3-1	0.0	0	0
-J. Johnson	3-2	0.0	0	0
-C. Baker	1-0	1.0	0	0
-H. Bates	1-0	0.0	0	0
-D. Everett	1-1	0.0	0	0
-C. Fields	1-0	0.0	0	0
-J. Harris	1-0	0.0	0	0
-F. Kearse	1-0	1.0	0	0
-R. Kerrigan	1-1	1.0	0	0
-T. Knighton	1-0	0.0	0	0
-T. Murphy	1-0	0.0	0	0
-D. Phillips	1-0	0.0	0	0
-P. Smith	1-0	1.0	0	0
-K. Golston	0-1	0.0	0	0
-Total First Downs	19
-By Rushing	8
-By Passing	11
-By Penalty	
-Third Down Efficiency	7/14 - 50%
-Fourth Down Efficiency	1/1 - 100%
-Total Net Yards	437
-Total Rushing/Passing Plays (includes Sacks)	63
-Average Gain per Offensive Play	6.9
-Net Yards Rushing	146
-Total Rushing Plays	36
-Average Gain per Rushing Play	4.1
-Tackled for a Loss (Number-Yards)	3--4
-Net Yards Passing	291
-Times Sacked (Number-Yards)	1 - 13
-Gross Yards Passing	304
-Pass Comp-Att-Int	19 - 26 - 0
-Average Gain per Passing Play (includes Sacks)	10.8
-Kickoffs (Number-In End Zone-Touchbacks)	8 - 6 - 5
-Punts (Number-Average)	4 - 50.0
-Blocked	0
-Net Punting Average	48.5
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	31
-Punt Returns (Number-Yards)	2 - 6
-Kickoff Returns (Number-Yards)	0 - 0
-Interception Returns (Number-Yards)	2 - 25
-Penalties (Number-Yards)	3 - 20
-Fumbles (Number-Lost)	2 - 0
-Touchdowns	4
-Rushing	0
-Passing	4
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	4 - 4
-Kicking (Made-Attempted)	4 - 4
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 2
-Red Zone Efficiency	2/5 - 40%
-Goal To Go Efficiency	2/2 - 100%
-Safeties	0
-Final Score	34
-Time of Possession	33:58
-
+1	Total First Downs	20			
+1	By Rushing	6			
+1	By Passing	12			
+1	By Penalty				
+1	Third Down Efficiency	6/14 - 42%			
+1	Fourth Down Efficiency	0/1 - 0%			
+1	Total Net Yards	349			
+1	Total Rushing/Passing Plays (includes Sacks)	69			
+1	Average Gain per Offensive Play	5.1			
+1	Net Yards Rushing	161			
+1	Total Rushing Plays	37			
+1	Average Gain per Rushing Play	4.4			
+1	Tackled for a Loss (Number-Yards)	3--6			
+1	Net Yards Passing	188			
+1	Times Sacked (Number-Yards)	1 - 8			
+1	Gross Yards Passing	196			
+1	Pass Comp-Att-Int	21 - 31 - 2			
+1	Average Gain per Passing Play (includes Sacks)	5.9			
+1	Kickoffs (Number-In End Zone-Touchbacks)	3 - 2 - 1			
+1	Punts (Number-Average)	3 - 41.3			
+1	Blocked	0			
+1	Net Punting Average	10.0			
+1	FGs Blocked - PATs Blocked	0 - 0			
+1	Total Return Yardage (excludes Kickoffs)	23			
+1	Punt Returns (Number-Yards)	2 - 23			
+1	Kickoff Returns (Number-Yards)	1 - 36			
+1	Interception Returns (Number-Yards)	0 - 0			
+1	Penalties (Number-Yards)	11 - 88			
+1	Fumbles (Number-Lost)	1 - 0			
+1	Touchdowns	1			
+1	Rushing	0			
+1	Passing	1			
+1	Interceptions	0			
+1	Kickoff Returns	0			
+1	Fumble Returns	0			
+1	Punt Returns	0			
+1	Extra Points (Made-Attempted)	1 - 1			
+1	Kicking (Made-Attempted)	1 - 1			
+1	Two Point Conversions (Made-Attempted)	0 - 0			
+1	Field Goals (Made-Attempted)	1 - 2			
+1	Red Zone Efficiency	1/1 - 100%			
+1	Goal To Go Efficiency	1/1 - 100%			
+1	Safeties	0			
+1	Final Score	10			
+1	Time of Possession	37:54			
+					
+2	Passing 	CP/AT 	YDS 	TD 	INT
+2	K. Cousins 	23/27 	203 	1 	0
+2	Rushing 	ATT 	YDS 	TD 	LG
+2	M. Jones 	19 	123 	2 	39T
+2	A. Morris 	18 	59 	0 	35
+2	Receiving 	REC 	YDS 	TD 	LG
+2	J. Reed 	6 	82 	0 	29
+2	R. Grant 	3 	45 	0 	35
+2	P. Garcon 	6 	23 	1 	6
+2	M. Jones 	3 	23 	0 	18
+2	A. Morris 	2 	13 	0 	9
+2	C. Thompson 	1 	10 	0 	10
+2	J. Crowder 	1 	7 	0 	7
+2	A. Roberts 	1 	0 	0 	0
+2	Fumbles 	FUM 	LOST 	REC 	YDS
+2	M. Jones 	1 	1 	0 	0
+2	R. Kerrigan 	0 	0 	0 	0
+2	Kicking 	FG 	LG 	XP 	PTS
+2	D. Hopkins 	1/1 	46 	3/3 	6
+2	Punting 	NO 	AVG 	I20 	LG
+2	T. Way 	6 	37.3 	1 	56
+2	Kickoff Returns 	NO 	AVG 	TD 	LG
+2	R. Ross 	1 	23 	0 	23
+2	Punt Returns 	NO 	AVG 	TD 	LG
+2	J. Crowder 	5 	2 	0 	10
+2	Defense 	T-A 	SCK 	INT 	FF
+2	T. Robinson 	5-1 	0.0 	0 	0
+2	K. Robinson 	4-2 	0.0 	0 	0
+2	D. Hall 	3-1 	0.0 	0 	0
+2	S. Paea 	3-0 	0.0 	0 	0
+2	R. Kerrigan 	2-2 	0.0 	0 	1
+2	P. Riley 	2-2 	0.0 	0 	0
+2	B. Breeland 	1-0 	0.0 	0 	0
+2	W. Compton 	1-1 	0.0 	0 	0
+2	D. Goldson 	1-0 	0.0 	0 	0
+2	K. Jarrett 	1-1 	0.0 	0 	0
+2	R. Jean Francois 	1-0 	0.0 	0 	0
+2	T. Murphy 	1-1 	0.0 	0 	0
+2	C. Baker 	0-1 	0.0 	0 	0
+2	J. Hatcher 	0-1 	0.0 	0 	0
+2	T. Knighton 	0-1 	0.0 	0 	0
+2	Total First Downs	19			
+2	By Rushing	8			
+2	By Passing	10			
+2	By Penalty				
+2	Third Down Efficiency	8/16 - 50%			
+2	Fourth Down Efficiency	0/0 - 0%			
+2	Total Net Yards	373			
+2	Total Rushing/Passing Plays (includes Sacks)	66			
+2	Average Gain per Offensive Play	5.7			
+2	Net Yards Rushing	182			
+2	Total Rushing Plays	37			
+2	Average Gain per Rushing Play	4.9			
+2	Tackled for a Loss (Number-Yards)	5--9			
+2	Net Yards Passing	191			
+2	Times Sacked (Number-Yards)	2 - 12			
+2	Gross Yards Passing	203			
+2	Pass Comp-Att-Int	23 - 27 - 0			
+2	Average Gain per Passing Play (includes Sacks)	6.6			
+2	Kickoffs (Number-In End Zone-Touchbacks)	5 - 5 - 4			
+2	Punts (Number-Average)	6 - 40.7			
+2	Blocked	0			
+2	Net Punting Average	37.3			
+2	FGs Blocked - PATs Blocked	0 - 0			
+2	Total Return Yardage (excludes Kickoffs)	12			
+2	Punt Returns (Number-Yards)	5 - 12			
+2	Kickoff Returns (Number-Yards)	1 - 23			
+2	Interception Returns (Number-Yards)	0 - 0			
+2	Penalties (Number-Yards)	7 - 53			
+2	Fumbles (Number-Lost)	1 - 1			
+2	Touchdowns	3			
+2	Rushing	2			
+2	Passing	1			
+2	Interceptions	0			
+2	Kickoff Returns	0			
+2	Fumble Returns	0			
+2	Punt Returns	0			
+2	Extra Points (Made-Attempted)	3 - 3			
+2	Kicking (Made-Attempted)	3 - 3			
+2	Two Point Conversions (Made-Attempted)	0 - 0			
+2	Field Goals (Made-Attempted)	1 - 1			
+2	Red Zone Efficiency	2/2 - 100%			
+2	Goal To Go Efficiency	2/2 - 100%			
+2	Safeties	0			
+2	Final Score	24			
+2	Time of Possession	37:44			
+					
+3	Passing	CP/AT	YDS	TD	INT
+3	K. Cousins	30/49	316	1	2
+3	Rushing	ATT	YDS	TD	LG
+3	M. Jones	11	38	0	10
+3	C. Thompson	2	29	0	26
+3	A. Morris	6	19	0	7
+3	D. Young	1	2	0	2
+3	Receiving	REC	YDS	TD	LG
+3	J. Reed	6	96	0	26
+3	P. Garcon	5	64	0	19
+3	C. Thompson	8	57	1	14
+3	J. Crowder	6	45	0	15
+3	R. Ross	2	27	0	20
+3	A. Roberts	1	18	0	18
+3	R. Grant	2	9	0	6
+3	Fumbles	FUM	LOST	REC	YDS
+3	M. Jones	1	1	0	0
+3	C. Thompson	1	0	0	0
+3	Kicking	FG	LG	XP	PTS
+3	D. Hopkins	2/2	44	1/1	7
+3	Punting	NO	AVG	I20	LG
+3	T. Way	1	18.0	0	36
+3	Kickoff Returns	NO	AVG	TD	LG
+3	R. Ross	4	39	1	101
+3	Punt Returns	NO	AVG	TD	LG
+3	J. Crowder	1	10	0	10
+3	Defense	T-A	SCK	INT	FF
+3	K. Robinson	10-3	0.0	0	0
+3	W. Compton	8-3	0.0	0	0
+3	D. Goldson	7-3	0.0	0	0
+3	C. Baker	5-1	0.0	0	0
+3	C. Culliver	4-0	0.0	0	0
+3	W. Blackmon	3-0	0.0	0	0
+3	D. Hall	3-1	0.0	0	0
+3	T. Knighton	3-3	0.0	0	0
+3	T. Robinson	3-4	0.0	0	0
+3	B. Breeland	2-1	0.0	0	0
+3	R. Jean Francois	1-3	0.0	0	0
+3	R. Kerrigan	1-0	0.0	0	0
+3	S. Paea	1-0	0.0	0	0
+3	T. Murphy	0-3	0.0	0	0
+3	Total First Downs	22			
+3	By Rushing	3			
+3	By Passing	16			
+3	By Penalty				
+3	Third Down Efficiency	6/15 - 40%			
+3	Fourth Down Efficiency	2/3 - 66%			
+3	Total Net Yards	393			
+3	Total Rushing/Passing Plays (includes Sacks)	70			
+3	Average Gain per Offensive Play	5.6			
+3	Net Yards Rushing	88			
+3	Total Rushing Plays	20			
+3	Average Gain per Rushing Play	4.4			
+3	Tackled for a Loss (Number-Yards)	1--3			
+3	Net Yards Passing	305			
+3	Times Sacked (Number-Yards)	1 - 11			
+3	Gross Yards Passing	316			
+3	Pass Comp-Att-Int	30 - 49 - 2			
+3	Average Gain per Passing Play (includes Sacks)	6.1			
+3	Kickoffs (Number-In End Zone-Touchbacks)	6 - 3 - 3			
+3	Punts (Number-Average)	2 - 18.0			
+3	Blocked	1			
+3	Net Punting Average	12.0			
+3	FGs Blocked - PATs Blocked	0 - 0			
+3	Total Return Yardage (excludes Kickoffs)	10			
+3	Punt Returns (Number-Yards)	1 - 10			
+3	Kickoff Returns (Number-Yards)	4 - 158			
+3	Interception Returns (Number-Yards)	0 - 0			
+3	Penalties (Number-Yards)	7 - 58			
+3	Fumbles (Number-Lost)	2 - 1			
+3	Touchdowns	2			
+3	Rushing	0			
+3	Passing	1			
+3	Interceptions	0			
+3	Kickoff Returns	1			
+3	Fumble Returns	0			
+3	Punt Returns	0			
+3	Extra Points (Made-Attempted)	2 - 2			
+3	Kicking (Made-Attempted)	1 - 1			
+3	Two Point Conversions (Made-Attempted)	1 - 1			
+3	Field Goals (Made-Attempted)	2 - 2			
+3	Red Zone Efficiency	1/3 - 33%			
+3	Goal To Go Efficiency	0/0 - 0%			
+3	Safeties	0			
+3	Final Score	21			
+3	Time of Possession	28:30			
+					
+4	Passing	CP/AT	YDS	TD	INT
+4	K. Cousins	31/46	290	1	0
+4	Rushing	ATT	YDS	TD	LG
+4	A. Morris	17	62	0	16
+4	C. Thompson	6	53	0	42
+4	M. Jones	7	11	0	7
+4	K. Cousins	1	1	1	1T
+4	D. Young	1	0	0	0
+4	Receiving	REC	YDS	TD	LG
+4	J. Crowder	7	65	0	22
+4	P. Garcon	7	55	1	14
+4	R. Grant	5	45	0	16
+4	R. Ross	1	43	0	43
+4	J. Reed	5	37	0	15
+4	C. Thompson	2	24	0	19
+4	D. Carrier	2	18	0	15
+4	A. Morris	2	3	0	2
+4	Fumbles	FUM	LOST	REC	YDS
+4	K. Cousins	1	0	1	0
+4	J. Reed	1	1	0	0
+4	T. Murphy	0	0	1	0
+4	K. Robinson	0	0	1	0
+4	Kicking	FG	LG	XP	PTS
+4	D. Hopkins	3/3	38	2/2	11
+4	Punting	NO	AVG	I20	LG
+4	T. Way	5	31.2	0	63
+4	Kickoff Returns	NO	AVG	TD	LG
+4	R. Ross	1	22	0	22
+4	Punt Returns	NO	AVG	TD	LG
+4	J. Crowder	2	1	0	8
+4	Defense	T-A	SCK	INT	FF
+4	W. Compton	5-2	0.0	0	0
+4	K. Jarrett	5-0	0.0	0	0
+4	B. Breeland	4-1	0.0	0	0
+4	R. Kerrigan	4-0	1.0	0	0
+4	P. Smith	3-0	1.0	0	0
+4	C. Baker	2-1	2.0	0	0
+4	D. Goldson	2-1	0.0	0	0
+4	W. Blackmon	1-0	0.0	0	0
+4	C. Culliver	1-0	0.0	0	0
+4	T. Murphy	1-1	1.0	0	0
+4	S. Paea	1-1	0.0	0	0
+4	K. Robinson	1-2	0.0	0	0
+4	T. Robinson	1-2	0.0	0	0
+4	R. Jean Francois	0-1	0.0	0	0
+4	T. Knighton	0-1	0.0	0	0
+4	Total First Downs	25			
+4	By Rushing	4			
+4	By Passing	18			
+4	By Penalty				
+4	Third Down Efficiency	9/17 - 52%			
+4	Fourth Down Efficiency	0/0 - 0%			
+4	Total Net Yards	417			
+4	Total Rushing/Passing Plays (includes Sacks)	79			
+4	Average Gain per Offensive Play	5.3			
+4	Net Yards Rushing	127			
+4	Total Rushing Plays	32			
+4	Average Gain per Rushing Play	4.0			
+4	Tackled for a Loss (Number-Yards)	3--3			
+4	Net Yards Passing	290			
+4	Times Sacked (Number-Yards)	1 - 0			
+4	Gross Yards Passing	290			
+4	Pass Comp-Att-Int	31 - 46 - 0			
+4	Average Gain per Passing Play (includes Sacks)	6.2			
+4	Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 6			
+4	Punts (Number-Average)	5 - 44.2			
+4	Blocked	0			
+4	Net Punting Average	31.2			
+4	FGs Blocked - PATs Blocked	0 - 0			
+4	Total Return Yardage (excludes Kickoffs)	2			
+4	Punt Returns (Number-Yards)	2 - 2			
+4	Kickoff Returns (Number-Yards)	1 - 22			
+4	Interception Returns (Number-Yards)	0 - 0			
+4	Penalties (Number-Yards)	10 - 110			
+4	Fumbles (Number-Lost)	2 - 1			
+4	Touchdowns	2			
+4	Rushing	1			
+4	Passing	1			
+4	Interceptions	0			
+4	Kickoff Returns	0			
+4	Fumble Returns	0			
+4	Punt Returns	0			
+4	Extra Points (Made-Attempted)	2 - 2			
+4	Kicking (Made-Attempted)	2 - 2			
+4	Two Point Conversions (Made-Attempted)	0 - 0			
+4	Field Goals (Made-Attempted)	3 - 3			
+4	Red Zone Efficiency	2/4 - 50%			
+4	Goal To Go Efficiency	2/3 - 66%			
+4	Safeties	0			
+4	Final Score	23			
+4	Time of Possession	41:08			
+					
+5	Passing	CP/AT	YDS	TD	INT
+5	K. Cousins	21/32	219	1	2
+5	Rushing	ATT	YDS	TD	LG
+5	M. Jones	11	20	1	7
+5	A. Morris	8	15	0	4
+5	C. Thompson	3	15	0	9
+5	K. Cousins	1	1	0	1
+5	J. Crowder	1	0	0	0
+5	Receiving	REC	YDS	TD	LG
+5	J. Crowder	8	87	0	26
+5	P. Garcon	3	51	0	21
+5	C. Thompson	6	33	0	14
+5	D. Carrier	2	27	1	20
+5	M. Jones	1	17	0	17
+5	R. Grant	1	4	0	4
+5	Fumbles	FUM	LOST	REC	YDS
+5	J. Crowder	1	0	0	0
+5	C. Baker	0	0	0	0
+5	W. Blackmon	0	0	0	0
+5	W. Compton	0	0	1	0
+5	Kicking	FG	LG	XP	PTS
+5	D. Hopkins	2/3	52	1/1	7
+5	Punting	NO	AVG	I20	LG
+5	T. Way	4	46.8	2	57
+5	Kickoff Returns	NO	AVG	TD	LG
+5	R. Ross	2	26	0	27
+5	Punt Returns	NO	AVG	TD	LG
+5	J. Crowder	1	10	0	10
+5	Defense	T-A	SCK	INT	FF
+5	D. Goldson	7-2	0.0	0	0
+5	W. Blackmon	6-1	0.0	0	1
+5	B. Breeland	6-2	0.0	1	0
+5	P. Riley	4-1	0.0	0	0
+5	T. Robinson	4-2	0.0	1	0
+5	J. Hatcher	3-0	0.0	0	0
+5	K. Jarrett	3-0	0.0	0	0
+5	R. Kerrigan	3-0	2.0	0	0
+5	K. Robinson	3-1	0.0	0	0
+5	C. Baker	2-0	1.0	0	2
+5	W. Compton	2-0	0.0	0	0
+5	T. Knighton	2-0	0.0	0	0
+5	T. Murphy	2-2	0.0	0	0
+5	P. Smith	2-0	0.0	0	0
+5	R. Jean Francois	1-1	0.0	0	0
+5	J. Johnson	1-0	0.0	0	0
+5	S. Paea	1-0	0.0	0	0
+5	Total First Downs	18			
+5	By Rushing	4			
+5	By Passing	13			
+5	By Penalty				
+5	Third Down Efficiency	4/12 - 33%			
+5	Fourth Down Efficiency	1/1 - 100%			
+5	Total Net Yards	270			
+5	Total Rushing/Passing Plays (includes Sacks)	57			
+5	Average Gain per Offensive Play	4.7			
+5	Net Yards Rushing	51			
+5	Total Rushing Plays	24			
+5	Average Gain per Rushing Play	2.1			
+5	Tackled for a Loss (Number-Yards)	2--7			
+5	Net Yards Passing	219			
+5	Times Sacked (Number-Yards)	1 - 0			
+5	Gross Yards Passing	219			
+5	Pass Comp-Att-Int	21 - 32 - 2			
+5	Average Gain per Passing Play (includes Sacks)	6.6			
+5	Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 4			
+5	Punts (Number-Average)	4 - 50.3			
+5	Blocked	0			
+5	Net Punting Average	46.8			
+5	FGs Blocked - PATs Blocked	0 - 0			
+5	Total Return Yardage (excludes Kickoffs)	46			
+5	Punt Returns (Number-Yards)	1 - 10			
+5	Kickoff Returns (Number-Yards)	2 - 53			
+5	Interception Returns (Number-Yards)	2 - 36			
+5	Penalties (Number-Yards)	5 - 51			
+5	Fumbles (Number-Lost)	1 - 0			
+5	Touchdowns	2			
+5	Rushing	1			
+5	Passing	1			
+5	Interceptions	0			
+5	Kickoff Returns	0			
+5	Fumble Returns	0			
+5	Punt Returns	0			
+5	Extra Points (Made-Attempted)	1 - 2			
+5	Kicking (Made-Attempted)	1 - 1			
+5	Two Point Conversions (Made-Attempted)	0 - 1			
+5	Field Goals (Made-Attempted)	2 - 3			
+5	Red Zone Efficiency	2/3 - 66%			
+5	Goal To Go Efficiency	2/3 - 66%			
+5	Safeties	0			
+5	Final Score	19			
+5	Time of Possession	27:49			
+					
+6	Passing	CP/AT	YDS	TD	INT
+6	K. Cousins	25/43	196	1	2
+6	J. Crowder	0/1	0	0	0
+6	Rushing	ATT	YDS	TD	LG
+6	A. Morris	11	21	0	6
+6	C. Thompson	5	12	0	8
+6	K. Cousins	1	1	0	1
+6	Receiving	REC	YDS	TD	LG
+6	J. Crowder	4	40	0	18
+6	D. Carrier	4	39	0	20
+6	P. Garcon	5	28	1	12
+6	C. Thompson	6	26	0	13
+6	R. Grant	2	22	0	16
+6	R. Ross	1	16	0	16
+6	A. Morris	1	11	0	11
+6	D. Young	1	8	0	8
+6	A. Roberts	1	6	0	6
+6	Fumbles	FUM	LOST	REC	YDS
+6	B. Breeland	0	0	2	-1
+6	K. Jarrett	0	0	0	0
+6	Kicking	FG	LG	XP	PTS
+6	D. Hopkins	2/2	54	2/2	8
+6	Punting	NO	AVG	I20	LG
+6	T. Way	6	42.3	1	53
+6	Kickoff Returns	NO	AVG	TD	LG
+6	R. Ross	5	19	0	25
+6	Punt Returns	NO	AVG	TD	LG
+6	J. Crowder	0	0	0	0
+6	Defense	T-A	SCK	INT	FF
+6	D. Goldson	7-6	0.0	0	0
+6	K. Jarrett	6-1	0.0	0	1
+6	T. Robinson	6-2	0.0	0	0
+6	B. Breeland	3-1	0.0	1	1
+6	P. Riley	3-5	0.0	0	0
+6	K. Robinson	3-7	0.0	0	0
+6	C. Baker	2-3	0.0	0	0
+6	W. Blackmon	1-0	0.0	0	0
+6	J. Hatcher	1-0	0.0	0	0
+6	R. Jean Francois	1-1	0.0	0	0
+6	T. Knighton	1-2	0.0	0	0
+6	W. Compton	0-1	0.0	0	0
+6	K. Golston	0-4	0.0	0	0
+6	J. Johnson	0-2	0.0	0	0
+6	F. Kearse	0-2	0.0	0	0
+6	R. Kerrigan	0-1	0.0	0	0
+6	T. Murphy	0-1	0.0	0	0
+6	P. Smith	0-1	0.0	0	0
+6	Total First Downs	14			
+6	By Rushing	1			
+6	By Passing	12			
+6	By Penalty				
+6	Third Down Efficiency	5/15 - 33%			
+6	Fourth Down Efficiency	1/2 - 50%			
+6	Total Net Yards	225			
+6	Total Rushing/Passing Plays (includes Sacks)	62			
+6	Average Gain per Offensive Play	3.6			
+6	Net Yards Rushing	34			
+6	Total Rushing Plays	17			
+6	Average Gain per Rushing Play	2.0			
+6	Tackled for a Loss (Number-Yards)	5--6			
+6	Net Yards Passing	191			
+6	Times Sacked (Number-Yards)	1 - 5			
+6	Gross Yards Passing	196			
+6	Pass Comp-Att-Int	25 - 44 - 2			
+6	Average Gain per Passing Play (includes Sacks)	4.2			
+6	Kickoffs (Number-In End Zone-Touchbacks)	5 - 2 - 1			
+6	Punts (Number-Average)	6 - 48.0			
+6	Blocked	0			
+6	Net Punting Average	42.3			
+6	FGs Blocked - PATs Blocked	0 - 0			
+6	Total Return Yardage (excludes Kickoffs)	28			
+6	Punt Returns (Number-Yards)	0 - 0			
+6	Kickoff Returns (Number-Yards)	5 - 96			
+6	Interception Returns (Number-Yards)	1 - 28			
+6	Penalties (Number-Yards)	3 - 15			
+6	Fumbles (Number-Lost)	0 - 0			
+6	Touchdowns	2			
+6	Rushing	0			
+6	Passing	1			
+6	Interceptions	0			
+6	Kickoff Returns	0			
+6	Fumble Returns	0			
+6	Punt Returns	0			
+6	Extra Points (Made-Attempted)	2 - 2			
+6	Kicking (Made-Attempted)	2 - 2			
+6	Two Point Conversions (Made-Attempted)	0 - 0			
+6	Field Goals (Made-Attempted)	2 - 2			
+6	Red Zone Efficiency	1/3 - 33%			
+6	Goal To Go Efficiency	1/2 - 50%			
+6	Safeties	0			
+6	Final Score	20			
+6	Time of Possession	27:21			
+					
+7	Passing	CP/AT	YDS	TD	INT
+7	K. Cousins	33/40	317	3	0
+7	Rushing	ATT	YDS	TD	LG
+7	M. Jones	9	29	0	11
+7	K. Cousins	3	15	1	8T
+7	A. Morris	6	5	0	5
+7	D. Young	1	1	0	1
+7	Receiving	REC	YDS	TD	LG
+7	J. Reed	11	72	2	13
+7	P. Garcon	5	55	0	21
+7	R. Grant	3	54	1	32
+7	A. Roberts	3	49	0	38
+7	J. Crowder	5	48	0	18
+7	M. Jones	3	22	0	12
+7	D. Carrier	2	15	0	9
+7	A. Morris	1	2	0	2
+7	Fumbles	FUM	LOST	REC	YDS
+7	K. Cousins	1	1	0	0
+7	C. Baker	0	0	1	0
+7	J. Jeffcoat	0	0	0	0
+7	Kicking	FG	LG	XP	PTS
+7	D. Hopkins	1/1	35	4/4	7
+7	Punting	NO	AVG	I20	LG
+7	T. Way	4	42.8	1	52
+7	Kickoff Returns	NO	AVG	TD	LG
+7	R. Ross	2	24	0	30
+7	Punt Returns	NO	AVG	TD	LG
+7	J. Crowder	1	4	0	4
+7	Defense	T-A	SCK	INT	FF
+7	B. Breeland	7-5	0.0	0	0
+7	D. Goldson	6-8	0.0	0	0
+7	T. Robinson	5-5	0.0	0	0
+7	W. Blackmon	2-0	0.0	0	0
+7	W. Compton	2-2	0.0	0	0
+7	J. Hatcher	2-1	0.0	0	0
+7	J. Jeffcoat	2-0	0.0	0	1
+7	K. Robinson	2-6	0.0	0	0
+7	P. Smith	2-2	0.0	0	0
+7	C. Baker	1-5	0.0	0	0
+7	R. Kerrigan	1-0	0.0	0	0
+7	T. Knighton	1-1	0.5	0	0
+7	P. Riley	1-1	0.0	0	0
+7	K. Jarrett	0-1	0.0	0	0
+7	R. Jean Francois	0-2	0.0	0	0
+7	J. Johnson	0-1	0.0	0	0
+7	T. Murphy	0-1	0.0	0	0
+7	S. Paea	0-1	0.5	0	0
+7	Total First Downs	27			
+7	By Rushing	4			
+7	By Passing	16			
+7	By Penalty				
+7	Third Down Efficiency	5/11 - 45%			
+7	Fourth Down Efficiency	0/0 - 0%			
+7	Total Net Yards	355			
+7	Total Rushing/Passing Plays (includes Sacks)	60			
+7	Average Gain per Offensive Play	5.9			
+7	Net Yards Rushing	50			
+7	Total Rushing Plays	19			
+7	Average Gain per Rushing Play	2.6			
+7	Tackled for a Loss (Number-Yards)	5--6			
+7	Net Yards Passing	305			
+7	Times Sacked (Number-Yards)	1 - 12			
+7	Gross Yards Passing	317			
+7	Pass Comp-Att-Int	33 - 40 - 0			
+7	Average Gain per Passing Play (includes Sacks)	7.4			
+7	Kickoffs (Number-In End Zone-Touchbacks)	6 - 5 - 4			
+7	Punts (Number-Average)	4 - 47.3			
+7	Blocked	0			
+7	Net Punting Average	42.8			
+7	FGs Blocked - PATs Blocked	0 - 0			
+7	Total Return Yardage (excludes Kickoffs)	4			
+7	Punt Returns (Number-Yards)	1 - 4			
+7	Kickoff Returns (Number-Yards)	2 - 48			
+7	Interception Returns (Number-Yards)	0 - 0			
+7	Penalties (Number-Yards)	4 - 20			
+7	Fumbles (Number-Lost)	1 - 1			
+7	Touchdowns	4			
+7	Rushing	1			
+7	Passing	3			
+7	Interceptions	0			
+7	Kickoff Returns	0			
+7	Fumble Returns	0			
+7	Punt Returns	0			
+7	Extra Points (Made-Attempted)	4 - 4			
+7	Kicking (Made-Attempted)	4 - 4			
+7	Two Point Conversions (Made-Attempted)	0 - 0			
+7	Field Goals (Made-Attempted)	1 - 1			
+7	Red Zone Efficiency	4/5 - 80%			
+7	Goal To Go Efficiency	4/4 - 100%			
+7	Safeties	0			
+7	Final Score	31			
+7	Time of Possession	28:42			
+					
+	week 8 bye				
+					
+9	Passing	CP/AT	YDS	TD	INT
+9	K. Cousins	22/40	217	1	1
+9	Rushing	ATT	YDS	TD	LG
+9	M. Jones	11	27	0	10
+9	A. Morris	4	10	0	4
+9	Receiving	REC	YDS	TD	LG
+9	P. Garcon	4	70	0	36
+9	J. Crowder	6	50	0	16
+9	A. Roberts	2	26	0	18
+9	C. Thompson	2	21	0	13
+9	J. Reed	3	18	1	9
+9	M. Jones	2	17	0	12
+9	D. Jackson	3	15	0	9
+9	Fumbles	FUM	LOST	REC	YDS
+9	J. Crowder	1	0	0	0
+9	M. Jones	1	1	0	0
+9	W. Blackmon	0	0	1	0
+9	S. Paea	0	0	0	0
+9	Kicking	FG	LG	XP	PTS
+9	D. Hopkins	1/1	23	1/1	4
+9	Punting	NO	AVG	I20	LG
+9	T. Way	4	47.5	1	55
+9	Kickoff Returns	NO	AVG	TD	LG
+9	A. Roberts	2	15	0	26
+9	C. Thompson	1	18	0	18
+9	Punt Returns	NO	AVG	TD	LG
+9	J. Crowder	1	9	0	9
+9	Defense	T-A	SCK	INT	FF
+9	C. Baker	5-2	0.0	0	0
+9	D. Goldson	5-4	0.0	0	0
+9	J. Johnson	5-1	0.0	0	0
+9	W. Compton	4-6	0.0	0	0
+9	K. Jarrett	4-3	0.0	0	0
+9	T. Robinson	4-0	0.0	0	0
+9	K. Robinson	4-3	0.0	1	0
+9	W. Blackmon	3-5	0.0	0	1
+9	C. Culliver	2-0	0.0	0	0
+9	S. Paea	2-1	0.0	0	1
+9	R. Jean Francois	1-2	0.0	0	0
+9	R. Kerrigan	1-1	0.0	0	0
+9	P. Smith	1-0	0.0	0	0
+9	B. Breeland	0-1	0.0	0	0
+9	K. Golston	0-2	0.0	0	0
+9	T. Murphy	0-3	0.0	0	0
+9	Total First Downs	16			
+9	By Rushing	3			
+9	By Passing	12			
+9	By Penalty				
+9	Third Down Efficiency	7/14 - 50%			
+9	Fourth Down Efficiency	0/1 - 0%			
+9	Total Net Yards	250			
+9	Total Rushing/Passing Plays (includes Sacks)	56			
+9	Average Gain per Offensive Play	4.5			
+9	Net Yards Rushing	37			
+9	Total Rushing Plays	15			
+9	Average Gain per Rushing Play	2.5			
+9	Tackled for a Loss (Number-Yards)	2--5			
+9	Net Yards Passing	213			
+9	Times Sacked (Number-Yards)	1 - 4			
+9	Gross Yards Passing	217			
+9	Pass Comp-Att-Int	22 - 40 - 1			
+9	Average Gain per Passing Play (includes Sacks)	5.2			
+9	Kickoffs (Number-In End Zone-Touchbacks)	3 - 2 - 1			
+9	Punts (Number-Average)	4 - 47.0			
+9	Blocked	0			
+9	Net Punting Average	47.5			
+9	FGs Blocked - PATs Blocked	0 - 0			
+9	Total Return Yardage (excludes Kickoffs)	53			
+9	Punt Returns (Number-Yards)	1 - 9			
+9	Kickoff Returns (Number-Yards)	3 - 48			
+9	Interception Returns (Number-Yards)	1 - 44			
+9	Penalties (Number-Yards)	4 - 27			
+9	Fumbles (Number-Lost)	2 - 1			
+9	Touchdowns	1			
+9	Rushing	0			
+9	Passing	1			
+9	Interceptions	0			
+9	Kickoff Returns	0			
+9	Fumble Returns	0			
+9	Punt Returns	0			
+9	Extra Points (Made-Attempted)	1 - 1			
+9	Kicking (Made-Attempted)	1 - 1			
+9	Two Point Conversions (Made-Attempted)	0 - 0			
+9	Field Goals (Made-Attempted)	1 - 1			
+9	Red Zone Efficiency	1/2 - 50%			
+9	Goal To Go Efficiency	1/2 - 50%			
+9	Safeties	0			
+9	Final Score	10			
+9	Time of Possession	22:55			
+					
+10	Passing	CP/AT	YDS	TD	INT
+10	K. Cousins	20/25	324	4	0
+10	Rushing	ATT	YDS	TD	LG
+10	A. Morris	15	92	0	28
+10	M. Jones	11	56	0	20
+10	C. Thompson	2	54	0	38
+10	D. Young	3	7	0	5
+10	Receiving	REC	YDS	TD	LG
+10	M. Jones	3	131	1	78T
+10	J. Crowder	4	60	1	31
+10	D. Jackson	2	44	0	42
+10	J. Reed	3	29	2	16T
+10	C. Thompson	1	23	0	23
+10	D. Carrier	1	14	0	14
+10	A. Morris	3	14	0	7
+10	P. Garcon	2	10	0	7
+10	D. Young	1	-1	0	-1
+10	Fumbles	FUM	LOST	REC	YDS
+10	K. Cousins	1	0	1	0
+10	J. Crowder	1	0	1	0
+10	D. Young	1	0	0	0
+10	B. Breeland	0	0	0	0
+10	S. Long	0	0	1	4
+10	Kicking	FG	LG	XP	PTS
+10	D. Hopkins	4/4	40	5/5	17
+10	Punting	NO	AVG	I20	LG
+10	T. Way	2	38.5	1	56
+10	Kickoff Returns	NO	AVG	TD	LG
+10	R. Ross	2	14	0	21
+10	Punt Returns	NO	AVG	TD	LG
+10	J. Crowder	4	6	0	11
+10	Defense	T-A	SCK	INT	FF
+10	B. Breeland	6-3	0.0	0	1
+10	D. Goldson	5-0	0.0	1	0
+10	P. Riley	4-2	0.0	1	0
+10	K. Jarrett	3-0	0.0	0	0
+10	W. Compton	2-6	0.0	0	0
+10	D. Everett	2-1	0.0	0	0
+10	W. Blackmon	1-1	0.0	0	0
+10	C. Culliver	1-2	0.0	0	0
+10	J. Hatcher	1-1	0.0	0	0
+10	R. Jean Francois	1-1	0.0	0	0
+10	R. Kerrigan	1-1	0.0	0	0
+10	T. Knighton	1-0	0.0	0	0
+10	T. Murphy	1-4	0.5	0	0
+10	S. Paea	1-2	1.0	0	0
+10	C. Baker	0-4	0.5	0	0
+10	M. Foster	0-1	0.0	0	0
+10	K. Golston	0-2	0.0	0	0
+10	D. Hall	0-2	0.0	0	0
+10	P. Smith	0-1	0.0	0	0
+10	Total First Downs	23			
+10	By Rushing	9			
+10	By Passing	12			
+10	By Penalty				
+10	Third Down Efficiency	6/11 - 54%			
+10	Fourth Down Efficiency	0/0 - 0%			
+10	Total Net Yards	510			
+10	Total Rushing/Passing Plays (includes Sacks)	59			
+10	Average Gain per Offensive Play	8.6			
+10	Net Yards Rushing	209			
+10	Total Rushing Plays	31			
+10	Average Gain per Rushing Play	6.7			
+10	Tackled for a Loss (Number-Yards)	0-0			
+10	Net Yards Passing	301			
+10	Times Sacked (Number-Yards)	3 - 23			
+10	Gross Yards Passing	324			
+10	Pass Comp-Att-Int	20 - 25 - 0			
+10	Average Gain per Passing Play (includes Sacks)	10.8			
+10	Kickoffs (Number-In End Zone-Touchbacks)	9 - 8 - 6			
+10	Punts (Number-Average)	2 - 43.5			
+10	Blocked	0			
+10	Net Punting Average	38.5			
+10	FGs Blocked - PATs Blocked	0 - 0			
+10	Total Return Yardage (excludes Kickoffs)	61			
+10	Punt Returns (Number-Yards)	4 - 26			
+10	Kickoff Returns (Number-Yards)	2 - 29			
+10	Interception Returns (Number-Yards)	2 - 35			
+10	Penalties (Number-Yards)	5 - 26			
+10	Fumbles (Number-Lost)	3 - 0			
+10	Touchdowns	5			
+10	Rushing	0			
+10	Passing	4			
+10	Interceptions	1			
+10	Kickoff Returns	0			
+10	Fumble Returns	0			
+10	Punt Returns	0			
+10	Extra Points (Made-Attempted)	5 - 5			
+10	Kicking (Made-Attempted)	5 - 5			
+10	Two Point Conversions (Made-Attempted)	0 - 0			
+10	Field Goals (Made-Attempted)	4 - 4			
+10	Red Zone Efficiency	3/6 - 50%			
+10	Goal To Go Efficiency	0/1 - 0%			
+10	Safeties	0			
+10	Final Score	47			
+10	Time of Possession	33:34			
+					
+11	Passing	CP/AT	YDS	TD	INT
+11	K. Cousins	22/30	207	1	1
+11	Rushing	ATT	YDS	TD	LG
+11	C. Thompson	4	10	0	6
+11	K. Cousins	1	4	0	4
+11	M. Jones	5	0	0	2
+11	A. Morris	2	0	0	2
+11	Receiving	REC	YDS	TD	LG
+11	D. Jackson	5	87	1	56T
+11	J. Reed	6	46	0	13
+11	P. Garcon	3	43	0	17
+11	M. Jones	2	12	0	7
+11	D. Carrier	2	7	0	5
+11	C. Thompson	3	7	0	6
+11	J. Crowder	1	5	0	5
+11	Fumbles	FUM	LOST	REC	YDS
+11	K. Cousins	2	2	0	0
+11	M. Jones	1	1	0	0
+11	J. Reed	1	1	0	0
+11	C. Thompson	1	0	0	0
+11	M. Moses	0	0	1	0
+11	Kicking	FG	LG	XP	PTS
+11	D. Hopkins	0/0	0	2/2	2
+11	Punting	NO	AVG	I20	LG
+11	T. Way	5	53.0	3	57
+11	Kickoff Returns	NO	AVG	TD	LG
+11	A. Roberts	4	44	1	99
+11	J. Crowder	1	13	0	13
+11	Punt Returns	NO	AVG	TD	LG
+11	J. Crowder	2	1	0	2
+11	Defense	T-A	SCK	INT	FF
+11	B. Breeland	8-3	0.0	0	0
+11	C. Culliver	5-0	0.0	0	0
+11	P. Riley	5-4	0.0	0	0
+11	J. Johnson	3-2	0.0	0	0
+11	W. Compton	2-7	0.0	0	0
+11	D. Goldson	2-5	0.0	0	0
+11	K. Jarrett	2-1	0.0	0	0
+11	R. Kerrigan	2-1	1.0	0	0
+11	T. Murphy	2-1	0.0	0	0
+11	P. Smith	2-1	1.0	0	0
+11	C. Baker	1-5	0.0	0	0
+11	H. Bates	1-0	0.0	0	0
+11	W. Blackmon	1-0	0.0	0	0
+11	T. Knighton	1-2	0.0	0	0
+11	S. Paea	1-3	0.0	0	0
+11	M. Foster	0-1	0.0	0	0
+11	R. Jean Francois	0-2	0.0	0	0
+11	Total First Downs	9			
+11	By Rushing	1			
+11	By Passing	8			
+11	By Penalty				
+11	Third Down Efficiency	2/9 - 22%			
+11	Fourth Down Efficiency	1/1 - 100%			
+11	Total Net Yards	186			
+11	Total Rushing/Passing Plays (includes Sacks)	47			
+11	Average Gain per Offensive Play	4.0			
+11	Net Yards Rushing	14			
+11	Total Rushing Plays	12			
+11	Average Gain per Rushing Play	1.2			
+11	Tackled for a Loss (Number-Yards)	3--6			
+11	Net Yards Passing	172			
+11	Times Sacked (Number-Yards)	5 - 35			
+11	Gross Yards Passing	207			
+11	Pass Comp-Att-Int	22 - 30 - 1			
+11	Average Gain per Passing Play (includes Sacks)	4.9			
+11	Kickoffs (Number-In End Zone-Touchbacks)	3 - 2 - 1			
+11	Punts (Number-Average)	5 - 53.2			
+11	Blocked	0			
+11	Net Punting Average	53.0			
+11	FGs Blocked - PATs Blocked	0 - 0			
+11	Total Return Yardage (excludes Kickoffs)	3			
+11	Punt Returns (Number-Yards)	2 - 3			
+11	Kickoff Returns (Number-Yards)	5 - 190			
+11	Interception Returns (Number-Yards)	0 - 0			
+11	Penalties (Number-Yards)	9 - 68			
+11	Fumbles (Number-Lost)	5 - 4			
+11	Touchdowns	2			
+11	Rushing	0			
+11	Passing	1			
+11	Interceptions	0			
+11	Kickoff Returns	1			
+11	Fumble Returns	0			
+11	Punt Returns	0			
+11	Extra Points (Made-Attempted)	2 - 2			
+11	Kicking (Made-Attempted)	2 - 2			
+11	Two Point Conversions (Made-Attempted)	0 - 0			
+11	Field Goals (Made-Attempted)	0 - 0			
+11	Red Zone Efficiency	0/0 - 0%			
+11	Goal To Go Efficiency	0/0 - 0%			
+11	Safeties	1			
+11	Final Score	16			
+11	Time of Possession	21:53			
+					
+12	Passing	CP/AT	YDS	TD	INT
+12	K. Cousins	20/29	302	1	0
+12	Rushing	ATT	YDS	TD	LG
+12	A. Morris	23	78	0	9
+12	M. Jones	8	19	0	12
+12	C. Thompson	2	7	0	8
+12	K. Cousins	4	1	1	1T
+12	Receiving	REC	YDS	TD	LG
+12	J. Reed	8	98	0	26
+12	D. Jackson	2	66	1	63T
+12	M. Jones	1	45	0	45
+12	P. Garcon	3	35	0	16
+12	R. Grant	1	19	0	19
+12	J. Crowder	2	12	0	9
+12	A. Morris	1	12	0	12
+12	C. Thompson	1	9	0	9
+12	D. Carrier	1	6	0	6
+12	Fumbles	FUM	LOST	REC	YDS
+12	K. Cousins	1	0	1	-2
+12	Kicking	FG	LG	XP	PTS
+12	D. Hopkins	2/3	41	2/2	8
+12	Punting	NO	AVG	I20	LG
+12	T. Way	6	42.3	3	60
+12	Kickoff Returns	NO	AVG	TD	LG
+12	A. Roberts	1	24	0	24
+12	R. Ross	1	25	0	25
+12	C. Thompson	1	9	0	9
+12	Punt Returns	NO	AVG	TD	LG
+12	J. Crowder	2	12	0	16
+12	D. Jackson	1	2	0	2
+12	Defense	T-A	SCK	INT	FF
+12	B. Breeland	4-1	0.0	0	0
+12	W. Compton	4-6	0.0	0	0
+12	D. Hall	4-0	0.0	0	0
+12	R. Kerrigan	3-0	2.0	0	0
+12	P. Riley	3-3	0.0	1	0
+12	Q. Dunbar	2-0	0.0	1	0
+12	D. Goldson	2-5	0.0	0	0
+12	C. Baker	1-0	1.0	0	0
+12	W. Blackmon	1-2	0.0	1	0
+12	J. Hatcher	1-0	0.0	0	0
+12	K. Jarrett	1-1	0.0	0	0
+12	T. Knighton	1-2	0.0	0	0
+12	S. Paea	1-0	0.0	0	0
+12	P. Smith	1-2	0.0	0	0
+12	R. Jean Francois	0-1	0.0	0	0
+12	Total First Downs	18			
+12	By Rushing	5			
+12	By Passing	12			
+12	By Penalty				
+12	Third Down Efficiency	4/15 - 26%			
+12	Fourth Down Efficiency	1/2 - 50%			
+12	Total Net Yards	407			
+12	Total Rushing/Passing Plays (includes Sacks)	66			
+12	Average Gain per Offensive Play	6.2			
+12	Net Yards Rushing	105			
+12	Total Rushing Plays	37			
+12	Average Gain per Rushing Play	2.8			
+12	Tackled for a Loss (Number-Yards)	6--6			
+12	Net Yards Passing	302			
+12	Times Sacked (Number-Yards)	0 - 0			
+12	Gross Yards Passing	302			
+12	Pass Comp-Att-Int	20 - 29 - 0			
+12	Average Gain per Passing Play (includes Sacks)	10.4			
+12	Kickoffs (Number-In End Zone-Touchbacks)	5 - 4 - 4			
+12	Punts (Number-Average)	6 - 44.7			
+12	Blocked	0			
+12	Net Punting Average	42.3			
+12	FGs Blocked - PATs Blocked	1 - 0			
+12	Total Return Yardage (excludes Kickoffs)	39			
+12	Punt Returns (Number-Yards)	3 - 26			
+12	Kickoff Returns (Number-Yards)	3 - 58			
+12	Interception Returns (Number-Yards)	3 - 13			
+12	Penalties (Number-Yards)	7 - 80			
+12	Fumbles (Number-Lost)	1 - 0			
+12	Touchdowns	2			
+12	Rushing	1			
+12	Passing	1			
+12	Interceptions	0			
+12	Kickoff Returns	0			
+12	Fumble Returns	0			
+12	Punt Returns	0			
+12	Extra Points (Made-Attempted)	2 - 2			
+12	Kicking (Made-Attempted)	2 - 2			
+12	Two Point Conversions (Made-Attempted)	0 - 0			
+12	Field Goals (Made-Attempted)	2 - 3			
+12	Red Zone Efficiency	1/2 - 50%			
+12	Goal To Go Efficiency	1/1 - 100%			
+12	Safeties	0			
+12	Final Score	20			
+12	Time of Possession	36:00			
+					
+13	Passing	CP/AT	YDS	TD	INT
+13	K. Cousins	22/31	219	1	0
+13	Rushing	ATT	YDS	TD	LG
+13	M. Jones	18	49	0	10
+13	A. Morris	6	12	0	3
+13	K. Cousins	1	6	0	6
+13	C. Thompson	1	6	0	6
+13	Receiving	REC	YDS	TD	LG
+13	D. Jackson	6	80	1	28T
+13	P. Garcon	5	54	0	23
+13	J. Reed	3	33	0	16
+13	J. Crowder	3	29	0	20
+13	C. Thompson	4	18	0	9
+13	M. Jones	1	5	0	5
+13	Fumbles	FUM	LOST	REC	YDS
+13	K. Cousins	1	0	1	0
+13	D. Jackson	1	1	0	0
+13	C. Baker	0	0	0	0
+13	W. Blackmon	0	0	1	0
+13	M. Foster	0	0	1	0
+13	D. Goldson	0	0	1	0
+13	J. Hatcher	0	0	0	0
+13	Kicking	FG	LG	XP	PTS
+13	D. Hopkins	3/4	46	1/1	10
+13	Punting	NO	AVG	I20	LG
+13	T. Way	6	33.7	1	53
+13	Kickoff Returns	NO	AVG	TD	LG
+13	R. Ross	4	29	0	41
+13	D. Jackson	1	8	0	8
+13	Punt Returns	NO	AVG	TD	LG
+13	J. Crowder	1	7	0	7
+13	D. Jackson	1	-7	0	-7
+13	Defense	T-A	SCK	INT	FF
+13	C. Baker	4-0	0.0	0	1
+13	B. Breeland	4-1	0.0	0	0
+13	W. Compton	4-3	0.0	0	0
+13	M. Foster	4-3	0.0	0	1
+13	D. Goldson	4-2	0.0	0	1
+13	W. Blackmon	2-0	0.0	0	0
+13	Q. Dunbar	2-0	0.0	0	0
+13	D. Hall	2-2	0.0	0	0
+13	J. Hatcher	2-0	0.0	0	1
+13	R. Kerrigan	2-0	0.0	0	0
+13	T. Murphy	2-0	1.0	0	0
+13	H. Bates	1-0	0.0	0	0
+13	K. Jarrett	1-4	0.0	0	0
+13	P. Smith	1-0	0.0	0	0
+13	K. Golston	0-1	0.0	0	0
+13	R. Jean Francois	0-1	0.0	0	0
+13	Total First Downs	15			
+13	By Rushing	4			
+13	By Passing	9			
+13	By Penalty				
+13	Third Down Efficiency	6/16 - 37%			
+13	Fourth Down Efficiency	0/0 - 0%			
+13	Total Net Yards	266			
+13	Total Rushing/Passing Plays (includes Sacks)	60			
+13	Average Gain per Offensive Play	4.4			
+13	Net Yards Rushing	73			
+13	Total Rushing Plays	26			
+13	Average Gain per Rushing Play	2.8			
+13	Tackled for a Loss (Number-Yards)	6--10			
+13	Net Yards Passing	193			
+13	Times Sacked (Number-Yards)	3 - 26			
+13	Gross Yards Passing	219			
+13	Pass Comp-Att-Int	22 - 31 - 0			
+13	Average Gain per Passing Play (includes Sacks)	5.7			
+13	Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 2			
+13	Punts (Number-Average)	6 - 42.2			
+13	Blocked	0			
+13	Net Punting Average	33.7			
+13	FGs Blocked - PATs Blocked	0 - 0			
+13	Total Return Yardage (excludes Kickoffs)	0			
+13	Punt Returns (Number-Yards)	2 - 0			
+13	Kickoff Returns (Number-Yards)	5 - 125			
+13	Interception Returns (Number-Yards)	0 - 0			
+13	Penalties (Number-Yards)	9 - 72			
+13	Fumbles (Number-Lost)	2 - 1			
+13	Touchdowns	1			
+13	Rushing	0			
+13	Passing	1			
+13	Interceptions	0			
+13	Kickoff Returns	0			
+13	Fumble Returns	0			
+13	Punt Returns	0			
+13	Extra Points (Made-Attempted)	1 - 1			
+13	Kicking (Made-Attempted)	1 - 1			
+13	Two Point Conversions (Made-Attempted)	0 - 0			
+13	Field Goals (Made-Attempted)	3 - 4			
+13	Red Zone Efficiency	0/1 - 0%			
+13	Goal To Go Efficiency	0/0 - 0%			
+13	Safeties	0			
+13	Final Score	16			
+13	Time of Possession	32:47			
+					
+14	Passing	CP/AT	YDS	TD	INT
+14	K. Cousins	24/31	300	1	1
+14	Rushing	ATT	YDS	TD	LG
+14	M. Jones	18	62	0	11
+14	A. Morris	11	24	1	5
+14	K. Cousins	4	13	1	9
+14	Receiving	REC	YDS	TD	LG
+14	J. Reed	9	120	1	32
+14	P. Garcon	5	52	0	19
+14	D. Jackson	2	43	0	29
+14	R. Ross	2	27	0	17
+14	M. Jones	2	24	0	18
+14	J. Crowder	1	13	0	13
+14	P. Thomas	1	12	0	12
+14	D. Carrier	1	7	0	7
+14	D. Young	1	2	0	2
+14	Fumbles	FUM	LOST	REC	YDS
+14	M. Jones	1	0	1	0
+14	T. Murphy	0	0	1	0
+14	Kicking	FG	LG	XP	PTS
+14	D. Hopkins	1/1	47	3/3	6
+14	Punting	NO	AVG	I20	LG
+14	T. Way	4	34.0	1	64
+14	Kickoff Returns	NO	AVG	TD	LG
+14	R. Ross	2	22	0	22
+14	Punt Returns	NO	AVG	TD	LG
+14	J. Crowder	2	3	0	6
+14	Defense	T-A	SCK	INT	FF
+14	M. Foster	6-0	0.0	0	0
+14	D. Hall	6-0	0.0	0	0
+14	B. Breeland	4-1	0.0	0	0
+14	W. Compton	4-0	0.0	0	0
+14	D. Goldson	4-0	0.0	0	0
+14	R. Kerrigan	4-1	1.0	0	0
+14	C. Baker	2-0	0.0	0	0
+14	W. Blackmon	2-0	0.0	0	0
+14	Q. Dunbar	2-0	0.0	0	0
+14	K. Jarrett	1-2	0.0	0	0
+14	T. Knighton	1-0	1.0	0	0
+14	T. Murphy	1-0	1.0	0	1
+14	P. Smith	1-0	0.0	0	0
+14	Total First Downs	24			
+14	By Rushing	10			
+14	By Passing	13			
+14	By Penalty				
+14	Third Down Efficiency	7/12 - 58%			
+14	Fourth Down Efficiency	0/0 - 0%			
+14	Total Net Yards	374			
+14	Total Rushing/Passing Plays (includes Sacks)	67			
+14	Average Gain per Offensive Play	5.6			
+14	Net Yards Rushing	99			
+14	Total Rushing Plays	33			
+14	Average Gain per Rushing Play	3.0			
+14	Tackled for a Loss (Number-Yards)	4--8			
+14	Net Yards Passing	275			
+14	Times Sacked (Number-Yards)	3 - 25			
+14	Gross Yards Passing	300			
+14	Pass Comp-Att-Int	24 - 31 - 1			
+14	Average Gain per Passing Play (includes Sacks)	8.1			
+14	Kickoffs (Number-In End Zone-Touchbacks)	5 - 4 - 3			
+14	Punts (Number-Average)	4 - 43.0			
+14	Blocked	0			
+14	Net Punting Average	34.0			
+14	FGs Blocked - PATs Blocked	0 - 0			
+14	Total Return Yardage (excludes Kickoffs)	7			
+14	Punt Returns (Number-Yards)	2 - 7			
+14	Kickoff Returns (Number-Yards)	2 - 44			
+14	Interception Returns (Number-Yards)	0 - 0			
+14	Penalties (Number-Yards)	8 - 63			
+14	Fumbles (Number-Lost)	1 - 0			
+14	Touchdowns	3			
+14	Rushing	2			
+14	Passing	1			
+14	Interceptions	0			
+14	Kickoff Returns	0			
+14	Fumble Returns	0			
+14	Punt Returns	0			
+14	Extra Points (Made-Attempted)	3 - 3			
+14	Kicking (Made-Attempted)	3 - 3			
+14	Two Point Conversions (Made-Attempted)	0 - 0			
+14	Field Goals (Made-Attempted)	1 - 1			
+14	Red Zone Efficiency	3/3 - 100%			
+14	Goal To Go Efficiency	3/3 - 100%			
+14	Safeties	0			
+14	Final Score	24			
+14	Time of Possession	34:22			
+					
+15	Passing	CP/AT	YDS	TD	INT
+15	K. Cousins	22/28	319	4	0
+15	Rushing	ATT	YDS	TD	LG
+15	A. Morris	14	84	0	48
+15	M. Jones	10	28	0	13
+15	K. Cousins	3	11	1	13T
+15	Receiving	REC	YDS	TD	LG
+15	D. Jackson	6	153	1	77T
+15	J. Reed	7	84	2	24
+15	P. Garcon	3	34	1	18
+15	J. Crowder	3	21	0	12
+15	R. Grant	1	13	0	13
+15	M. Jones	1	8	0	8
+15	D. Young	1	6	0	6
+15	Fumbles	FUM	LOST	REC	YDS
+15	J. Crowder	1	1	0	0
+15	R. Kerrigan	0	0	0	0
+15	Kicking	FG	LG	XP	PTS
+15	D. Hopkins	0/0	0	5/5	5
+15	Punting	NO	AVG	I20	LG
+15	T. Way	3	40.0	1	57
+15	Kickoff Returns	NO	AVG	TD	LG
+15	R. Ross	3	16	0	19
+15	Punt Returns	NO	AVG	TD	LG
+15	J. Crowder	2	2	0	5
+15	Defense	T-A	SCK	INT	FF
+15	D. Hall	8-1	0.0	0	0
+15	W. Blackmon	4-0	1.0	0	0
+15	B. Breeland	4-1	0.0	0	0
+15	Q. Dunbar	3-1	0.0	0	0
+15	M. Foster	3-3	0.0	0	0
+15	J. Hatcher	3-0	1.0	0	0
+15	R. Kerrigan	3-0	1.0	0	1
+15	D. Goldson	2-2	0.0	0	0
+15	K. Jarrett	2-2	0.0	0	0
+15	T. Knighton	2-0	0.0	0	0
+15	P. Smith	2-2	1.0	0	0
+15	H. Bates	1-0	0.0	0	0
+15	W. Compton	1-4	0.0	0	0
+15	R. Jean Francois	1-1	1.0	0	0
+15	T. Murphy	1-0	0.0	0	0
+15	C. Baker	0-2	0.0	0	0
+15	F. Kearse	0-1	0.0	0	0
+15	K. Robinson	0-1	0.0	0	0
+15	Total First Downs	23			
+15	By Rushing	7			
+15	By Passing	13			
+15	By Penalty				
+15	Third Down Efficiency	7/11 - 63%			
+15	Fourth Down Efficiency	0/0 - 0%			
+15	Total Net Yards	431			
+15	Total Rushing/Passing Plays (includes Sacks)	56			
+15	Average Gain per Offensive Play	7.7			
+15	Net Yards Rushing	123			
+15	Total Rushing Plays	27			
+15	Average Gain per Rushing Play	4.6			
+15	Tackled for a Loss (Number-Yards)	3--12			
+15	Net Yards Passing	308			
+15	Times Sacked (Number-Yards)	1 - 11			
+15	Gross Yards Passing	319			
+15	Pass Comp-Att-Int	22 - 28 - 0			
+15	Average Gain per Passing Play (includes Sacks)	10.6			
+15	Kickoffs (Number-In End Zone-Touchbacks)	6 - 5 - 3			
+15	Punts (Number-Average)	3 - 46.7			
+15	Blocked	0			
+15	Net Punting Average	40.0			
+15	FGs Blocked - PATs Blocked	0 - 0			
+15	Total Return Yardage (excludes Kickoffs)	5			
+15	Punt Returns (Number-Yards)	2 - 5			
+15	Kickoff Returns (Number-Yards)	3 - 50			
+15	Interception Returns (Number-Yards)	0 - 0			
+15	Penalties (Number-Yards)	5 - 6			
+15	Fumbles (Number-Lost)	1 - 1			
+15	Touchdowns	5			
+15	Rushing	1			
+15	Passing	4			
+15	Interceptions	0			
+15	Kickoff Returns	0			
+15	Fumble Returns	0			
+15	Punt Returns	0			
+15	Extra Points (Made-Attempted)	5 - 5			
+15	Kicking (Made-Attempted)	5 - 5			
+15	Two Point Conversions (Made-Attempted)	0 - 0			
+15	Field Goals (Made-Attempted)	0 - 0			
+15	Red Zone Efficiency	4/4 - 100%			
+15	Goal To Go Efficiency	3/3 - 100%			
+15	Safeties	0			
+15	Final Score	35			
+15	Time of Possession	29:04			
+					
+16	Passing	CP/AT	YDS	TD	INT
+16	K. Cousins	31/46	365	4	0
+16	Rushing	ATT	YDS	TD	LG
+16	A. Morris	17	49	0	8
+16	P. Thomas	4	22	0	9
+16	K. Cousins	5	-4	0	0
+16	Receiving	REC	YDS	TD	LG
+16	J. Reed	9	129	2	28
+16	P. Garcon	7	80	1	25
+16	P. Thomas	7	67	0	15
+16	D. Jackson	4	40	0	22
+16	R. Grant	1	24	0	24
+16	J. Crowder	2	13	0	7
+16	C. Thompson	1	12	1	12T
+16	Fumbles	FUM	LOST	REC	YDS
+16	K. Cousins	1	0	1	-3
+16	B. Breeland	0	0	0	0
+16	D. Goldson	0	0	1	14
+16	D. Hall	0	0	1	17
+16	P. Smith	0	0	0	0
+16	Kicking	FG	LG	XP	PTS
+16	D. Hopkins	1/1	28	3/4	6
+16	Punting	NO	AVG	I20	LG
+16	T. Way	7	47.1	1	57
+16	Kickoff Returns	NO	AVG	TD	LG
+16	R. Ross	1	19	0	19
+16	Punt Returns	NO	AVG	TD	LG
+16	J. Crowder	2	5	0	5
+16	Defense	T-A	SCK	INT	FF
+16	D. Goldson	9-1	0.0	0	0
+16	W. Compton	7-1	1.0	0	0
+16	M. Foster	7-1	0.0	0	0
+16	K. Jarrett	6-2	0.0	0	0
+16	D. Hall	4-0	0.0	0	1
+16	R. Kerrigan	4-0	0.0	0	0
+16	W. Blackmon	3-0	0.0	0	0
+16	B. Breeland	3-0	0.0	0	1
+16	P. Smith	3-1	3.0	0	1
+16	Q. Dunbar	2-0	0.0	0	0
+16	R. Jean Francois	2-0	1.0	0	0
+16	T. Knighton	2-0	0.0	0	0
+16	Total First Downs	25			
+16	By Rushing	4			
+16	By Passing	21			
+16	By Penalty				
+16	Third Down Efficiency	5/14 - 35%			
+16	Fourth Down Efficiency	0/0 - 0%			
+16	Total Net Yards	418			
+16	Total Rushing/Passing Plays (includes Sacks)	74			
+16	Average Gain per Offensive Play	5.6			
+16	Net Yards Rushing	67			
+16	Total Rushing Plays	26			
+16	Average Gain per Rushing Play	2.6			
+16	Tackled for a Loss (Number-Yards)	2--2			
+16	Net Yards Passing	351			
+16	Times Sacked (Number-Yards)	2 - 14			
+16	Gross Yards Passing	365			
+16	Pass Comp-Att-Int	31 - 46 - 0			
+16	Average Gain per Passing Play (includes Sacks)	7.3			
+16	Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 5			
+16	Punts (Number-Average)	7 - 49.6			
+16	Blocked	0			
+16	Net Punting Average	47.1			
+16	FGs Blocked - PATs Blocked	0 - 0			
+16	Total Return Yardage (excludes Kickoffs)	10			
+16	Punt Returns (Number-Yards)	2 - 10			
+16	Kickoff Returns (Number-Yards)	1 - 19			
+16	Interception Returns (Number-Yards)	0 - 0			
+16	Penalties (Number-Yards)	8 - 70			
+16	Fumbles (Number-Lost)	1 - 0			
+16	Touchdowns	5			
+16	Rushing	0			
+16	Passing	4			
+16	Interceptions	0			
+16	Kickoff Returns	0			
+16	Fumble Returns	1			
+16	Punt Returns	0			
+16	Extra Points (Made-Attempted)	4 - 5			
+16	Kicking (Made-Attempted)	3 - 4			
+16	Two Point Conversions (Made-Attempted)	1 - 1			
+16	Field Goals (Made-Attempted)	1 - 1			
+16	Red Zone Efficiency	3/5 - 60%			
+16	Goal To Go Efficiency	1/3 - 33%			
+16	Safeties	0			
+16	Final Score	38			
+16	Time of Possession	34:15			
+					
+17	Passing	CP/AT	YDS	TD	INT
+17	K. Cousins	12/15	176	3	0
+17	C. McCoy	7/11	128	1	0
+17	Rushing	ATT	YDS	TD	LG
+17	A. Morris	19	100	0	23
+17	P. Thomas	7	30	0	11
+17	C. Thompson	7	19	0	8
+17	C. McCoy	3	-3	0	-1
+17	Receiving	REC	YDS	TD	LG
+17	J. Crowder	5	109	1	44
+17	R. Ross	2	71	1	71T
+17	P. Garcon	3	49	1	39T
+17	J. Reed	4	45	0	26
+17	R. Grant	3	18	1	11
+17	D. Young	1	7	0	7
+17	P. Thomas	1	5	0	5
+17	Fumbles	FUM	LOST	REC	YDS
+17	C. McCoy	1	0	0	0
+17	J. Reed	1	0	0	0
+17	C. Baker	0	0	1	0
+17	W. Blackmon	0	0	0	0
+17	J. LeRibeus	0	0	1	0
+17	Kicking	FG	LG	XP	PTS
+17	D. Hopkins	2/2	33	4/4	10
+17	Punting	NO	AVG	I20	LG
+17	T. Way	4	48.5	3	58
+17	Kickoff Returns	NO	AVG	TD	LG
+17	Punt Returns	NO	AVG	TD	LG
+17	J. Crowder	2	3	0	4
+17	Defense	T-A	SCK	INT	FF
+17	W. Blackmon	7-0	0.0	1	1
+17	W. Compton	5-0	0.0	1	0
+17	K. Robinson	5-0	0.0	0	0
+17	M. Foster	4-1	0.0	0	0
+17	B. Breeland	3-1	0.0	0	0
+17	D. Hall	3-0	0.0	0	0
+17	K. Jarrett	3-1	0.0	0	0
+17	J. Johnson	3-2	0.0	0	0
+17	C. Baker	1-0	1.0	0	0
+17	H. Bates	1-0	0.0	0	0
+17	D. Everett	1-1	0.0	0	0
+17	C. Fields	1-0	0.0	0	0
+17	J. Harris	1-0	0.0	0	0
+17	F. Kearse	1-0	1.0	0	0
+17	R. Kerrigan	1-1	1.0	0	0
+17	T. Knighton	1-0	0.0	0	0
+17	T. Murphy	1-0	0.0	0	0
+17	D. Phillips	1-0	0.0	0	0
+17	P. Smith	1-0	1.0	0	0
+17	K. Golston	0-1	0.0	0	0
+17	Total First Downs	19			
+17	By Rushing	8			
+17	By Passing	11			
+17	By Penalty				
+17	Third Down Efficiency	7/14 - 50%			
+17	Fourth Down Efficiency	1/1 - 100%			
+17	Total Net Yards	437			
+17	Total Rushing/Passing Plays (includes Sacks)	63			
+17	Average Gain per Offensive Play	6.9			
+17	Net Yards Rushing	146			
+17	Total Rushing Plays	36			
+17	Average Gain per Rushing Play	4.1			
+17	Tackled for a Loss (Number-Yards)	3--4			
+17	Net Yards Passing	291			
+17	Times Sacked (Number-Yards)	1 - 13			
+17	Gross Yards Passing	304			
+17	Pass Comp-Att-Int	19 - 26 - 0			
+17	Average Gain per Passing Play (includes Sacks)	10.8			
+17	Kickoffs (Number-In End Zone-Touchbacks)	8 - 6 - 5			
+17	Punts (Number-Average)	4 - 50.0			
+17	Blocked	0			
+17	Net Punting Average	48.5			
+17	FGs Blocked - PATs Blocked	0 - 0			
+17	Total Return Yardage (excludes Kickoffs)	31			
+17	Punt Returns (Number-Yards)	2 - 6			
+17	Kickoff Returns (Number-Yards)	0 - 0			
+17	Interception Returns (Number-Yards)	2 - 25			
+17	Penalties (Number-Yards)	3 - 20			
+17	Fumbles (Number-Lost)	2 - 0			
+17	Touchdowns	4			
+17	Rushing	0			
+17	Passing	4			
+17	Interceptions	0			
+17	Kickoff Returns	0			
+17	Fumble Returns	0			
+17	Punt Returns	0			
+17	Extra Points (Made-Attempted)	4 - 4			
+17	Kicking (Made-Attempted)	4 - 4			
+17	Two Point Conversions (Made-Attempted)	0 - 0			
+17	Field Goals (Made-Attempted)	2 - 2			
+17	Red Zone Efficiency	2/5 - 40%			
+17	Goal To Go Efficiency	2/2 - 100%			
+17	Safeties	0			
+17	Final Score	34			
+17	Time of Possession	33:58			

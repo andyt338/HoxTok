@@ -45,1399 +45,1398 @@ week	Passing	CP/AT	YDS	TD	INT
 1	B. Wreh-Wilson	1-0	0.0	0	0
 1	D. Mount	0-0	0.0	1	0
 1	C. Sensabaugh	0-0	0.0	1	0
-1	Total First Downs	20
-1	By Rushing	7
-1	By Passing	11
-1	By Penalty	
-1	Third Down Efficiency	4/9 - 44%
-1	Fourth Down Efficiency	0/0 - 0%
-1	Total Net Yards	309
-1	Total Rushing/Passing Plays (includes Sacks)	49
-1	Average Gain per Offensive Play	6.3
-1	Net Yards Rushing	124
-1	Total Rushing Plays	32
-1	Average Gain per Rushing Play	3.9
-1	Tackled for a Loss (Number-Yards)	1--3
-1	Net Yards Passing	185
-1	Times Sacked (Number-Yards)	2 - 24
-1	Gross Yards Passing	209
-1	Pass Comp-Att-Int	13 - 15 - 0
-1	Average Gain per Passing Play (includes Sacks)	10.9
-1	Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 4
-1	Punts (Number-Average)	4 - 47.3
-1	Blocked	0
-1	Net Punting Average	43.0
-1	FGs Blocked - PATs Blocked	0 - 0
-1	Total Return Yardage (excludes Kickoffs)	48
-1	Punt Returns (Number-Yards)	2 - 14
-1	Kickoff Returns (Number-Yards)	1 - 17
-1	Interception Returns (Number-Yards)	2 - 34
-1	Penalties (Number-Yards)	8 - 55
-1	Fumbles (Number-Lost)	2 - 1
-1	Touchdowns	6
-1	Rushing	1
-1	Passing	4
-1	Interceptions	1
-1	Kickoff Returns	0
-1	Fumble Returns	0
-1	Punt Returns	0
-1	Extra Points (Made-Attempted)	6 - 6
-1	Kicking (Made-Attempted)	6 - 6
-1	Two Point Conversions (Made-Attempted)	0 - 0
-1	Field Goals (Made-Attempted)	0 - 0
-1	Red Zone Efficiency	4/4 - 100%
-1	Goal To Go Efficiency	3/3 - 100%
-1	Safeties	0
-1	Final Score	42
-1	Time of Possession	31:31
-
-Passing 	CP/AT 	YDS 	TD 	INT
-M. Mariota 	21/37 	257 	2 	0
-Rushing 	ATT 	YDS 	TD 	LG
-D. McCluster 	10 	98 	0 	44
-B. Sankey 	12 	42 	0 	8
-M. Mariota 	3 	19 	0 	12
-T. West 	3 	10 	0 	4
-J. Fowler 	1 	3 	0 	3
-H. Douglas 	1 	-6 	0 	-6
-Receiving 	REC 	YDS 	TD 	LG
-A. Fasano 	5 	84 	1 	33
-C. Coffman 	4 	42 	0 	16
-J. Hunter 	2 	34 	0 	20
-D. McCluster 	4 	26 	0 	13
-J. Fowler 	1 	19 	0 	19
-K. Wright 	2 	17 	0 	10
-D. Green-Beckham 	1 	13 	1 	13T
-C. Stevens 	1 	13 	0 	13
-H. Douglas 	1 	9 	0 	9
-Fumbles 	FUM 	LOST 	REC 	YDS
-M. Mariota 	3 	2 	0 	0
-T. West 	1 	1 	0 	0
-D. McCluster 	0 	0 	1 	0
-D. Morgan 	0 	0 	0 	0
-W. Woodyard 	0 	0 	0 	0
-Kicking 	FG 	LG 	XP 	PTS
-R. Succop 	0/0 	0 	2/2 	2
-Punting 	NO 	AVG 	I20 	LG
-B. Kern 	6 	24.0 	1 	55
-Kickoff Returns 	NO 	AVG 	TD 	LG
-Punt Returns 	NO 	AVG 	TD 	LG
-D. McCluster 	4 	10 	0 	16
-Defense 	T-A 	SCK 	INT 	FF
-Z. Brown 	5-2 	0.0 	0 	0
-D. Morgan 	5-1 	1.0 	0 	1
-A. Woods 	4-1 	0.0 	0 	0
-M. Griffin 	3-2 	0.0 	0 	0
-B. Orakpo 	3-1 	0.0 	0 	0
-C. Sensabaugh 	3-1 	0.0 	0 	0
-A. Williamson 	3-3 	0.0 	0 	0
-D. Searcy 	2-1 	0.0 	0 	0
-P. Cox 	1-1 	0.0 	0 	0
-D. Jones 	1-0 	0.0 	0 	0
-W. Woodyard 	1-0 	1.0 	0 	1
-R. Pitoitua 	0-1 	0.0 	0 	0
-Total First Downs	21
-By Rushing	6
-By Passing	14
-By Penalty	
-Third Down Efficiency	7/16 - 43%
-Fourth Down Efficiency	2/2 - 100%
-Total Net Yards	385
-Total Rushing/Passing Plays (includes Sacks)	74
-Average Gain per Offensive Play	5.2
-Net Yards Rushing	166
-Total Rushing Plays	30
-Average Gain per Rushing Play	5.5
-Tackled for a Loss (Number-Yards)	1--6
-Net Yards Passing	219
-Times Sacked (Number-Yards)	7 - 38
-Gross Yards Passing	257
-Pass Comp-Att-Int	21 - 37 - 0
-Average Gain per Passing Play (includes Sacks)	5.0
-Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 2
-Punts (Number-Average)	6 - 49.7
-Blocked	0
-Net Punting Average	24.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	41
-Punt Returns (Number-Yards)	4 - 41
-Kickoff Returns (Number-Yards)	0 - 0
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	9 - 85
-Fumbles (Number-Lost)	4 - 3
-Touchdowns	2
-Rushing	0
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	2/3 - 66%
-Goal To Go Efficiency	0/0 - 0%
-Safeties	0
-Final Score	14
-Time of Possession	35:11
-
-Passing	CP/AT	YDS	TD	INT
-M. Mariota	27/44	367	2	2
-Rushing	ATT	YDS	TD	LG
-A. Andrews	12	49	1	13
-K. Wright	1	13	0	13
-B. Sankey	5	10	0	8
-J. Fowler	4	9	1	3
-D. McCluster	5	7	0	10
-Receiving	REC	YDS	TD	LG
-K. Wright	7	95	1	24
-D. Walker	7	68	0	19
-D. McCluster	1	35	0	35
-B. Sankey	2	31	0	20
-J. Hunter	1	29	0	29
-C. Stevens	2	29	0	27
-A. Fasano	1	26	0	26
-D. Green-Beckham	2	22	1	19
-H. Douglas	3	20	0	10
-A. Andrews	1	12	0	12
-Fumbles	FUM	LOST	REC	YDS
-K. Klug	0	0	0	0
-Kicking	FG	LG	XP	PTS
-R. Succop	2/2	38	3/3	9
-Punting	NO	AVG	I20	LG
-B. Kern	5	42.4	2	49
-Kickoff Returns	NO	AVG	TD	LG
-Punt Returns	NO	AVG	TD	LG
-D. McCluster	3	0	0	2
-Defense	T-A	SCK	INT	FF
-P. Cox	4-0	0.0	1	0
-A. Williamson	4-4	0.0	0	0
-Z. Brown	3-2	0.0	1	0
-J. Casey	3-0	1.0	0	0
-M. Griffin	3-3	0.0	0	0
-K. Klug	3-0	1.0	0	1
-D. Searcy	3-1	0.0	0	0
-D. Jones	2-1	0.0	0	0
-C. Sensabaugh	2-2	0.0	0	0
-D. Morgan	1-0	0.0	0	0
-B. Orakpo	1-0	1.0	0	0
-D. Stafford	1-0	0.0	0	0
-B. Wreh-Wilson	1-0	0.0	0	0
-W. Woodyard	0-1	0.0	0	0
-Total First Downs	28
-By Rushing	7
-By Passing	18
-By Penalty	
-Third Down Efficiency	4/13 - 30%
-Fourth Down Efficiency	1/1 - 100%
-Total Net Yards	433
-Total Rushing/Passing Plays (includes Sacks)	74
-Average Gain per Offensive Play	5.9
-Net Yards Rushing	88
-Total Rushing Plays	27
-Average Gain per Rushing Play	3.3
-Tackled for a Loss (Number-Yards)	5--10
-Net Yards Passing	345
-Times Sacked (Number-Yards)	3 - 22
-Gross Yards Passing	367
-Pass Comp-Att-Int	27 - 44 - 2
-Average Gain per Passing Play (includes Sacks)	7.3
-Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 6
-Punts (Number-Average)	5 - 42.4
-Blocked	0
-Net Punting Average	42.4
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	71
-Punt Returns (Number-Yards)	3 - -1
-Kickoff Returns (Number-Yards)	0 - 0
-Interception Returns (Number-Yards)	2 - 72
-Penalties (Number-Yards)	6 - 55
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	4
-Rushing	2
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 4
-Kicking (Made-Attempted)	3 - 3
-Two Point Conversions (Made-Attempted)	0 - 1
-Field Goals (Made-Attempted)	2 - 2
-Red Zone Efficiency	4/6 - 66%
-Goal To Go Efficiency	4/5 - 80%
-Safeties	0
-Final Score	33
-Time of Possession	34:59
-
-week 4 bye
-
-Passing	CP/AT	YDS	TD	INT
-M. Mariota	21/32	187	0	1
-Rushing	ATT	YDS	TD	LG
-M. Mariota	5	47	0	22
-D. McCluster	8	20	0	8
-B. Sankey	7	20	0	9
-A. Andrews	7	9	1	5
-K. Wright	1	1	0	1
-Receiving	REC	YDS	TD	LG
-A. Andrews	3	45	0	23
-J. Hunter	4	38	0	14
-D. Walker	4	36	0	16
-K. Wright	3	29	0	17
-B. Sankey	3	23	0	12
-H. Douglas	2	17	0	11
-C. Stevens	1	1	0	1
-D. McCluster	1	-2	0	-2
-Fumbles	FUM	LOST	REC	YDS
-J. Fowler	0	0	0	0
-S. Johnson	0	0	1	0
-R. Pitoitua	0	0	0	0
-Kicking	FG	LG	XP	PTS
-R. Succop	2/2	41	1/1	7
-Punting	NO	AVG	I20	LG
-B. Kern	6	31.8	3	58
-Kickoff Returns	NO	AVG	TD	LG
-B. Sankey	2	16	0	25
-D. McCluster	1	20	0	20
-Punt Returns	NO	AVG	TD	LG
-D. McCluster	5	13	0	26
-Defense	T-A	SCK	INT	FF
-A. Williamson	7-2	1.0	0	0
-W. Woodyard	6-3	0.0	0	0
-J. Casey	4-2	1.5	0	0
-Z. Brown	2-1	0.0	0	0
-P. Cox	2-0	0.0	0	0
-M. Griffin	2-4	0.0	0	0
-J. McCourty	1-0	0.0	0	0
-D. Morgan	1-2	1.5	0	0
-B. Orakpo	1-0	0.0	0	0
-R. Pitoitua	1-0	0.0	0	1
-D. Searcy	1-0	0.0	0	0
-C. Sensabaugh	1-0	0.0	0	0
-A. Woods	1-0	0.0	0	0
-D. Jones	0-2	0.0	0	0
-Total First Downs	17
-By Rushing	4
-By Passing	10
-By Penalty	
-Third Down Efficiency	5/13 - 38%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	276
-Total Rushing/Passing Plays (includes Sacks)	62
-Average Gain per Offensive Play	4.5
-Net Yards Rushing	97
-Total Rushing Plays	28
-Average Gain per Rushing Play	3.5
-Tackled for a Loss (Number-Yards)	3--3
-Net Yards Passing	179
-Times Sacked (Number-Yards)	2 - 8
-Gross Yards Passing	187
-Pass Comp-Att-Int	21 - 32 - 1
-Average Gain per Passing Play (includes Sacks)	5.3
-Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 3
-Punts (Number-Average)	6 - 41.8
-Blocked	0
-Net Punting Average	31.8
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	66
-Punt Returns (Number-Yards)	5 - 66
-Kickoff Returns (Number-Yards)	3 - 53
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	9 - 74
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	1
-Rushing	1
-Passing	0
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	1 - 1
-Kicking (Made-Attempted)	1 - 1
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 2
-Red Zone Efficiency	1/2 - 50%
-Goal To Go Efficiency	1/1 - 100%
-Safeties	0
-Final Score	13
-Time of Possession	35:31
-
-Passing	CP/AT	YDS	TD	INT
-M. Mariota	21/33	219	1	2
-Z. Mettenberger	5/8	63	0	0
-Rushing	ATT	YDS	TD	LG
-A. Andrews	9	23	0	8
-D. McCluster	5	23	0	16
-B. Sankey	3	13	0	9
-Z. Mettenberger	1	4	0	4
-Receiving	REC	YDS	TD	LG
-D. Walker	8	97	0	25
-D. Green-Beckham	3	57	0	32
-J. Hunter	3	54	0	23
-K. Wright	4	34	0	16
-D. McCluster	3	19	1	14
-H. Douglas	1	11	0	11
-B. Sankey	1	7	0	7
-A. Andrews	1	2	0	2
-A. Fasano	2	1	0	10
-Fumbles	FUM	LOST	REC	YDS
-M. Mariota	2	2	0	0
-Kicking	FG	LG	XP	PTS
-R. Succop	1/1	37	1/1	4
-Punting	NO	AVG	I20	LG
-B. Kern	3	39.7	2	61
-Kickoff Returns	NO	AVG	TD	LG
-B. Sankey	3	26	0	34
-Punt Returns	NO	AVG	TD	LG
-D. McCluster	1	14	0	14
-Defense	T-A	SCK	INT	FF
-Z. Brown	8-4	0.0	0	0
-D. Searcy	8-0	0.0	0	0
-W. Woodyard	7-2	1.0	0	0
-B. Orakpo	4-0	1.0	0	0
-J. Casey	3-1	0.0	0	0
-D. Morgan	3-1	0.0	0	0
-A. Woods	3-0	0.0	0	0
-B. Wreh-Wilson	3-0	0.0	0	0
-M. Griffin	2-2	0.0	1	0
-D. Bass	1-0	0.0	0	0
-D. Jones	1-1	0.0	0	0
-C. Sensabaugh	1-1	0.0	1	0
-J. McCourty	0-2	0.0	0	0
-Total First Downs	22
-By Rushing	4
-By Passing	15
-By Penalty	
-Third Down Efficiency	2/10 - 20%
-Fourth Down Efficiency	1/2 - 50%
-Total Net Yards	299
-Total Rushing/Passing Plays (includes Sacks)	65
-Average Gain per Offensive Play	4.6
-Net Yards Rushing	63
-Total Rushing Plays	18
-Average Gain per Rushing Play	3.5
-Tackled for a Loss (Number-Yards)	3--10
-Net Yards Passing	236
-Times Sacked (Number-Yards)	6 - 46
-Gross Yards Passing	282
-Pass Comp-Att-Int	26 - 41 - 2
-Average Gain per Passing Play (includes Sacks)	5.0
-Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 1
-Punts (Number-Average)	3 - 41.7
-Blocked	0
-Net Punting Average	39.7
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	59
-Punt Returns (Number-Yards)	1 - 14
-Kickoff Returns (Number-Yards)	3 - 79
-Interception Returns (Number-Yards)	2 - 45
-Penalties (Number-Yards)	7 - 50
-Fumbles (Number-Lost)	2 - 2
-Touchdowns	1
-Rushing	0
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	1 - 1
-Kicking (Made-Attempted)	1 - 1
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	1/3 - 33%
-Goal To Go Efficiency	1/1 - 100%
-Safeties	0
-Final Score	10
-Time of Possession	28:07
-
-Passing	CP/AT	YDS	TD	INT
-Z. Mettenberger	22/35	187	1	2
-Rushing	ATT	YDS	TD	LG
-A. Andrews	10	57	0	17
-D. McCluster	5	20	0	6
-Z. Mettenberger	1	0	0	0
-Receiving	REC	YDS	TD	LG
-D. Walker	7	55	0	12
-D. McCluster	6	48	0	14
-K. Wright	4	46	1	19T
-A. Fasano	3	21	0	8
-J. Hunter	2	17	0	13
-Fumbles	FUM	LOST	REC	YDS
-Z. Mettenberger	1	0	1	-6
-Kicking	FG	LG	XP	PTS
-R. Succop	0/0	0	1/1	1
-Punting	NO	AVG	I20	LG
-B. Kern	7	41.9	5	54
-Kickoff Returns	NO	AVG	TD	LG
-B. Sankey	1	27	0	27
-Punt Returns	NO	AVG	TD	LG
-D. McCluster	0	0	0	0
-Defense	T-A	SCK	INT	FF
-W. Woodyard	6-3	0.0	0	0
-Z. Brown	5-0	0.0	0	0
-C. Sensabaugh	5-1	0.0	0	0
-J. McCourty	4-1	0.0	0	0
-B. Orakpo	4-1	0.0	0	0
-D. Searcy	4-1	0.0	0	0
-A. Williamson	4-1	0.0	1	0
-J. Casey	3-0	0.0	0	0
-B. Wreh-Wilson	3-0	0.0	0	0
-D. Stafford	2-0	0.0	0	0
-D. Jones	1-1	0.0	0	0
-D. Morgan	1-0	0.0	0	0
-A. Woods	1-0	0.0	0	0
-D. Bass	0-0	0.0	1	0
-K. Klug	0-1	0.0	0	0
-Total First Downs	15
-By Rushing	5
-By Passing	10
-By Penalty	
-Third Down Efficiency	1/9 - 11%
-Fourth Down Efficiency	0/1 - 0%
-Total Net Yards	256
-Total Rushing/Passing Plays (includes Sacks)	52
-Average Gain per Offensive Play	4.9
-Net Yards Rushing	77
-Total Rushing Plays	16
-Average Gain per Rushing Play	4.8
-Tackled for a Loss (Number-Yards)	2--2
-Net Yards Passing	179
-Times Sacked (Number-Yards)	1 - 8
-Gross Yards Passing	187
-Pass Comp-Att-Int	22 - 35 - 2
-Average Gain per Passing Play (includes Sacks)	5.0
-Kickoffs (Number-In End Zone-Touchbacks)	2 - 1 - 1
-Punts (Number-Average)	7 - 43.6
-Blocked	0
-Net Punting Average	41.9
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	8
-Punt Returns (Number-Yards)	0 - 0
-Kickoff Returns (Number-Yards)	1 - 27
-Interception Returns (Number-Yards)	2 - 8
-Penalties (Number-Yards)	5 - 45
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	1
-Rushing	0
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	1 - 1
-Kicking (Made-Attempted)	1 - 1
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	1/2 - 50%
-Goal To Go Efficiency	0/1 - 0%
-Safeties	0
-Final Score	7
-Time of Possession	25:15
-
-Passing	CP/AT	YDS	TD	INT
-Z. Mettenberger	22/31	171	0	1
-Rushing	ATT	YDS	TD	LG
-A. Andrews	16	64	0	28
-D. McCluster	3	15	0	7
-K. Wright	1	7	0	7
-Receiving	REC	YDS	TD	LG
-D. Walker	6	62	0	15
-D. McCluster	4	23	0	9
-K. Wright	4	21	0	18
-A. Andrews	3	18	0	10
-J. Hunter	2	17	0	10
-D. Green-Beckham	1	12	0	12
-A. Fasano	1	9	0	9
-C. Stevens	1	9	0	9
-Fumbles	FUM	LOST	REC	YDS
-Z. Mettenberger	1	1	0	0
-B. Sankey	1	1	0	0
-Kicking	FG	LG	XP	PTS
-R. Succop	2/2	44	0/0	6
-Punting	NO	AVG	I20	LG
-B. Kern	7	45.9	3	60
-Kickoff Returns	NO	AVG	TD	LG
-D. McCluster	2	30	0	32
-B. Sankey	2	18	0	23
-Punt Returns	NO	AVG	TD	LG
-D. McCluster	5	12	0	37
-Defense	T-A	SCK	INT	FF
-W. Woodyard	7-0	0.0	0	0
-M. Griffin	6-3	0.0	0	0
-J. McCourty	5-2	0.0	0	0
-J. Casey	4-1	0.5	0	0
-B. Orakpo	2-0	1.0	0	0
-C. Sensabaugh	2-3	0.0	0	0
-Z. Brown	1-6	0.5	0	0
-S. Hill	1-0	0.0	0	0
-D. Jones	1-2	0.0	0	0
-K. Klug	1-0	1.0	0	0
-D. Morgan	1-1	0.0	0	0
-D. Searcy	1-2	0.0	0	0
-D. Stafford	1-0	0.0	0	0
-A. Williamson	1-0	0.0	0	0
-B. Wreh-Wilson	1-1	0.0	0	0
-A. Blackson	0-1	0.0	0	0
-Total First Downs	15
-By Rushing	3
-By Passing	9
-By Penalty	
-Third Down Efficiency	1/12 - 8%
-Fourth Down Efficiency	0/1 - 0%
-Total Net Yards	211
-Total Rushing/Passing Plays (includes Sacks)	58
-Average Gain per Offensive Play	3.6
-Net Yards Rushing	86
-Total Rushing Plays	20
-Average Gain per Rushing Play	4.3
-Tackled for a Loss (Number-Yards)	2--3
-Net Yards Passing	125
-Times Sacked (Number-Yards)	7 - 46
-Gross Yards Passing	171
-Pass Comp-Att-Int	22 - 31 - 1
-Average Gain per Passing Play (includes Sacks)	3.3
-Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 2
-Punts (Number-Average)	7 - 49.9
-Blocked	0
-Net Punting Average	45.9
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	63
-Punt Returns (Number-Yards)	5 - 63
-Kickoff Returns (Number-Yards)	4 - 97
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	6 - 45
-Fumbles (Number-Lost)	2 - 2
-Touchdowns	0
-Rushing	0
-Passing	0
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	0 - 0
-Kicking (Made-Attempted)	0 - 0
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 2
-Red Zone Efficiency	0/1 - 0%
-Goal To Go Efficiency	0/0 - 0%
-Safeties	0
-Final Score	6
-Time of Possession	31:08
-
-Passing	CP/AT	YDS	TD	INT
-M. Mariota	28/39	371	4	0
-Rushing	ATT	YDS	TD	LG
-A. Andrews	19	88	0	38
-D. McCluster	8	19	0	5
-M. Mariota	1	5	0	5
-Receiving	REC	YDS	TD	LG
-D. Walker	7	95	2	61T
-D. Green-Beckham	5	77	0	20
-H. Douglas	5	73	0	30
-A. Fasano	3	33	1	23
-D. McCluster	2	28	0	21
-C. Stevens	2	25	0	24
-A. Andrews	1	23	0	23
-J. Hunter	3	17	1	8T
-Fumbles	FUM	LOST	REC	YDS
-A. Gallik	1	0	0	0
-D. McCluster	1	1	0	0
-S. Johnson	0	0	1	0
-M. Mariota	0	0	1	0
-C. Riggs	0	0	0	0
-Kicking	FG	LG	XP	PTS
-R. Succop	2/3	51	2/2	8
-Punting	NO	AVG	I20	LG
-B. Kern	5	46.4	2	56
-Kickoff Returns	NO	AVG	TD	LG
-D. McCluster	4	24	0	32
-Punt Returns	NO	AVG	TD	LG
-D. McCluster	2	6	0	7
-Defense	T-A	SCK	INT	FF
-M. Griffin	6-2	0.0	0	0
-W. Woodyard	6-2	1.0	0	0
-Z. Brown	5-1	0.0	0	0
-B. Webb	5-0	0.0	1	0
-A. Williamson	4-3	0.0	0	0
-D. Jones	3-2	0.0	0	0
-B. Orakpo	3-1	2.0	0	0
-C. Riggs	3-0	0.0	0	0
-D. Searcy	2-1	0.0	0	0
-C. Sensabaugh	2-2	0.0	0	0
-D. Bass	1-0	0.0	0	0
-A. Blackson	1-2	1.0	0	0
-J. Casey	1-0	0.0	0	0
-P. Cox	1-1	0.0	0	0
-A. Woods	1-1	0.0	0	0
-Total First Downs	25
-By Rushing	3
-By Passing	19
-By Penalty	
-Third Down Efficiency	5/13 - 38%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	483
-Total Rushing/Passing Plays (includes Sacks)	67
-Average Gain per Offensive Play	7.2
-Net Yards Rushing	112
-Total Rushing Plays	28
-Average Gain per Rushing Play	4.0
-Tackled for a Loss (Number-Yards)	4--4
-Net Yards Passing	371
-Times Sacked (Number-Yards)	0 - 0
-Gross Yards Passing	371
-Pass Comp-Att-Int	28 - 39 - 0
-Average Gain per Passing Play (includes Sacks)	9.5
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 3
-Punts (Number-Average)	5 - 50.6
-Blocked	0
-Net Punting Average	46.4
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	12
-Punt Returns (Number-Yards)	2 - 12
-Kickoff Returns (Number-Yards)	4 - 96
-Interception Returns (Number-Yards)	1 - 0
-Penalties (Number-Yards)	9 - 66
-Fumbles (Number-Lost)	2 - 1
-Touchdowns	4
-Rushing	0
-Passing	4
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 3
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	1 - 1
-Field Goals (Made-Attempted)	2 - 3
-Red Zone Efficiency	3/5 - 60%
-Goal To Go Efficiency	3/3 - 100%
-Safeties	0
-Final Score	34
-Time of Possession	32:21
-
-Passing	CP/AT	YDS	TD	INT
-M. Mariota	16/24	185	0	1
-Rushing	ATT	YDS	TD	LG
-D. McCluster	3	25	1	25T
-M. Mariota	5	24	0	10
-A. Andrews	11	8	0	6
-B. Sankey	2	7	0	5
-Receiving	REC	YDS	TD	LG
-D. Walker	3	52	0	21
-J. Hunter	4	47	0	24
-D. McCluster	4	27	0	14
-H. Douglas	3	26	0	19
-A. Fasano	1	19	0	19
-J. Fowler	1	14	0	14
-Fumbles	FUM	LOST	REC	YDS
-M. Mariota	2	0	1	-10
-D. McCluster	1	1	1	0
-Kicking	FG	LG	XP	PTS
-R. Succop	1/1	45	1/1	4
-Punting	NO	AVG	I20	LG
-B. Kern	5	39.6	0	56
-Kickoff Returns	NO	AVG	TD	LG
-D. McCluster	5	17	0	20
-Punt Returns	NO	AVG	TD	LG
-D. McCluster	0	0	0	0
-Defense	T-A	SCK	INT	FF
-A. Williamson	7-7	0.5	0	0
-B. Orakpo	5-1	1.0	0	0
-M. Griffin	4-2	1.0	0	0
-D. Searcy	4-0	0.0	0	0
-W. Woodyard	4-4	1.0	0	0
-B. Webb	3-1	0.0	0	0
-A. Woods	3-2	0.0	0	0
-Z. Brown	2-0	0.0	0	0
-C. Sensabaugh	2-0	0.0	0	0
-B. Wreh-Wilson	2-0	0.0	0	0
-D. Bass	1-1	0.5	0	0
-J. Casey	1-0	0.0	0	0
-S. Hill	1-0	0.0	0	0
-D. Jones	1-0	0.0	0	0
-D. Morgan	1-1	0.0	0	0
-C. Riggs	1-0	0.0	0	0
-D. Stafford	1-1	1.0	0	0
-Total First Downs	11
-By Rushing	3
-By Passing	8
-By Penalty	
-Third Down Efficiency	5/12 - 41%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	242
-Total Rushing/Passing Plays (includes Sacks)	46
-Average Gain per Offensive Play	5.3
-Net Yards Rushing	64
-Total Rushing Plays	21
-Average Gain per Rushing Play	3.0
-Tackled for a Loss (Number-Yards)	6--8
-Net Yards Passing	178
-Times Sacked (Number-Yards)	1 - 7
-Gross Yards Passing	185
-Pass Comp-Att-Int	16 - 24 - 1
-Average Gain per Passing Play (includes Sacks)	7.1
-Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 2
-Punts (Number-Average)	5 - 51.8
-Blocked	0
-Net Punting Average	39.6
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	0
-Punt Returns (Number-Yards)	0 - 0
-Kickoff Returns (Number-Yards)	5 - 86
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	4 - 30
-Fumbles (Number-Lost)	3 - 1
-Touchdowns	1
-Rushing	1
-Passing	0
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	1 - 1
-Kicking (Made-Attempted)	1 - 1
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	0/0 - 0%
-Goal To Go Efficiency	0/0 - 0%
-Safeties	0
-Final Score	10
-Time of Possession	24:05
-
-Passing	CP/AT	YDS	TD	INT
-M. Mariota	22/35	231	0	0
-Rushing	ATT	YDS	TD	LG
-A. Andrews	15	78	0	26
-M. Mariota	5	29	1	23T
-D. McCluster	2	0	0	4
-D. Cobb	4	-3	0	2
-Receiving	REC	YDS	TD	LG
-D. Walker	8	109	0	29
-D. Green-Beckham	3	40	0	17
-D. McCluster	2	18	0	9
-A. Andrews	2	16	0	13
-H. Douglas	2	16	0	9
-P. Supernaw	2	16	0	8
-A. Fasano	2	14	0	8
-J. Fowler	1	2	0	2
-Fumbles	FUM	LOST	REC	YDS
-P. Supernaw	1	1	0	0
-D. Bass	0	0	1	0
-B. Orakpo	0	0	0	0
-Kicking	FG	LG	XP	PTS
-R. Succop	2/3	49	1/1	7
-Punting	NO	AVG	I20	LG
-B. Kern	5	30.0	2	56
-Kickoff Returns	NO	AVG	TD	LG
-D. McCluster	1	22	0	22
-Punt Returns	NO	AVG	TD	LG
-H. Douglas	2	4	0	9
-D. McCluster	1	6	0	6
-Defense	T-A	SCK	INT	FF
-C. Sensabaugh	6-0	0.0	0	0
-W. Woodyard	4-2	1.0	0	0
-D. Bass	3-0	0.0	0	0
-P. Cox	3-0	0.0	0	0
-M. Griffin	3-2	0.0	0	0
-S. Hill	3-1	0.0	0	0
-D. Searcy	3-0	0.0	0	0
-A. Williamson	3-2	1.0	0	0
-Z. Brown	2-0	0.0	1	0
-B. Orakpo	2-0	1.0	0	1
-C. Riggs	2-0	0.0	0	0
-A. Blackson	1-0	0.0	0	0
-J. Casey	1-0	1.0	0	0
-D. Jones	1-1	0.0	0	0
-K. Klug	1-0	0.0	0	0
-R. Pitoitua	1-0	0.0	0	0
-D. Stafford	1-0	0.0	0	0
-Total First Downs	22
-By Rushing	4
-By Passing	13
-By Penalty	
-Third Down Efficiency	5/13 - 38%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	316
-Total Rushing/Passing Plays (includes Sacks)	65
-Average Gain per Offensive Play	4.9
-Net Yards Rushing	104
-Total Rushing Plays	26
-Average Gain per Rushing Play	4.0
-Tackled for a Loss (Number-Yards)	5--12
-Net Yards Passing	212
-Times Sacked (Number-Yards)	4 - 19
-Gross Yards Passing	231
-Pass Comp-Att-Int	22 - 35 - 0
-Average Gain per Passing Play (includes Sacks)	5.4
-Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 4
-Punts (Number-Average)	5 - 45.2
-Blocked	0
-Net Punting Average	30.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	15
-Punt Returns (Number-Yards)	3 - 15
-Kickoff Returns (Number-Yards)	1 - 22
-Interception Returns (Number-Yards)	1 - 0
-Penalties (Number-Yards)	6 - 59
-Fumbles (Number-Lost)	1 - 1
-Touchdowns	1
-Rushing	1
-Passing	0
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	1 - 1
-Kicking (Made-Attempted)	1 - 1
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 3
-Red Zone Efficiency	0/0 - 0%
-Goal To Go Efficiency	0/0 - 0%
-Safeties	0
-Final Score	13
-Time of Possession	31:35
-
-Passing	CP/AT	YDS	TD	INT
-M. Mariota	17/37	218	3	2
-Rushing	ATT	YDS	TD	LG
-A. Andrews	11	32	0	11
-D. Cobb	3	8	0	3
-M. Mariota	1	7	0	7
-J. Fowler	1	1	0	1
-K. Wright	2	-4	0	0
-Receiving	REC	YDS	TD	LG
-D. Walker	6	91	0	36
-H. Douglas	3	29	1	13T
-A. Fasano	2	22	0	17
-D. Green-Beckham	1	22	0	22
-C. Stevens	1	20	1	20T
-K. Wright	2	19	0	12
-A. Andrews	1	14	0	14
-J. Fowler	1	1	1	1T
-Fumbles	FUM	LOST	REC	YDS
-D. Jones	0	0	1	0
-T. McBride	0	0	0	0
-D. Stafford	0	0	1	0
-Kicking	FG	LG	XP	PTS
-R. Succop	0/0	0	1/2	1
-Punting	NO	AVG	I20	LG
-B. Kern	6	39.7	1	60
-Kickoff Returns	NO	AVG	TD	LG
-T. McBride	1	31	0	31
-Punt Returns	NO	AVG	TD	LG
-H. Douglas	1	5	0	5
-Defense	T-A	SCK	INT	FF
-A. Williamson	7-4	1.0	0	0
-M. Griffin	5-3	0.0	0	0
-P. Cox	4-1	0.0	0	0
-B. Wreh-Wilson	4-0	0.0	0	0
-D. Searcy	3-2	0.0	0	0
-B. Orakpo	2-2	0.0	0	0
-D. Stafford	2-1	0.0	0	0
-D. Bass	1-0	0.0	0	0
-A. Blackson	1-0	0.0	0	0
-Z. Brown	1-0	0.0	0	0
-J. Casey	1-5	0.0	0	0
-S. Hill	1-2	0.0	0	0
-D. Jones	1-0	0.0	0	0
-C. Sensabaugh	1-0	0.0	0	0
-W. Woodyard	1-4	0.0	0	0
-Total First Downs	19
-By Rushing	3
-By Passing	10
-By Penalty	
-Third Down Efficiency	3/12 - 25%
-Fourth Down Efficiency	0/1 - 0%
-Total Net Yards	249
-Total Rushing/Passing Plays (includes Sacks)	57
-Average Gain per Offensive Play	4.4
-Net Yards Rushing	44
-Total Rushing Plays	18
-Average Gain per Rushing Play	2.4
-Tackled for a Loss (Number-Yards)	2--5
-Net Yards Passing	205
-Times Sacked (Number-Yards)	2 - 13
-Gross Yards Passing	218
-Pass Comp-Att-Int	17 - 37 - 2
-Average Gain per Passing Play (includes Sacks)	5.3
-Kickoffs (Number-In End Zone-Touchbacks)	4 - 2 - 0
-Punts (Number-Average)	6 - 47.8
-Blocked	0
-Net Punting Average	39.7
-FGs Blocked - PATs Blocked	0 - 1
-Total Return Yardage (excludes Kickoffs)	5
-Punt Returns (Number-Yards)	1 - 5
-Kickoff Returns (Number-Yards)	1 - 31
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	4 - 25
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	3
-Rushing	0
-Passing	3
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 3
-Kicking (Made-Attempted)	1 - 2
-Two Point Conversions (Made-Attempted)	1 - 1
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	2/3 - 66%
-Goal To Go Efficiency	1/1 - 100%
-Safeties	0
-Final Score	21
-Time of Possession	25:05
-
-Passing	CP/AT	YDS	TD	INT
-M. Mariota	20/29	268	3	1
-Rushing	ATT	YDS	TD	LG
-M. Mariota	9	112	1	87T
-A. Andrews	13	58	1	22
-D. Cobb	13	40	0	10
-Receiving	REC	YDS	TD	LG
-D. Green-Beckham	5	119	1	47T
-D. Walker	8	92	1	29
-K. Wright	3	28	0	10
-C. Stevens	2	11	1	10T
-A. Andrews	1	10	0	10
-H. Douglas	1	8	0	8
-Fumbles	FUM	LOST	REC	YDS
-M. Mariota	1	1	0	0
-W. Woodyard	0	0	1	3
-Kicking	FG	LG	XP	PTS
-R. Succop	0/0	0	6/6	6
-Punting	NO	AVG	I20	LG
-B. Kern	3	38.3	1	51
-Kickoff Returns	NO	AVG	TD	LG
-T. McBride	4	20	0	30
-Punt Returns	NO	AVG	TD	LG
-P. Cox	2	5	0	9
-Defense	T-A	SCK	INT	FF
-M. Griffin	7-2	0.0	0	0
-B. Orakpo	3-1	0.0	0	0
-D. Searcy	3-1	0.5	0	0
-C. Sensabaugh	3-0	0.0	0	0
-D. Bass	2-1	0.0	0	0
-P. Cox	2-0	0.0	0	0
-A. Williamson	2-4	0.0	0	0
-J. Casey	1-2	1.0	0	0
-K. Klug	1-1	0.5	0	0
-B. Webb	1-0	0.0	0	0
-B. Wreh-Wilson	1-0	0.0	0	0
-Z. Brown	0-1	0.0	0	0
-S. Hill	0-2	0.0	0	0
-D. Jones	0-3	0.0	0	0
-A. Woods	0-2	0.0	0	0
-W. Woodyard	0-2	0.0	0	0
-Total First Downs	26
-By Rushing	9
-By Passing	13
-By Penalty	
-Third Down Efficiency	8/13 - 61%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	467
-Total Rushing/Passing Plays (includes Sacks)	68
-Average Gain per Offensive Play	6.9
-Net Yards Rushing	210
-Total Rushing Plays	35
-Average Gain per Rushing Play	6.0
-Tackled for a Loss (Number-Yards)	7--12
-Net Yards Passing	257
-Times Sacked (Number-Yards)	4 - 11
-Gross Yards Passing	268
-Pass Comp-Att-Int	20 - 29 - 1
-Average Gain per Passing Play (includes Sacks)	7.8
-Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 4
-Punts (Number-Average)	3 - 44.3
-Blocked	0
-Net Punting Average	38.3
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	11
-Punt Returns (Number-Yards)	2 - 11
-Kickoff Returns (Number-Yards)	4 - 80
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	4 - 38
-Fumbles (Number-Lost)	1 - 1
-Touchdowns	6
-Rushing	2
-Passing	3
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	1
-Punt Returns	0
-Extra Points (Made-Attempted)	6 - 6
-Kicking (Made-Attempted)	6 - 6
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	3/4 - 75%
-Goal To Go Efficiency	2/3 - 66%
-Safeties	0
-Final Score	42
-Time of Possession	33:34
-
-Passing	CP/AT	YDS	TD	INT
-M. Mariota	21/39	274	0	1
-A. Andrews	1/1	41	1	0
-Rushing	ATT	YDS	TD	LG
-D. McCluster	4	12	0	8
-A. Andrews	4	8	0	4
-M. Mariota	3	3	0	3
-D. Cobb	2	1	0	3
-Receiving	REC	YDS	TD	LG
-D. Walker	7	71	0	16
-H. Douglas	3	65	0	51
-D. Green-Beckham	3	53	0	27
-M. Mariota	1	41	1	41T
-D. McCluster	4	38	0	28
-A. Turzilli	2	25	0	18
-P. Supernaw	1	16	0	16
-A. Andrews	1	6	0	6
-Fumbles	FUM	LOST	REC	YDS
-M. Mariota	1	0	1	0
-Kicking	FG	LG	XP	PTS
-Punting	NO	AVG	I20	LG
-B. Kern	6	42.8	1	55
-Kickoff Returns	NO	AVG	TD	LG
-T. McBride	3	15	0	18
-Punt Returns	NO	AVG	TD	LG
-D. McCluster	1	2	0	2
-Defense	T-A	SCK	INT	FF
-B. Webb	7-1	0.0	0	0
-C. Sensabaugh	5-2	0.0	0	0
-M. Griffin	4-3	0.0	0	0
-W. Woodyard	4-2	0.0	0	0
-Z. Brown	3-2	0.0	0	0
-P. Cox	3-1	0.0	0	0
-K. Klug	3-0	1.0	0	0
-J. Casey	2-5	0.0	0	0
-M. Huff	1-0	0.0	0	0
-D. Jones	1-1	0.0	0	0
-D. Searcy	1-0	0.0	0	0
-D. Stafford	1-1	0.0	0	0
-J. Tavai	1-0	0.0	0	0
-A. Williamson	1-2	0.0	0	0
-D. Bass	0-4	0.0	0	0
-A. Blackson	0-2	0.0	0	0
-B. Orakpo	0-2	0.0	0	0
-Total First Downs	15
-By Rushing	0
-By Passing	14
-By Penalty	
-Third Down Efficiency	3/14 - 21%
-Fourth Down Efficiency	1/3 - 33%
-Total Net Yards	292
-Total Rushing/Passing Plays (includes Sacks)	58
-Average Gain per Offensive Play	5.0
-Net Yards Rushing	24
-Total Rushing Plays	13
-Average Gain per Rushing Play	1.8
-Tackled for a Loss (Number-Yards)	2--4
-Net Yards Passing	268
-Times Sacked (Number-Yards)	5 - 47
-Gross Yards Passing	315
-Pass Comp-Att-Int	22 - 40 - 1
-Average Gain per Passing Play (includes Sacks)	6.0
-Kickoffs (Number-In End Zone-Touchbacks)	2 - 2 - 2
-Punts (Number-Average)	6 - 48.2
-Blocked	0
-Net Punting Average	42.8
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	2
-Punt Returns (Number-Yards)	1 - 2
-Kickoff Returns (Number-Yards)	3 - 47
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	3 - 20
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	1
-Rushing	0
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	1 - 1
-Kicking (Made-Attempted)	0 - 0
-Two Point Conversions (Made-Attempted)	1 - 1
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	0/1 - 0%
-Goal To Go Efficiency	0/0 - 0%
-Safeties	0
-Final Score	8
-Time of Possession	24:04
-
-Passing	CP/AT	YDS	TD	INT
-Z. Mettenberger	20/28	242	2	2
-M. Mariota	3/6	32	0	0
-Rushing	ATT	YDS	TD	LG
-A. Andrews	14	45	0	8
-D. Cobb	4	9	0	4
-Z. Mettenberger	2	5	0	5
-J. Fowler	1	0	0	0
-Receiving	REC	YDS	TD	LG
-D. Green-Beckham	6	113	0	30
-D. Walker	2	64	2	57T
-A. Andrews	5	25	0	9
-B. Sankey	3	23	0	15
-A. Fasano	3	21	0	8
-H. Douglas	2	15	0	10
-J. Fowler	1	8	0	8
-C. Stevens	1	5	0	5
-Fumbles	FUM	LOST	REC	YDS
-M. Mariota	1	1	0	0
-Z. Mettenberger	1	0	0	0
-D. Cobb	0	0	1	0
-C. Riggs	0	0	1	0
-P. Supernaw	0	0	0	0
-Kicking	FG	LG	XP	PTS
-R. Succop	1/1	49	1/2	4
-Punting	NO	AVG	I20	LG
-B. Kern	5	47.2	1	61
-Kickoff Returns	NO	AVG	TD	LG
-A. Andrews	1	13	0	13
-T. McBride	1	11	0	11
-Punt Returns	NO	AVG	TD	LG
-P. Cox	1	6	0	6
-H. Douglas	1	18	0	18
-Defense	T-A	SCK	INT	FF
-A. Williamson	5-4	0.0	0	0
-D. Bass	4-1	0.0	0	0
-M. Griffin	4-2	0.0	0	0
-B. Orakpo	4-0	0.0	0	0
-D. Stafford	4-1	0.0	0	0
-C. Sensabaugh	3-2	0.0	0	0
-J. Casey	2-1	1.0	0	0
-M. Huff	2-1	0.0	0	0
-K. Klug	2-3	0.5	0	0
-W. Woodyard	2-3	0.0	0	0
-Z. Brown	1-1	0.0	0	0
-P. Cox	1-0	0.0	0	0
-D. Jones	1-3	0.0	0	0
-B. Webb	1-0	0.0	0	0
-A. Blackson	0-1	0.5	0	0
-A. Woods	0-1	0.0	0	0
-Total First Downs	15
-By Rushing	3
-By Passing	11
-By Penalty	
-Third Down Efficiency	3/12 - 25%
-Fourth Down Efficiency	0/1 - 0%
-Total Net Yards	282
-Total Rushing/Passing Plays (includes Sacks)	60
-Average Gain per Offensive Play	4.7
-Net Yards Rushing	59
-Total Rushing Plays	21
-Average Gain per Rushing Play	2.8
-Tackled for a Loss (Number-Yards)	0-0
-Net Yards Passing	223
-Times Sacked (Number-Yards)	5 - 51
-Gross Yards Passing	274
-Pass Comp-Att-Int	23 - 34 - 2
-Average Gain per Passing Play (includes Sacks)	5.7
-Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 3
-Punts (Number-Average)	5 - 54.4
-Blocked	0
-Net Punting Average	47.2
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	24
-Punt Returns (Number-Yards)	2 - 24
-Kickoff Returns (Number-Yards)	2 - 24
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	3 - 29
-Fumbles (Number-Lost)	2 - 1
-Touchdowns	2
-Rushing	0
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	1 - 2
-Kicking (Made-Attempted)	1 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	1/1 - 100%
-Goal To Go Efficiency	0/0 - 0%
-Safeties	0
-Final Score	16
-Time of Possession	30:23
-
-Passing	CP/AT	YDS	TD	INT
-Z. Mettenberger	27/51	234	1	1
-Rushing	ATT	YDS	TD	LG
-D. Cobb	7	18	0	9
-B. Sankey	2	11	0	7
-A. Andrews	2	1	0	1
-Receiving	REC	YDS	TD	LG
-H. Douglas	6	79	0	31
-D. Walker	9	59	0	21
-B. Sankey	3	43	0	30
-A. Fasano	2	21	0	12
-K. Wright	3	18	0	7
-T. McBride	2	8	1	7
-C. Stevens	1	8	0	8
-D. Cobb	1	-2	0	-2
-Fumbles	FUM	LOST	REC	YDS
-A. Andrews	1	1	0	0
-H. Douglas	1	1	0	0
-Z. Mettenberger	1	1	0	0
-D. Bass	0	0	1	0
-J. Tavai	0	0	0	0
-Kicking	FG	LG	XP	PTS
-Punting	NO	AVG	I20	LG
-B. Kern	9	43.3	7	60
-Kickoff Returns	NO	AVG	TD	LG
-T. McBride	1	21	0	21
-Punt Returns	NO	AVG	TD	LG
-H. Douglas	5	6	0	18
-Defense	T-A	SCK	INT	FF
-M. Griffin	9-2	0.0	0	0
-A. Williamson	5-2	0.0	0	0
-D. Bass	4-1	0.0	0	0
-Z. Brown	4-0	0.0	0	0
-J. Casey	4-2	0.0	0	0
-D. Jones	3-2	0.0	0	0
-D. Searcy	3-1	0.0	0	0
-A. Blackson	2-0	0.0	0	0
-P. Cox	2-0	0.0	0	0
-B. Orakpo	2-2	0.0	0	0
-K. Klug	1-0	0.0	0	0
-C. Sensabaugh	1-0	0.0	0	0
-J. Tavai	1-0	1.0	0	1
-S. Hill	0-1	0.0	0	0
-A. Woods	0-1	0.0	0	0
-W. Woodyard	0-2	0.0	0	0
-Total First Downs	13
-By Rushing	1
-By Passing	12
-By Penalty	
-Third Down Efficiency	4/16 - 25%
-Fourth Down Efficiency	1/1 - 100%
-Total Net Yards	257
-Total Rushing/Passing Plays (includes Sacks)	63
-Average Gain per Offensive Play	4.1
-Net Yards Rushing	30
-Total Rushing Plays	11
-Average Gain per Rushing Play	2.7
-Tackled for a Loss (Number-Yards)	2--2
-Net Yards Passing	227
-Times Sacked (Number-Yards)	1 - 7
-Gross Yards Passing	234
-Pass Comp-Att-Int	27 - 51 - 1
-Average Gain per Passing Play (includes Sacks)	4.4
-Kickoffs (Number-In End Zone-Touchbacks)	2 - 2 - 2
-Punts (Number-Average)	9 - 47.4
-Blocked	0
-Net Punting Average	43.3
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	32
-Punt Returns (Number-Yards)	5 - 32
-Kickoff Returns (Number-Yards)	1 - 21
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	4 - 43
-Fumbles (Number-Lost)	3 - 3
-Touchdowns	1
-Rushing	0
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	0 - 1
-Kicking (Made-Attempted)	0 - 0
-Two Point Conversions (Made-Attempted)	0 - 1
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	1/2 - 50%
-Goal To Go Efficiency	1/2 - 50%
-Safeties	0
-Final Score	6
-Time of Possession	23:47
-
-Passing	CP/AT	YDS	TD	INT
-A. Tanney	10/14	99	1	0
-Z. Mettenberger	5/13	38	0	1
-Rushing	ATT	YDS	TD	LG
-D. Cobb	19	73	1	12
-D. Walker	1	36	0	36
-B. Sankey	4	16	0	5
-T. McBride	1	8	0	8
-Z. Mettenberger	2	4	1	5T
-Receiving	REC	YDS	TD	LG
-D. Walker	9	94	0	29
-D. Green-Beckham	2	21	1	16
-H. Douglas	2	19	0	16
-A. Andrews	2	3	0	6
-Fumbles	FUM	LOST	REC	YDS
-H. Douglas	1	0	1	0
-Kicking	FG	LG	XP	PTS
-R. Succop	1/1	49	3/3	6
-Punting	NO	AVG	I20	LG
-B. Kern	6	47.0	2	52
-Kickoff Returns	NO	AVG	TD	LG
-Punt Returns	NO	AVG	TD	LG
-H. Douglas	2	4	0	9
-Defense	T-A	SCK	INT	FF
-A. Williamson	8-1	0.0	0	0
-Z. Brown	7-1	0.0	0	0
-C. Sensabaugh	5-2	0.0	0	0
-D. Bass	3-3	1.0	0	0
-M. Griffin	3-1	0.0	0	0
-B. Webb	3-0	0.0	0	0
-D. Jones	2-1	0.0	0	0
-W. Woodyard	2-2	0.0	0	0
-J. Casey	1-1	0.0	0	0
-P. Cox	1-0	0.0	0	0
-M. Huff	1-0	0.0	0	0
-B. Orakpo	1-2	0.0	0	0
-D. Searcy	1-2	0.0	1	0
-D. Stafford	1-0	0.0	0	0
-A. Woods	1-0	0.0	0	0
-A. Blackson	0-1	0.0	0	0
-K. Klug	0-1	0.0	0	0
-Total First Downs	14
-By Rushing	4
-By Passing	8
-By Penalty	
-Third Down Efficiency	4/14 - 28%
-Fourth Down Efficiency	1/2 - 50%
-Total Net Yards	231
-Total Rushing/Passing Plays (includes Sacks)	58
-Average Gain per Offensive Play	4.0
-Net Yards Rushing	137
-Total Rushing Plays	27
-Average Gain per Rushing Play	5.1
-Tackled for a Loss (Number-Yards)	1--1
-Net Yards Passing	94
-Times Sacked (Number-Yards)	4 - 43
-Gross Yards Passing	137
-Pass Comp-Att-Int	15 - 27 - 1
-Average Gain per Passing Play (includes Sacks)	3.0
-Kickoffs (Number-In End Zone-Touchbacks)	5 - 5 - 4
-Punts (Number-Average)	6 - 50.0
-Blocked	0
-Net Punting Average	47.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	14
-Punt Returns (Number-Yards)	2 - 9
-Kickoff Returns (Number-Yards)	0 - 0
-Interception Returns (Number-Yards)	1 - 5
-Penalties (Number-Yards)	6 - 60
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	3
-Rushing	2
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 3
-Kicking (Made-Attempted)	3 - 3
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	3/3 - 100%
-Goal To Go Efficiency	3/3 - 100%
-Safeties	0
-Final Score	24
-Time of Possession	26:43
-
+1	Total First Downs	20			
+1	By Rushing	7			
+1	By Passing	11			
+1	By Penalty				
+1	Third Down Efficiency	4/9 - 44%			
+1	Fourth Down Efficiency	0/0 - 0%			
+1	Total Net Yards	309			
+1	Total Rushing/Passing Plays (includes Sacks)	49			
+1	Average Gain per Offensive Play	6.3			
+1	Net Yards Rushing	124			
+1	Total Rushing Plays	32			
+1	Average Gain per Rushing Play	3.9			
+1	Tackled for a Loss (Number-Yards)	1--3			
+1	Net Yards Passing	185			
+1	Times Sacked (Number-Yards)	2 - 24			
+1	Gross Yards Passing	209			
+1	Pass Comp-Att-Int	13 - 15 - 0			
+1	Average Gain per Passing Play (includes Sacks)	10.9			
+1	Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 4			
+1	Punts (Number-Average)	4 - 47.3			
+1	Blocked	0			
+1	Net Punting Average	43.0			
+1	FGs Blocked - PATs Blocked	0 - 0			
+1	Total Return Yardage (excludes Kickoffs)	48			
+1	Punt Returns (Number-Yards)	2 - 14			
+1	Kickoff Returns (Number-Yards)	1 - 17			
+1	Interception Returns (Number-Yards)	2 - 34			
+1	Penalties (Number-Yards)	8 - 55			
+1	Fumbles (Number-Lost)	2 - 1			
+1	Touchdowns	6			
+1	Rushing	1			
+1	Passing	4			
+1	Interceptions	1			
+1	Kickoff Returns	0			
+1	Fumble Returns	0			
+1	Punt Returns	0			
+1	Extra Points (Made-Attempted)	6 - 6			
+1	Kicking (Made-Attempted)	6 - 6			
+1	Two Point Conversions (Made-Attempted)	0 - 0			
+1	Field Goals (Made-Attempted)	0 - 0			
+1	Red Zone Efficiency	4/4 - 100%			
+1	Goal To Go Efficiency	3/3 - 100%			
+1	Safeties	0			
+1	Final Score	42			
+1	Time of Possession	31:31			
+					
+2	Passing 	CP/AT 	YDS 	TD 	INT
+2	M. Mariota 	21/37 	257 	2 	0
+2	Rushing 	ATT 	YDS 	TD 	LG
+2	D. McCluster 	10 	98 	0 	44
+2	B. Sankey 	12 	42 	0 	8
+2	M. Mariota 	3 	19 	0 	12
+2	T. West 	3 	10 	0 	4
+2	J. Fowler 	1 	3 	0 	3
+2	H. Douglas 	1 	-6 	0 	-6
+2	Receiving 	REC 	YDS 	TD 	LG
+2	A. Fasano 	5 	84 	1 	33
+2	C. Coffman 	4 	42 	0 	16
+2	J. Hunter 	2 	34 	0 	20
+2	D. McCluster 	4 	26 	0 	13
+2	J. Fowler 	1 	19 	0 	19
+2	K. Wright 	2 	17 	0 	10
+2	D. Green-Beckham 	1 	13 	1 	13T
+2	C. Stevens 	1 	13 	0 	13
+2	H. Douglas 	1 	9 	0 	9
+2	Fumbles 	FUM 	LOST 	REC 	YDS
+2	M. Mariota 	3 	2 	0 	0
+2	T. West 	1 	1 	0 	0
+2	D. McCluster 	0 	0 	1 	0
+2	D. Morgan 	0 	0 	0 	0
+2	W. Woodyard 	0 	0 	0 	0
+2	Kicking 	FG 	LG 	XP 	PTS
+2	R. Succop 	0/0 	0 	2/2 	2
+2	Punting 	NO 	AVG 	I20 	LG
+2	B. Kern 	6 	24.0 	1 	55
+2	Kickoff Returns 	NO 	AVG 	TD 	LG
+2	Punt Returns 	NO 	AVG 	TD 	LG
+2	D. McCluster 	4 	10 	0 	16
+2	Defense 	T-A 	SCK 	INT 	FF
+2	Z. Brown 	5-2 	0.0 	0 	0
+2	D. Morgan 	5-1 	1.0 	0 	1
+2	A. Woods 	4-1 	0.0 	0 	0
+2	M. Griffin 	3-2 	0.0 	0 	0
+2	B. Orakpo 	3-1 	0.0 	0 	0
+2	C. Sensabaugh 	3-1 	0.0 	0 	0
+2	A. Williamson 	3-3 	0.0 	0 	0
+2	D. Searcy 	2-1 	0.0 	0 	0
+2	P. Cox 	1-1 	0.0 	0 	0
+2	D. Jones 	1-0 	0.0 	0 	0
+2	W. Woodyard 	1-0 	1.0 	0 	1
+2	R. Pitoitua 	0-1 	0.0 	0 	0
+2	Total First Downs	21			
+2	By Rushing	6			
+2	By Passing	14			
+2	By Penalty				
+2	Third Down Efficiency	7/16 - 43%			
+2	Fourth Down Efficiency	2/2 - 100%			
+2	Total Net Yards	385			
+2	Total Rushing/Passing Plays (includes Sacks)	74			
+2	Average Gain per Offensive Play	5.2			
+2	Net Yards Rushing	166			
+2	Total Rushing Plays	30			
+2	Average Gain per Rushing Play	5.5			
+2	Tackled for a Loss (Number-Yards)	1--6			
+2	Net Yards Passing	219			
+2	Times Sacked (Number-Yards)	7 - 38			
+2	Gross Yards Passing	257			
+2	Pass Comp-Att-Int	21 - 37 - 0			
+2	Average Gain per Passing Play (includes Sacks)	5.0			
+2	Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 2			
+2	Punts (Number-Average)	6 - 49.7			
+2	Blocked	0			
+2	Net Punting Average	24.0			
+2	FGs Blocked - PATs Blocked	0 - 0			
+2	Total Return Yardage (excludes Kickoffs)	41			
+2	Punt Returns (Number-Yards)	4 - 41			
+2	Kickoff Returns (Number-Yards)	0 - 0			
+2	Interception Returns (Number-Yards)	0 - 0			
+2	Penalties (Number-Yards)	9 - 85			
+2	Fumbles (Number-Lost)	4 - 3			
+2	Touchdowns	2			
+2	Rushing	0			
+2	Passing	2			
+2	Interceptions	0			
+2	Kickoff Returns	0			
+2	Fumble Returns	0			
+2	Punt Returns	0			
+2	Extra Points (Made-Attempted)	2 - 2			
+2	Kicking (Made-Attempted)	2 - 2			
+2	Two Point Conversions (Made-Attempted)	0 - 0			
+2	Field Goals (Made-Attempted)	0 - 0			
+2	Red Zone Efficiency	2/3 - 66%			
+2	Goal To Go Efficiency	0/0 - 0%			
+2	Safeties	0			
+2	Final Score	14			
+2	Time of Possession	35:11			
+					
+3	Passing	CP/AT	YDS	TD	INT
+3	M. Mariota	27/44	367	2	2
+3	Rushing	ATT	YDS	TD	LG
+3	A. Andrews	12	49	1	13
+3	K. Wright	1	13	0	13
+3	B. Sankey	5	10	0	8
+3	J. Fowler	4	9	1	3
+3	D. McCluster	5	7	0	10
+3	Receiving	REC	YDS	TD	LG
+3	K. Wright	7	95	1	24
+3	D. Walker	7	68	0	19
+3	D. McCluster	1	35	0	35
+3	B. Sankey	2	31	0	20
+3	J. Hunter	1	29	0	29
+3	C. Stevens	2	29	0	27
+3	A. Fasano	1	26	0	26
+3	D. Green-Beckham	2	22	1	19
+3	H. Douglas	3	20	0	10
+3	A. Andrews	1	12	0	12
+3	Fumbles	FUM	LOST	REC	YDS
+3	K. Klug	0	0	0	0
+3	Kicking	FG	LG	XP	PTS
+3	R. Succop	2/2	38	3/3	9
+3	Punting	NO	AVG	I20	LG
+3	B. Kern	5	42.4	2	49
+3	Kickoff Returns	NO	AVG	TD	LG
+3	Punt Returns	NO	AVG	TD	LG
+3	D. McCluster	3	0	0	2
+3	Defense	T-A	SCK	INT	FF
+3	P. Cox	4-0	0.0	1	0
+3	A. Williamson	4-4	0.0	0	0
+3	Z. Brown	3-2	0.0	1	0
+3	J. Casey	3-0	1.0	0	0
+3	M. Griffin	3-3	0.0	0	0
+3	K. Klug	3-0	1.0	0	1
+3	D. Searcy	3-1	0.0	0	0
+3	D. Jones	2-1	0.0	0	0
+3	C. Sensabaugh	2-2	0.0	0	0
+3	D. Morgan	1-0	0.0	0	0
+3	B. Orakpo	1-0	1.0	0	0
+3	D. Stafford	1-0	0.0	0	0
+3	B. Wreh-Wilson	1-0	0.0	0	0
+3	W. Woodyard	0-1	0.0	0	0
+3	Total First Downs	28			
+3	By Rushing	7			
+3	By Passing	18			
+3	By Penalty				
+3	Third Down Efficiency	4/13 - 30%			
+3	Fourth Down Efficiency	1/1 - 100%			
+3	Total Net Yards	433			
+3	Total Rushing/Passing Plays (includes Sacks)	74			
+3	Average Gain per Offensive Play	5.9			
+3	Net Yards Rushing	88			
+3	Total Rushing Plays	27			
+3	Average Gain per Rushing Play	3.3			
+3	Tackled for a Loss (Number-Yards)	5--10			
+3	Net Yards Passing	345			
+3	Times Sacked (Number-Yards)	3 - 22			
+3	Gross Yards Passing	367			
+3	Pass Comp-Att-Int	27 - 44 - 2			
+3	Average Gain per Passing Play (includes Sacks)	7.3			
+3	Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 6			
+3	Punts (Number-Average)	5 - 42.4			
+3	Blocked	0			
+3	Net Punting Average	42.4			
+3	FGs Blocked - PATs Blocked	0 - 0			
+3	Total Return Yardage (excludes Kickoffs)	71			
+3	Punt Returns (Number-Yards)	3 - -1			
+3	Kickoff Returns (Number-Yards)	0 - 0			
+3	Interception Returns (Number-Yards)	2 - 72			
+3	Penalties (Number-Yards)	6 - 55			
+3	Fumbles (Number-Lost)	0 - 0			
+3	Touchdowns	4			
+3	Rushing	2			
+3	Passing	2			
+3	Interceptions	0			
+3	Kickoff Returns	0			
+3	Fumble Returns	0			
+3	Punt Returns	0			
+3	Extra Points (Made-Attempted)	3 - 4			
+3	Kicking (Made-Attempted)	3 - 3			
+3	Two Point Conversions (Made-Attempted)	0 - 1			
+3	Field Goals (Made-Attempted)	2 - 2			
+3	Red Zone Efficiency	4/6 - 66%			
+3	Goal To Go Efficiency	4/5 - 80%			
+3	Safeties	0			
+3	Final Score	33			
+3	Time of Possession	34:59			
+					
+	week 4 bye				
+					
+5	Passing	CP/AT	YDS	TD	INT
+5	M. Mariota	21/32	187	0	1
+5	Rushing	ATT	YDS	TD	LG
+5	M. Mariota	5	47	0	22
+5	D. McCluster	8	20	0	8
+5	B. Sankey	7	20	0	9
+5	A. Andrews	7	9	1	5
+5	K. Wright	1	1	0	1
+5	Receiving	REC	YDS	TD	LG
+5	A. Andrews	3	45	0	23
+5	J. Hunter	4	38	0	14
+5	D. Walker	4	36	0	16
+5	K. Wright	3	29	0	17
+5	B. Sankey	3	23	0	12
+5	H. Douglas	2	17	0	11
+5	C. Stevens	1	1	0	1
+5	D. McCluster	1	-2	0	-2
+5	Fumbles	FUM	LOST	REC	YDS
+5	J. Fowler	0	0	0	0
+5	S. Johnson	0	0	1	0
+5	R. Pitoitua	0	0	0	0
+5	Kicking	FG	LG	XP	PTS
+5	R. Succop	2/2	41	1/1	7
+5	Punting	NO	AVG	I20	LG
+5	B. Kern	6	31.8	3	58
+5	Kickoff Returns	NO	AVG	TD	LG
+5	B. Sankey	2	16	0	25
+5	D. McCluster	1	20	0	20
+5	Punt Returns	NO	AVG	TD	LG
+5	D. McCluster	5	13	0	26
+5	Defense	T-A	SCK	INT	FF
+5	A. Williamson	7-2	1.0	0	0
+5	W. Woodyard	6-3	0.0	0	0
+5	J. Casey	4-2	1.5	0	0
+5	Z. Brown	2-1	0.0	0	0
+5	P. Cox	2-0	0.0	0	0
+5	M. Griffin	2-4	0.0	0	0
+5	J. McCourty	1-0	0.0	0	0
+5	D. Morgan	1-2	1.5	0	0
+5	B. Orakpo	1-0	0.0	0	0
+5	R. Pitoitua	1-0	0.0	0	1
+5	D. Searcy	1-0	0.0	0	0
+5	C. Sensabaugh	1-0	0.0	0	0
+5	A. Woods	1-0	0.0	0	0
+5	D. Jones	0-2	0.0	0	0
+5	Total First Downs	17			
+5	By Rushing	4			
+5	By Passing	10			
+5	By Penalty				
+5	Third Down Efficiency	5/13 - 38%			
+5	Fourth Down Efficiency	0/0 - 0%			
+5	Total Net Yards	276			
+5	Total Rushing/Passing Plays (includes Sacks)	62			
+5	Average Gain per Offensive Play	4.5			
+5	Net Yards Rushing	97			
+5	Total Rushing Plays	28			
+5	Average Gain per Rushing Play	3.5			
+5	Tackled for a Loss (Number-Yards)	3--3			
+5	Net Yards Passing	179			
+5	Times Sacked (Number-Yards)	2 - 8			
+5	Gross Yards Passing	187			
+5	Pass Comp-Att-Int	21 - 32 - 1			
+5	Average Gain per Passing Play (includes Sacks)	5.3			
+5	Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 3			
+5	Punts (Number-Average)	6 - 41.8			
+5	Blocked	0			
+5	Net Punting Average	31.8			
+5	FGs Blocked - PATs Blocked	0 - 0			
+5	Total Return Yardage (excludes Kickoffs)	66			
+5	Punt Returns (Number-Yards)	5 - 66			
+5	Kickoff Returns (Number-Yards)	3 - 53			
+5	Interception Returns (Number-Yards)	0 - 0			
+5	Penalties (Number-Yards)	9 - 74			
+5	Fumbles (Number-Lost)	0 - 0			
+5	Touchdowns	1			
+5	Rushing	1			
+5	Passing	0			
+5	Interceptions	0			
+5	Kickoff Returns	0			
+5	Fumble Returns	0			
+5	Punt Returns	0			
+5	Extra Points (Made-Attempted)	1 - 1			
+5	Kicking (Made-Attempted)	1 - 1			
+5	Two Point Conversions (Made-Attempted)	0 - 0			
+5	Field Goals (Made-Attempted)	2 - 2			
+5	Red Zone Efficiency	1/2 - 50%			
+5	Goal To Go Efficiency	1/1 - 100%			
+5	Safeties	0			
+5	Final Score	13			
+5	Time of Possession	35:31			
+					
+6	Passing	CP/AT	YDS	TD	INT
+6	M. Mariota	21/33	219	1	2
+6	Z. Mettenberger	5/8	63	0	0
+6	Rushing	ATT	YDS	TD	LG
+6	A. Andrews	9	23	0	8
+6	D. McCluster	5	23	0	16
+6	B. Sankey	3	13	0	9
+6	Z. Mettenberger	1	4	0	4
+6	Receiving	REC	YDS	TD	LG
+6	D. Walker	8	97	0	25
+6	D. Green-Beckham	3	57	0	32
+6	J. Hunter	3	54	0	23
+6	K. Wright	4	34	0	16
+6	D. McCluster	3	19	1	14
+6	H. Douglas	1	11	0	11
+6	B. Sankey	1	7	0	7
+6	A. Andrews	1	2	0	2
+6	A. Fasano	2	1	0	10
+6	Fumbles	FUM	LOST	REC	YDS
+6	M. Mariota	2	2	0	0
+6	Kicking	FG	LG	XP	PTS
+6	R. Succop	1/1	37	1/1	4
+6	Punting	NO	AVG	I20	LG
+6	B. Kern	3	39.7	2	61
+6	Kickoff Returns	NO	AVG	TD	LG
+6	B. Sankey	3	26	0	34
+6	Punt Returns	NO	AVG	TD	LG
+6	D. McCluster	1	14	0	14
+6	Defense	T-A	SCK	INT	FF
+6	Z. Brown	8-4	0.0	0	0
+6	D. Searcy	8-0	0.0	0	0
+6	W. Woodyard	7-2	1.0	0	0
+6	B. Orakpo	4-0	1.0	0	0
+6	J. Casey	3-1	0.0	0	0
+6	D. Morgan	3-1	0.0	0	0
+6	A. Woods	3-0	0.0	0	0
+6	B. Wreh-Wilson	3-0	0.0	0	0
+6	M. Griffin	2-2	0.0	1	0
+6	D. Bass	1-0	0.0	0	0
+6	D. Jones	1-1	0.0	0	0
+6	C. Sensabaugh	1-1	0.0	1	0
+6	J. McCourty	0-2	0.0	0	0
+6	Total First Downs	22			
+6	By Rushing	4			
+6	By Passing	15			
+6	By Penalty				
+6	Third Down Efficiency	2/10 - 20%			
+6	Fourth Down Efficiency	1/2 - 50%			
+6	Total Net Yards	299			
+6	Total Rushing/Passing Plays (includes Sacks)	65			
+6	Average Gain per Offensive Play	4.6			
+6	Net Yards Rushing	63			
+6	Total Rushing Plays	18			
+6	Average Gain per Rushing Play	3.5			
+6	Tackled for a Loss (Number-Yards)	3--10			
+6	Net Yards Passing	236			
+6	Times Sacked (Number-Yards)	6 - 46			
+6	Gross Yards Passing	282			
+6	Pass Comp-Att-Int	26 - 41 - 2			
+6	Average Gain per Passing Play (includes Sacks)	5.0			
+6	Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 1			
+6	Punts (Number-Average)	3 - 41.7			
+6	Blocked	0			
+6	Net Punting Average	39.7			
+6	FGs Blocked - PATs Blocked	0 - 0			
+6	Total Return Yardage (excludes Kickoffs)	59			
+6	Punt Returns (Number-Yards)	1 - 14			
+6	Kickoff Returns (Number-Yards)	3 - 79			
+6	Interception Returns (Number-Yards)	2 - 45			
+6	Penalties (Number-Yards)	7 - 50			
+6	Fumbles (Number-Lost)	2 - 2			
+6	Touchdowns	1			
+6	Rushing	0			
+6	Passing	1			
+6	Interceptions	0			
+6	Kickoff Returns	0			
+6	Fumble Returns	0			
+6	Punt Returns	0			
+6	Extra Points (Made-Attempted)	1 - 1			
+6	Kicking (Made-Attempted)	1 - 1			
+6	Two Point Conversions (Made-Attempted)	0 - 0			
+6	Field Goals (Made-Attempted)	1 - 1			
+6	Red Zone Efficiency	1/3 - 33%			
+6	Goal To Go Efficiency	1/1 - 100%			
+6	Safeties	0			
+6	Final Score	10			
+6	Time of Possession	28:07			
+					
+7	Passing	CP/AT	YDS	TD	INT
+7	Z. Mettenberger	22/35	187	1	2
+7	Rushing	ATT	YDS	TD	LG
+7	A. Andrews	10	57	0	17
+7	D. McCluster	5	20	0	6
+7	Z. Mettenberger	1	0	0	0
+7	Receiving	REC	YDS	TD	LG
+7	D. Walker	7	55	0	12
+7	D. McCluster	6	48	0	14
+7	K. Wright	4	46	1	19T
+7	A. Fasano	3	21	0	8
+7	J. Hunter	2	17	0	13
+7	Fumbles	FUM	LOST	REC	YDS
+7	Z. Mettenberger	1	0	1	-6
+7	Kicking	FG	LG	XP	PTS
+7	R. Succop	0/0	0	1/1	1
+7	Punting	NO	AVG	I20	LG
+7	B. Kern	7	41.9	5	54
+7	Kickoff Returns	NO	AVG	TD	LG
+7	B. Sankey	1	27	0	27
+7	Punt Returns	NO	AVG	TD	LG
+7	D. McCluster	0	0	0	0
+7	Defense	T-A	SCK	INT	FF
+7	W. Woodyard	6-3	0.0	0	0
+7	Z. Brown	5-0	0.0	0	0
+7	C. Sensabaugh	5-1	0.0	0	0
+7	J. McCourty	4-1	0.0	0	0
+7	B. Orakpo	4-1	0.0	0	0
+7	D. Searcy	4-1	0.0	0	0
+7	A. Williamson	4-1	0.0	1	0
+7	J. Casey	3-0	0.0	0	0
+7	B. Wreh-Wilson	3-0	0.0	0	0
+7	D. Stafford	2-0	0.0	0	0
+7	D. Jones	1-1	0.0	0	0
+7	D. Morgan	1-0	0.0	0	0
+7	A. Woods	1-0	0.0	0	0
+7	D. Bass	0-0	0.0	1	0
+7	K. Klug	0-1	0.0	0	0
+7	Total First Downs	15			
+7	By Rushing	5			
+7	By Passing	10			
+7	By Penalty				
+7	Third Down Efficiency	1/9 - 11%			
+7	Fourth Down Efficiency	0/1 - 0%			
+7	Total Net Yards	256			
+7	Total Rushing/Passing Plays (includes Sacks)	52			
+7	Average Gain per Offensive Play	4.9			
+7	Net Yards Rushing	77			
+7	Total Rushing Plays	16			
+7	Average Gain per Rushing Play	4.8			
+7	Tackled for a Loss (Number-Yards)	2--2			
+7	Net Yards Passing	179			
+7	Times Sacked (Number-Yards)	1 - 8			
+7	Gross Yards Passing	187			
+7	Pass Comp-Att-Int	22 - 35 - 2			
+7	Average Gain per Passing Play (includes Sacks)	5.0			
+7	Kickoffs (Number-In End Zone-Touchbacks)	2 - 1 - 1			
+7	Punts (Number-Average)	7 - 43.6			
+7	Blocked	0			
+7	Net Punting Average	41.9			
+7	FGs Blocked - PATs Blocked	0 - 0			
+7	Total Return Yardage (excludes Kickoffs)	8			
+7	Punt Returns (Number-Yards)	0 - 0			
+7	Kickoff Returns (Number-Yards)	1 - 27			
+7	Interception Returns (Number-Yards)	2 - 8			
+7	Penalties (Number-Yards)	5 - 45			
+7	Fumbles (Number-Lost)	1 - 0			
+7	Touchdowns	1			
+7	Rushing	0			
+7	Passing	1			
+7	Interceptions	0			
+7	Kickoff Returns	0			
+7	Fumble Returns	0			
+7	Punt Returns	0			
+7	Extra Points (Made-Attempted)	1 - 1			
+7	Kicking (Made-Attempted)	1 - 1			
+7	Two Point Conversions (Made-Attempted)	0 - 0			
+7	Field Goals (Made-Attempted)	0 - 0			
+7	Red Zone Efficiency	1/2 - 50%			
+7	Goal To Go Efficiency	0/1 - 0%			
+7	Safeties	0			
+7	Final Score	7			
+7	Time of Possession	25:15			
+					
+8	Passing	CP/AT	YDS	TD	INT
+8	Z. Mettenberger	22/31	171	0	1
+8	Rushing	ATT	YDS	TD	LG
+8	A. Andrews	16	64	0	28
+8	D. McCluster	3	15	0	7
+8	K. Wright	1	7	0	7
+8	Receiving	REC	YDS	TD	LG
+8	D. Walker	6	62	0	15
+8	D. McCluster	4	23	0	9
+8	K. Wright	4	21	0	18
+8	A. Andrews	3	18	0	10
+8	J. Hunter	2	17	0	10
+8	D. Green-Beckham	1	12	0	12
+8	A. Fasano	1	9	0	9
+8	C. Stevens	1	9	0	9
+8	Fumbles	FUM	LOST	REC	YDS
+8	Z. Mettenberger	1	1	0	0
+8	B. Sankey	1	1	0	0
+8	Kicking	FG	LG	XP	PTS
+8	R. Succop	2/2	44	0/0	6
+8	Punting	NO	AVG	I20	LG
+8	B. Kern	7	45.9	3	60
+8	Kickoff Returns	NO	AVG	TD	LG
+8	D. McCluster	2	30	0	32
+8	B. Sankey	2	18	0	23
+8	Punt Returns	NO	AVG	TD	LG
+8	D. McCluster	5	12	0	37
+8	Defense	T-A	SCK	INT	FF
+8	W. Woodyard	7-0	0.0	0	0
+8	M. Griffin	6-3	0.0	0	0
+8	J. McCourty	5-2	0.0	0	0
+8	J. Casey	4-1	0.5	0	0
+8	B. Orakpo	2-0	1.0	0	0
+8	C. Sensabaugh	2-3	0.0	0	0
+8	Z. Brown	1-6	0.5	0	0
+8	S. Hill	1-0	0.0	0	0
+8	D. Jones	1-2	0.0	0	0
+8	K. Klug	1-0	1.0	0	0
+8	D. Morgan	1-1	0.0	0	0
+8	D. Searcy	1-2	0.0	0	0
+8	D. Stafford	1-0	0.0	0	0
+8	A. Williamson	1-0	0.0	0	0
+8	B. Wreh-Wilson	1-1	0.0	0	0
+8	A. Blackson	0-1	0.0	0	0
+8	Total First Downs	15			
+8	By Rushing	3			
+8	By Passing	9			
+8	By Penalty				
+8	Third Down Efficiency	1/12 - 8%			
+8	Fourth Down Efficiency	0/1 - 0%			
+8	Total Net Yards	211			
+8	Total Rushing/Passing Plays (includes Sacks)	58			
+8	Average Gain per Offensive Play	3.6			
+8	Net Yards Rushing	86			
+8	Total Rushing Plays	20			
+8	Average Gain per Rushing Play	4.3			
+8	Tackled for a Loss (Number-Yards)	2--3			
+8	Net Yards Passing	125			
+8	Times Sacked (Number-Yards)	7 - 46			
+8	Gross Yards Passing	171			
+8	Pass Comp-Att-Int	22 - 31 - 1			
+8	Average Gain per Passing Play (includes Sacks)	3.3			
+8	Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 2			
+8	Punts (Number-Average)	7 - 49.9			
+8	Blocked	0			
+8	Net Punting Average	45.9			
+8	FGs Blocked - PATs Blocked	0 - 0			
+8	Total Return Yardage (excludes Kickoffs)	63			
+8	Punt Returns (Number-Yards)	5 - 63			
+8	Kickoff Returns (Number-Yards)	4 - 97			
+8	Interception Returns (Number-Yards)	0 - 0			
+8	Penalties (Number-Yards)	6 - 45			
+8	Fumbles (Number-Lost)	2 - 2			
+8	Touchdowns	0			
+8	Rushing	0			
+8	Passing	0			
+8	Interceptions	0			
+8	Kickoff Returns	0			
+8	Fumble Returns	0			
+8	Punt Returns	0			
+8	Extra Points (Made-Attempted)	0 - 0			
+8	Kicking (Made-Attempted)	0 - 0			
+8	Two Point Conversions (Made-Attempted)	0 - 0			
+8	Field Goals (Made-Attempted)	2 - 2			
+8	Red Zone Efficiency	0/1 - 0%			
+8	Goal To Go Efficiency	0/0 - 0%			
+8	Safeties	0			
+8	Final Score	6			
+8	Time of Possession	31:08			
+					
+9	Passing	CP/AT	YDS	TD	INT
+9	M. Mariota	28/39	371	4	0
+9	Rushing	ATT	YDS	TD	LG
+9	A. Andrews	19	88	0	38
+9	D. McCluster	8	19	0	5
+9	M. Mariota	1	5	0	5
+9	Receiving	REC	YDS	TD	LG
+9	D. Walker	7	95	2	61T
+9	D. Green-Beckham	5	77	0	20
+9	H. Douglas	5	73	0	30
+9	A. Fasano	3	33	1	23
+9	D. McCluster	2	28	0	21
+9	C. Stevens	2	25	0	24
+9	A. Andrews	1	23	0	23
+9	J. Hunter	3	17	1	8T
+9	Fumbles	FUM	LOST	REC	YDS
+9	A. Gallik	1	0	0	0
+9	D. McCluster	1	1	0	0
+9	S. Johnson	0	0	1	0
+9	M. Mariota	0	0	1	0
+9	C. Riggs	0	0	0	0
+9	Kicking	FG	LG	XP	PTS
+9	R. Succop	2/3	51	2/2	8
+9	Punting	NO	AVG	I20	LG
+9	B. Kern	5	46.4	2	56
+9	Kickoff Returns	NO	AVG	TD	LG
+9	D. McCluster	4	24	0	32
+9	Punt Returns	NO	AVG	TD	LG
+9	D. McCluster	2	6	0	7
+9	Defense	T-A	SCK	INT	FF
+9	M. Griffin	6-2	0.0	0	0
+9	W. Woodyard	6-2	1.0	0	0
+9	Z. Brown	5-1	0.0	0	0
+9	B. Webb	5-0	0.0	1	0
+9	A. Williamson	4-3	0.0	0	0
+9	D. Jones	3-2	0.0	0	0
+9	B. Orakpo	3-1	2.0	0	0
+9	C. Riggs	3-0	0.0	0	0
+9	D. Searcy	2-1	0.0	0	0
+9	C. Sensabaugh	2-2	0.0	0	0
+9	D. Bass	1-0	0.0	0	0
+9	A. Blackson	1-2	1.0	0	0
+9	J. Casey	1-0	0.0	0	0
+9	P. Cox	1-1	0.0	0	0
+9	A. Woods	1-1	0.0	0	0
+9	Total First Downs	25			
+9	By Rushing	3			
+9	By Passing	19			
+9	By Penalty				
+9	Third Down Efficiency	5/13 - 38%			
+9	Fourth Down Efficiency	0/0 - 0%			
+9	Total Net Yards	483			
+9	Total Rushing/Passing Plays (includes Sacks)	67			
+9	Average Gain per Offensive Play	7.2			
+9	Net Yards Rushing	112			
+9	Total Rushing Plays	28			
+9	Average Gain per Rushing Play	4.0			
+9	Tackled for a Loss (Number-Yards)	4--4			
+9	Net Yards Passing	371			
+9	Times Sacked (Number-Yards)	0 - 0			
+9	Gross Yards Passing	371			
+9	Pass Comp-Att-Int	28 - 39 - 0			
+9	Average Gain per Passing Play (includes Sacks)	9.5			
+9	Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 3			
+9	Punts (Number-Average)	5 - 50.6			
+9	Blocked	0			
+9	Net Punting Average	46.4			
+9	FGs Blocked - PATs Blocked	0 - 0			
+9	Total Return Yardage (excludes Kickoffs)	12			
+9	Punt Returns (Number-Yards)	2 - 12			
+9	Kickoff Returns (Number-Yards)	4 - 96			
+9	Interception Returns (Number-Yards)	1 - 0			
+9	Penalties (Number-Yards)	9 - 66			
+9	Fumbles (Number-Lost)	2 - 1			
+9	Touchdowns	4			
+9	Rushing	0			
+9	Passing	4			
+9	Interceptions	0			
+9	Kickoff Returns	0			
+9	Fumble Returns	0			
+9	Punt Returns	0			
+9	Extra Points (Made-Attempted)	3 - 3			
+9	Kicking (Made-Attempted)	2 - 2			
+9	Two Point Conversions (Made-Attempted)	1 - 1			
+9	Field Goals (Made-Attempted)	2 - 3			
+9	Red Zone Efficiency	3/5 - 60%			
+9	Goal To Go Efficiency	3/3 - 100%			
+9	Safeties	0			
+9	Final Score	34			
+9	Time of Possession	32:21			
+					
+10	Passing	CP/AT	YDS	TD	INT
+10	M. Mariota	16/24	185	0	1
+10	Rushing	ATT	YDS	TD	LG
+10	D. McCluster	3	25	1	25T
+10	M. Mariota	5	24	0	10
+10	A. Andrews	11	8	0	6
+10	B. Sankey	2	7	0	5
+10	Receiving	REC	YDS	TD	LG
+10	D. Walker	3	52	0	21
+10	J. Hunter	4	47	0	24
+10	D. McCluster	4	27	0	14
+10	H. Douglas	3	26	0	19
+10	A. Fasano	1	19	0	19
+10	J. Fowler	1	14	0	14
+10	Fumbles	FUM	LOST	REC	YDS
+10	M. Mariota	2	0	1	-10
+10	D. McCluster	1	1	1	0
+10	Kicking	FG	LG	XP	PTS
+10	R. Succop	1/1	45	1/1	4
+10	Punting	NO	AVG	I20	LG
+10	B. Kern	5	39.6	0	56
+10	Kickoff Returns	NO	AVG	TD	LG
+10	D. McCluster	5	17	0	20
+10	Punt Returns	NO	AVG	TD	LG
+10	D. McCluster	0	0	0	0
+10	Defense	T-A	SCK	INT	FF
+10	A. Williamson	7-7	0.5	0	0
+10	B. Orakpo	5-1	1.0	0	0
+10	M. Griffin	4-2	1.0	0	0
+10	D. Searcy	4-0	0.0	0	0
+10	W. Woodyard	4-4	1.0	0	0
+10	B. Webb	3-1	0.0	0	0
+10	A. Woods	3-2	0.0	0	0
+10	Z. Brown	2-0	0.0	0	0
+10	C. Sensabaugh	2-0	0.0	0	0
+10	B. Wreh-Wilson	2-0	0.0	0	0
+10	D. Bass	1-1	0.5	0	0
+10	J. Casey	1-0	0.0	0	0
+10	S. Hill	1-0	0.0	0	0
+10	D. Jones	1-0	0.0	0	0
+10	D. Morgan	1-1	0.0	0	0
+10	C. Riggs	1-0	0.0	0	0
+10	D. Stafford	1-1	1.0	0	0
+10	Total First Downs	11			
+10	By Rushing	3			
+10	By Passing	8			
+10	By Penalty				
+10	Third Down Efficiency	5/12 - 41%			
+10	Fourth Down Efficiency	0/0 - 0%			
+10	Total Net Yards	242			
+10	Total Rushing/Passing Plays (includes Sacks)	46			
+10	Average Gain per Offensive Play	5.3			
+10	Net Yards Rushing	64			
+10	Total Rushing Plays	21			
+10	Average Gain per Rushing Play	3.0			
+10	Tackled for a Loss (Number-Yards)	6--8			
+10	Net Yards Passing	178			
+10	Times Sacked (Number-Yards)	1 - 7			
+10	Gross Yards Passing	185			
+10	Pass Comp-Att-Int	16 - 24 - 1			
+10	Average Gain per Passing Play (includes Sacks)	7.1			
+10	Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 2			
+10	Punts (Number-Average)	5 - 51.8			
+10	Blocked	0			
+10	Net Punting Average	39.6			
+10	FGs Blocked - PATs Blocked	0 - 0			
+10	Total Return Yardage (excludes Kickoffs)	0			
+10	Punt Returns (Number-Yards)	0 - 0			
+10	Kickoff Returns (Number-Yards)	5 - 86			
+10	Interception Returns (Number-Yards)	0 - 0			
+10	Penalties (Number-Yards)	4 - 30			
+10	Fumbles (Number-Lost)	3 - 1			
+10	Touchdowns	1			
+10	Rushing	1			
+10	Passing	0			
+10	Interceptions	0			
+10	Kickoff Returns	0			
+10	Fumble Returns	0			
+10	Punt Returns	0			
+10	Extra Points (Made-Attempted)	1 - 1			
+10	Kicking (Made-Attempted)	1 - 1			
+10	Two Point Conversions (Made-Attempted)	0 - 0			
+10	Field Goals (Made-Attempted)	1 - 1			
+10	Red Zone Efficiency	0/0 - 0%			
+10	Goal To Go Efficiency	0/0 - 0%			
+10	Safeties	0			
+10	Final Score	10			
+10	Time of Possession	24:05			
+					
+11	Passing	CP/AT	YDS	TD	INT
+11	M. Mariota	22/35	231	0	0
+11	Rushing	ATT	YDS	TD	LG
+11	A. Andrews	15	78	0	26
+11	M. Mariota	5	29	1	23T
+11	D. McCluster	2	0	0	4
+11	D. Cobb	4	-3	0	2
+11	Receiving	REC	YDS	TD	LG
+11	D. Walker	8	109	0	29
+11	D. Green-Beckham	3	40	0	17
+11	D. McCluster	2	18	0	9
+11	A. Andrews	2	16	0	13
+11	H. Douglas	2	16	0	9
+11	P. Supernaw	2	16	0	8
+11	A. Fasano	2	14	0	8
+11	J. Fowler	1	2	0	2
+11	Fumbles	FUM	LOST	REC	YDS
+11	P. Supernaw	1	1	0	0
+11	D. Bass	0	0	1	0
+11	B. Orakpo	0	0	0	0
+11	Kicking	FG	LG	XP	PTS
+11	R. Succop	2/3	49	1/1	7
+11	Punting	NO	AVG	I20	LG
+11	B. Kern	5	30.0	2	56
+11	Kickoff Returns	NO	AVG	TD	LG
+11	D. McCluster	1	22	0	22
+11	Punt Returns	NO	AVG	TD	LG
+11	H. Douglas	2	4	0	9
+11	D. McCluster	1	6	0	6
+11	Defense	T-A	SCK	INT	FF
+11	C. Sensabaugh	6-0	0.0	0	0
+11	W. Woodyard	4-2	1.0	0	0
+11	D. Bass	3-0	0.0	0	0
+11	P. Cox	3-0	0.0	0	0
+11	M. Griffin	3-2	0.0	0	0
+11	S. Hill	3-1	0.0	0	0
+11	D. Searcy	3-0	0.0	0	0
+11	A. Williamson	3-2	1.0	0	0
+11	Z. Brown	2-0	0.0	1	0
+11	B. Orakpo	2-0	1.0	0	1
+11	C. Riggs	2-0	0.0	0	0
+11	A. Blackson	1-0	0.0	0	0
+11	J. Casey	1-0	1.0	0	0
+11	D. Jones	1-1	0.0	0	0
+11	K. Klug	1-0	0.0	0	0
+11	R. Pitoitua	1-0	0.0	0	0
+11	D. Stafford	1-0	0.0	0	0
+11	Total First Downs	22			
+11	By Rushing	4			
+11	By Passing	13			
+11	By Penalty				
+11	Third Down Efficiency	5/13 - 38%			
+11	Fourth Down Efficiency	0/0 - 0%			
+11	Total Net Yards	316			
+11	Total Rushing/Passing Plays (includes Sacks)	65			
+11	Average Gain per Offensive Play	4.9			
+11	Net Yards Rushing	104			
+11	Total Rushing Plays	26			
+11	Average Gain per Rushing Play	4.0			
+11	Tackled for a Loss (Number-Yards)	5--12			
+11	Net Yards Passing	212			
+11	Times Sacked (Number-Yards)	4 - 19			
+11	Gross Yards Passing	231			
+11	Pass Comp-Att-Int	22 - 35 - 0			
+11	Average Gain per Passing Play (includes Sacks)	5.4			
+11	Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 4			
+11	Punts (Number-Average)	5 - 45.2			
+11	Blocked	0			
+11	Net Punting Average	30.0			
+11	FGs Blocked - PATs Blocked	0 - 0			
+11	Total Return Yardage (excludes Kickoffs)	15			
+11	Punt Returns (Number-Yards)	3 - 15			
+11	Kickoff Returns (Number-Yards)	1 - 22			
+11	Interception Returns (Number-Yards)	1 - 0			
+11	Penalties (Number-Yards)	6 - 59			
+11	Fumbles (Number-Lost)	1 - 1			
+11	Touchdowns	1			
+11	Rushing	1			
+11	Passing	0			
+11	Interceptions	0			
+11	Kickoff Returns	0			
+11	Fumble Returns	0			
+11	Punt Returns	0			
+11	Extra Points (Made-Attempted)	1 - 1			
+11	Kicking (Made-Attempted)	1 - 1			
+11	Two Point Conversions (Made-Attempted)	0 - 0			
+11	Field Goals (Made-Attempted)	2 - 3			
+11	Red Zone Efficiency	0/0 - 0%			
+11	Goal To Go Efficiency	0/0 - 0%			
+11	Safeties	0			
+11	Final Score	13			
+11	Time of Possession	31:35			
+					
+12	Passing	CP/AT	YDS	TD	INT
+12	M. Mariota	17/37	218	3	2
+12	Rushing	ATT	YDS	TD	LG
+12	A. Andrews	11	32	0	11
+12	D. Cobb	3	8	0	3
+12	M. Mariota	1	7	0	7
+12	J. Fowler	1	1	0	1
+12	K. Wright	2	-4	0	0
+12	Receiving	REC	YDS	TD	LG
+12	D. Walker	6	91	0	36
+12	H. Douglas	3	29	1	13T
+12	A. Fasano	2	22	0	17
+12	D. Green-Beckham	1	22	0	22
+12	C. Stevens	1	20	1	20T
+12	K. Wright	2	19	0	12
+12	A. Andrews	1	14	0	14
+12	J. Fowler	1	1	1	1T
+12	Fumbles	FUM	LOST	REC	YDS
+12	D. Jones	0	0	1	0
+12	T. McBride	0	0	0	0
+12	D. Stafford	0	0	1	0
+12	Kicking	FG	LG	XP	PTS
+12	R. Succop	0/0	0	1/2	1
+12	Punting	NO	AVG	I20	LG
+12	B. Kern	6	39.7	1	60
+12	Kickoff Returns	NO	AVG	TD	LG
+12	T. McBride	1	31	0	31
+12	Punt Returns	NO	AVG	TD	LG
+12	H. Douglas	1	5	0	5
+12	Defense	T-A	SCK	INT	FF
+12	A. Williamson	7-4	1.0	0	0
+12	M. Griffin	5-3	0.0	0	0
+12	P. Cox	4-1	0.0	0	0
+12	B. Wreh-Wilson	4-0	0.0	0	0
+12	D. Searcy	3-2	0.0	0	0
+12	B. Orakpo	2-2	0.0	0	0
+12	D. Stafford	2-1	0.0	0	0
+12	D. Bass	1-0	0.0	0	0
+12	A. Blackson	1-0	0.0	0	0
+12	Z. Brown	1-0	0.0	0	0
+12	J. Casey	1-5	0.0	0	0
+12	S. Hill	1-2	0.0	0	0
+12	D. Jones	1-0	0.0	0	0
+12	C. Sensabaugh	1-0	0.0	0	0
+12	W. Woodyard	1-4	0.0	0	0
+12	Total First Downs	19			
+12	By Rushing	3			
+12	By Passing	10			
+12	By Penalty				
+12	Third Down Efficiency	3/12 - 25%			
+12	Fourth Down Efficiency	0/1 - 0%			
+12	Total Net Yards	249			
+12	Total Rushing/Passing Plays (includes Sacks)	57			
+12	Average Gain per Offensive Play	4.4			
+12	Net Yards Rushing	44			
+12	Total Rushing Plays	18			
+12	Average Gain per Rushing Play	2.4			
+12	Tackled for a Loss (Number-Yards)	2--5			
+12	Net Yards Passing	205			
+12	Times Sacked (Number-Yards)	2 - 13			
+12	Gross Yards Passing	218			
+12	Pass Comp-Att-Int	17 - 37 - 2			
+12	Average Gain per Passing Play (includes Sacks)	5.3			
+12	Kickoffs (Number-In End Zone-Touchbacks)	4 - 2 - 0			
+12	Punts (Number-Average)	6 - 47.8			
+12	Blocked	0			
+12	Net Punting Average	39.7			
+12	FGs Blocked - PATs Blocked	0 - 1			
+12	Total Return Yardage (excludes Kickoffs)	5			
+12	Punt Returns (Number-Yards)	1 - 5			
+12	Kickoff Returns (Number-Yards)	1 - 31			
+12	Interception Returns (Number-Yards)	0 - 0			
+12	Penalties (Number-Yards)	4 - 25			
+12	Fumbles (Number-Lost)	0 - 0			
+12	Touchdowns	3			
+12	Rushing	0			
+12	Passing	3			
+12	Interceptions	0			
+12	Kickoff Returns	0			
+12	Fumble Returns	0			
+12	Punt Returns	0			
+12	Extra Points (Made-Attempted)	2 - 3			
+12	Kicking (Made-Attempted)	1 - 2			
+12	Two Point Conversions (Made-Attempted)	1 - 1			
+12	Field Goals (Made-Attempted)	0 - 0			
+12	Red Zone Efficiency	2/3 - 66%			
+12	Goal To Go Efficiency	1/1 - 100%			
+12	Safeties	0			
+12	Final Score	21			
+12	Time of Possession	25:05			
+					
+13	Passing	CP/AT	YDS	TD	INT
+13	M. Mariota	20/29	268	3	1
+13	Rushing	ATT	YDS	TD	LG
+13	M. Mariota	9	112	1	87T
+13	A. Andrews	13	58	1	22
+13	D. Cobb	13	40	0	10
+13	Receiving	REC	YDS	TD	LG
+13	D. Green-Beckham	5	119	1	47T
+13	D. Walker	8	92	1	29
+13	K. Wright	3	28	0	10
+13	C. Stevens	2	11	1	10T
+13	A. Andrews	1	10	0	10
+13	H. Douglas	1	8	0	8
+13	Fumbles	FUM	LOST	REC	YDS
+13	M. Mariota	1	1	0	0
+13	W. Woodyard	0	0	1	3
+13	Kicking	FG	LG	XP	PTS
+13	R. Succop	0/0	0	6/6	6
+13	Punting	NO	AVG	I20	LG
+13	B. Kern	3	38.3	1	51
+13	Kickoff Returns	NO	AVG	TD	LG
+13	T. McBride	4	20	0	30
+13	Punt Returns	NO	AVG	TD	LG
+13	P. Cox	2	5	0	9
+13	Defense	T-A	SCK	INT	FF
+13	M. Griffin	7-2	0.0	0	0
+13	B. Orakpo	3-1	0.0	0	0
+13	D. Searcy	3-1	0.5	0	0
+13	C. Sensabaugh	3-0	0.0	0	0
+13	D. Bass	2-1	0.0	0	0
+13	P. Cox	2-0	0.0	0	0
+13	A. Williamson	2-4	0.0	0	0
+13	J. Casey	1-2	1.0	0	0
+13	K. Klug	1-1	0.5	0	0
+13	B. Webb	1-0	0.0	0	0
+13	B. Wreh-Wilson	1-0	0.0	0	0
+13	Z. Brown	0-1	0.0	0	0
+13	S. Hill	0-2	0.0	0	0
+13	D. Jones	0-3	0.0	0	0
+13	A. Woods	0-2	0.0	0	0
+13	W. Woodyard	0-2	0.0	0	0
+13	Total First Downs	26			
+13	By Rushing	9			
+13	By Passing	13			
+13	By Penalty				
+13	Third Down Efficiency	8/13 - 61%			
+13	Fourth Down Efficiency	0/0 - 0%			
+13	Total Net Yards	467			
+13	Total Rushing/Passing Plays (includes Sacks)	68			
+13	Average Gain per Offensive Play	6.9			
+13	Net Yards Rushing	210			
+13	Total Rushing Plays	35			
+13	Average Gain per Rushing Play	6.0			
+13	Tackled for a Loss (Number-Yards)	7--12			
+13	Net Yards Passing	257			
+13	Times Sacked (Number-Yards)	4 - 11			
+13	Gross Yards Passing	268			
+13	Pass Comp-Att-Int	20 - 29 - 1			
+13	Average Gain per Passing Play (includes Sacks)	7.8			
+13	Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 4			
+13	Punts (Number-Average)	3 - 44.3			
+13	Blocked	0			
+13	Net Punting Average	38.3			
+13	FGs Blocked - PATs Blocked	0 - 0			
+13	Total Return Yardage (excludes Kickoffs)	11			
+13	Punt Returns (Number-Yards)	2 - 11			
+13	Kickoff Returns (Number-Yards)	4 - 80			
+13	Interception Returns (Number-Yards)	0 - 0			
+13	Penalties (Number-Yards)	4 - 38			
+13	Fumbles (Number-Lost)	1 - 1			
+13	Touchdowns	6			
+13	Rushing	2			
+13	Passing	3			
+13	Interceptions	0			
+13	Kickoff Returns	0			
+13	Fumble Returns	1			
+13	Punt Returns	0			
+13	Extra Points (Made-Attempted)	6 - 6			
+13	Kicking (Made-Attempted)	6 - 6			
+13	Two Point Conversions (Made-Attempted)	0 - 0			
+13	Field Goals (Made-Attempted)	0 - 0			
+13	Red Zone Efficiency	3/4 - 75%			
+13	Goal To Go Efficiency	2/3 - 66%			
+13	Safeties	0			
+13	Final Score	42			
+13	Time of Possession	33:34			
+					
+14	Passing	CP/AT	YDS	TD	INT
+14	M. Mariota	21/39	274	0	1
+14	A. Andrews	1/1	41	1	0
+14	Rushing	ATT	YDS	TD	LG
+14	D. McCluster	4	12	0	8
+14	A. Andrews	4	8	0	4
+14	M. Mariota	3	3	0	3
+14	D. Cobb	2	1	0	3
+14	Receiving	REC	YDS	TD	LG
+14	D. Walker	7	71	0	16
+14	H. Douglas	3	65	0	51
+14	D. Green-Beckham	3	53	0	27
+14	M. Mariota	1	41	1	41T
+14	D. McCluster	4	38	0	28
+14	A. Turzilli	2	25	0	18
+14	P. Supernaw	1	16	0	16
+14	A. Andrews	1	6	0	6
+14	Fumbles	FUM	LOST	REC	YDS
+14	M. Mariota	1	0	1	0
+14	Kicking	FG	LG	XP	PTS
+14	Punting	NO	AVG	I20	LG
+14	B. Kern	6	42.8	1	55
+14	Kickoff Returns	NO	AVG	TD	LG
+14	T. McBride	3	15	0	18
+14	Punt Returns	NO	AVG	TD	LG
+14	D. McCluster	1	2	0	2
+14	Defense	T-A	SCK	INT	FF
+14	B. Webb	7-1	0.0	0	0
+14	C. Sensabaugh	5-2	0.0	0	0
+14	M. Griffin	4-3	0.0	0	0
+14	W. Woodyard	4-2	0.0	0	0
+14	Z. Brown	3-2	0.0	0	0
+14	P. Cox	3-1	0.0	0	0
+14	K. Klug	3-0	1.0	0	0
+14	J. Casey	2-5	0.0	0	0
+14	M. Huff	1-0	0.0	0	0
+14	D. Jones	1-1	0.0	0	0
+14	D. Searcy	1-0	0.0	0	0
+14	D. Stafford	1-1	0.0	0	0
+14	J. Tavai	1-0	0.0	0	0
+14	A. Williamson	1-2	0.0	0	0
+14	D. Bass	0-4	0.0	0	0
+14	A. Blackson	0-2	0.0	0	0
+14	B. Orakpo	0-2	0.0	0	0
+14	Total First Downs	15			
+14	By Rushing	0			
+14	By Passing	14			
+14	By Penalty				
+14	Third Down Efficiency	3/14 - 21%			
+14	Fourth Down Efficiency	1/3 - 33%			
+14	Total Net Yards	292			
+14	Total Rushing/Passing Plays (includes Sacks)	58			
+14	Average Gain per Offensive Play	5.0			
+14	Net Yards Rushing	24			
+14	Total Rushing Plays	13			
+14	Average Gain per Rushing Play	1.8			
+14	Tackled for a Loss (Number-Yards)	2--4			
+14	Net Yards Passing	268			
+14	Times Sacked (Number-Yards)	5 - 47			
+14	Gross Yards Passing	315			
+14	Pass Comp-Att-Int	22 - 40 - 1			
+14	Average Gain per Passing Play (includes Sacks)	6.0			
+14	Kickoffs (Number-In End Zone-Touchbacks)	2 - 2 - 2			
+14	Punts (Number-Average)	6 - 48.2			
+14	Blocked	0			
+14	Net Punting Average	42.8			
+14	FGs Blocked - PATs Blocked	0 - 0			
+14	Total Return Yardage (excludes Kickoffs)	2			
+14	Punt Returns (Number-Yards)	1 - 2			
+14	Kickoff Returns (Number-Yards)	3 - 47			
+14	Interception Returns (Number-Yards)	0 - 0			
+14	Penalties (Number-Yards)	3 - 20			
+14	Fumbles (Number-Lost)	1 - 0			
+14	Touchdowns	1			
+14	Rushing	0			
+14	Passing	1			
+14	Interceptions	0			
+14	Kickoff Returns	0			
+14	Fumble Returns	0			
+14	Punt Returns	0			
+14	Extra Points (Made-Attempted)	1 - 1			
+14	Kicking (Made-Attempted)	0 - 0			
+14	Two Point Conversions (Made-Attempted)	1 - 1			
+14	Field Goals (Made-Attempted)	0 - 0			
+14	Red Zone Efficiency	0/1 - 0%			
+14	Goal To Go Efficiency	0/0 - 0%			
+14	Safeties	0			
+14	Final Score	8			
+14	Time of Possession	24:04			
+					
+15	Passing	CP/AT	YDS	TD	INT
+15	Z. Mettenberger	20/28	242	2	2
+15	M. Mariota	3/6	32	0	0
+15	Rushing	ATT	YDS	TD	LG
+15	A. Andrews	14	45	0	8
+15	D. Cobb	4	9	0	4
+15	Z. Mettenberger	2	5	0	5
+15	J. Fowler	1	0	0	0
+15	Receiving	REC	YDS	TD	LG
+15	D. Green-Beckham	6	113	0	30
+15	D. Walker	2	64	2	57T
+15	A. Andrews	5	25	0	9
+15	B. Sankey	3	23	0	15
+15	A. Fasano	3	21	0	8
+15	H. Douglas	2	15	0	10
+15	J. Fowler	1	8	0	8
+15	C. Stevens	1	5	0	5
+15	Fumbles	FUM	LOST	REC	YDS
+15	M. Mariota	1	1	0	0
+15	Z. Mettenberger	1	0	0	0
+15	D. Cobb	0	0	1	0
+15	C. Riggs	0	0	1	0
+15	P. Supernaw	0	0	0	0
+15	Kicking	FG	LG	XP	PTS
+15	R. Succop	1/1	49	1/2	4
+15	Punting	NO	AVG	I20	LG
+15	B. Kern	5	47.2	1	61
+15	Kickoff Returns	NO	AVG	TD	LG
+15	A. Andrews	1	13	0	13
+15	T. McBride	1	11	0	11
+15	Punt Returns	NO	AVG	TD	LG
+15	P. Cox	1	6	0	6
+15	H. Douglas	1	18	0	18
+15	Defense	T-A	SCK	INT	FF
+15	A. Williamson	5-4	0.0	0	0
+15	D. Bass	4-1	0.0	0	0
+15	M. Griffin	4-2	0.0	0	0
+15	B. Orakpo	4-0	0.0	0	0
+15	D. Stafford	4-1	0.0	0	0
+15	C. Sensabaugh	3-2	0.0	0	0
+15	J. Casey	2-1	1.0	0	0
+15	M. Huff	2-1	0.0	0	0
+15	K. Klug	2-3	0.5	0	0
+15	W. Woodyard	2-3	0.0	0	0
+15	Z. Brown	1-1	0.0	0	0
+15	P. Cox	1-0	0.0	0	0
+15	D. Jones	1-3	0.0	0	0
+15	B. Webb	1-0	0.0	0	0
+15	A. Blackson	0-1	0.5	0	0
+15	A. Woods	0-1	0.0	0	0
+15	Total First Downs	15			
+15	By Rushing	3			
+15	By Passing	11			
+15	By Penalty				
+15	Third Down Efficiency	3/12 - 25%			
+15	Fourth Down Efficiency	0/1 - 0%			
+15	Total Net Yards	282			
+15	Total Rushing/Passing Plays (includes Sacks)	60			
+15	Average Gain per Offensive Play	4.7			
+15	Net Yards Rushing	59			
+15	Total Rushing Plays	21			
+15	Average Gain per Rushing Play	2.8			
+15	Tackled for a Loss (Number-Yards)	0-0			
+15	Net Yards Passing	223			
+15	Times Sacked (Number-Yards)	5 - 51			
+15	Gross Yards Passing	274			
+15	Pass Comp-Att-Int	23 - 34 - 2			
+15	Average Gain per Passing Play (includes Sacks)	5.7			
+15	Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 3			
+15	Punts (Number-Average)	5 - 54.4			
+15	Blocked	0			
+15	Net Punting Average	47.2			
+15	FGs Blocked - PATs Blocked	0 - 0			
+15	Total Return Yardage (excludes Kickoffs)	24			
+15	Punt Returns (Number-Yards)	2 - 24			
+15	Kickoff Returns (Number-Yards)	2 - 24			
+15	Interception Returns (Number-Yards)	0 - 0			
+15	Penalties (Number-Yards)	3 - 29			
+15	Fumbles (Number-Lost)	2 - 1			
+15	Touchdowns	2			
+15	Rushing	0			
+15	Passing	2			
+15	Interceptions	0			
+15	Kickoff Returns	0			
+15	Fumble Returns	0			
+15	Punt Returns	0			
+15	Extra Points (Made-Attempted)	1 - 2			
+15	Kicking (Made-Attempted)	1 - 2			
+15	Two Point Conversions (Made-Attempted)	0 - 0			
+15	Field Goals (Made-Attempted)	1 - 1			
+15	Red Zone Efficiency	1/1 - 100%			
+15	Goal To Go Efficiency	0/0 - 0%			
+15	Safeties	0			
+15	Final Score	16			
+15	Time of Possession	30:23			
+					
+16	Passing	CP/AT	YDS	TD	INT
+16	Z. Mettenberger	27/51	234	1	1
+16	Rushing	ATT	YDS	TD	LG
+16	D. Cobb	7	18	0	9
+16	B. Sankey	2	11	0	7
+16	A. Andrews	2	1	0	1
+16	Receiving	REC	YDS	TD	LG
+16	H. Douglas	6	79	0	31
+16	D. Walker	9	59	0	21
+16	B. Sankey	3	43	0	30
+16	A. Fasano	2	21	0	12
+16	K. Wright	3	18	0	7
+16	T. McBride	2	8	1	7
+16	C. Stevens	1	8	0	8
+16	D. Cobb	1	-2	0	-2
+16	Fumbles	FUM	LOST	REC	YDS
+16	A. Andrews	1	1	0	0
+16	H. Douglas	1	1	0	0
+16	Z. Mettenberger	1	1	0	0
+16	D. Bass	0	0	1	0
+16	J. Tavai	0	0	0	0
+16	Kicking	FG	LG	XP	PTS
+16	Punting	NO	AVG	I20	LG
+16	B. Kern	9	43.3	7	60
+16	Kickoff Returns	NO	AVG	TD	LG
+16	T. McBride	1	21	0	21
+16	Punt Returns	NO	AVG	TD	LG
+16	H. Douglas	5	6	0	18
+16	Defense	T-A	SCK	INT	FF
+16	M. Griffin	9-2	0.0	0	0
+16	A. Williamson	5-2	0.0	0	0
+16	D. Bass	4-1	0.0	0	0
+16	Z. Brown	4-0	0.0	0	0
+16	J. Casey	4-2	0.0	0	0
+16	D. Jones	3-2	0.0	0	0
+16	D. Searcy	3-1	0.0	0	0
+16	A. Blackson	2-0	0.0	0	0
+16	P. Cox	2-0	0.0	0	0
+16	B. Orakpo	2-2	0.0	0	0
+16	K. Klug	1-0	0.0	0	0
+16	C. Sensabaugh	1-0	0.0	0	0
+16	J. Tavai	1-0	1.0	0	1
+16	S. Hill	0-1	0.0	0	0
+16	A. Woods	0-1	0.0	0	0
+16	W. Woodyard	0-2	0.0	0	0
+16	Total First Downs	13			
+16	By Rushing	1			
+16	By Passing	12			
+16	By Penalty				
+16	Third Down Efficiency	4/16 - 25%			
+16	Fourth Down Efficiency	1/1 - 100%			
+16	Total Net Yards	257			
+16	Total Rushing/Passing Plays (includes Sacks)	63			
+16	Average Gain per Offensive Play	4.1			
+16	Net Yards Rushing	30			
+16	Total Rushing Plays	11			
+16	Average Gain per Rushing Play	2.7			
+16	Tackled for a Loss (Number-Yards)	2--2			
+16	Net Yards Passing	227			
+16	Times Sacked (Number-Yards)	1 - 7			
+16	Gross Yards Passing	234			
+16	Pass Comp-Att-Int	27 - 51 - 1			
+16	Average Gain per Passing Play (includes Sacks)	4.4			
+16	Kickoffs (Number-In End Zone-Touchbacks)	2 - 2 - 2			
+16	Punts (Number-Average)	9 - 47.4			
+16	Blocked	0			
+16	Net Punting Average	43.3			
+16	FGs Blocked - PATs Blocked	0 - 0			
+16	Total Return Yardage (excludes Kickoffs)	32			
+16	Punt Returns (Number-Yards)	5 - 32			
+16	Kickoff Returns (Number-Yards)	1 - 21			
+16	Interception Returns (Number-Yards)	0 - 0			
+16	Penalties (Number-Yards)	4 - 43			
+16	Fumbles (Number-Lost)	3 - 3			
+16	Touchdowns	1			
+16	Rushing	0			
+16	Passing	1			
+16	Interceptions	0			
+16	Kickoff Returns	0			
+16	Fumble Returns	0			
+16	Punt Returns	0			
+16	Extra Points (Made-Attempted)	0 - 1			
+16	Kicking (Made-Attempted)	0 - 0			
+16	Two Point Conversions (Made-Attempted)	0 - 1			
+16	Field Goals (Made-Attempted)	0 - 0			
+16	Red Zone Efficiency	1/2 - 50%			
+16	Goal To Go Efficiency	1/2 - 50%			
+16	Safeties	0			
+16	Final Score	6			
+16	Time of Possession	23:47			
+					
+17	Passing	CP/AT	YDS	TD	INT
+17	A. Tanney	10/14	99	1	0
+17	Z. Mettenberger	5/13	38	0	1
+17	Rushing	ATT	YDS	TD	LG
+17	D. Cobb	19	73	1	12
+17	D. Walker	1	36	0	36
+17	B. Sankey	4	16	0	5
+17	T. McBride	1	8	0	8
+17	Z. Mettenberger	2	4	1	5T
+17	Receiving	REC	YDS	TD	LG
+17	D. Walker	9	94	0	29
+17	D. Green-Beckham	2	21	1	16
+17	H. Douglas	2	19	0	16
+17	A. Andrews	2	3	0	6
+17	Fumbles	FUM	LOST	REC	YDS
+17	H. Douglas	1	0	1	0
+17	Kicking	FG	LG	XP	PTS
+17	R. Succop	1/1	49	3/3	6
+17	Punting	NO	AVG	I20	LG
+17	B. Kern	6	47.0	2	52
+17	Kickoff Returns	NO	AVG	TD	LG
+17	Punt Returns	NO	AVG	TD	LG
+17	H. Douglas	2	4	0	9
+17	Defense	T-A	SCK	INT	FF
+17	A. Williamson	8-1	0.0	0	0
+17	Z. Brown	7-1	0.0	0	0
+17	C. Sensabaugh	5-2	0.0	0	0
+17	D. Bass	3-3	1.0	0	0
+17	M. Griffin	3-1	0.0	0	0
+17	B. Webb	3-0	0.0	0	0
+17	D. Jones	2-1	0.0	0	0
+17	W. Woodyard	2-2	0.0	0	0
+17	J. Casey	1-1	0.0	0	0
+17	P. Cox	1-0	0.0	0	0
+17	M. Huff	1-0	0.0	0	0
+17	B. Orakpo	1-2	0.0	0	0
+17	D. Searcy	1-2	0.0	1	0
+17	D. Stafford	1-0	0.0	0	0
+17	A. Woods	1-0	0.0	0	0
+17	A. Blackson	0-1	0.0	0	0
+17	K. Klug	0-1	0.0	0	0
+17	Total First Downs	14			
+17	By Rushing	4			
+17	By Passing	8			
+17	By Penalty				
+17	Third Down Efficiency	4/14 - 28%			
+17	Fourth Down Efficiency	1/2 - 50%			
+17	Total Net Yards	231			
+17	Total Rushing/Passing Plays (includes Sacks)	58			
+17	Average Gain per Offensive Play	4.0			
+17	Net Yards Rushing	137			
+17	Total Rushing Plays	27			
+17	Average Gain per Rushing Play	5.1			
+17	Tackled for a Loss (Number-Yards)	1--1			
+17	Net Yards Passing	94			
+17	Times Sacked (Number-Yards)	4 - 43			
+17	Gross Yards Passing	137			
+17	Pass Comp-Att-Int	15 - 27 - 1			
+17	Average Gain per Passing Play (includes Sacks)	3.0			
+17	Kickoffs (Number-In End Zone-Touchbacks)	5 - 5 - 4			
+17	Punts (Number-Average)	6 - 50.0			
+17	Blocked	0			
+17	Net Punting Average	47.0			
+17	FGs Blocked - PATs Blocked	0 - 0			
+17	Total Return Yardage (excludes Kickoffs)	14			
+17	Punt Returns (Number-Yards)	2 - 9			
+17	Kickoff Returns (Number-Yards)	0 - 0			
+17	Interception Returns (Number-Yards)	1 - 5			
+17	Penalties (Number-Yards)	6 - 60			
+17	Fumbles (Number-Lost)	1 - 0			
+17	Touchdowns	3			
+17	Rushing	2			
+17	Passing	1			
+17	Interceptions	0			
+17	Kickoff Returns	0			
+17	Fumble Returns	0			
+17	Punt Returns	0			
+17	Extra Points (Made-Attempted)	3 - 3			
+17	Kicking (Made-Attempted)	3 - 3			
+17	Two Point Conversions (Made-Attempted)	0 - 0			
+17	Field Goals (Made-Attempted)	1 - 1			
+17	Red Zone Efficiency	3/3 - 100%			
+17	Goal To Go Efficiency	3/3 - 100%			
+17	Safeties	0			
+17	Final Score	24			
+17	Time of Possession	26:43			

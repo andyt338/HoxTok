@@ -1,5 +1,4 @@
-week	Miami Dolphins (1-0-0)
-1	Passing	CP/AT	YDS	TD	INT
+week	Passing	CP/AT	YDS	TD	INT
 1	R. Tannehill	22/34	226	1	0
 1	Rushing	ATT	YDS	TD	LG
 1	L. Miller	13	53	0	17
@@ -42,1408 +41,1407 @@ week	Miami Dolphins (1-0-0)
 1	M. Thomas	1-0	0.0	0	0
 1	Z. Vigil	1-0	0.0	0	0
 1	D. Shelby	0-1	0.0	0	0
-1	Total First Downs	19
-1	By Rushing	5
-1	By Passing	12
-1	By Penalty	
-1	Third Down Efficiency	5/12 - 41%
-1	Fourth Down Efficiency	0/1 - 0%
-1	Total Net Yards	256
-1	Total Rushing/Passing Plays (includes Sacks)	55
-1	Average Gain per Offensive Play	4.7
-1	Net Yards Rushing	74
-1	Total Rushing Plays	18
-1	Average Gain per Rushing Play	4.1
-1	Tackled for a Loss (Number-Yards)	1--6
-1	Net Yards Passing	182
-1	Times Sacked (Number-Yards)	3 - 44
-1	Gross Yards Passing	226
-1	Pass Comp-Att-Int	22 - 34 - 0
-1	Average Gain per Passing Play (includes Sacks)	4.9
-1	Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 3
-1	Punts (Number-Average)	4 - 54.3
-1	Blocked	0
-1	Net Punting Average	43.5
-1	FGs Blocked - PATs Blocked	0 - 0
-1	Total Return Yardage (excludes Kickoffs)	76
-1	Punt Returns (Number-Yards)	2 - 74
-1	Kickoff Returns (Number-Yards)	2 - 54
-1	Interception Returns (Number-Yards)	2 - 2
-1	Penalties (Number-Yards)	6 - 39
-1	Fumbles (Number-Lost)	2 - 1
-1	Touchdowns	2
-1	Rushing	0
-1	Passing	1
-1	Interceptions	0
-1	Kickoff Returns	0
-1	Fumble Returns	0
-1	Punt Returns	1
-1	Extra Points (Made-Attempted)	2 - 2
-1	Kicking (Made-Attempted)	2 - 2
-1	Two Point Conversions (Made-Attempted)	0 - 0
-1	Field Goals (Made-Attempted)	1 - 1
-1	Red Zone Efficiency	1/3 - 33%
-1	Goal To Go Efficiency	1/2 - 50%
-1	Safeties	0
-1	Final Score	17
-1	Time of Possession	22:06
-
-Passing 	CP/AT 	YDS 	TD 	INT
-R. Tannehill 	30/44 	359 	2 	0
-Rushing 	ATT 	YDS 	TD 	LG
-R. Tannehill 	3 	17 	0 	9
-L. Miller 	10 	14 	0 	6
-J. Landry 	1 	6 	0 	6
-D. Williams 	2 	5 	0 	3
-Receiving 	REC 	YDS 	TD 	LG
-R. Matthews 	6 	115 	0 	48
-J. Landry 	8 	110 	0 	36
-J. Cameron 	3 	62 	0 	26
-L. Miller 	5 	28 	0 	12
-J. Stoneburner 	2 	18 	1 	13
-D. Williams 	3 	15 	1 	10T
-K. Stills 	2 	8 	0 	8
-D. Parker 	1 	3 	0 	3
-Fumbles 	FUM 	LOST 	REC 	YDS
-R. Tannehill 	1 	0 	0 	0
-J. Fox 	0 	0 	1 	0
-Kicking 	FG 	LG 	XP 	PTS
-A. Franks 	2/3 	48 	2/2 	8
-Punting 	NO 	AVG 	I20 	LG
-M. Darr 	6 	39.5 	0 	54
-Kickoff Returns 	NO 	AVG 	TD 	LG
-R. Mostert 	2 	28 	0 	32
-Punt Returns 	NO 	AVG 	TD 	LG
-J. Landry 	3 	8 	0 	19
-Defense 	T-A 	SCK 	INT 	FF
-J. Jenkins 	9-3 	0.0 	0 	0
-R. Jones 	8-3 	0.0 	0 	0
-B. Grimes 	5-1 	0.0 	0 	0
-W. Aikens 	2-2 	0.0 	0 	0
-K. Misi 	2-2 	0.0 	0 	0
-K. Sheppard 	2-2 	0.0 	0 	0
-M. Thomas 	2-0 	0.0 	0 	0
-Br. McCain 	1-1 	0.0 	0 	0
-T. Fede 	1-0 	0.0 	0 	0
-E. Mitchell 	1-0 	0.0 	0 	0
-S. Paysinger 	1-0 	0.0 	0 	0
-D. Shelby 	1-1 	0.0 	0 	0
-N. Suh 	1-0 	0.0 	0 	0
-J. Taylor 	1-1 	0.0 	0 	0
-O. Vernon 	1-0 	0.0 	0 	0
-Total First Downs	17
-By Rushing	0
-By Passing	15
-By Penalty	
-Third Down Efficiency	5/15 - 33%
-Fourth Down Efficiency	0/1 - 0%
-Total Net Yards	386
-Total Rushing/Passing Plays (includes Sacks)	62
-Average Gain per Offensive Play	6.2
-Net Yards Rushing	42
-Total Rushing Plays	16
-Average Gain per Rushing Play	2.6
-Tackled for a Loss (Number-Yards)	2--7
-Net Yards Passing	344
-Times Sacked (Number-Yards)	2 - 15
-Gross Yards Passing	359
-Pass Comp-Att-Int	30 - 44 - 0
-Average Gain per Passing Play (includes Sacks)	7.5
-Kickoffs (Number-In End Zone-Touchbacks)	5 - 5 - 3
-Punts (Number-Average)	6 - 48.2
-Blocked	0
-Net Punting Average	39.5
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	25
-Punt Returns (Number-Yards)	3 - 25
-Kickoff Returns (Number-Yards)	2 - 57
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	13 - 112
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	2
-Rushing	0
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 3
-Red Zone Efficiency	2/2 - 100%
-Goal To Go Efficiency	1/1 - 100%
-Safeties	0
-Final Score	20
-Time of Possession	29:52
-
-Passing	CP/AT	YDS	TD	INT
-R. Tannehill	26/49	297	2	3
-Rushing	ATT	YDS	TD	LG
-J. Gray	9	49	0	11
-L. Miller	7	38	0	8
-D. Williams	2	17	0	14
-J. Landry	1	-1	0	-1
-R. Tannehill	1	-1	0	-1
-Receiving	REC	YDS	TD	LG
-R. Matthews	6	113	2	46T
-J. Landry	8	67	0	13
-D. Parker	3	46	0	19
-L. Miller	3	27	0	16
-J. Cameron	3	16	0	10
-J. Stoneburner	1	13	0	13
-G. Jennings	1	10	0	10
-D. Williams	1	5	0	5
-Fumbles	FUM	LOST	REC	YDS
-R. Tannehill	1	0	0	0
-J. James	0	0	1	0
-Kicking	FG	LG	XP	PTS
-A. Franks	0/0	0	0/1	0
-Punting	NO	AVG	I20	LG
-M. Darr	4	47.3	3	59
-Kickoff Returns	NO	AVG	TD	LG
-D. Williams	2	22	0	31
-J. Landry	1	18	0	18
-K. Sheppard	1	0	0	0
-Punt Returns	NO	AVG	TD	LG
-J. Landry	1	19	0	19
-Defense	T-A	SCK	INT	FF
-R. Jones	8-1	0.0	0	0
-K. Misi	6-0	0.0	0	0
-K. Sheppard	6-0	0.0	0	0
-Br. McCain	5-0	0.0	0	0
-M. Thomas	5-0	0.0	0	0
-N. Suh	4-0	0.0	0	0
-J. Jenkins	3-0	0.0	0	0
-B. Grimes	2-0	0.0	0	0
-D. Shelby	2-0	0.0	0	0
-W. Aikens	1-0	0.0	0	0
-A. Francis	1-0	0.0	0	0
-E. Mitchell	1-0	0.0	0	0
-J. Taylor	1-0	0.0	0	0
-O. Vernon	1-0	0.0	0	0
-T. Fede	0-1	0.0	0	0
-Z. Vigil	0-1	0.0	0	0
-C. Wake	0-1	0.0	0	0
-Total First Downs	21
-By Rushing	7
-By Passing	13
-By Penalty	
-Third Down Efficiency	4/13 - 30%
-Fourth Down Efficiency	1/4 - 25%
-Total Net Yards	391
-Total Rushing/Passing Plays (includes Sacks)	71
-Average Gain per Offensive Play	5.5
-Net Yards Rushing	102
-Total Rushing Plays	20
-Average Gain per Rushing Play	5.1
-Tackled for a Loss (Number-Yards)	1--1
-Net Yards Passing	289
-Times Sacked (Number-Yards)	2 - 8
-Gross Yards Passing	297
-Pass Comp-Att-Int	26 - 49 - 3
-Average Gain per Passing Play (includes Sacks)	5.7
-Kickoffs (Number-In End Zone-Touchbacks)	3 - 2 - 2
-Punts (Number-Average)	4 - 49.0
-Blocked	0
-Net Punting Average	47.3
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	19
-Punt Returns (Number-Yards)	1 - 19
-Kickoff Returns (Number-Yards)	4 - 63
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	6 - 36
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	2
-Rushing	0
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	1 - 2
-Kicking (Made-Attempted)	0 - 1
-Two Point Conversions (Made-Attempted)	1 - 1
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	0/2 - 0%
-Goal To Go Efficiency	0/2 - 0%
-Safeties	0
-Final Score	14
-Time of Possession	28:07
-
-Passing	CP/AT	YDS	TD	INT
-R. Tannehill	19/44	198	2	2
-Rushing	ATT	YDS	TD	LG
-J. Landry	2	29	0	15
-L. Miller	7	26	0	13
-R. Tannehill	1	4	0	4
-J. Gray	1	0	0	0
-Receiving	REC	YDS	TD	LG
-K. Stills	5	81	1	42
-J. Landry	4	40	0	20
-J. Cameron	2	19	0	11
-R. Matthews	1	16	0	16
-J. Stoneburner	2	16	1	8T
-G. Jennings	3	15	0	9
-L. Miller	1	10	0	10
-D. Williams	1	1	0	1
-Fumbles	FUM	LOST	REC	YDS
-R. Tannehill	1	0	0	0
-L. Miller	0	0	1	0
-Kicking	FG	LG	XP	PTS
-A. Franks	0/0	0	2/2	2
-Punting	NO	AVG	I20	LG
-M. Darr	7	41.4	2	59
-Kickoff Returns	NO	AVG	TD	LG
-J. Landry	5	24	0	32
-D. Williams	1	19	0	19
-Punt Returns	NO	AVG	TD	LG
-J. Landry	3	22	0	28
-Defense	T-A	SCK	INT	FF
-R. Jones	10-1	0.0	0	0
-K. Misi	5-3	0.0	0	0
-S. Paysinger	4-1	0.0	0	0
-J. Taylor	4-0	0.0	0	0
-Br. McCain	3-1	0.0	0	0
-J. Jenkins	3-1	0.0	0	0
-N. Suh	3-0	0.0	0	0
-M. Thomas	3-0	0.0	0	0
-B. Grimes	2-0	0.0	0	0
-E. Mitchell	2-1	0.0	0	0
-D. Shelby	2-0	0.0	0	0
-O. Vernon	2-0	0.0	0	0
-Bo. McCain	1-0	0.0	0	0
-W. Aikens	1-0	0.0	0	0
-Z. Bowman	1-0	0.0	1	0
-K. Sheppard	1-2	0.0	0	0
-Total First Downs	17
-By Rushing	4
-By Passing	8
-By Penalty	
-Third Down Efficiency	0/12 - 0%
-Fourth Down Efficiency	0/4 - 0%
-Total Net Yards	226
-Total Rushing/Passing Plays (includes Sacks)	58
-Average Gain per Offensive Play	3.9
-Net Yards Rushing	59
-Total Rushing Plays	11
-Average Gain per Rushing Play	5.4
-Tackled for a Loss (Number-Yards)	1--1
-Net Yards Passing	167
-Times Sacked (Number-Yards)	3 - 31
-Gross Yards Passing	198
-Pass Comp-Att-Int	19 - 44 - 2
-Average Gain per Passing Play (includes Sacks)	3.6
-Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 1
-Punts (Number-Average)	7 - 46.0
-Blocked	0
-Net Punting Average	41.4
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	105
-Punt Returns (Number-Yards)	3 - 67
-Kickoff Returns (Number-Yards)	6 - 141
-Interception Returns (Number-Yards)	1 - 38
-Penalties (Number-Yards)	9 - 80
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	2
-Rushing	0
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	2/3 - 66%
-Goal To Go Efficiency	2/3 - 66%
-Safeties	0
-Final Score	14
-Time of Possession	22:37
-
-week 5 bye
-
-Passing	CP/AT	YDS	TD	INT
-R. Tannehill	22/29	266	2	2
-Rushing	ATT	YDS	TD	LG
-L. Miller	19	113	1	22
-J. Gray	7	24	0	7
-J. Landry	2	24	1	22T
-R. Tannehill	2	14	0	10
-D. Williams	2	5	0	4
-Receiving	REC	YDS	TD	LG
-R. Matthews	6	85	0	24
-K. Stills	2	46	0	38
-J. Landry	3	42	0	19
-D. Sims	4	33	1	16
-J. Cameron	3	30	1	13
-G. Jennings	1	13	0	13
-J. Gray	1	12	0	12
-L. Miller	2	5	0	4
-Fumbles	FUM	LOST	REC	YDS
-J. Jenkins	0	0	1	0
-J. Taylor	0	0	1	31
-C. Wake	0	0	0	0
-Kicking	FG	LG	XP	PTS
-A. Franks	1/1	30	5/5	8
-Punting	NO	AVG	I20	LG
-M. Darr	3	39.0	1	47
-Kickoff Returns	NO	AVG	TD	LG
-D. Williams	2	22	0	31
-Punt Returns	NO	AVG	TD	LG
-J. Landry	1	6	0	6
-Defense	T-A	SCK	INT	FF
-K. Misi	6-2	0.0	0	0
-R. Jones	5-3	0.0	1	0
-J. Jenkins	4-3	0.0	0	0
-C. Wake	4-0	4.0	0	2
-Bo. McCain	3-0	0.0	0	0
-O. Vernon	3-1	1.0	0	0
-J. Kovacs	2-0	1.0	0	0
-M. Thomas	2-1	0.0	0	0
-T. Fede	1-1	0.0	0	0
-B. Grimes	1-1	0.0	1	0
-N. Hewitt	1-1	0.0	0	0
-D. Shelby	1-0	0.0	0	0
-K. Sheppard	1-0	0.0	0	0
-J. Taylor	1-2	0.0	0	0
-Br. McCain	0-1	0.0	0	0
-E. Mitchell	0-3	0.0	0	0
-J. Phillips	0-1	0.0	0	0
-N. Suh	0-1	0.0	0	0
-Z. Vigil	0-1	0.0	0	0
-Total First Downs	26
-By Rushing	11
-By Passing	14
-By Penalty	
-Third Down Efficiency	5/9 - 55%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	434
-Total Rushing/Passing Plays (includes Sacks)	63
-Average Gain per Offensive Play	6.9
-Net Yards Rushing	180
-Total Rushing Plays	32
-Average Gain per Rushing Play	5.6
-Tackled for a Loss (Number-Yards)	2--5
-Net Yards Passing	254
-Times Sacked (Number-Yards)	2 - 12
-Gross Yards Passing	266
-Pass Comp-Att-Int	22 - 29 - 2
-Average Gain per Passing Play (includes Sacks)	8.2
-Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 4
-Punts (Number-Average)	3 - 43.7
-Blocked	0
-Net Punting Average	39.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	36
-Punt Returns (Number-Yards)	1 - 6
-Kickoff Returns (Number-Yards)	2 - 45
-Interception Returns (Number-Yards)	2 - 30
-Penalties (Number-Yards)	9 - 97
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	5
-Rushing	2
-Passing	2
-Interceptions	1
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	5 - 5
-Kicking (Made-Attempted)	5 - 5
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	3/4 - 75%
-Goal To Go Efficiency	2/2 - 100%
-Safeties	0
-Final Score	38
-Time of Possession	31:53
-
-Passing	CP/AT	YDS	TD	INT
-R. Tannehill	18/19	282	4	0
-M. Moore	1/1	14	0	0
-Rushing	ATT	YDS	TD	LG
-L. Miller	14	175	1	85T
-J. Gray	12	48	0	16
-D. Williams	4	19	0	19
-J. Landry	1	5	0	5
-R. Tannehill	1	3	0	3
-M. Moore	3	-2	0	0
-Receiving	REC	YDS	TD	LG
-J. Landry	5	83	2	50T
-R. Matthews	3	75	1	53T
-L. Miller	3	61	1	54T
-G. Jennings	2	37	0	23
-J. Cameron	2	23	0	12
-J. Gray	1	10	0	10
-D. Williams	2	10	0	8
-D. Sims	1	-3	0	-3
-Fumbles	FUM	LOST	REC	YDS
-D. Williams	1	1	0	0
-J. Jenkins	0	0	0	0
-C. Wake	0	0	0	0
-Kicking	FG	LG	XP	PTS
-A. Franks	1/1	53	5/6	8
-Punting	NO	AVG	I20	LG
-M. Darr	5	41.0	2	55
-Kickoff Returns	NO	AVG	TD	LG
-D. Williams	2	32	0	34
-Punt Returns	NO	AVG	TD	LG
-J. Landry	5	2	0	7
-R. Matthews	1	9	0	9
-Defense	T-A	SCK	INT	FF
-R. Jones	8-0	0.0	1	0
-J. Taylor	6-1	0.0	0	0
-N. Suh	5-1	2.0	0	0
-M. Thomas	4-0	0.0	0	0
-J. Jenkins	3-0	0.0	0	1
-K. Misi	3-0	0.0	0	0
-B. Grimes	2-1	0.0	0	0
-N. Hewitt	2-0	0.0	0	0
-E. Mitchell	2-1	0.0	0	0
-K. Sheppard	2-0	0.0	0	0
-C. Wake	2-0	2.0	0	2
-Bo. McCain	1-0	0.0	0	0
-T. Fede	1-1	0.0	0	0
-C. Mosley	1-1	0.0	0	0
-S. Paysinger	1-0	0.0	0	0
-J. Phillips	1-0	0.0	0	0
-D. Shelby	1-0	0.0	0	0
-Z. Vigil	1-0	0.0	0	0
-Total First Downs	21
-By Rushing	8
-By Passing	11
-By Penalty	
-Third Down Efficiency	1/9 - 11%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	503
-Total Rushing/Passing Plays (includes Sacks)	59
-Average Gain per Offensive Play	8.5
-Net Yards Rushing	248
-Total Rushing Plays	35
-Average Gain per Rushing Play	7.1
-Tackled for a Loss (Number-Yards)	3--6
-Net Yards Passing	255
-Times Sacked (Number-Yards)	4 - 41
-Gross Yards Passing	296
-Pass Comp-Att-Int	19 - 20 - 0
-Average Gain per Passing Play (includes Sacks)	10.6
-Kickoffs (Number-In End Zone-Touchbacks)	8 - 7 - 5
-Punts (Number-Average)	5 - 49.2
-Blocked	0
-Net Punting Average	41.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	42
-Punt Returns (Number-Yards)	6 - 19
-Kickoff Returns (Number-Yards)	2 - 64
-Interception Returns (Number-Yards)	1 - 23
-Penalties (Number-Yards)	8 - 52
-Fumbles (Number-Lost)	1 - 1
-Touchdowns	6
-Rushing	1
-Passing	4
-Interceptions	1
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	5 - 6
-Kicking (Made-Attempted)	5 - 6
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	1/2 - 50%
-Goal To Go Efficiency	0/0 - 0%
-Safeties	0
-Final Score	44
-Time of Possession	32:05
-
-Passing	CP/AT	YDS	TD	INT
-R. Tannehill	28/44	300	0	2
-Rushing	ATT	YDS	TD	LG
-L. Miller	9	15	1	8
-J. Gray	2	1	0	1
-R. Tannehill	2	-1	0	0
-Receiving	REC	YDS	TD	LG
-J. Landry	6	71	0	18
-R. Matthews	7	62	0	17
-K. Stills	3	58	0	25
-J. Gray	4	50	0	25
-J. Cameron	2	34	0	29
-L. Miller	5	19	0	8
-D. Sims	1	6	0	6
-Fumbles	FUM	LOST	REC	YDS
-J. Landry	1	0	0	0
-R. Tannehill	1	0	0	-9
-Kicking	FG	LG	XP	PTS
-A. Franks	0/1	0	1/1	1
-Punting	NO	AVG	I20	LG
-M. Darr	6	45.2	1	70
-Kickoff Returns	NO	AVG	TD	LG
-J. Landry	2	34	0	50
-Punt Returns	NO	AVG	TD	LG
-J. Landry	4	2	0	6
-Defense	T-A	SCK	INT	FF
-R. Jones	5-3	0.0	0	0
-K. Sheppard	5-3	0.0	0	0
-J. Taylor	4-3	0.0	0	0
-W. Aikens	3-1	0.0	0	0
-J. Jenkins	3-2	0.0	0	0
-K. Misi	3-3	0.0	0	0
-B. Grimes	2-0	0.0	0	0
-M. Thomas	2-3	0.0	0	0
-Bo. McCain	1-2	0.0	0	0
-S. Paysinger	1-0	0.0	0	0
-J. Phillips	1-1	0.0	0	0
-D. Shelby	1-1	0.0	0	0
-O. Vernon	1-4	1.0	0	0
-C. Wake	1-1	1.0	0	0
-T. Fede	0-2	0.0	0	0
-C. Mosley	0-1	0.0	0	0
-N. Suh	0-2	0.0	0	0
-Total First Downs	18
-By Rushing	2
-By Passing	16
-By Penalty	
-Third Down Efficiency	2/11 - 18%
-Fourth Down Efficiency	1/2 - 50%
-Total Net Yards	270
-Total Rushing/Passing Plays (includes Sacks)	62
-Average Gain per Offensive Play	4.4
-Net Yards Rushing	15
-Total Rushing Plays	13
-Average Gain per Rushing Play	1.2
-Tackled for a Loss (Number-Yards)	3--4
-Net Yards Passing	255
-Times Sacked (Number-Yards)	5 - 45
-Gross Yards Passing	300
-Pass Comp-Att-Int	28 - 44 - 2
-Average Gain per Passing Play (includes Sacks)	5.2
-Kickoffs (Number-In End Zone-Touchbacks)	3 - 2 - 2
-Punts (Number-Average)	6 - 58.2
-Blocked	0
-Net Punting Average	45.2
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	9
-Punt Returns (Number-Yards)	4 - 9
-Kickoff Returns (Number-Yards)	2 - 68
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	7 - 40
-Fumbles (Number-Lost)	2 - 0
-Touchdowns	1
-Rushing	1
-Passing	0
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	1 - 1
-Kicking (Made-Attempted)	1 - 1
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 1
-Red Zone Efficiency	1/2 - 50%
-Goal To Go Efficiency	1/1 - 100%
-Safeties	0
-Final Score	7
-Time of Possession	27:23
-
-Passing	CP/AT	YDS	TD	INT
-R. Tannehill	26/35	307	0	0
-J. Landry	1/1	9	0	0
-Rushing	ATT	YDS	TD	LG
-L. Miller	12	44	2	14
-J. Ajayi	5	41	0	23
-J. Landry	5	20	0	9
-R. Tannehill	2	3	0	3
-Receiving	REC	YDS	TD	LG
-L. Miller	7	97	0	27
-K. Stills	3	74	0	46
-J. Landry	10	67	0	24
-R. Matthews	4	54	0	21
-D. Sims	1	9	0	9
-R. Tannehill	1	9	0	9
-J. Cameron	1	6	0	6
-Fumbles	FUM	LOST	REC	YDS
-R. Tannehill	2	1	0	-6
-Da. Williams	1	0	1	0
-Kicking	FG	LG	XP	PTS
-A. Franks	1/1	48	2/2	5
-Punting	NO	AVG	I20	LG
-M. Darr	3	31.3	2	48
-Kickoff Returns	NO	AVG	TD	LG
-Da. Williams	3	12	0	19
-J. Landry	1	14	0	14
-Punt Returns	NO	AVG	TD	LG
-J. Landry	2	9	0	18
-Defense	T-A	SCK	INT	FF
-B. Grimes	7-0	0.0	0	0
-R. Jones	6-1	1.0	0	0
-K. Misi	5-0	0.0	0	0
-O. Vernon	5-2	0.0	0	0
-K. Sheppard	4-0	0.0	0	0
-J. Jenkins	3-0	0.0	0	0
-J. Taylor	3-0	0.0	0	0
-M. Thomas	3-1	0.0	0	0
-Br. McCain	1-0	0.0	0	0
-C. McCain	1-0	0.0	0	0
-E. Mitchell	1-1	0.0	0	0
-J. Phillips	1-0	1.0	0	0
-D. Shelby	1-1	0.0	0	0
-N. Suh	1-2	1.0	0	0
-W. Aikens	0-1	0.0	0	0
-Total First Downs	29
-By Rushing	6
-By Passing	16
-By Penalty	
-Third Down Efficiency	4/9 - 44%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	397
-Total Rushing/Passing Plays (includes Sacks)	62
-Average Gain per Offensive Play	6.4
-Net Yards Rushing	108
-Total Rushing Plays	24
-Average Gain per Rushing Play	4.5
-Tackled for a Loss (Number-Yards)	1--2
-Net Yards Passing	289
-Times Sacked (Number-Yards)	2 - 27
-Gross Yards Passing	316
-Pass Comp-Att-Int	27 - 36 - 0
-Average Gain per Passing Play (includes Sacks)	7.6
-Kickoffs (Number-In End Zone-Touchbacks)	5 - 1 - 1
-Punts (Number-Average)	3 - 38.0
-Blocked	0
-Net Punting Average	31.3
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	18
-Punt Returns (Number-Yards)	2 - 18
-Kickoff Returns (Number-Yards)	4 - 50
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	8 - 62
-Fumbles (Number-Lost)	3 - 1
-Touchdowns	2
-Rushing	2
-Passing	0
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	2/4 - 50%
-Goal To Go Efficiency	2/3 - 66%
-Safeties	0
-Final Score	17
-Time of Possession	28:47
-
-Passing	CP/AT	YDS	TD	INT
-R. Tannehill	21/36	217	2	0
-Rushing	ATT	YDS	TD	LG
-J. Ajayi	6	48	0	24
-L. Miller	16	43	0	11
-J. Landry	1	6	0	6
-R. Matthews	1	4	0	4
-R. Tannehill	2	-2	0	-1
-Receiving	REC	YDS	TD	LG
-R. Matthews	5	93	0	43
-J. Landry	7	52	1	18
-L. Miller	6	50	1	35
-G. Jennings	1	9	0	9
-D. Sims	1	8	0	8
-J. Cameron	1	5	0	5
-Fumbles	FUM	LOST	REC	YDS
-R. Tannehill	1	0	0	0
-C. McCain	0	0	0	0
-D. Shelby	0	0	0	0
-Kicking	FG	LG	XP	PTS
-A. Franks	2/2	42	2/2	8
-Punting	NO	AVG	I20	LG
-M. Darr	8	42.0	1	64
-Kickoff Returns	NO	AVG	TD	LG
-Da. Williams	2	21	0	37
-Punt Returns	NO	AVG	TD	LG
-J. Landry	3	3	0	6
-Defense	T-A	SCK	INT	FF
-K. Sheppard	8-3	0.0	0	0
-N. Suh	7-2	1.0	0	0
-N. Hewitt	6-0	0.0	0	0
-R. Jones	6-3	1.0	1	0
-K. Misi	6-1	0.0	0	0
-W. Aikens	5-1	0.0	0	0
-J. Jenkins	4-1	0.0	0	0
-O. Vernon	4-0	0.0	0	0
-D. Shelby	3-0	1.0	0	1
-J. Taylor	3-0	0.0	0	0
-M. Thomas	3-1	0.0	0	0
-Br. McCain	2-0	0.0	0	0
-C. Mosley	2-0	0.0	0	0
-Bo. McCain	1-1	0.0	0	0
-T. Fede	1-0	0.0	0	0
-M. Hull	1-0	0.0	0	0
-T. Lippett	1-0	0.0	0	0
-C. McCain	1-0	1.0	0	1
-E. Mitchell	1-0	0.0	0	0
-Total First Downs	15
-By Rushing	4
-By Passing	11
-By Penalty	
-Third Down Efficiency	5/15 - 33%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	289
-Total Rushing/Passing Plays (includes Sacks)	66
-Average Gain per Offensive Play	4.4
-Net Yards Rushing	99
-Total Rushing Plays	26
-Average Gain per Rushing Play	3.8
-Tackled for a Loss (Number-Yards)	3--5
-Net Yards Passing	190
-Times Sacked (Number-Yards)	4 - 27
-Gross Yards Passing	217
-Pass Comp-Att-Int	21 - 36 - 0
-Average Gain per Passing Play (includes Sacks)	4.8
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 4 - 4
-Punts (Number-Average)	8 - 49.1
-Blocked	0
-Net Punting Average	42.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	16
-Punt Returns (Number-Yards)	3 - 9
-Kickoff Returns (Number-Yards)	2 - 42
-Interception Returns (Number-Yards)	1 - 7
-Penalties (Number-Yards)	8 - 84
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	2
-Rushing	0
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 2
-Red Zone Efficiency	2/4 - 50%
-Goal To Go Efficiency	1/2 - 50%
-Safeties	0
-Final Score	20
-Time of Possession	28:53
-
-Passing	CP/AT	YDS	TD	INT
-R. Tannehill	13/24	188	2	1
-Rushing	ATT	YDS	TD	LG
-L. Miller	7	44	0	16
-J. Ajayi	4	13	0	5
-R. Tannehill	3	13	0	7
-Receiving	REC	YDS	TD	LG
-J. Landry	4	66	0	47
-K. Stills	2	52	1	29T
-J. Ajayi	2	23	0	20
-J. Cameron	2	21	1	12T
-R. Matthews	1	15	0	15
-L. Miller	2	11	0	11
-Fumbles	FUM	LOST	REC	YDS
-M. Pouncey	1	0	0	0
-R. Tannehill	0	0	1	0
-Kicking	FG	LG	XP	PTS
-A. Franks	0/0	0	2/2	2
-Punting	NO	AVG	I20	LG
-M. Darr	7	38.1	5	50
-Kickoff Returns	NO	AVG	TD	LG
-J. Landry	2	16	0	33
-Z. Vigil	1	6	0	6
-Punt Returns	NO	AVG	TD	LG
-J. Landry	1	12	0	12
-Defense	T-A	SCK	INT	FF
-K. Sheppard	10-4	0.0	0	0
-R. Jones	7-1	0.0	0	0
-B. Grimes	4-1	0.0	1	0
-N. Suh	4-3	0.0	0	0
-J. Taylor	4-2	0.0	0	0
-M. Thomas	3-0	0.0	0	0
-O. Vernon	3-2	1.0	0	0
-N. Hewitt	2-2	0.0	1	0
-J. Phillips	2-0	0.0	0	0
-D. Shelby	2-1	1.0	0	0
-Z. Vigil	2-1	0.0	0	0
-W. Aikens	1-0	0.0	0	0
-Z. Bowman	1-0	0.0	0	0
-E. Mitchell	1-0	0.0	0	0
-C. Mosley	0-1	0.0	0	0
-Total First Downs	9
-By Rushing	2
-By Passing	6
-By Penalty	
-Third Down Efficiency	1/10 - 10%
-Fourth Down Efficiency	0/1 - 0%
-Total Net Yards	210
-Total Rushing/Passing Plays (includes Sacks)	41
-Average Gain per Offensive Play	5.1
-Net Yards Rushing	70
-Total Rushing Plays	14
-Average Gain per Rushing Play	5.0
-Tackled for a Loss (Number-Yards)	1--1
-Net Yards Passing	140
-Times Sacked (Number-Yards)	3 - 48
-Gross Yards Passing	188
-Pass Comp-Att-Int	13 - 24 - 1
-Average Gain per Passing Play (includes Sacks)	5.2
-Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 3
-Punts (Number-Average)	7 - 43.6
-Blocked	0
-Net Punting Average	38.1
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	29
-Punt Returns (Number-Yards)	1 - 12
-Kickoff Returns (Number-Yards)	3 - 39
-Interception Returns (Number-Yards)	2 - 17
-Penalties (Number-Yards)	9 - 74
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	2
-Rushing	0
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	1/1 - 100%
-Goal To Go Efficiency	0/0 - 0%
-Safeties	0
-Final Score	14
-Time of Possession	21:10
-
-Passing	CP/AT	YDS	TD	INT
-R. Tannehill	33/58	351	3	1
-Rushing	ATT	YDS	TD	LG
-J. Ajayi	3	6	0	5
-J. Landry	1	4	0	4
-L. Miller	5	2	0	2
-Receiving	REC	YDS	TD	LG
-J. Landry	13	165	1	40
-D. Parker	4	80	1	33T
-J. Ajayi	4	52	0	15
-J. Cameron	2	13	0	7
-K. Stills	2	12	0	7
-L. Miller	3	11	0	17
-Da. Williams	2	10	0	7
-G. Jennings	2	9	1	5T
-D. Sims	1	-1	0	-1
-Fumbles	FUM	LOST	REC	YDS
-J. Douglas	3	0	0	0
-R. Tannehill	1	1	3	0
-Kicking	FG	LG	XP	PTS
-A. Franks	0/0	0	2/3	2
-Punting	NO	AVG	I20	LG
-M. Darr	8	33.0	2	55
-Kickoff Returns	NO	AVG	TD	LG
-Da. Williams	4	23	0	28
-Punt Returns	NO	AVG	TD	LG
-B. Grimes	3	14	0	28
-J. Landry	1	3	0	3
-Defense	T-A	SCK	INT	FF
-B. Grimes	5-0	0.0	0	0
-R. Jones	5-1	0.0	0	0
-Br. McCain	4-0	0.0	0	0
-K. Sheppard	4-5	0.0	0	0
-M. Thomas	4-4	0.0	0	0
-O. Vernon	4-1	1.0	0	0
-K. Misi	3-0	0.0	0	0
-N. Hewitt	2-2	0.0	0	0
-E. Mitchell	2-1	0.0	0	0
-J. Phillips	2-0	0.0	0	0
-J. Taylor	2-1	0.0	0	0
-S. Gary	1-1	0.0	0	0
-J. Jenkins	1-1	0.0	0	0
-N. Suh	1-3	0.0	0	0
-D. Shelby	0-2	0.0	0	0
-Total First Downs	20
-By Rushing	0
-By Passing	19
-By Penalty	
-Third Down Efficiency	4/15 - 26%
-Fourth Down Efficiency	2/2 - 100%
-Total Net Yards	333
-Total Rushing/Passing Plays (includes Sacks)	70
-Average Gain per Offensive Play	4.8
-Net Yards Rushing	12
-Total Rushing Plays	9
-Average Gain per Rushing Play	1.3
-Tackled for a Loss (Number-Yards)	1--1
-Net Yards Passing	321
-Times Sacked (Number-Yards)	3 - 30
-Gross Yards Passing	351
-Pass Comp-Att-Int	33 - 58 - 1
-Average Gain per Passing Play (includes Sacks)	5.3
-Kickoffs (Number-In End Zone-Touchbacks)	4 - 1 - 1
-Punts (Number-Average)	8 - 45.0
-Blocked	0
-Net Punting Average	33.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	47
-Punt Returns (Number-Yards)	4 - 47
-Kickoff Returns (Number-Yards)	4 - 92
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	6 - 45
-Fumbles (Number-Lost)	4 - 1
-Touchdowns	3
-Rushing	0
-Passing	3
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 3
-Kicking (Made-Attempted)	2 - 3
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	2/3 - 66%
-Goal To Go Efficiency	2/2 - 100%
-Safeties	0
-Final Score	20
-Time of Possession	28:44
-
-Passing	CP/AT	YDS	TD	INT
-R. Tannehill	9/19	86	1	0
-Rushing	ATT	YDS	TD	LG
-L. Miller	20	113	0	22
-J. Ajayi	4	12	0	4
-R. Tannehill	1	11	0	11
-Da. Williams	1	1	0	1
-Receiving	REC	YDS	TD	LG
-D. Parker	3	63	1	38T
-Da. Williams	1	5	0	5
-J. Landry	2	5	0	6
-L. Miller	1	5	0	5
-J. Cameron	1	4	0	4
-D. Sims	1	4	0	4
-Fumbles	FUM	LOST	REC	YDS
-L. Miller	1	1	0	0
-Kicking	FG	LG	XP	PTS
-A. Franks	0/0	0	1/1	1
-Punting	NO	AVG	I20	LG
-M. Darr	9	38.3	2	59
-Kickoff Returns	NO	AVG	TD	LG
-Da. Williams	2	21	0	22
-Punt Returns	NO	AVG	TD	LG
-B. Grimes	1	15	0	15
-J. Landry	1	0	0	0
-Defense	T-A	SCK	INT	FF
-Bo. McCain	7-0	0.0	0	0
-R. Jones	7-3	0.0	1	0
-K. Sheppard	5-3	0.0	0	0
-O. Vernon	4-2	2.5	0	0
-B. Grimes	3-1	0.0	0	0
-J. Jenkins	3-4	0.0	0	0
-K. Misi	3-4	0.0	0	0
-M. Thomas	3-3	0.0	0	0
-Br. McCain	2-0	0.0	0	0
-S. Gary	2-1	0.0	0	0
-D. Shelby	2-1	0.5	1	0
-N. Suh	2-2	0.0	0	0
-T. Fede	1-0	0.0	0	0
-N. Hewitt	1-1	0.0	0	0
-J. Phillips	1-3	0.0	0	0
-R. Thomas	0-1	0.0	0	0
-Total First Downs	8
-By Rushing	5
-By Passing	3
-By Penalty	
-Third Down Efficiency	4/13 - 30%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	219
-Total Rushing/Passing Plays (includes Sacks)	46
-Average Gain per Offensive Play	4.8
-Net Yards Rushing	137
-Total Rushing Plays	26
-Average Gain per Rushing Play	5.3
-Tackled for a Loss (Number-Yards)	2--2
-Net Yards Passing	82
-Times Sacked (Number-Yards)	1 - 4
-Gross Yards Passing	86
-Pass Comp-Att-Int	9 - 19 - 0
-Average Gain per Passing Play (includes Sacks)	4.1
-Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 2
-Punts (Number-Average)	9 - 45.8
-Blocked	0
-Net Punting Average	38.3
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	39
-Punt Returns (Number-Yards)	2 - 15
-Kickoff Returns (Number-Yards)	2 - 42
-Interception Returns (Number-Yards)	2 - 24
-Penalties (Number-Yards)	5 - 31
-Fumbles (Number-Lost)	1 - 1
-Touchdowns	2
-Rushing	0
-Passing	1
-Interceptions	1
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	1 - 1
-Two Point Conversions (Made-Attempted)	1 - 1
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	0/0 - 0%
-Goal To Go Efficiency	0/0 - 0%
-Safeties	0
-Final Score	15
-Time of Possession	21:51
-
-Passing	CP/AT	YDS	TD	INT
-R. Tannehill	25/41	236	1	0
-Rushing	ATT	YDS	TD	LG
-L. Miller	12	89	2	38T
-R. Tannehill	4	24	0	12
-J. Ajayi	5	15	0	9
-J. Landry	1	0	0	0
-Receiving	REC	YDS	TD	LG
-J. Landry	11	99	0	25
-K. Stills	2	49	1	47T
-J. Cameron	3	35	0	17
-D. Parker	2	16	0	14
-D. Sims	3	14	0	8
-G. Jennings	2	12	0	7
-Da. Williams	2	11	0	7
-Fumbles	FUM	LOST	REC	YDS
-J. Cameron	1	0	1	0
-D. Sims	1	1	0	0
-R. Jones	0	0	1	9
-Kicking	FG	LG	XP	PTS
-A. Franks	1/1	36	3/3	6
-Punting	NO	AVG	I20	LG
-M. Darr	6	37.5	4	68
-Kickoff Returns	NO	AVG	TD	LG
-J. Landry	2	33	0	36
-Da. Williams	1	23	0	23
-J. Ajayi	1	20	0	20
-Punt Returns	NO	AVG	TD	LG
-J. Landry	2	15	0	20
-Defense	T-A	SCK	INT	FF
-R. Jones	9-1	0.0	0	0
-Br. McCain	6-0	0.0	0	0
-J. Jenkins	6-2	0.0	0	0
-K. Misi	5-1	0.0	0	0
-M. Thomas	5-0	0.0	0	0
-B. Grimes	3-0	0.0	0	0
-K. Sheppard	3-2	0.0	0	0
-N. Suh	3-1	0.0	0	0
-Bo. McCain	2-0	0.0	0	0
-O. Vernon	2-0	0.0	0	0
-S. Gary	1-0	0.0	0	0
-J. Phillips	1-0	0.0	0	0
-D. Shelby	1-1	0.0	0	0
-Total First Downs	16
-By Rushing	6
-By Passing	10
-By Penalty	
-Third Down Efficiency	7/16 - 43%
-Fourth Down Efficiency	1/2 - 50%
-Total Net Yards	363
-Total Rushing/Passing Plays (includes Sacks)	64
-Average Gain per Offensive Play	5.7
-Net Yards Rushing	128
-Total Rushing Plays	22
-Average Gain per Rushing Play	5.8
-Tackled for a Loss (Number-Yards)	0-0
-Net Yards Passing	235
-Times Sacked (Number-Yards)	1 - 1
-Gross Yards Passing	236
-Pass Comp-Att-Int	25 - 41 - 0
-Average Gain per Passing Play (includes Sacks)	5.6
-Kickoffs (Number-In End Zone-Touchbacks)	5 - 5 - 4
-Punts (Number-Average)	6 - 46.7
-Blocked	0
-Net Punting Average	37.5
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	30
-Punt Returns (Number-Yards)	2 - 30
-Kickoff Returns (Number-Yards)	4 - 109
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	12 - 123
-Fumbles (Number-Lost)	2 - 1
-Touchdowns	3
-Rushing	2
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 3
-Kicking (Made-Attempted)	3 - 3
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	1/2 - 50%
-Goal To Go Efficiency	0/0 - 0%
-Safeties	0
-Final Score	24
-Time of Possession	29:29
-
-Passing	CP/AT	YDS	TD	INT
-R. Tannehill	20/34	216	0	0
-Rushing	ATT	YDS	TD	LG
-J. Ajayi	6	27	1	12T
-L. Miller	9	12	0	7
-R. Tannehill	3	4	1	2
-Da. Williams	1	1	0	1
-Receiving	REC	YDS	TD	LG
-D. Parker	4	87	0	35
-J. Landry	8	54	0	14
-K. Stills	1	23	0	23
-J. Ajayi	1	15	0	15
-L. Miller	2	12	0	11
-Da. Williams	2	11	0	6
-D. Sims	1	9	0	9
-J. Cameron	1	5	0	5
-Fumbles	FUM	LOST	REC	YDS
-R. Jones	1	1	0	0
-R. Tannehill	1	0	0	0
-M. Pouncey	0	0	1	0
-Kicking	FG	LG	XP	PTS
-A. Franks	0/0	0	2/2	2
-Punting	NO	AVG	I20	LG
-M. Darr	8	40.3	1	53
-Kickoff Returns	NO	AVG	TD	LG
-Da. Williams	2	24	0	26
-R. Jones	2	21	0	25
-Punt Returns	NO	AVG	TD	LG
-J. Landry	3	5	0	16
-Defense	T-A	SCK	INT	FF
-K. Sheppard	10-1	0.0	0	0
-M. Thomas	10-1	0.0	0	0
-R. Jones	8-0	0.0	1	0
-O. Vernon	6-5	0.5	0	0
-N. Suh	4-0	0.5	0	0
-Bo. McCain	3-0	0.0	0	0
-D. Coleman	3-0	0.0	0	0
-K. Misi	3-1	0.0	0	0
-B. Grimes	2-1	0.0	1	0
-N. Hewitt	2-1	0.0	0	0
-D. Shelby	2-2	0.0	0	0
-T. Lippett	1-1	0.0	0	0
-D. Moore	1-0	0.0	0	0
-S. Paysinger	1-1	0.0	0	0
-J. Phillips	1-0	0.0	0	0
-Z. Vigil	1-0	0.0	0	0
-Total First Downs	13
-By Rushing	4
-By Passing	8
-By Penalty	
-Third Down Efficiency	2/14 - 14%
-Fourth Down Efficiency	3/3 - 100%
-Total Net Yards	231
-Total Rushing/Passing Plays (includes Sacks)	56
-Average Gain per Offensive Play	4.1
-Net Yards Rushing	44
-Total Rushing Plays	19
-Average Gain per Rushing Play	2.3
-Tackled for a Loss (Number-Yards)	3--9
-Net Yards Passing	187
-Times Sacked (Number-Yards)	3 - 29
-Gross Yards Passing	216
-Pass Comp-Att-Int	20 - 34 - 0
-Average Gain per Passing Play (includes Sacks)	5.1
-Kickoffs (Number-In End Zone-Touchbacks)	3 - 2 - 2
-Punts (Number-Average)	8 - 45.8
-Blocked	0
-Net Punting Average	40.3
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	59
-Punt Returns (Number-Yards)	3 - 16
-Kickoff Returns (Number-Yards)	4 - 92
-Interception Returns (Number-Yards)	2 - 43
-Penalties (Number-Yards)	9 - 72
-Fumbles (Number-Lost)	2 - 1
-Touchdowns	2
-Rushing	2
-Passing	0
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	2/2 - 100%
-Goal To Go Efficiency	1/1 - 100%
-Safeties	0
-Final Score	14
-Time of Possession	21:07
-
-Passing	CP/AT	YDS	TD	INT
-R. Tannehill	26/38	329	0	1
-Rushing	ATT	YDS	TD	LG
-L. Miller	15	31	1	7
-R. Tannehill	1	28	0	28
-J. Ajayi	9	23	0	10
-Receiving	REC	YDS	TD	LG
-J. Landry	7	111	0	26
-D. Parker	4	93	0	49
-L. Miller	5	36	0	14
-J. Cameron	3	34	0	15
-Da. Williams	3	33	0	23
-K. Stills	3	14	0	9
-D. Sims	1	8	0	8
-Fumbles	FUM	LOST	REC	YDS
-Kicking	FG	LG	XP	PTS
-A. Franks	2/2	33	0/0	6
-Punting	NO	AVG	I20	LG
-M. Darr	3	40.7	1	59
-Kickoff Returns	NO	AVG	TD	LG
-Punt Returns	NO	AVG	TD	LG
-J. Landry	1	15	0	15
-Defense	T-A	SCK	INT	FF
-T. Lippett	5-0	0.0	0	0
-K. Sheppard	4-2	0.0	0	0
-Br. McCain	3-0	0.0	0	0
-S. Gary	3-0	0.0	0	0
-R. Jones	3-3	0.0	0	0
-Z. Vigil	3-0	0.0	0	0
-B. Grimes	2-0	0.0	0	0
-N. Hewitt	2-1	0.0	0	0
-D. Moore	2-0	1.0	0	0
-O. Vernon	2-0	0.0	0	0
-J. Jenkins	1-0	0.0	0	0
-J. Phillips	1-0	0.0	0	0
-D. Shelby	1-1	0.0	0	0
-N. Suh	1-2	1.0	0	0
-M. Thomas	1-0	0.0	0	0
-Total First Downs	22
-By Rushing	4
-By Passing	16
-By Penalty	
-Third Down Efficiency	6/15 - 40%
-Fourth Down Efficiency	0/1 - 0%
-Total Net Yards	361
-Total Rushing/Passing Plays (includes Sacks)	69
-Average Gain per Offensive Play	5.2
-Net Yards Rushing	82
-Total Rushing Plays	25
-Average Gain per Rushing Play	3.3
-Tackled for a Loss (Number-Yards)	5--14
-Net Yards Passing	279
-Times Sacked (Number-Yards)	6 - 50
-Gross Yards Passing	329
-Pass Comp-Att-Int	26 - 38 - 1
-Average Gain per Passing Play (includes Sacks)	6.3
-Kickoffs (Number-In End Zone-Touchbacks)	5 - 4 - 2
-Punts (Number-Average)	3 - 52.3
-Blocked	0
-Net Punting Average	40.7
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	15
-Punt Returns (Number-Yards)	1 - 15
-Kickoff Returns (Number-Yards)	0 - 0
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	9 - 50
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	1
-Rushing	1
-Passing	0
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	0 - 1
-Kicking (Made-Attempted)	0 - 0
-Two Point Conversions (Made-Attempted)	0 - 1
-Field Goals (Made-Attempted)	2 - 2
-Red Zone Efficiency	1/5 - 20%
-Goal To Go Efficiency	1/4 - 25%
-Safeties	0
-Final Score	12
-Time of Possession	32:49
-
-Passing	CP/AT	YDS	TD	INT
-R. Tannehill	25/38	350	2	0
-Rushing	ATT	YDS	TD	LG
-L. Miller	19	60	0	29
-R. Tannehill	3	17	0	19
-Da. Williams	3	11	0	8
-J. Landry	2	6	0	5
-J. Ajayi	7	2	0	4
-Receiving	REC	YDS	TD	LG
-D. Parker	5	106	1	46
-G. Jennings	4	74	0	31
-J. Landry	6	72	0	19
-D. Sims	3	40	0	22
-Da. Williams	3	38	0	22
-K. Stills	1	11	0	11
-J. Cameron	2	6	1	4
-L. Miller	1	3	0	3
-Fumbles	FUM	LOST	REC	YDS
-J. Douglas	1	0	0	0
-D. Shelby	0	0	0	0
-R. Tannehill	0	0	1	0
-Kicking	FG	LG	XP	PTS
-A. Franks	2/3	38	2/2	8
-Punting	NO	AVG	I20	LG
-M. Darr	5	39.2	2	56
-Kickoff Returns	NO	AVG	TD	LG
-Punt Returns	NO	AVG	TD	LG
-J. Landry	3	14	0	23
-Defense	T-A	SCK	INT	FF
-D. Shelby	5-0	1.0	0	1
-M. Thomas	5-1	0.0	0	0
-N. Hewitt	4-2	0.0	0	0
-R. Jones	4-0	0.0	0	0
-K. Sheppard	4-1	0.0	0	0
-O. Vernon	3-3	0.5	0	0
-Br. McCain	2-1	0.0	0	0
-T. Lippett	2-0	0.0	0	0
-J. Phillips	2-0	0.0	0	0
-N. Suh	2-2	0.5	0	0
-D. Coleman	1-0	0.0	0	0
-B. Grimes	1-0	0.0	0	0
-S. Gary	0-1	0.0	0	0
-D. Moore	0-1	0.0	0	0
-Total First Downs	20
-By Rushing	4
-By Passing	16
-By Penalty	
-Third Down Efficiency	8/17 - 47%
-Fourth Down Efficiency	0/1 - 0%
-Total Net Yards	438
-Total Rushing/Passing Plays (includes Sacks)	73
-Average Gain per Offensive Play	6.0
-Net Yards Rushing	96
-Total Rushing Plays	34
-Average Gain per Rushing Play	2.8
-Tackled for a Loss (Number-Yards)	5--10
-Net Yards Passing	342
-Times Sacked (Number-Yards)	1 - 8
-Gross Yards Passing	350
-Pass Comp-Att-Int	25 - 38 - 0
-Average Gain per Passing Play (includes Sacks)	8.8
-Kickoffs (Number-In End Zone-Touchbacks)	5 - 5 - 5
-Punts (Number-Average)	5 - 48.6
-Blocked	0
-Net Punting Average	39.2
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	43
-Punt Returns (Number-Yards)	3 - 43
-Kickoff Returns (Number-Yards)	0 - 0
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	10 - 93
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	2
-Rushing	0
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 3
-Red Zone Efficiency	2/4 - 50%
-Goal To Go Efficiency	1/2 - 50%
-Safeties	0
-Final Score	20
-Time of Possession	31:05
-
+1	Total First Downs	19			
+1	By Rushing	5			
+1	By Passing	12			
+1	By Penalty				
+1	Third Down Efficiency	5/12 - 41%			
+1	Fourth Down Efficiency	0/1 - 0%			
+1	Total Net Yards	256			
+1	Total Rushing/Passing Plays (includes Sacks)	55			
+1	Average Gain per Offensive Play	4.7			
+1	Net Yards Rushing	74			
+1	Total Rushing Plays	18			
+1	Average Gain per Rushing Play	4.1			
+1	Tackled for a Loss (Number-Yards)	1--6			
+1	Net Yards Passing	182			
+1	Times Sacked (Number-Yards)	3 - 44			
+1	Gross Yards Passing	226			
+1	Pass Comp-Att-Int	22 - 34 - 0			
+1	Average Gain per Passing Play (includes Sacks)	4.9			
+1	Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 3			
+1	Punts (Number-Average)	4 - 54.3			
+1	Blocked	0			
+1	Net Punting Average	43.5			
+1	FGs Blocked - PATs Blocked	0 - 0			
+1	Total Return Yardage (excludes Kickoffs)	76			
+1	Punt Returns (Number-Yards)	2 - 74			
+1	Kickoff Returns (Number-Yards)	2 - 54			
+1	Interception Returns (Number-Yards)	2 - 2			
+1	Penalties (Number-Yards)	6 - 39			
+1	Fumbles (Number-Lost)	2 - 1			
+1	Touchdowns	2			
+1	Rushing	0			
+1	Passing	1			
+1	Interceptions	0			
+1	Kickoff Returns	0			
+1	Fumble Returns	0			
+1	Punt Returns	1			
+1	Extra Points (Made-Attempted)	2 - 2			
+1	Kicking (Made-Attempted)	2 - 2			
+1	Two Point Conversions (Made-Attempted)	0 - 0			
+1	Field Goals (Made-Attempted)	1 - 1			
+1	Red Zone Efficiency	1/3 - 33%			
+1	Goal To Go Efficiency	1/2 - 50%			
+1	Safeties	0			
+1	Final Score	17			
+1	Time of Possession	22:06			
+					
+2	Passing 	CP/AT 	YDS 	TD 	INT
+2	R. Tannehill 	30/44 	359 	2 	0
+2	Rushing 	ATT 	YDS 	TD 	LG
+2	R. Tannehill 	3 	17 	0 	9
+2	L. Miller 	10 	14 	0 	6
+2	J. Landry 	1 	6 	0 	6
+2	D. Williams 	2 	5 	0 	3
+2	Receiving 	REC 	YDS 	TD 	LG
+2	R. Matthews 	6 	115 	0 	48
+2	J. Landry 	8 	110 	0 	36
+2	J. Cameron 	3 	62 	0 	26
+2	L. Miller 	5 	28 	0 	12
+2	J. Stoneburner 	2 	18 	1 	13
+2	D. Williams 	3 	15 	1 	10T
+2	K. Stills 	2 	8 	0 	8
+2	D. Parker 	1 	3 	0 	3
+2	Fumbles 	FUM 	LOST 	REC 	YDS
+2	R. Tannehill 	1 	0 	0 	0
+2	J. Fox 	0 	0 	1 	0
+2	Kicking 	FG 	LG 	XP 	PTS
+2	A. Franks 	2/3 	48 	2/2 	8
+2	Punting 	NO 	AVG 	I20 	LG
+2	M. Darr 	6 	39.5 	0 	54
+2	Kickoff Returns 	NO 	AVG 	TD 	LG
+2	R. Mostert 	2 	28 	0 	32
+2	Punt Returns 	NO 	AVG 	TD 	LG
+2	J. Landry 	3 	8 	0 	19
+2	Defense 	T-A 	SCK 	INT 	FF
+2	J. Jenkins 	9-3 	0.0 	0 	0
+2	R. Jones 	8-3 	0.0 	0 	0
+2	B. Grimes 	5-1 	0.0 	0 	0
+2	W. Aikens 	2-2 	0.0 	0 	0
+2	K. Misi 	2-2 	0.0 	0 	0
+2	K. Sheppard 	2-2 	0.0 	0 	0
+2	M. Thomas 	2-0 	0.0 	0 	0
+2	Br. McCain 	1-1 	0.0 	0 	0
+2	T. Fede 	1-0 	0.0 	0 	0
+2	E. Mitchell 	1-0 	0.0 	0 	0
+2	S. Paysinger 	1-0 	0.0 	0 	0
+2	D. Shelby 	1-1 	0.0 	0 	0
+2	N. Suh 	1-0 	0.0 	0 	0
+2	J. Taylor 	1-1 	0.0 	0 	0
+2	O. Vernon 	1-0 	0.0 	0 	0
+2	Total First Downs	17			
+2	By Rushing	0			
+2	By Passing	15			
+2	By Penalty				
+2	Third Down Efficiency	5/15 - 33%			
+2	Fourth Down Efficiency	0/1 - 0%			
+2	Total Net Yards	386			
+2	Total Rushing/Passing Plays (includes Sacks)	62			
+2	Average Gain per Offensive Play	6.2			
+2	Net Yards Rushing	42			
+2	Total Rushing Plays	16			
+2	Average Gain per Rushing Play	2.6			
+2	Tackled for a Loss (Number-Yards)	2--7			
+2	Net Yards Passing	344			
+2	Times Sacked (Number-Yards)	2 - 15			
+2	Gross Yards Passing	359			
+2	Pass Comp-Att-Int	30 - 44 - 0			
+2	Average Gain per Passing Play (includes Sacks)	7.5			
+2	Kickoffs (Number-In End Zone-Touchbacks)	5 - 5 - 3			
+2	Punts (Number-Average)	6 - 48.2			
+2	Blocked	0			
+2	Net Punting Average	39.5			
+2	FGs Blocked - PATs Blocked	0 - 0			
+2	Total Return Yardage (excludes Kickoffs)	25			
+2	Punt Returns (Number-Yards)	3 - 25			
+2	Kickoff Returns (Number-Yards)	2 - 57			
+2	Interception Returns (Number-Yards)	0 - 0			
+2	Penalties (Number-Yards)	13 - 112			
+2	Fumbles (Number-Lost)	1 - 0			
+2	Touchdowns	2			
+2	Rushing	0			
+2	Passing	2			
+2	Interceptions	0			
+2	Kickoff Returns	0			
+2	Fumble Returns	0			
+2	Punt Returns	0			
+2	Extra Points (Made-Attempted)	2 - 2			
+2	Kicking (Made-Attempted)	2 - 2			
+2	Two Point Conversions (Made-Attempted)	0 - 0			
+2	Field Goals (Made-Attempted)	2 - 3			
+2	Red Zone Efficiency	2/2 - 100%			
+2	Goal To Go Efficiency	1/1 - 100%			
+2	Safeties	0			
+2	Final Score	20			
+2	Time of Possession	29:52			
+					
+3	Passing	CP/AT	YDS	TD	INT
+3	R. Tannehill	26/49	297	2	3
+3	Rushing	ATT	YDS	TD	LG
+3	J. Gray	9	49	0	11
+3	L. Miller	7	38	0	8
+3	D. Williams	2	17	0	14
+3	J. Landry	1	-1	0	-1
+3	R. Tannehill	1	-1	0	-1
+3	Receiving	REC	YDS	TD	LG
+3	R. Matthews	6	113	2	46T
+3	J. Landry	8	67	0	13
+3	D. Parker	3	46	0	19
+3	L. Miller	3	27	0	16
+3	J. Cameron	3	16	0	10
+3	J. Stoneburner	1	13	0	13
+3	G. Jennings	1	10	0	10
+3	D. Williams	1	5	0	5
+3	Fumbles	FUM	LOST	REC	YDS
+3	R. Tannehill	1	0	0	0
+3	J. James	0	0	1	0
+3	Kicking	FG	LG	XP	PTS
+3	A. Franks	0/0	0	0/1	0
+3	Punting	NO	AVG	I20	LG
+3	M. Darr	4	47.3	3	59
+3	Kickoff Returns	NO	AVG	TD	LG
+3	D. Williams	2	22	0	31
+3	J. Landry	1	18	0	18
+3	K. Sheppard	1	0	0	0
+3	Punt Returns	NO	AVG	TD	LG
+3	J. Landry	1	19	0	19
+3	Defense	T-A	SCK	INT	FF
+3	R. Jones	8-1	0.0	0	0
+3	K. Misi	6-0	0.0	0	0
+3	K. Sheppard	6-0	0.0	0	0
+3	Br. McCain	5-0	0.0	0	0
+3	M. Thomas	5-0	0.0	0	0
+3	N. Suh	4-0	0.0	0	0
+3	J. Jenkins	3-0	0.0	0	0
+3	B. Grimes	2-0	0.0	0	0
+3	D. Shelby	2-0	0.0	0	0
+3	W. Aikens	1-0	0.0	0	0
+3	A. Francis	1-0	0.0	0	0
+3	E. Mitchell	1-0	0.0	0	0
+3	J. Taylor	1-0	0.0	0	0
+3	O. Vernon	1-0	0.0	0	0
+3	T. Fede	0-1	0.0	0	0
+3	Z. Vigil	0-1	0.0	0	0
+3	C. Wake	0-1	0.0	0	0
+3	Total First Downs	21			
+3	By Rushing	7			
+3	By Passing	13			
+3	By Penalty				
+3	Third Down Efficiency	4/13 - 30%			
+3	Fourth Down Efficiency	1/4 - 25%			
+3	Total Net Yards	391			
+3	Total Rushing/Passing Plays (includes Sacks)	71			
+3	Average Gain per Offensive Play	5.5			
+3	Net Yards Rushing	102			
+3	Total Rushing Plays	20			
+3	Average Gain per Rushing Play	5.1			
+3	Tackled for a Loss (Number-Yards)	1--1			
+3	Net Yards Passing	289			
+3	Times Sacked (Number-Yards)	2 - 8			
+3	Gross Yards Passing	297			
+3	Pass Comp-Att-Int	26 - 49 - 3			
+3	Average Gain per Passing Play (includes Sacks)	5.7			
+3	Kickoffs (Number-In End Zone-Touchbacks)	3 - 2 - 2			
+3	Punts (Number-Average)	4 - 49.0			
+3	Blocked	0			
+3	Net Punting Average	47.3			
+3	FGs Blocked - PATs Blocked	0 - 0			
+3	Total Return Yardage (excludes Kickoffs)	19			
+3	Punt Returns (Number-Yards)	1 - 19			
+3	Kickoff Returns (Number-Yards)	4 - 63			
+3	Interception Returns (Number-Yards)	0 - 0			
+3	Penalties (Number-Yards)	6 - 36			
+3	Fumbles (Number-Lost)	1 - 0			
+3	Touchdowns	2			
+3	Rushing	0			
+3	Passing	2			
+3	Interceptions	0			
+3	Kickoff Returns	0			
+3	Fumble Returns	0			
+3	Punt Returns	0			
+3	Extra Points (Made-Attempted)	1 - 2			
+3	Kicking (Made-Attempted)	0 - 1			
+3	Two Point Conversions (Made-Attempted)	1 - 1			
+3	Field Goals (Made-Attempted)	0 - 0			
+3	Red Zone Efficiency	0/2 - 0%			
+3	Goal To Go Efficiency	0/2 - 0%			
+3	Safeties	0			
+3	Final Score	14			
+3	Time of Possession	28:07			
+					
+4	Passing	CP/AT	YDS	TD	INT
+4	R. Tannehill	19/44	198	2	2
+4	Rushing	ATT	YDS	TD	LG
+4	J. Landry	2	29	0	15
+4	L. Miller	7	26	0	13
+4	R. Tannehill	1	4	0	4
+4	J. Gray	1	0	0	0
+4	Receiving	REC	YDS	TD	LG
+4	K. Stills	5	81	1	42
+4	J. Landry	4	40	0	20
+4	J. Cameron	2	19	0	11
+4	R. Matthews	1	16	0	16
+4	J. Stoneburner	2	16	1	8T
+4	G. Jennings	3	15	0	9
+4	L. Miller	1	10	0	10
+4	D. Williams	1	1	0	1
+4	Fumbles	FUM	LOST	REC	YDS
+4	R. Tannehill	1	0	0	0
+4	L. Miller	0	0	1	0
+4	Kicking	FG	LG	XP	PTS
+4	A. Franks	0/0	0	2/2	2
+4	Punting	NO	AVG	I20	LG
+4	M. Darr	7	41.4	2	59
+4	Kickoff Returns	NO	AVG	TD	LG
+4	J. Landry	5	24	0	32
+4	D. Williams	1	19	0	19
+4	Punt Returns	NO	AVG	TD	LG
+4	J. Landry	3	22	0	28
+4	Defense	T-A	SCK	INT	FF
+4	R. Jones	10-1	0.0	0	0
+4	K. Misi	5-3	0.0	0	0
+4	S. Paysinger	4-1	0.0	0	0
+4	J. Taylor	4-0	0.0	0	0
+4	Br. McCain	3-1	0.0	0	0
+4	J. Jenkins	3-1	0.0	0	0
+4	N. Suh	3-0	0.0	0	0
+4	M. Thomas	3-0	0.0	0	0
+4	B. Grimes	2-0	0.0	0	0
+4	E. Mitchell	2-1	0.0	0	0
+4	D. Shelby	2-0	0.0	0	0
+4	O. Vernon	2-0	0.0	0	0
+4	Bo. McCain	1-0	0.0	0	0
+4	W. Aikens	1-0	0.0	0	0
+4	Z. Bowman	1-0	0.0	1	0
+4	K. Sheppard	1-2	0.0	0	0
+4	Total First Downs	17			
+4	By Rushing	4			
+4	By Passing	8			
+4	By Penalty				
+4	Third Down Efficiency	0/12 - 0%			
+4	Fourth Down Efficiency	0/4 - 0%			
+4	Total Net Yards	226			
+4	Total Rushing/Passing Plays (includes Sacks)	58			
+4	Average Gain per Offensive Play	3.9			
+4	Net Yards Rushing	59			
+4	Total Rushing Plays	11			
+4	Average Gain per Rushing Play	5.4			
+4	Tackled for a Loss (Number-Yards)	1--1			
+4	Net Yards Passing	167			
+4	Times Sacked (Number-Yards)	3 - 31			
+4	Gross Yards Passing	198			
+4	Pass Comp-Att-Int	19 - 44 - 2			
+4	Average Gain per Passing Play (includes Sacks)	3.6			
+4	Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 1			
+4	Punts (Number-Average)	7 - 46.0			
+4	Blocked	0			
+4	Net Punting Average	41.4			
+4	FGs Blocked - PATs Blocked	0 - 0			
+4	Total Return Yardage (excludes Kickoffs)	105			
+4	Punt Returns (Number-Yards)	3 - 67			
+4	Kickoff Returns (Number-Yards)	6 - 141			
+4	Interception Returns (Number-Yards)	1 - 38			
+4	Penalties (Number-Yards)	9 - 80			
+4	Fumbles (Number-Lost)	1 - 0			
+4	Touchdowns	2			
+4	Rushing	0			
+4	Passing	2			
+4	Interceptions	0			
+4	Kickoff Returns	0			
+4	Fumble Returns	0			
+4	Punt Returns	0			
+4	Extra Points (Made-Attempted)	2 - 2			
+4	Kicking (Made-Attempted)	2 - 2			
+4	Two Point Conversions (Made-Attempted)	0 - 0			
+4	Field Goals (Made-Attempted)	0 - 0			
+4	Red Zone Efficiency	2/3 - 66%			
+4	Goal To Go Efficiency	2/3 - 66%			
+4	Safeties	0			
+4	Final Score	14			
+4	Time of Possession	22:37			
+					
+	week 5 bye				
+					
+6	Passing	CP/AT	YDS	TD	INT
+6	R. Tannehill	22/29	266	2	2
+6	Rushing	ATT	YDS	TD	LG
+6	L. Miller	19	113	1	22
+6	J. Gray	7	24	0	7
+6	J. Landry	2	24	1	22T
+6	R. Tannehill	2	14	0	10
+6	D. Williams	2	5	0	4
+6	Receiving	REC	YDS	TD	LG
+6	R. Matthews	6	85	0	24
+6	K. Stills	2	46	0	38
+6	J. Landry	3	42	0	19
+6	D. Sims	4	33	1	16
+6	J. Cameron	3	30	1	13
+6	G. Jennings	1	13	0	13
+6	J. Gray	1	12	0	12
+6	L. Miller	2	5	0	4
+6	Fumbles	FUM	LOST	REC	YDS
+6	J. Jenkins	0	0	1	0
+6	J. Taylor	0	0	1	31
+6	C. Wake	0	0	0	0
+6	Kicking	FG	LG	XP	PTS
+6	A. Franks	1/1	30	5/5	8
+6	Punting	NO	AVG	I20	LG
+6	M. Darr	3	39.0	1	47
+6	Kickoff Returns	NO	AVG	TD	LG
+6	D. Williams	2	22	0	31
+6	Punt Returns	NO	AVG	TD	LG
+6	J. Landry	1	6	0	6
+6	Defense	T-A	SCK	INT	FF
+6	K. Misi	6-2	0.0	0	0
+6	R. Jones	5-3	0.0	1	0
+6	J. Jenkins	4-3	0.0	0	0
+6	C. Wake	4-0	4.0	0	2
+6	Bo. McCain	3-0	0.0	0	0
+6	O. Vernon	3-1	1.0	0	0
+6	J. Kovacs	2-0	1.0	0	0
+6	M. Thomas	2-1	0.0	0	0
+6	T. Fede	1-1	0.0	0	0
+6	B. Grimes	1-1	0.0	1	0
+6	N. Hewitt	1-1	0.0	0	0
+6	D. Shelby	1-0	0.0	0	0
+6	K. Sheppard	1-0	0.0	0	0
+6	J. Taylor	1-2	0.0	0	0
+6	Br. McCain	0-1	0.0	0	0
+6	E. Mitchell	0-3	0.0	0	0
+6	J. Phillips	0-1	0.0	0	0
+6	N. Suh	0-1	0.0	0	0
+6	Z. Vigil	0-1	0.0	0	0
+6	Total First Downs	26			
+6	By Rushing	11			
+6	By Passing	14			
+6	By Penalty				
+6	Third Down Efficiency	5/9 - 55%			
+6	Fourth Down Efficiency	0/0 - 0%			
+6	Total Net Yards	434			
+6	Total Rushing/Passing Plays (includes Sacks)	63			
+6	Average Gain per Offensive Play	6.9			
+6	Net Yards Rushing	180			
+6	Total Rushing Plays	32			
+6	Average Gain per Rushing Play	5.6			
+6	Tackled for a Loss (Number-Yards)	2--5			
+6	Net Yards Passing	254			
+6	Times Sacked (Number-Yards)	2 - 12			
+6	Gross Yards Passing	266			
+6	Pass Comp-Att-Int	22 - 29 - 2			
+6	Average Gain per Passing Play (includes Sacks)	8.2			
+6	Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 4			
+6	Punts (Number-Average)	3 - 43.7			
+6	Blocked	0			
+6	Net Punting Average	39.0			
+6	FGs Blocked - PATs Blocked	0 - 0			
+6	Total Return Yardage (excludes Kickoffs)	36			
+6	Punt Returns (Number-Yards)	1 - 6			
+6	Kickoff Returns (Number-Yards)	2 - 45			
+6	Interception Returns (Number-Yards)	2 - 30			
+6	Penalties (Number-Yards)	9 - 97			
+6	Fumbles (Number-Lost)	0 - 0			
+6	Touchdowns	5			
+6	Rushing	2			
+6	Passing	2			
+6	Interceptions	1			
+6	Kickoff Returns	0			
+6	Fumble Returns	0			
+6	Punt Returns	0			
+6	Extra Points (Made-Attempted)	5 - 5			
+6	Kicking (Made-Attempted)	5 - 5			
+6	Two Point Conversions (Made-Attempted)	0 - 0			
+6	Field Goals (Made-Attempted)	1 - 1			
+6	Red Zone Efficiency	3/4 - 75%			
+6	Goal To Go Efficiency	2/2 - 100%			
+6	Safeties	0			
+6	Final Score	38			
+6	Time of Possession	31:53			
+					
+7	Passing	CP/AT	YDS	TD	INT
+7	R. Tannehill	18/19	282	4	0
+7	M. Moore	1/1	14	0	0
+7	Rushing	ATT	YDS	TD	LG
+7	L. Miller	14	175	1	85T
+7	J. Gray	12	48	0	16
+7	D. Williams	4	19	0	19
+7	J. Landry	1	5	0	5
+7	R. Tannehill	1	3	0	3
+7	M. Moore	3	-2	0	0
+7	Receiving	REC	YDS	TD	LG
+7	J. Landry	5	83	2	50T
+7	R. Matthews	3	75	1	53T
+7	L. Miller	3	61	1	54T
+7	G. Jennings	2	37	0	23
+7	J. Cameron	2	23	0	12
+7	J. Gray	1	10	0	10
+7	D. Williams	2	10	0	8
+7	D. Sims	1	-3	0	-3
+7	Fumbles	FUM	LOST	REC	YDS
+7	D. Williams	1	1	0	0
+7	J. Jenkins	0	0	0	0
+7	C. Wake	0	0	0	0
+7	Kicking	FG	LG	XP	PTS
+7	A. Franks	1/1	53	5/6	8
+7	Punting	NO	AVG	I20	LG
+7	M. Darr	5	41.0	2	55
+7	Kickoff Returns	NO	AVG	TD	LG
+7	D. Williams	2	32	0	34
+7	Punt Returns	NO	AVG	TD	LG
+7	J. Landry	5	2	0	7
+7	R. Matthews	1	9	0	9
+7	Defense	T-A	SCK	INT	FF
+7	R. Jones	8-0	0.0	1	0
+7	J. Taylor	6-1	0.0	0	0
+7	N. Suh	5-1	2.0	0	0
+7	M. Thomas	4-0	0.0	0	0
+7	J. Jenkins	3-0	0.0	0	1
+7	K. Misi	3-0	0.0	0	0
+7	B. Grimes	2-1	0.0	0	0
+7	N. Hewitt	2-0	0.0	0	0
+7	E. Mitchell	2-1	0.0	0	0
+7	K. Sheppard	2-0	0.0	0	0
+7	C. Wake	2-0	2.0	0	2
+7	Bo. McCain	1-0	0.0	0	0
+7	T. Fede	1-1	0.0	0	0
+7	C. Mosley	1-1	0.0	0	0
+7	S. Paysinger	1-0	0.0	0	0
+7	J. Phillips	1-0	0.0	0	0
+7	D. Shelby	1-0	0.0	0	0
+7	Z. Vigil	1-0	0.0	0	0
+7	Total First Downs	21			
+7	By Rushing	8			
+7	By Passing	11			
+7	By Penalty				
+7	Third Down Efficiency	1/9 - 11%			
+7	Fourth Down Efficiency	0/0 - 0%			
+7	Total Net Yards	503			
+7	Total Rushing/Passing Plays (includes Sacks)	59			
+7	Average Gain per Offensive Play	8.5			
+7	Net Yards Rushing	248			
+7	Total Rushing Plays	35			
+7	Average Gain per Rushing Play	7.1			
+7	Tackled for a Loss (Number-Yards)	3--6			
+7	Net Yards Passing	255			
+7	Times Sacked (Number-Yards)	4 - 41			
+7	Gross Yards Passing	296			
+7	Pass Comp-Att-Int	19 - 20 - 0			
+7	Average Gain per Passing Play (includes Sacks)	10.6			
+7	Kickoffs (Number-In End Zone-Touchbacks)	8 - 7 - 5			
+7	Punts (Number-Average)	5 - 49.2			
+7	Blocked	0			
+7	Net Punting Average	41.0			
+7	FGs Blocked - PATs Blocked	0 - 0			
+7	Total Return Yardage (excludes Kickoffs)	42			
+7	Punt Returns (Number-Yards)	6 - 19			
+7	Kickoff Returns (Number-Yards)	2 - 64			
+7	Interception Returns (Number-Yards)	1 - 23			
+7	Penalties (Number-Yards)	8 - 52			
+7	Fumbles (Number-Lost)	1 - 1			
+7	Touchdowns	6			
+7	Rushing	1			
+7	Passing	4			
+7	Interceptions	1			
+7	Kickoff Returns	0			
+7	Fumble Returns	0			
+7	Punt Returns	0			
+7	Extra Points (Made-Attempted)	5 - 6			
+7	Kicking (Made-Attempted)	5 - 6			
+7	Two Point Conversions (Made-Attempted)	0 - 0			
+7	Field Goals (Made-Attempted)	1 - 1			
+7	Red Zone Efficiency	1/2 - 50%			
+7	Goal To Go Efficiency	0/0 - 0%			
+7	Safeties	0			
+7	Final Score	44			
+7	Time of Possession	32:05			
+					
+8	Passing	CP/AT	YDS	TD	INT
+8	R. Tannehill	28/44	300	0	2
+8	Rushing	ATT	YDS	TD	LG
+8	L. Miller	9	15	1	8
+8	J. Gray	2	1	0	1
+8	R. Tannehill	2	-1	0	0
+8	Receiving	REC	YDS	TD	LG
+8	J. Landry	6	71	0	18
+8	R. Matthews	7	62	0	17
+8	K. Stills	3	58	0	25
+8	J. Gray	4	50	0	25
+8	J. Cameron	2	34	0	29
+8	L. Miller	5	19	0	8
+8	D. Sims	1	6	0	6
+8	Fumbles	FUM	LOST	REC	YDS
+8	J. Landry	1	0	0	0
+8	R. Tannehill	1	0	0	-9
+8	Kicking	FG	LG	XP	PTS
+8	A. Franks	0/1	0	1/1	1
+8	Punting	NO	AVG	I20	LG
+8	M. Darr	6	45.2	1	70
+8	Kickoff Returns	NO	AVG	TD	LG
+8	J. Landry	2	34	0	50
+8	Punt Returns	NO	AVG	TD	LG
+8	J. Landry	4	2	0	6
+8	Defense	T-A	SCK	INT	FF
+8	R. Jones	5-3	0.0	0	0
+8	K. Sheppard	5-3	0.0	0	0
+8	J. Taylor	4-3	0.0	0	0
+8	W. Aikens	3-1	0.0	0	0
+8	J. Jenkins	3-2	0.0	0	0
+8	K. Misi	3-3	0.0	0	0
+8	B. Grimes	2-0	0.0	0	0
+8	M. Thomas	2-3	0.0	0	0
+8	Bo. McCain	1-2	0.0	0	0
+8	S. Paysinger	1-0	0.0	0	0
+8	J. Phillips	1-1	0.0	0	0
+8	D. Shelby	1-1	0.0	0	0
+8	O. Vernon	1-4	1.0	0	0
+8	C. Wake	1-1	1.0	0	0
+8	T. Fede	0-2	0.0	0	0
+8	C. Mosley	0-1	0.0	0	0
+8	N. Suh	0-2	0.0	0	0
+8	Total First Downs	18			
+8	By Rushing	2			
+8	By Passing	16			
+8	By Penalty				
+8	Third Down Efficiency	2/11 - 18%			
+8	Fourth Down Efficiency	1/2 - 50%			
+8	Total Net Yards	270			
+8	Total Rushing/Passing Plays (includes Sacks)	62			
+8	Average Gain per Offensive Play	4.4			
+8	Net Yards Rushing	15			
+8	Total Rushing Plays	13			
+8	Average Gain per Rushing Play	1.2			
+8	Tackled for a Loss (Number-Yards)	3--4			
+8	Net Yards Passing	255			
+8	Times Sacked (Number-Yards)	5 - 45			
+8	Gross Yards Passing	300			
+8	Pass Comp-Att-Int	28 - 44 - 2			
+8	Average Gain per Passing Play (includes Sacks)	5.2			
+8	Kickoffs (Number-In End Zone-Touchbacks)	3 - 2 - 2			
+8	Punts (Number-Average)	6 - 58.2			
+8	Blocked	0			
+8	Net Punting Average	45.2			
+8	FGs Blocked - PATs Blocked	0 - 0			
+8	Total Return Yardage (excludes Kickoffs)	9			
+8	Punt Returns (Number-Yards)	4 - 9			
+8	Kickoff Returns (Number-Yards)	2 - 68			
+8	Interception Returns (Number-Yards)	0 - 0			
+8	Penalties (Number-Yards)	7 - 40			
+8	Fumbles (Number-Lost)	2 - 0			
+8	Touchdowns	1			
+8	Rushing	1			
+8	Passing	0			
+8	Interceptions	0			
+8	Kickoff Returns	0			
+8	Fumble Returns	0			
+8	Punt Returns	0			
+8	Extra Points (Made-Attempted)	1 - 1			
+8	Kicking (Made-Attempted)	1 - 1			
+8	Two Point Conversions (Made-Attempted)	0 - 0			
+8	Field Goals (Made-Attempted)	0 - 1			
+8	Red Zone Efficiency	1/2 - 50%			
+8	Goal To Go Efficiency	1/1 - 100%			
+8	Safeties	0			
+8	Final Score	7			
+8	Time of Possession	27:23			
+					
+9	Passing	CP/AT	YDS	TD	INT
+9	R. Tannehill	26/35	307	0	0
+9	J. Landry	1/1	9	0	0
+9	Rushing	ATT	YDS	TD	LG
+9	L. Miller	12	44	2	14
+9	J. Ajayi	5	41	0	23
+9	J. Landry	5	20	0	9
+9	R. Tannehill	2	3	0	3
+9	Receiving	REC	YDS	TD	LG
+9	L. Miller	7	97	0	27
+9	K. Stills	3	74	0	46
+9	J. Landry	10	67	0	24
+9	R. Matthews	4	54	0	21
+9	D. Sims	1	9	0	9
+9	R. Tannehill	1	9	0	9
+9	J. Cameron	1	6	0	6
+9	Fumbles	FUM	LOST	REC	YDS
+9	R. Tannehill	2	1	0	-6
+9	Da. Williams	1	0	1	0
+9	Kicking	FG	LG	XP	PTS
+9	A. Franks	1/1	48	2/2	5
+9	Punting	NO	AVG	I20	LG
+9	M. Darr	3	31.3	2	48
+9	Kickoff Returns	NO	AVG	TD	LG
+9	Da. Williams	3	12	0	19
+9	J. Landry	1	14	0	14
+9	Punt Returns	NO	AVG	TD	LG
+9	J. Landry	2	9	0	18
+9	Defense	T-A	SCK	INT	FF
+9	B. Grimes	7-0	0.0	0	0
+9	R. Jones	6-1	1.0	0	0
+9	K. Misi	5-0	0.0	0	0
+9	O. Vernon	5-2	0.0	0	0
+9	K. Sheppard	4-0	0.0	0	0
+9	J. Jenkins	3-0	0.0	0	0
+9	J. Taylor	3-0	0.0	0	0
+9	M. Thomas	3-1	0.0	0	0
+9	Br. McCain	1-0	0.0	0	0
+9	C. McCain	1-0	0.0	0	0
+9	E. Mitchell	1-1	0.0	0	0
+9	J. Phillips	1-0	1.0	0	0
+9	D. Shelby	1-1	0.0	0	0
+9	N. Suh	1-2	1.0	0	0
+9	W. Aikens	0-1	0.0	0	0
+9	Total First Downs	29			
+9	By Rushing	6			
+9	By Passing	16			
+9	By Penalty				
+9	Third Down Efficiency	4/9 - 44%			
+9	Fourth Down Efficiency	0/0 - 0%			
+9	Total Net Yards	397			
+9	Total Rushing/Passing Plays (includes Sacks)	62			
+9	Average Gain per Offensive Play	6.4			
+9	Net Yards Rushing	108			
+9	Total Rushing Plays	24			
+9	Average Gain per Rushing Play	4.5			
+9	Tackled for a Loss (Number-Yards)	1--2			
+9	Net Yards Passing	289			
+9	Times Sacked (Number-Yards)	2 - 27			
+9	Gross Yards Passing	316			
+9	Pass Comp-Att-Int	27 - 36 - 0			
+9	Average Gain per Passing Play (includes Sacks)	7.6			
+9	Kickoffs (Number-In End Zone-Touchbacks)	5 - 1 - 1			
+9	Punts (Number-Average)	3 - 38.0			
+9	Blocked	0			
+9	Net Punting Average	31.3			
+9	FGs Blocked - PATs Blocked	0 - 0			
+9	Total Return Yardage (excludes Kickoffs)	18			
+9	Punt Returns (Number-Yards)	2 - 18			
+9	Kickoff Returns (Number-Yards)	4 - 50			
+9	Interception Returns (Number-Yards)	0 - 0			
+9	Penalties (Number-Yards)	8 - 62			
+9	Fumbles (Number-Lost)	3 - 1			
+9	Touchdowns	2			
+9	Rushing	2			
+9	Passing	0			
+9	Interceptions	0			
+9	Kickoff Returns	0			
+9	Fumble Returns	0			
+9	Punt Returns	0			
+9	Extra Points (Made-Attempted)	2 - 2			
+9	Kicking (Made-Attempted)	2 - 2			
+9	Two Point Conversions (Made-Attempted)	0 - 0			
+9	Field Goals (Made-Attempted)	1 - 1			
+9	Red Zone Efficiency	2/4 - 50%			
+9	Goal To Go Efficiency	2/3 - 66%			
+9	Safeties	0			
+9	Final Score	17			
+9	Time of Possession	28:47			
+					
+10	Passing	CP/AT	YDS	TD	INT
+10	R. Tannehill	21/36	217	2	0
+10	Rushing	ATT	YDS	TD	LG
+10	J. Ajayi	6	48	0	24
+10	L. Miller	16	43	0	11
+10	J. Landry	1	6	0	6
+10	R. Matthews	1	4	0	4
+10	R. Tannehill	2	-2	0	-1
+10	Receiving	REC	YDS	TD	LG
+10	R. Matthews	5	93	0	43
+10	J. Landry	7	52	1	18
+10	L. Miller	6	50	1	35
+10	G. Jennings	1	9	0	9
+10	D. Sims	1	8	0	8
+10	J. Cameron	1	5	0	5
+10	Fumbles	FUM	LOST	REC	YDS
+10	R. Tannehill	1	0	0	0
+10	C. McCain	0	0	0	0
+10	D. Shelby	0	0	0	0
+10	Kicking	FG	LG	XP	PTS
+10	A. Franks	2/2	42	2/2	8
+10	Punting	NO	AVG	I20	LG
+10	M. Darr	8	42.0	1	64
+10	Kickoff Returns	NO	AVG	TD	LG
+10	Da. Williams	2	21	0	37
+10	Punt Returns	NO	AVG	TD	LG
+10	J. Landry	3	3	0	6
+10	Defense	T-A	SCK	INT	FF
+10	K. Sheppard	8-3	0.0	0	0
+10	N. Suh	7-2	1.0	0	0
+10	N. Hewitt	6-0	0.0	0	0
+10	R. Jones	6-3	1.0	1	0
+10	K. Misi	6-1	0.0	0	0
+10	W. Aikens	5-1	0.0	0	0
+10	J. Jenkins	4-1	0.0	0	0
+10	O. Vernon	4-0	0.0	0	0
+10	D. Shelby	3-0	1.0	0	1
+10	J. Taylor	3-0	0.0	0	0
+10	M. Thomas	3-1	0.0	0	0
+10	Br. McCain	2-0	0.0	0	0
+10	C. Mosley	2-0	0.0	0	0
+10	Bo. McCain	1-1	0.0	0	0
+10	T. Fede	1-0	0.0	0	0
+10	M. Hull	1-0	0.0	0	0
+10	T. Lippett	1-0	0.0	0	0
+10	C. McCain	1-0	1.0	0	1
+10	E. Mitchell	1-0	0.0	0	0
+10	Total First Downs	15			
+10	By Rushing	4			
+10	By Passing	11			
+10	By Penalty				
+10	Third Down Efficiency	5/15 - 33%			
+10	Fourth Down Efficiency	0/0 - 0%			
+10	Total Net Yards	289			
+10	Total Rushing/Passing Plays (includes Sacks)	66			
+10	Average Gain per Offensive Play	4.4			
+10	Net Yards Rushing	99			
+10	Total Rushing Plays	26			
+10	Average Gain per Rushing Play	3.8			
+10	Tackled for a Loss (Number-Yards)	3--5			
+10	Net Yards Passing	190			
+10	Times Sacked (Number-Yards)	4 - 27			
+10	Gross Yards Passing	217			
+10	Pass Comp-Att-Int	21 - 36 - 0			
+10	Average Gain per Passing Play (includes Sacks)	4.8			
+10	Kickoffs (Number-In End Zone-Touchbacks)	6 - 4 - 4			
+10	Punts (Number-Average)	8 - 49.1			
+10	Blocked	0			
+10	Net Punting Average	42.0			
+10	FGs Blocked - PATs Blocked	0 - 0			
+10	Total Return Yardage (excludes Kickoffs)	16			
+10	Punt Returns (Number-Yards)	3 - 9			
+10	Kickoff Returns (Number-Yards)	2 - 42			
+10	Interception Returns (Number-Yards)	1 - 7			
+10	Penalties (Number-Yards)	8 - 84			
+10	Fumbles (Number-Lost)	1 - 0			
+10	Touchdowns	2			
+10	Rushing	0			
+10	Passing	2			
+10	Interceptions	0			
+10	Kickoff Returns	0			
+10	Fumble Returns	0			
+10	Punt Returns	0			
+10	Extra Points (Made-Attempted)	2 - 2			
+10	Kicking (Made-Attempted)	2 - 2			
+10	Two Point Conversions (Made-Attempted)	0 - 0			
+10	Field Goals (Made-Attempted)	2 - 2			
+10	Red Zone Efficiency	2/4 - 50%			
+10	Goal To Go Efficiency	1/2 - 50%			
+10	Safeties	0			
+10	Final Score	20			
+10	Time of Possession	28:53			
+					
+11	Passing	CP/AT	YDS	TD	INT
+11	R. Tannehill	13/24	188	2	1
+11	Rushing	ATT	YDS	TD	LG
+11	L. Miller	7	44	0	16
+11	J. Ajayi	4	13	0	5
+11	R. Tannehill	3	13	0	7
+11	Receiving	REC	YDS	TD	LG
+11	J. Landry	4	66	0	47
+11	K. Stills	2	52	1	29T
+11	J. Ajayi	2	23	0	20
+11	J. Cameron	2	21	1	12T
+11	R. Matthews	1	15	0	15
+11	L. Miller	2	11	0	11
+11	Fumbles	FUM	LOST	REC	YDS
+11	M. Pouncey	1	0	0	0
+11	R. Tannehill	0	0	1	0
+11	Kicking	FG	LG	XP	PTS
+11	A. Franks	0/0	0	2/2	2
+11	Punting	NO	AVG	I20	LG
+11	M. Darr	7	38.1	5	50
+11	Kickoff Returns	NO	AVG	TD	LG
+11	J. Landry	2	16	0	33
+11	Z. Vigil	1	6	0	6
+11	Punt Returns	NO	AVG	TD	LG
+11	J. Landry	1	12	0	12
+11	Defense	T-A	SCK	INT	FF
+11	K. Sheppard	10-4	0.0	0	0
+11	R. Jones	7-1	0.0	0	0
+11	B. Grimes	4-1	0.0	1	0
+11	N. Suh	4-3	0.0	0	0
+11	J. Taylor	4-2	0.0	0	0
+11	M. Thomas	3-0	0.0	0	0
+11	O. Vernon	3-2	1.0	0	0
+11	N. Hewitt	2-2	0.0	1	0
+11	J. Phillips	2-0	0.0	0	0
+11	D. Shelby	2-1	1.0	0	0
+11	Z. Vigil	2-1	0.0	0	0
+11	W. Aikens	1-0	0.0	0	0
+11	Z. Bowman	1-0	0.0	0	0
+11	E. Mitchell	1-0	0.0	0	0
+11	C. Mosley	0-1	0.0	0	0
+11	Total First Downs	9			
+11	By Rushing	2			
+11	By Passing	6			
+11	By Penalty				
+11	Third Down Efficiency	1/10 - 10%			
+11	Fourth Down Efficiency	0/1 - 0%			
+11	Total Net Yards	210			
+11	Total Rushing/Passing Plays (includes Sacks)	41			
+11	Average Gain per Offensive Play	5.1			
+11	Net Yards Rushing	70			
+11	Total Rushing Plays	14			
+11	Average Gain per Rushing Play	5.0			
+11	Tackled for a Loss (Number-Yards)	1--1			
+11	Net Yards Passing	140			
+11	Times Sacked (Number-Yards)	3 - 48			
+11	Gross Yards Passing	188			
+11	Pass Comp-Att-Int	13 - 24 - 1			
+11	Average Gain per Passing Play (includes Sacks)	5.2			
+11	Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 3			
+11	Punts (Number-Average)	7 - 43.6			
+11	Blocked	0			
+11	Net Punting Average	38.1			
+11	FGs Blocked - PATs Blocked	0 - 0			
+11	Total Return Yardage (excludes Kickoffs)	29			
+11	Punt Returns (Number-Yards)	1 - 12			
+11	Kickoff Returns (Number-Yards)	3 - 39			
+11	Interception Returns (Number-Yards)	2 - 17			
+11	Penalties (Number-Yards)	9 - 74			
+11	Fumbles (Number-Lost)	1 - 0			
+11	Touchdowns	2			
+11	Rushing	0			
+11	Passing	2			
+11	Interceptions	0			
+11	Kickoff Returns	0			
+11	Fumble Returns	0			
+11	Punt Returns	0			
+11	Extra Points (Made-Attempted)	2 - 2			
+11	Kicking (Made-Attempted)	2 - 2			
+11	Two Point Conversions (Made-Attempted)	0 - 0			
+11	Field Goals (Made-Attempted)	0 - 0			
+11	Red Zone Efficiency	1/1 - 100%			
+11	Goal To Go Efficiency	0/0 - 0%			
+11	Safeties	0			
+11	Final Score	14			
+11	Time of Possession	21:10			
+					
+12	Passing	CP/AT	YDS	TD	INT
+12	R. Tannehill	33/58	351	3	1
+12	Rushing	ATT	YDS	TD	LG
+12	J. Ajayi	3	6	0	5
+12	J. Landry	1	4	0	4
+12	L. Miller	5	2	0	2
+12	Receiving	REC	YDS	TD	LG
+12	J. Landry	13	165	1	40
+12	D. Parker	4	80	1	33T
+12	J. Ajayi	4	52	0	15
+12	J. Cameron	2	13	0	7
+12	K. Stills	2	12	0	7
+12	L. Miller	3	11	0	17
+12	Da. Williams	2	10	0	7
+12	G. Jennings	2	9	1	5T
+12	D. Sims	1	-1	0	-1
+12	Fumbles	FUM	LOST	REC	YDS
+12	J. Douglas	3	0	0	0
+12	R. Tannehill	1	1	3	0
+12	Kicking	FG	LG	XP	PTS
+12	A. Franks	0/0	0	2/3	2
+12	Punting	NO	AVG	I20	LG
+12	M. Darr	8	33.0	2	55
+12	Kickoff Returns	NO	AVG	TD	LG
+12	Da. Williams	4	23	0	28
+12	Punt Returns	NO	AVG	TD	LG
+12	B. Grimes	3	14	0	28
+12	J. Landry	1	3	0	3
+12	Defense	T-A	SCK	INT	FF
+12	B. Grimes	5-0	0.0	0	0
+12	R. Jones	5-1	0.0	0	0
+12	Br. McCain	4-0	0.0	0	0
+12	K. Sheppard	4-5	0.0	0	0
+12	M. Thomas	4-4	0.0	0	0
+12	O. Vernon	4-1	1.0	0	0
+12	K. Misi	3-0	0.0	0	0
+12	N. Hewitt	2-2	0.0	0	0
+12	E. Mitchell	2-1	0.0	0	0
+12	J. Phillips	2-0	0.0	0	0
+12	J. Taylor	2-1	0.0	0	0
+12	S. Gary	1-1	0.0	0	0
+12	J. Jenkins	1-1	0.0	0	0
+12	N. Suh	1-3	0.0	0	0
+12	D. Shelby	0-2	0.0	0	0
+12	Total First Downs	20			
+12	By Rushing	0			
+12	By Passing	19			
+12	By Penalty				
+12	Third Down Efficiency	4/15 - 26%			
+12	Fourth Down Efficiency	2/2 - 100%			
+12	Total Net Yards	333			
+12	Total Rushing/Passing Plays (includes Sacks)	70			
+12	Average Gain per Offensive Play	4.8			
+12	Net Yards Rushing	12			
+12	Total Rushing Plays	9			
+12	Average Gain per Rushing Play	1.3			
+12	Tackled for a Loss (Number-Yards)	1--1			
+12	Net Yards Passing	321			
+12	Times Sacked (Number-Yards)	3 - 30			
+12	Gross Yards Passing	351			
+12	Pass Comp-Att-Int	33 - 58 - 1			
+12	Average Gain per Passing Play (includes Sacks)	5.3			
+12	Kickoffs (Number-In End Zone-Touchbacks)	4 - 1 - 1			
+12	Punts (Number-Average)	8 - 45.0			
+12	Blocked	0			
+12	Net Punting Average	33.0			
+12	FGs Blocked - PATs Blocked	0 - 0			
+12	Total Return Yardage (excludes Kickoffs)	47			
+12	Punt Returns (Number-Yards)	4 - 47			
+12	Kickoff Returns (Number-Yards)	4 - 92			
+12	Interception Returns (Number-Yards)	0 - 0			
+12	Penalties (Number-Yards)	6 - 45			
+12	Fumbles (Number-Lost)	4 - 1			
+12	Touchdowns	3			
+12	Rushing	0			
+12	Passing	3			
+12	Interceptions	0			
+12	Kickoff Returns	0			
+12	Fumble Returns	0			
+12	Punt Returns	0			
+12	Extra Points (Made-Attempted)	2 - 3			
+12	Kicking (Made-Attempted)	2 - 3			
+12	Two Point Conversions (Made-Attempted)	0 - 0			
+12	Field Goals (Made-Attempted)	0 - 0			
+12	Red Zone Efficiency	2/3 - 66%			
+12	Goal To Go Efficiency	2/2 - 100%			
+12	Safeties	0			
+12	Final Score	20			
+12	Time of Possession	28:44			
+					
+13	Passing	CP/AT	YDS	TD	INT
+13	R. Tannehill	9/19	86	1	0
+13	Rushing	ATT	YDS	TD	LG
+13	L. Miller	20	113	0	22
+13	J. Ajayi	4	12	0	4
+13	R. Tannehill	1	11	0	11
+13	Da. Williams	1	1	0	1
+13	Receiving	REC	YDS	TD	LG
+13	D. Parker	3	63	1	38T
+13	Da. Williams	1	5	0	5
+13	J. Landry	2	5	0	6
+13	L. Miller	1	5	0	5
+13	J. Cameron	1	4	0	4
+13	D. Sims	1	4	0	4
+13	Fumbles	FUM	LOST	REC	YDS
+13	L. Miller	1	1	0	0
+13	Kicking	FG	LG	XP	PTS
+13	A. Franks	0/0	0	1/1	1
+13	Punting	NO	AVG	I20	LG
+13	M. Darr	9	38.3	2	59
+13	Kickoff Returns	NO	AVG	TD	LG
+13	Da. Williams	2	21	0	22
+13	Punt Returns	NO	AVG	TD	LG
+13	B. Grimes	1	15	0	15
+13	J. Landry	1	0	0	0
+13	Defense	T-A	SCK	INT	FF
+13	Bo. McCain	7-0	0.0	0	0
+13	R. Jones	7-3	0.0	1	0
+13	K. Sheppard	5-3	0.0	0	0
+13	O. Vernon	4-2	2.5	0	0
+13	B. Grimes	3-1	0.0	0	0
+13	J. Jenkins	3-4	0.0	0	0
+13	K. Misi	3-4	0.0	0	0
+13	M. Thomas	3-3	0.0	0	0
+13	Br. McCain	2-0	0.0	0	0
+13	S. Gary	2-1	0.0	0	0
+13	D. Shelby	2-1	0.5	1	0
+13	N. Suh	2-2	0.0	0	0
+13	T. Fede	1-0	0.0	0	0
+13	N. Hewitt	1-1	0.0	0	0
+13	J. Phillips	1-3	0.0	0	0
+13	R. Thomas	0-1	0.0	0	0
+13	Total First Downs	8			
+13	By Rushing	5			
+13	By Passing	3			
+13	By Penalty				
+13	Third Down Efficiency	4/13 - 30%			
+13	Fourth Down Efficiency	0/0 - 0%			
+13	Total Net Yards	219			
+13	Total Rushing/Passing Plays (includes Sacks)	46			
+13	Average Gain per Offensive Play	4.8			
+13	Net Yards Rushing	137			
+13	Total Rushing Plays	26			
+13	Average Gain per Rushing Play	5.3			
+13	Tackled for a Loss (Number-Yards)	2--2			
+13	Net Yards Passing	82			
+13	Times Sacked (Number-Yards)	1 - 4			
+13	Gross Yards Passing	86			
+13	Pass Comp-Att-Int	9 - 19 - 0			
+13	Average Gain per Passing Play (includes Sacks)	4.1			
+13	Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 2			
+13	Punts (Number-Average)	9 - 45.8			
+13	Blocked	0			
+13	Net Punting Average	38.3			
+13	FGs Blocked - PATs Blocked	0 - 0			
+13	Total Return Yardage (excludes Kickoffs)	39			
+13	Punt Returns (Number-Yards)	2 - 15			
+13	Kickoff Returns (Number-Yards)	2 - 42			
+13	Interception Returns (Number-Yards)	2 - 24			
+13	Penalties (Number-Yards)	5 - 31			
+13	Fumbles (Number-Lost)	1 - 1			
+13	Touchdowns	2			
+13	Rushing	0			
+13	Passing	1			
+13	Interceptions	1			
+13	Kickoff Returns	0			
+13	Fumble Returns	0			
+13	Punt Returns	0			
+13	Extra Points (Made-Attempted)	2 - 2			
+13	Kicking (Made-Attempted)	1 - 1			
+13	Two Point Conversions (Made-Attempted)	1 - 1			
+13	Field Goals (Made-Attempted)	0 - 0			
+13	Red Zone Efficiency	0/0 - 0%			
+13	Goal To Go Efficiency	0/0 - 0%			
+13	Safeties	0			
+13	Final Score	15			
+13	Time of Possession	21:51			
+					
+14	Passing	CP/AT	YDS	TD	INT
+14	R. Tannehill	25/41	236	1	0
+14	Rushing	ATT	YDS	TD	LG
+14	L. Miller	12	89	2	38T
+14	R. Tannehill	4	24	0	12
+14	J. Ajayi	5	15	0	9
+14	J. Landry	1	0	0	0
+14	Receiving	REC	YDS	TD	LG
+14	J. Landry	11	99	0	25
+14	K. Stills	2	49	1	47T
+14	J. Cameron	3	35	0	17
+14	D. Parker	2	16	0	14
+14	D. Sims	3	14	0	8
+14	G. Jennings	2	12	0	7
+14	Da. Williams	2	11	0	7
+14	Fumbles	FUM	LOST	REC	YDS
+14	J. Cameron	1	0	1	0
+14	D. Sims	1	1	0	0
+14	R. Jones	0	0	1	9
+14	Kicking	FG	LG	XP	PTS
+14	A. Franks	1/1	36	3/3	6
+14	Punting	NO	AVG	I20	LG
+14	M. Darr	6	37.5	4	68
+14	Kickoff Returns	NO	AVG	TD	LG
+14	J. Landry	2	33	0	36
+14	Da. Williams	1	23	0	23
+14	J. Ajayi	1	20	0	20
+14	Punt Returns	NO	AVG	TD	LG
+14	J. Landry	2	15	0	20
+14	Defense	T-A	SCK	INT	FF
+14	R. Jones	9-1	0.0	0	0
+14	Br. McCain	6-0	0.0	0	0
+14	J. Jenkins	6-2	0.0	0	0
+14	K. Misi	5-1	0.0	0	0
+14	M. Thomas	5-0	0.0	0	0
+14	B. Grimes	3-0	0.0	0	0
+14	K. Sheppard	3-2	0.0	0	0
+14	N. Suh	3-1	0.0	0	0
+14	Bo. McCain	2-0	0.0	0	0
+14	O. Vernon	2-0	0.0	0	0
+14	S. Gary	1-0	0.0	0	0
+14	J. Phillips	1-0	0.0	0	0
+14	D. Shelby	1-1	0.0	0	0
+14	Total First Downs	16			
+14	By Rushing	6			
+14	By Passing	10			
+14	By Penalty				
+14	Third Down Efficiency	7/16 - 43%			
+14	Fourth Down Efficiency	1/2 - 50%			
+14	Total Net Yards	363			
+14	Total Rushing/Passing Plays (includes Sacks)	64			
+14	Average Gain per Offensive Play	5.7			
+14	Net Yards Rushing	128			
+14	Total Rushing Plays	22			
+14	Average Gain per Rushing Play	5.8			
+14	Tackled for a Loss (Number-Yards)	0-0			
+14	Net Yards Passing	235			
+14	Times Sacked (Number-Yards)	1 - 1			
+14	Gross Yards Passing	236			
+14	Pass Comp-Att-Int	25 - 41 - 0			
+14	Average Gain per Passing Play (includes Sacks)	5.6			
+14	Kickoffs (Number-In End Zone-Touchbacks)	5 - 5 - 4			
+14	Punts (Number-Average)	6 - 46.7			
+14	Blocked	0			
+14	Net Punting Average	37.5			
+14	FGs Blocked - PATs Blocked	0 - 0			
+14	Total Return Yardage (excludes Kickoffs)	30			
+14	Punt Returns (Number-Yards)	2 - 30			
+14	Kickoff Returns (Number-Yards)	4 - 109			
+14	Interception Returns (Number-Yards)	0 - 0			
+14	Penalties (Number-Yards)	12 - 123			
+14	Fumbles (Number-Lost)	2 - 1			
+14	Touchdowns	3			
+14	Rushing	2			
+14	Passing	1			
+14	Interceptions	0			
+14	Kickoff Returns	0			
+14	Fumble Returns	0			
+14	Punt Returns	0			
+14	Extra Points (Made-Attempted)	3 - 3			
+14	Kicking (Made-Attempted)	3 - 3			
+14	Two Point Conversions (Made-Attempted)	0 - 0			
+14	Field Goals (Made-Attempted)	1 - 1			
+14	Red Zone Efficiency	1/2 - 50%			
+14	Goal To Go Efficiency	0/0 - 0%			
+14	Safeties	0			
+14	Final Score	24			
+14	Time of Possession	29:29			
+					
+15	Passing	CP/AT	YDS	TD	INT
+15	R. Tannehill	20/34	216	0	0
+15	Rushing	ATT	YDS	TD	LG
+15	J. Ajayi	6	27	1	12T
+15	L. Miller	9	12	0	7
+15	R. Tannehill	3	4	1	2
+15	Da. Williams	1	1	0	1
+15	Receiving	REC	YDS	TD	LG
+15	D. Parker	4	87	0	35
+15	J. Landry	8	54	0	14
+15	K. Stills	1	23	0	23
+15	J. Ajayi	1	15	0	15
+15	L. Miller	2	12	0	11
+15	Da. Williams	2	11	0	6
+15	D. Sims	1	9	0	9
+15	J. Cameron	1	5	0	5
+15	Fumbles	FUM	LOST	REC	YDS
+15	R. Jones	1	1	0	0
+15	R. Tannehill	1	0	0	0
+15	M. Pouncey	0	0	1	0
+15	Kicking	FG	LG	XP	PTS
+15	A. Franks	0/0	0	2/2	2
+15	Punting	NO	AVG	I20	LG
+15	M. Darr	8	40.3	1	53
+15	Kickoff Returns	NO	AVG	TD	LG
+15	Da. Williams	2	24	0	26
+15	R. Jones	2	21	0	25
+15	Punt Returns	NO	AVG	TD	LG
+15	J. Landry	3	5	0	16
+15	Defense	T-A	SCK	INT	FF
+15	K. Sheppard	10-1	0.0	0	0
+15	M. Thomas	10-1	0.0	0	0
+15	R. Jones	8-0	0.0	1	0
+15	O. Vernon	6-5	0.5	0	0
+15	N. Suh	4-0	0.5	0	0
+15	Bo. McCain	3-0	0.0	0	0
+15	D. Coleman	3-0	0.0	0	0
+15	K. Misi	3-1	0.0	0	0
+15	B. Grimes	2-1	0.0	1	0
+15	N. Hewitt	2-1	0.0	0	0
+15	D. Shelby	2-2	0.0	0	0
+15	T. Lippett	1-1	0.0	0	0
+15	D. Moore	1-0	0.0	0	0
+15	S. Paysinger	1-1	0.0	0	0
+15	J. Phillips	1-0	0.0	0	0
+15	Z. Vigil	1-0	0.0	0	0
+15	Total First Downs	13			
+15	By Rushing	4			
+15	By Passing	8			
+15	By Penalty				
+15	Third Down Efficiency	2/14 - 14%			
+15	Fourth Down Efficiency	3/3 - 100%			
+15	Total Net Yards	231			
+15	Total Rushing/Passing Plays (includes Sacks)	56			
+15	Average Gain per Offensive Play	4.1			
+15	Net Yards Rushing	44			
+15	Total Rushing Plays	19			
+15	Average Gain per Rushing Play	2.3			
+15	Tackled for a Loss (Number-Yards)	3--9			
+15	Net Yards Passing	187			
+15	Times Sacked (Number-Yards)	3 - 29			
+15	Gross Yards Passing	216			
+15	Pass Comp-Att-Int	20 - 34 - 0			
+15	Average Gain per Passing Play (includes Sacks)	5.1			
+15	Kickoffs (Number-In End Zone-Touchbacks)	3 - 2 - 2			
+15	Punts (Number-Average)	8 - 45.8			
+15	Blocked	0			
+15	Net Punting Average	40.3			
+15	FGs Blocked - PATs Blocked	0 - 0			
+15	Total Return Yardage (excludes Kickoffs)	59			
+15	Punt Returns (Number-Yards)	3 - 16			
+15	Kickoff Returns (Number-Yards)	4 - 92			
+15	Interception Returns (Number-Yards)	2 - 43			
+15	Penalties (Number-Yards)	9 - 72			
+15	Fumbles (Number-Lost)	2 - 1			
+15	Touchdowns	2			
+15	Rushing	2			
+15	Passing	0			
+15	Interceptions	0			
+15	Kickoff Returns	0			
+15	Fumble Returns	0			
+15	Punt Returns	0			
+15	Extra Points (Made-Attempted)	2 - 2			
+15	Kicking (Made-Attempted)	2 - 2			
+15	Two Point Conversions (Made-Attempted)	0 - 0			
+15	Field Goals (Made-Attempted)	0 - 0			
+15	Red Zone Efficiency	2/2 - 100%			
+15	Goal To Go Efficiency	1/1 - 100%			
+15	Safeties	0			
+15	Final Score	14			
+15	Time of Possession	21:07			
+					
+16	Passing	CP/AT	YDS	TD	INT
+16	R. Tannehill	26/38	329	0	1
+16	Rushing	ATT	YDS	TD	LG
+16	L. Miller	15	31	1	7
+16	R. Tannehill	1	28	0	28
+16	J. Ajayi	9	23	0	10
+16	Receiving	REC	YDS	TD	LG
+16	J. Landry	7	111	0	26
+16	D. Parker	4	93	0	49
+16	L. Miller	5	36	0	14
+16	J. Cameron	3	34	0	15
+16	Da. Williams	3	33	0	23
+16	K. Stills	3	14	0	9
+16	D. Sims	1	8	0	8
+16	Fumbles	FUM	LOST	REC	YDS
+16	Kicking	FG	LG	XP	PTS
+16	A. Franks	2/2	33	0/0	6
+16	Punting	NO	AVG	I20	LG
+16	M. Darr	3	40.7	1	59
+16	Kickoff Returns	NO	AVG	TD	LG
+16	Punt Returns	NO	AVG	TD	LG
+16	J. Landry	1	15	0	15
+16	Defense	T-A	SCK	INT	FF
+16	T. Lippett	5-0	0.0	0	0
+16	K. Sheppard	4-2	0.0	0	0
+16	Br. McCain	3-0	0.0	0	0
+16	S. Gary	3-0	0.0	0	0
+16	R. Jones	3-3	0.0	0	0
+16	Z. Vigil	3-0	0.0	0	0
+16	B. Grimes	2-0	0.0	0	0
+16	N. Hewitt	2-1	0.0	0	0
+16	D. Moore	2-0	1.0	0	0
+16	O. Vernon	2-0	0.0	0	0
+16	J. Jenkins	1-0	0.0	0	0
+16	J. Phillips	1-0	0.0	0	0
+16	D. Shelby	1-1	0.0	0	0
+16	N. Suh	1-2	1.0	0	0
+16	M. Thomas	1-0	0.0	0	0
+16	Total First Downs	22			
+16	By Rushing	4			
+16	By Passing	16			
+16	By Penalty				
+16	Third Down Efficiency	6/15 - 40%			
+16	Fourth Down Efficiency	0/1 - 0%			
+16	Total Net Yards	361			
+16	Total Rushing/Passing Plays (includes Sacks)	69			
+16	Average Gain per Offensive Play	5.2			
+16	Net Yards Rushing	82			
+16	Total Rushing Plays	25			
+16	Average Gain per Rushing Play	3.3			
+16	Tackled for a Loss (Number-Yards)	5--14			
+16	Net Yards Passing	279			
+16	Times Sacked (Number-Yards)	6 - 50			
+16	Gross Yards Passing	329			
+16	Pass Comp-Att-Int	26 - 38 - 1			
+16	Average Gain per Passing Play (includes Sacks)	6.3			
+16	Kickoffs (Number-In End Zone-Touchbacks)	5 - 4 - 2			
+16	Punts (Number-Average)	3 - 52.3			
+16	Blocked	0			
+16	Net Punting Average	40.7			
+16	FGs Blocked - PATs Blocked	0 - 0			
+16	Total Return Yardage (excludes Kickoffs)	15			
+16	Punt Returns (Number-Yards)	1 - 15			
+16	Kickoff Returns (Number-Yards)	0 - 0			
+16	Interception Returns (Number-Yards)	0 - 0			
+16	Penalties (Number-Yards)	9 - 50			
+16	Fumbles (Number-Lost)	0 - 0			
+16	Touchdowns	1			
+16	Rushing	1			
+16	Passing	0			
+16	Interceptions	0			
+16	Kickoff Returns	0			
+16	Fumble Returns	0			
+16	Punt Returns	0			
+16	Extra Points (Made-Attempted)	0 - 1			
+16	Kicking (Made-Attempted)	0 - 0			
+16	Two Point Conversions (Made-Attempted)	0 - 1			
+16	Field Goals (Made-Attempted)	2 - 2			
+16	Red Zone Efficiency	1/5 - 20%			
+16	Goal To Go Efficiency	1/4 - 25%			
+16	Safeties	0			
+16	Final Score	12			
+16	Time of Possession	32:49			
+					
+17	Passing	CP/AT	YDS	TD	INT
+17	R. Tannehill	25/38	350	2	0
+17	Rushing	ATT	YDS	TD	LG
+17	L. Miller	19	60	0	29
+17	R. Tannehill	3	17	0	19
+17	Da. Williams	3	11	0	8
+17	J. Landry	2	6	0	5
+17	J. Ajayi	7	2	0	4
+17	Receiving	REC	YDS	TD	LG
+17	D. Parker	5	106	1	46
+17	G. Jennings	4	74	0	31
+17	J. Landry	6	72	0	19
+17	D. Sims	3	40	0	22
+17	Da. Williams	3	38	0	22
+17	K. Stills	1	11	0	11
+17	J. Cameron	2	6	1	4
+17	L. Miller	1	3	0	3
+17	Fumbles	FUM	LOST	REC	YDS
+17	J. Douglas	1	0	0	0
+17	D. Shelby	0	0	0	0
+17	R. Tannehill	0	0	1	0
+17	Kicking	FG	LG	XP	PTS
+17	A. Franks	2/3	38	2/2	8
+17	Punting	NO	AVG	I20	LG
+17	M. Darr	5	39.2	2	56
+17	Kickoff Returns	NO	AVG	TD	LG
+17	Punt Returns	NO	AVG	TD	LG
+17	J. Landry	3	14	0	23
+17	Defense	T-A	SCK	INT	FF
+17	D. Shelby	5-0	1.0	0	1
+17	M. Thomas	5-1	0.0	0	0
+17	N. Hewitt	4-2	0.0	0	0
+17	R. Jones	4-0	0.0	0	0
+17	K. Sheppard	4-1	0.0	0	0
+17	O. Vernon	3-3	0.5	0	0
+17	Br. McCain	2-1	0.0	0	0
+17	T. Lippett	2-0	0.0	0	0
+17	J. Phillips	2-0	0.0	0	0
+17	N. Suh	2-2	0.5	0	0
+17	D. Coleman	1-0	0.0	0	0
+17	B. Grimes	1-0	0.0	0	0
+17	S. Gary	0-1	0.0	0	0
+17	D. Moore	0-1	0.0	0	0
+17	Total First Downs	20			
+17	By Rushing	4			
+17	By Passing	16			
+17	By Penalty				
+17	Third Down Efficiency	8/17 - 47%			
+17	Fourth Down Efficiency	0/1 - 0%			
+17	Total Net Yards	438			
+17	Total Rushing/Passing Plays (includes Sacks)	73			
+17	Average Gain per Offensive Play	6.0			
+17	Net Yards Rushing	96			
+17	Total Rushing Plays	34			
+17	Average Gain per Rushing Play	2.8			
+17	Tackled for a Loss (Number-Yards)	5--10			
+17	Net Yards Passing	342			
+17	Times Sacked (Number-Yards)	1 - 8			
+17	Gross Yards Passing	350			
+17	Pass Comp-Att-Int	25 - 38 - 0			
+17	Average Gain per Passing Play (includes Sacks)	8.8			
+17	Kickoffs (Number-In End Zone-Touchbacks)	5 - 5 - 5			
+17	Punts (Number-Average)	5 - 48.6			
+17	Blocked	0			
+17	Net Punting Average	39.2			
+17	FGs Blocked - PATs Blocked	0 - 0			
+17	Total Return Yardage (excludes Kickoffs)	43			
+17	Punt Returns (Number-Yards)	3 - 43			
+17	Kickoff Returns (Number-Yards)	0 - 0			
+17	Interception Returns (Number-Yards)	0 - 0			
+17	Penalties (Number-Yards)	10 - 93			
+17	Fumbles (Number-Lost)	1 - 0			
+17	Touchdowns	2			
+17	Rushing	0			
+17	Passing	2			
+17	Interceptions	0			
+17	Kickoff Returns	0			
+17	Fumble Returns	0			
+17	Punt Returns	0			
+17	Extra Points (Made-Attempted)	2 - 2			
+17	Kicking (Made-Attempted)	2 - 2			
+17	Two Point Conversions (Made-Attempted)	0 - 0			
+17	Field Goals (Made-Attempted)	2 - 3			
+17	Red Zone Efficiency	2/4 - 50%			
+17	Goal To Go Efficiency	1/2 - 50%			
+17	Safeties	0			
+17	Final Score	20			
+17	Time of Possession	31:05			

@@ -1,5 +1,4 @@
-week	Carolina Panthers (1-0-0)	
-1	Passing	CP/AT	YDS	TD	INT
+week	Passing	CP/AT	YDS	TD	INT
 1	C. Newton	18/31	175	1	1
 1	Rushing	ATT	YDS	TD	LG
 1	J. Stewart	18	56	0	22
@@ -39,52 +38,52 @@ week	Carolina Panthers (1-0-0)
 1	R. Harper	1-0	0.0	0	0
 1	W. Horton	1-0	0.0	0	0
 1	K. Love	1-0	0.0	0	0
-1	Total First Downs	17
-1	By Rushing	6
-1	By Passing	10
-1	By Penalty	
-1	Third Down Efficiency	8/17 - 47%
-1	Fourth Down Efficiency	1/1 - 100%
-1	Total Net Yards	263
-1	Total Rushing/Passing Plays (includes Sacks)	68
-1	Average Gain per Offensive Play	3.9
-1	Net Yards Rushing	105
-1	Total Rushing Plays	35
-1	Average Gain per Rushing Play	3.0
-1	Tackled for a Loss (Number-Yards)	3--13
-1	Net Yards Passing	158
-1	Times Sacked (Number-Yards)	2 - 17
-1	Gross Yards Passing	175
-1	Pass Comp-Att-Int	18 - 31 - 1
-1	Average Gain per Passing Play (includes Sacks)	4.8
-1	Kickoffs (Number-In End Zone-Touchbacks)	5 - 5 - 4
-1	Punts (Number-Average)	4 - 44.8
-1	Blocked	0
-1	Net Punting Average	37.5
-1	FGs Blocked - PATs Blocked	1 - 0
-1	Total Return Yardage (excludes Kickoffs)	77
-1	Punt Returns (Number-Yards)	3 - 46
-1	Kickoff Returns (Number-Yards)	0 - 0
-1	Interception Returns (Number-Yards)	2 - 31
-1	Penalties (Number-Yards)	3 - 22
-1	Fumbles (Number-Lost)	0 - 0
-1	Touchdowns	2
-1	Rushing	0
-1	Passing	1
-1	Interceptions	1
-1	Kickoff Returns	0
-1	Fumble Returns	0
-1	Punt Returns	0
-1	Extra Points (Made-Attempted)	2 - 2
-1	Kicking (Made-Attempted)	2 - 2
-1	Two Point Conversions (Made-Attempted)	0 - 0
-1	Field Goals (Made-Attempted)	2 - 4
-1	Red Zone Efficiency	1/3 - 33%
-1	Goal To Go Efficiency	1/2 - 50%
-1	Safeties	0
-1	Final Score	20
-1	Time of Possession	34:06
-
+1	Total First Downs	17			
+1	By Rushing	6			
+1	By Passing	10			
+1	By Penalty				
+1	Third Down Efficiency	8/17 - 47%			
+1	Fourth Down Efficiency	1/1 - 100%			
+1	Total Net Yards	263			
+1	Total Rushing/Passing Plays (includes Sacks)	68			
+1	Average Gain per Offensive Play	3.9			
+1	Net Yards Rushing	105			
+1	Total Rushing Plays	35			
+1	Average Gain per Rushing Play	3.0			
+1	Tackled for a Loss (Number-Yards)	3--13			
+1	Net Yards Passing	158			
+1	Times Sacked (Number-Yards)	2 - 17			
+1	Gross Yards Passing	175			
+1	Pass Comp-Att-Int	18 - 31 - 1			
+1	Average Gain per Passing Play (includes Sacks)	4.8			
+1	Kickoffs (Number-In End Zone-Touchbacks)	5 - 5 - 4			
+1	Punts (Number-Average)	4 - 44.8			
+1	Blocked	0			
+1	Net Punting Average	37.5			
+1	FGs Blocked - PATs Blocked	1 - 0			
+1	Total Return Yardage (excludes Kickoffs)	77			
+1	Punt Returns (Number-Yards)	3 - 46			
+1	Kickoff Returns (Number-Yards)	0 - 0			
+1	Interception Returns (Number-Yards)	2 - 31			
+1	Penalties (Number-Yards)	3 - 22			
+1	Fumbles (Number-Lost)	0 - 0			
+1	Touchdowns	2			
+1	Rushing	0			
+1	Passing	1			
+1	Interceptions	1			
+1	Kickoff Returns	0			
+1	Fumble Returns	0			
+1	Punt Returns	0			
+1	Extra Points (Made-Attempted)	2 - 2			
+1	Kicking (Made-Attempted)	2 - 2			
+1	Two Point Conversions (Made-Attempted)	0 - 0			
+1	Field Goals (Made-Attempted)	2 - 4			
+1	Red Zone Efficiency	1/3 - 33%			
+1	Goal To Go Efficiency	1/2 - 50%			
+1	Safeties	0			
+1	Final Score	20			
+1	Time of Possession	34:06			
+					
 2	Passing	CP/AT	YDS	TD	INT
 2	C. Newton	18/37	195	2	1
 2	Rushing	ATT	YDS	TD	LG
@@ -127,1322 +126,1320 @@ week	Carolina Panthers (1-0-0)
 2	W. Horton	0-1	0.0	0	0
 2	C. Johnson	0-2	0.0	0	0
 2	K. Short	0-3	0.0	0	0
-2	Total First Downs	25
-2	By Rushing	9
-2	By Passing	13
-2	By Penalty	
-2	Third Down Efficiency	4/13 - 30%
-2	Fourth Down Efficiency	0/0 - 0%
-2	Total Net Yards	350
-2	Total Rushing/Passing Plays (includes Sacks)	72
-2	Average Gain per Offensive Play	4.9
-2	Net Yards Rushing	172
-2	Total Rushing Plays	33
-2	Average Gain per Rushing Play	5.2
-2	Tackled for a Loss (Number-Yards)	1--1
-2	Net Yards Passing	178
-2	Times Sacked (Number-Yards)	2 - 17
-2	Gross Yards Passing	195
-2	Pass Comp-Att-Int	18 - 37 - 1
-2	Average Gain per Passing Play (includes Sacks)	4.6
-2	Kickoffs (Number-In End Zone-Touchbacks)	5 - 5 - 4
-2	Punts (Number-Average)	7 - 53.9
-2	Blocked	0
-2	Net Punting Average	42.7
-2	FGs Blocked - PATs Blocked	1 - 0
-2	Total Return Yardage (excludes Kickoffs)	52
-2	Punt Returns (Number-Yards)	4 - 44
-2	Kickoff Returns (Number-Yards)	1 - 33
-2	Interception Returns (Number-Yards)	1 - 8
-2	Penalties (Number-Yards)	10 - 92
-2	Fumbles (Number-Lost)	0 - 0
-2	Touchdowns	3
-2	Rushing	1
-2	Passing	2
-2	Interceptions	0
-2	Kickoff Returns	0
-2	Fumble Returns	0
-2	Punt Returns	0
-2	Extra Points (Made-Attempted)	3 - 3
-2	Kicking (Made-Attempted)	3 - 3
-2	Two Point Conversions (Made-Attempted)	0 - 0
-2	Field Goals (Made-Attempted)	1 - 2
-2	Red Zone Efficiency	1/2 - 50%
-2	Goal To Go Efficiency	1/1 - 100%
-2	Safeties	0
-2	Final Score	24
-2	Time of Possession	32:17
-
-Passing	CP/AT	YDS	TD	INT
-C. Newton	20/31	315	2	0
-Rushing	ATT	YDS	TD	LG
-J. Stewart	14	52	0	14
-C. Newton	7	33	1	13T
-M. Tolbert	5	16	0	6
-C. Brown	1	12	0	12
-C. Artis-Payne	3	6	0	4
-Receiving	REC	YDS	TD	LG
-G. Olsen	8	134	2	52
-T. Ginn	4	93	0	55
-M. Tolbert	3	28	0	14
-E. Dickson	2	19	0	10
-D. Funchess	1	14	0	14
-F. Whittaker	1	14	0	14
-B. Bersin	1	13	0	13
-Fumbles	FUM	LOST	REC	YDS
-T. Davis	0	0	0	0
-R. Harper	0	0	1	1
-Kicking	FG	LG	XP	PTS
-G. Gano	2/2	47	3/3	9
-Punting	NO	AVG	I20	LG
-B. Nortman	4	22.8	1	55
-Kickoff Returns	NO	AVG	TD	LG
-J. Webb	1	15	0	15
-Punt Returns	NO	AVG	TD	LG
-T. Ginn	0	0	0	0
-Defense	T-A	SCK	INT	FF
-T. Davis	6-4	0.0	0	1
-A. Klein	6-4	0.0	0	0
-C. Tillman	6-3	0.0	0	0
-B. Benwikere	4-1	0.0	0	0
-J. Norman	4-1	0.0	1	0
-S. Thompson	3-4	1.0	0	0
-M. Addison	2-2	0.0	0	0
-T. Boston	2-1	0.0	0	0
-K. Coleman	1-1	0.0	0	0
-R. Harper	1-4	0.0	0	0
-S. Lotulelei	1-1	0.0	0	0
-K. Ealy	0-4	0.0	0	0
-D. Edwards	0-1	0.0	0	0
-C. Johnson	0-1	0.0	0	0
-K. Love	0-1	0.0	0	0
-K. Short	0-1	0.0	0	0
-Total First Downs	24
-By Rushing	7
-By Passing	15
-By Penalty	
-Third Down Efficiency	5/11 - 45%
-Fourth Down Efficiency	1/1 - 100%
-Total Net Yards	431
-Total Rushing/Passing Plays (includes Sacks)	62
-Average Gain per Offensive Play	7.0
-Net Yards Rushing	119
-Total Rushing Plays	30
-Average Gain per Rushing Play	4.0
-Tackled for a Loss (Number-Yards)	2--5
-Net Yards Passing	312
-Times Sacked (Number-Yards)	1 - 3
-Gross Yards Passing	315
-Pass Comp-Att-Int	20 - 31 - 0
-Average Gain per Passing Play (includes Sacks)	9.8
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 5 - 2
-Punts (Number-Average)	4 - 43.3
-Blocked	0
-Net Punting Average	22.8
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	0
-Punt Returns (Number-Yards)	0 - 0
-Kickoff Returns (Number-Yards)	1 - 15
-Interception Returns (Number-Yards)	1 - 0
-Penalties (Number-Yards)	10 - 88
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	3
-Rushing	1
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 3
-Kicking (Made-Attempted)	3 - 3
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 2
-Red Zone Efficiency	3/4 - 75%
-Goal To Go Efficiency	1/2 - 50%
-Safeties	0
-Final Score	27
-Time of Possession	27:16
-
-Passing	CP/AT	YDS	TD	INT
-C. Newton	11/22	124	2	0
-Rushing	ATT	YDS	TD	LG
-C. Newton	12	51	0	12
-J. Stewart	10	50	0	13
-C. Artis-Payne	8	25	0	15
-M. Tolbert	3	7	0	6
-Receiving	REC	YDS	TD	LG
-B. Bersin	4	54	0	30
-G. Olsen	2	28	0	19
-T. Ginn	2	18	2	12T
-E. Dickson	1	11	0	11
-F. Whittaker	1	10	0	10
-C. Brown	1	3	0	3
-Fumbles	FUM	LOST	REC	YDS
-C. Newton	1	1	0	0
-J. Stewart	1	0	0	0
-E. Dickson	0	0	1	57
-S. Lotulelei	0	0	1	0
-Kicking	FG	LG	XP	PTS
-G. Gano	3/3	27	4/4	13
-Punting	NO	AVG	I20	LG
-B. Nortman	4	29.8	2	56
-Kickoff Returns	NO	AVG	TD	LG
-F. Whittaker	1	26	0	26
-Punt Returns	NO	AVG	TD	LG
-T. Ginn	2	2	0	5
-Defense	T-A	SCK	INT	FF
-T. Davis	8-3	0.0	1	0
-R. Delaire	5-0	2.0	0	0
-A. Klein	5-3	0.0	0	0
-T. Boston	4-1	0.0	0	0
-K. Coleman	4-1	0.0	1	0
-J. Norman	4-0	0.0	2	0
-S. Thompson	4-0	0.0	0	0
-R. Harper	3-1	0.0	0	0
-C. Jones	3-1	0.0	0	0
-K. Short	3-2	0.0	0	0
-K. Ealy	2-3	0.0	0	0
-J. Allen	1-0	0.0	0	0
-B. Benwikere	1-0	0.0	0	0
-D. Edwards	1-1	0.0	0	0
-K. Love	1-0	0.0	0	0
-C. Tillman	1-0	0.0	0	0
-T. Williams	1-1	0.0	0	0
-Total First Downs	17
-By Rushing	8
-By Passing	7
-By Penalty	
-Third Down Efficiency	3/11 - 27%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	244
-Total Rushing/Passing Plays (includes Sacks)	57
-Average Gain per Offensive Play	4.3
-Net Yards Rushing	133
-Total Rushing Plays	33
-Average Gain per Rushing Play	4.0
-Tackled for a Loss (Number-Yards)	4--16
-Net Yards Passing	111
-Times Sacked (Number-Yards)	2 - 13
-Gross Yards Passing	124
-Pass Comp-Att-Int	11 - 22 - 0
-Average Gain per Passing Play (includes Sacks)	4.6
-Kickoffs (Number-In End Zone-Touchbacks)	8 - 7 - 5
-Punts (Number-Average)	4 - 38.5
-Blocked	0
-Net Punting Average	29.8
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	85
-Punt Returns (Number-Yards)	2 - 5
-Kickoff Returns (Number-Yards)	1 - 26
-Interception Returns (Number-Yards)	4 - 80
-Penalties (Number-Yards)	5 - 45
-Fumbles (Number-Lost)	2 - 1
-Touchdowns	4
-Rushing	0
-Passing	2
-Interceptions	1
-Kickoff Returns	0
-Fumble Returns	1
-Punt Returns	0
-Extra Points (Made-Attempted)	4 - 4
-Kicking (Made-Attempted)	4 - 4
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	3 - 3
-Red Zone Efficiency	2/5 - 40%
-Goal To Go Efficiency	1/2 - 50%
-Safeties	0
-Final Score	37
-Time of Possession	27:52
-
-week 5 bye
-
-Passing	CP/AT	YDS	TD	INT
-C. Newton	20/36	269	1	2
-Rushing	ATT	YDS	TD	LG
-J. Stewart	20	78	2	11
-C. Newton	7	30	1	9
-C. Brown	2	15	0	8
-M. Tolbert	3	10	0	7
-F. Whittaker	1	2	0	2
-Receiving	REC	YDS	TD	LG
-G. Olsen	7	131	1	32
-E. Dickson	3	24	0	14
-D. Funchess	2	24	0	16
-C. Brown	2	22	0	11
-J. Cotchery	2	21	0	14
-F. Whittaker	2	21	0	15
-T. Ginn	1	18	0	18
-J. Stewart	1	8	0	8
-Fumbles	FUM	LOST	REC	YDS
-Kicking	FG	LG	XP	PTS
-G. Gano	0/0	0	3/4	3
-Punting	NO	AVG	I20	LG
-B. Nortman	5	43.0	1	59
-Kickoff Returns	NO	AVG	TD	LG
-Punt Returns	NO	AVG	TD	LG
-T. Ginn	2	9	0	11
-Defense	T-A	SCK	INT	FF
-L. Kuechly	5-9	0.0	0	0
-T. Davis	4-4	1.0	0	0
-B. Benwikere	3-0	0.0	0	0
-K. Short	3-3	2.0	0	0
-K. Ealy	2-1	0.0	0	0
-W. Horton	2-1	1.0	0	0
-J. Norman	2-0	0.0	0	0
-C. Tillman	2-2	0.0	0	0
-T. Boston	1-0	0.0	0	0
-K. Coleman	1-7	0.0	0	0
-R. Delaire	1-0	0.0	0	0
-R. Harper	1-5	0.0	0	0
-S. Lotulelei	1-0	0.0	0	0
-M. Addison	0-1	0.0	0	0
-S. Thompson	0-3	0.0	0	0
-Total First Downs	25
-By Rushing	10
-By Passing	14
-By Penalty	
-Third Down Efficiency	4/11 - 36%
-Fourth Down Efficiency	0/1 - 0%
-Total Net Yards	383
-Total Rushing/Passing Plays (includes Sacks)	72
-Average Gain per Offensive Play	5.3
-Net Yards Rushing	135
-Total Rushing Plays	33
-Average Gain per Rushing Play	4.1
-Tackled for a Loss (Number-Yards)	3--6
-Net Yards Passing	248
-Times Sacked (Number-Yards)	3 - 21
-Gross Yards Passing	269
-Pass Comp-Att-Int	20 - 36 - 2
-Average Gain per Passing Play (includes Sacks)	6.4
-Kickoffs (Number-In End Zone-Touchbacks)	5 - 5 - 3
-Punts (Number-Average)	5 - 48.6
-Blocked	0
-Net Punting Average	43.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	18
-Punt Returns (Number-Yards)	2 - 18
-Kickoff Returns (Number-Yards)	0 - 0
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	5 - 25
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	4
-Rushing	3
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 4
-Kicking (Made-Attempted)	3 - 4
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	3/3 - 100%
-Goal To Go Efficiency	3/3 - 100%
-Safeties	0
-Final Score	27
-Time of Possession	32:12
-
-Passing	CP/AT	YDS	TD	INT
-C. Newton	14/24	197	1	3
-Rushing	ATT	YDS	TD	LG
-J. Stewart	24	125	0	36
-T. Ginn	1	43	0	43
-C. Newton	4	20	1	16
-M. Tolbert	3	16	1	11
-C. Artis-Payne	1	0	0	0
-Receiving	REC	YDS	TD	LG
-G. Olsen	3	65	0	28
-T. Ginn	5	59	0	20
-C. Brown	3	38	0	25
-D. Funchess	1	20	0	20
-J. Cotchery	1	13	0	13
-M. Tolbert	1	2	1	2T
-Fumbles	FUM	LOST	REC	YDS
-K. Short	0	0	0	0
-Kicking	FG	LG	XP	PTS
-G. Gano	2/2	35	3/3	9
-Punting	NO	AVG	I20	LG
-B. Nortman	4	38.8	3	45
-Kickoff Returns	NO	AVG	TD	LG
-E. Dickson	1	0	0	0
-F. Whittaker	1	27	0	27
-Punt Returns	NO	AVG	TD	LG
-T. Ginn	1	5	0	5
-Defense	T-A	SCK	INT	FF
-T. Davis	11-2	0.0	0	0
-L. Kuechly	8-3	0.0	0	0
-K. Short	6-2	3.0	0	1
-K. Coleman	5-0	0.0	0	0
-R. Harper	4-3	0.0	0	0
-B. Benwikere	3-1	0.0	0	0
-J. Allen	2-3	1.0	0	0
-J. Norman	2-1	0.0	0	0
-M. Addison	1-1	1.0	0	0
-T. Boston	1-0	0.0	0	0
-K. Ealy	1-3	0.0	0	0
-A. Klein	1-0	0.0	0	0
-S. Lotulelei	1-3	0.0	0	0
-C. Tillman	1-4	0.0	0	0
-C. Jones	0-0	0.0	1	0
-Total First Downs	21
-By Rushing	9
-By Passing	11
-By Penalty	
-Third Down Efficiency	2/9 - 22%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	394
-Total Rushing/Passing Plays (includes Sacks)	58
-Average Gain per Offensive Play	6.8
-Net Yards Rushing	204
-Total Rushing Plays	33
-Average Gain per Rushing Play	6.2
-Tackled for a Loss (Number-Yards)	2--3
-Net Yards Passing	190
-Times Sacked (Number-Yards)	1 - 7
-Gross Yards Passing	197
-Pass Comp-Att-Int	14 - 24 - 3
-Average Gain per Passing Play (includes Sacks)	7.6
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 6
-Punts (Number-Average)	4 - 39.3
-Blocked	0
-Net Punting Average	38.8
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	5
-Punt Returns (Number-Yards)	1 - 5
-Kickoff Returns (Number-Yards)	2 - 27
-Interception Returns (Number-Yards)	1 - 0
-Penalties (Number-Yards)	5 - 43
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	3
-Rushing	2
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 3
-Kicking (Made-Attempted)	3 - 3
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 2
-Red Zone Efficiency	3/5 - 60%
-Goal To Go Efficiency	3/3 - 100%
-Safeties	0
-Final Score	27
-Time of Possession	28:54
-
-Passing	CP/AT	YDS	TD	INT
-C. Newton	16/35	248	2	1
-Rushing	ATT	YDS	TD	LG
-J. Stewart	24	82	1	14
-C. Newton	10	41	0	11
-C. Brown	1	14	0	14
-F. Whittaker	1	3	0	3
-Receiving	REC	YDS	TD	LG
-G. Olsen	6	79	1	27T
-T. Ginn	2	60	0	48
-C. Brown	3	42	1	23
-M. Tolbert	1	40	0	40
-J. Cotchery	2	18	0	13
-D. Funchess	1	8	0	8
-J. Stewart	1	1	0	1
-Fumbles	FUM	LOST	REC	YDS
-C. Newton	1	1	0	-2
-J. Stewart	1	1	0	0
-K. Ealy	0	0	0	0
-R. Harper	0	0	1	0
-S. Lotulelei	0	0	0	0
-Kicking	FG	LG	XP	PTS
-G. Gano	3/3	52	2/3	11
-Punting	NO	AVG	I20	LG
-B. Nortman	7	39.6	1	61
-Kickoff Returns	NO	AVG	TD	LG
-F. Whittaker	2	18	0	21
-Punt Returns	NO	AVG	TD	LG
-T. Ginn	2	9	0	18
-Defense	T-A	SCK	INT	FF
-L. Kuechly	9-5	0.0	1	0
-R. Harper	7-5	0.0	0	0
-B. Benwikere	5-3	0.0	0	0
-K. Coleman	5-3	0.0	1	0
-J. Norman	4-0	0.0	0	0
-J. Allen	2-3	1.0	0	0
-A. Klein	2-0	0.0	0	0
-K. Love	2-1	0.0	0	0
-C. Tillman	2-2	0.0	1	0
-T. Boston	1-0	0.0	0	0
-T. Davis	1-1	0.0	0	0
-K. Ealy	1-4	1.0	0	1
-W. Horton	1-0	0.0	0	0
-S. Lotulelei	1-1	0.0	0	1
-K. Short	0-2	0.0	0	0
-Total First Downs	17
-By Rushing	7
-By Passing	10
-By Penalty	
-Third Down Efficiency	4/16 - 25%
-Fourth Down Efficiency	2/2 - 100%
-Total Net Yards	379
-Total Rushing/Passing Plays (includes Sacks)	73
-Average Gain per Offensive Play	5.2
-Net Yards Rushing	140
-Total Rushing Plays	36
-Average Gain per Rushing Play	3.9
-Tackled for a Loss (Number-Yards)	2--9
-Net Yards Passing	239
-Times Sacked (Number-Yards)	2 - 9
-Gross Yards Passing	248
-Pass Comp-Att-Int	16 - 35 - 1
-Average Gain per Passing Play (includes Sacks)	6.5
-Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 2
-Punts (Number-Average)	7 - 41.9
-Blocked	0
-Net Punting Average	39.6
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	32
-Punt Returns (Number-Yards)	2 - 18
-Kickoff Returns (Number-Yards)	2 - 37
-Interception Returns (Number-Yards)	3 - 14
-Penalties (Number-Yards)	6 - 55
-Fumbles (Number-Lost)	2 - 2
-Touchdowns	3
-Rushing	1
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 3
-Kicking (Made-Attempted)	2 - 3
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	3 - 3
-Red Zone Efficiency	2/3 - 66%
-Goal To Go Efficiency	0/1 - 0%
-Safeties	0
-Final Score	29
-Time of Possession	33:38
-
-Passing	CP/AT	YDS	TD	INT
-C. Newton	15/30	297	3	1
-Rushing	ATT	YDS	TD	LG
-J. Stewart	20	66	0	14
-C. Newton	9	57	1	23
-F. Whittaker	2	13	0	10
-M. Tolbert	3	7	0	4
-J. Webb	1	-1	0	-1
-C. Brown	1	-12	0	-12
-Receiving	REC	YDS	TD	LG
-J. Cotchery	3	82	0	59
-D. Funchess	3	71	1	52
-G. Olsen	4	66	1	24
-C. Brown	2	50	1	39T
-T. Ginn	1	20	0	20
-E. Dickson	1	6	0	6
-J. Stewart	1	2	0	2
-Fumbles	FUM	LOST	REC	YDS
-K. Ealy	0	0	0	0
-K. Love	0	0	1	0
-C. Tillman	0	0	0	0
-Kicking	FG	LG	XP	PTS
-G. Gano	3/4	49	4/4	13
-Punting	NO	AVG	I20	LG
-B. Nortman	6	45.2	0	60
-Kickoff Returns	NO	AVG	TD	LG
-T. Ginn	1	8	0	8
-J. Webb	1	25	0	25
-Punt Returns	NO	AVG	TD	LG
-T. Ginn	5	7	0	11
-Defense	T-A	SCK	INT	FF
-L. Kuechly	6-3	0.0	0	0
-C. Tillman	6-2	0.0	0	1
-T. Davis	4-2	1.0	1	0
-R. Harper	4-2	0.0	0	0
-K. Short	4-1	1.0	0	0
-K. Coleman	3-2	1.0	0	0
-J. Norman	3-0	0.0	0	0
-B. Benwikere	2-4	0.0	0	0
-S. Lotulelei	2-1	1.0	0	0
-K. Ealy	1-0	1.0	0	1
-M. Addison	0-1	0.0	0	0
-J. Allen	0-1	0.0	0	0
-W. Horton	0-1	0.0	0	0
-K. Love	0-1	0.0	0	0
-S. Thompson	0-1	0.0	0	0
-Total First Downs	20
-By Rushing	9
-By Passing	10
-By Penalty	
-Third Down Efficiency	5/15 - 33%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	427
-Total Rushing/Passing Plays (includes Sacks)	66
-Average Gain per Offensive Play	6.5
-Net Yards Rushing	130
-Total Rushing Plays	36
-Average Gain per Rushing Play	3.6
-Tackled for a Loss (Number-Yards)	5--24
-Net Yards Passing	297
-Times Sacked (Number-Yards)	0 - 0
-Gross Yards Passing	297
-Pass Comp-Att-Int	15 - 30 - 1
-Average Gain per Passing Play (includes Sacks)	9.9
-Kickoffs (Number-In End Zone-Touchbacks)	8 - 7 - 5
-Punts (Number-Average)	6 - 48.2
-Blocked	0
-Net Punting Average	45.2
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	34
-Punt Returns (Number-Yards)	5 - 35
-Kickoff Returns (Number-Yards)	2 - 33
-Interception Returns (Number-Yards)	1 - -1
-Penalties (Number-Yards)	6 - 45
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	4
-Rushing	1
-Passing	3
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	4 - 4
-Kicking (Made-Attempted)	4 - 4
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	3 - 4
-Red Zone Efficiency	3/5 - 60%
-Goal To Go Efficiency	2/3 - 66%
-Safeties	0
-Final Score	37
-Time of Possession	32:12
-
-Passing	CP/AT	YDS	TD	INT
-C. Newton	21/25	217	1	0
-Rushing	ATT	YDS	TD	LG
-J. Stewart	22	91	1	17
-C. Newton	9	23	1	7
-M. Tolbert	3	5	0	3
-Receiving	REC	YDS	TD	LG
-G. Olsen	8	80	0	20
-T. Ginn	4	45	0	19
-D. Funchess	2	41	0	27
-E. Dickson	3	21	1	17
-M. Tolbert	1	16	0	16
-C. Brown	1	8	0	8
-J. Cotchery	2	6	0	8
-Fumbles	FUM	LOST	REC	YDS
-L. Kuechly	0	0	0	0
-K. Short	0	0	1	0
-Kicking	FG	LG	XP	PTS
-G. Gano	2/2	48	3/3	9
-Punting	NO	AVG	I20	LG
-B. Nortman	4	47.3	2	63
-Kickoff Returns	NO	AVG	TD	LG
-F. Whittaker	1	22	0	22
-Punt Returns	NO	AVG	TD	LG
-T. Ginn	4	15	0	23
-Defense	T-A	SCK	INT	FF
-L. Kuechly	6-2	0.0	0	1
-R. Harper	3-1	0.0	0	0
-A. Klein	3-0	0.0	0	0
-J. Norman	3-0	0.0	0	0
-J. Allen	2-0	0.0	0	0
-B. Benwikere	2-2	0.0	0	0
-T. Boston	2-0	0.0	0	0
-K. Coleman	2-3	0.0	1	0
-C. Tillman	2-2	0.0	0	0
-K. Ealy	1-0	1.0	0	0
-S. Lotulelei	1-0	0.0	0	0
-K. Short	1-2	0.0	0	0
-S. Thompson	1-0	0.0	0	0
-K. Love	0-2	0.0	0	0
-Total First Downs	24
-By Rushing	10
-By Passing	13
-By Penalty	
-Third Down Efficiency	7/13 - 53%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	303
-Total Rushing/Passing Plays (includes Sacks)	64
-Average Gain per Offensive Play	4.7
-Net Yards Rushing	119
-Total Rushing Plays	34
-Average Gain per Rushing Play	3.5
-Tackled for a Loss (Number-Yards)	4--9
-Net Yards Passing	184
-Times Sacked (Number-Yards)	5 - 33
-Gross Yards Passing	217
-Pass Comp-Att-Int	21 - 25 - 0
-Average Gain per Passing Play (includes Sacks)	6.1
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 5 - 1
-Punts (Number-Average)	4 - 47.3
-Blocked	0
-Net Punting Average	47.3
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	61
-Punt Returns (Number-Yards)	4 - 61
-Kickoff Returns (Number-Yards)	1 - 22
-Interception Returns (Number-Yards)	1 - 0
-Penalties (Number-Yards)	5 - 45
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	3
-Rushing	2
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 3
-Kicking (Made-Attempted)	3 - 3
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 2
-Red Zone Efficiency	3/5 - 60%
-Goal To Go Efficiency	2/3 - 66%
-Safeties	0
-Final Score	27
-Time of Possession	35:55
-
-Passing	CP/AT	YDS	TD	INT
-C. Newton	21/34	246	5	0
-Rushing	ATT	YDS	TD	LG
-J. Stewart	21	102	0	15
-C. Newton	4	16	0	9
-T. Ginn	2	12	0	11
-F. Whittaker	2	6	0	4
-M. Tolbert	7	5	0	6
-D. Anderson	2	2	0	2
-B. Nortman	1	-1	0	-1
-Receiving	REC	YDS	TD	LG
-D. Funchess	4	64	1	35
-J. Cotchery	4	57	0	19
-G. Olsen	3	54	1	34
-T. Ginn	5	37	1	17
-B. Bersin	1	15	0	15
-J. Stewart	1	12	1	12T
-M. Tolbert	2	5	1	3T
-F. Whittaker	1	2	0	2
-Fumbles	FUM	LOST	REC	YDS
-D. Anderson	1	0	1	0
-B. Benwikere	0	0	1	0
-T. Davis	0	0	1	0
-K. Ealy	0	0	1	0
-L. Kuechly	0	0	1	0
-J. Norman	0	0	0	0
-Kicking	FG	LG	XP	PTS
-G. Gano	3/3	48	5/5	14
-Punting	NO	AVG	I20	LG
-B. Nortman	4	46.0	1	56
-Kickoff Returns	NO	AVG	TD	LG
-M. Tolbert	1	8	0	8
-J. Webb	1	23	0	23
-Punt Returns	NO	AVG	TD	LG
-T. Ginn	1	1	0	1
-B. Bersin	0	0	0	0
-Defense	T-A	SCK	INT	FF
-B. Benwikere	5-0	1.0	0	1
-L. Kuechly	4-1	0.0	0	1
-J. Norman	4-0	0.0	0	1
-T. Davis	3-1	0.0	0	1
-A. Klein	3-1	0.0	0	0
-C. Jones	2-1	0.0	0	0
-S. Thompson	2-2	0.0	0	0
-M. Addison	1-1	1.5	0	0
-J. Allen	1-1	0.0	0	0
-K. Coleman	1-2	0.0	1	0
-R. Delaire	1-1	0.5	0	0
-K. Ealy	1-0	1.0	0	1
-D. Edwards	1-1	0.0	0	0
-R. Harper	1-0	0.0	0	0
-K. Love	1-0	1.0	0	0
-K. Short	1-0	0.0	0	0
-Total First Downs	27
-By Rushing	8
-By Passing	17
-By Penalty	
-Third Down Efficiency	7/14 - 50%
-Fourth Down Efficiency	0/1 - 0%
-Total Net Yards	368
-Total Rushing/Passing Plays (includes Sacks)	75
-Average Gain per Offensive Play	4.9
-Net Yards Rushing	142
-Total Rushing Plays	39
-Average Gain per Rushing Play	3.6
-Tackled for a Loss (Number-Yards)	7--9
-Net Yards Passing	226
-Times Sacked (Number-Yards)	2 - 20
-Gross Yards Passing	246
-Pass Comp-Att-Int	21 - 34 - 0
-Average Gain per Passing Play (includes Sacks)	6.3
-Kickoffs (Number-In End Zone-Touchbacks)	9 - 6 - 4
-Punts (Number-Average)	4 - 51.8
-Blocked	0
-Net Punting Average	46.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	29
-Punt Returns (Number-Yards)	1 - 1
-Kickoff Returns (Number-Yards)	2 - 31
-Interception Returns (Number-Yards)	1 - 28
-Penalties (Number-Yards)	8 - 66
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	5
-Rushing	0
-Passing	5
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	5 - 5
-Kicking (Made-Attempted)	5 - 5
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	3 - 3
-Red Zone Efficiency	5/6 - 83%
-Goal To Go Efficiency	2/2 - 100%
-Safeties	0
-Final Score	44
-Time of Possession	38:07
-
-Passing	CP/AT	YDS	TD	INT
-C. Newton	16/27	183	0	0
-Rushing	ATT	YDS	TD	LG
-J. Stewart	21	68	0	8
-C. Newton	12	45	1	11
-M. Tolbert	4	16	0	5
-Receiving	REC	YDS	TD	LG
-J. Cotchery	5	73	0	24
-G. Olsen	5	70	0	31
-D. Funchess	2	19	0	15
-B. Bersin	1	12	0	12
-J. Stewart	3	9	0	7
-Fumbles	FUM	LOST	REC	YDS
-C. Newton	1	0	1	-2
-Kicking	FG	LG	XP	PTS
-G. Gano	4/5	50	3/3	15
-Punting	NO	AVG	I20	LG
-B. Nortman	2	36.0	1	58
-Kickoff Returns	NO	AVG	TD	LG
-T. Davis	1	3	0	3
-Punt Returns	NO	AVG	TD	LG
-D. Marlowe	1	0	0	0
-T. Ginn	0	0	0	0
-Defense	T-A	SCK	INT	FF
-C. Jones	5-1	0.0	0	0
-T. Davis	4-1	1.0	0	0
-B. Benwikere	3-0	0.0	0	0
-A. Klein	3-2	0.0	0	0
-K. Coleman	2-1	0.0	1	0
-L. Kuechly	2-5	0.0	2	0
-J. Norman	2-0	0.0	0	0
-K. Short	2-1	0.0	0	0
-S. Thompson	2-0	0.0	0	0
-M. Addison	1-0	0.0	0	0
-J. Allen	1-1	0.0	0	0
-T. Boston	1-0	0.0	0	0
-K. Ealy	1-0	1.0	0	0
-D. Edwards	1-0	0.0	0	0
-R. Harper	1-2	0.0	0	0
-C. Johnson	1-0	0.0	0	0
-K. Love	1-0	0.0	0	0
-Total First Downs	18
-By Rushing	9
-By Passing	8
-By Penalty	
-Third Down Efficiency	8/16 - 50%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	294
-Total Rushing/Passing Plays (includes Sacks)	65
-Average Gain per Offensive Play	4.5
-Net Yards Rushing	129
-Total Rushing Plays	37
-Average Gain per Rushing Play	3.5
-Tackled for a Loss (Number-Yards)	4--12
-Net Yards Passing	165
-Times Sacked (Number-Yards)	1 - 18
-Gross Yards Passing	183
-Pass Comp-Att-Int	16 - 27 - 0
-Average Gain per Passing Play (includes Sacks)	5.9
-Kickoffs (Number-In End Zone-Touchbacks)	7 - 7 - 7
-Punts (Number-Average)	2 - 40.0
-Blocked	0
-Net Punting Average	36.0
-FGs Blocked - PATs Blocked	1 - 0
-Total Return Yardage (excludes Kickoffs)	85
-Punt Returns (Number-Yards)	1 - 0
-Kickoff Returns (Number-Yards)	1 - 3
-Interception Returns (Number-Yards)	3 - 85
-Penalties (Number-Yards)	8 - 53
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	3
-Rushing	1
-Passing	0
-Interceptions	2
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 3
-Kicking (Made-Attempted)	3 - 3
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	4 - 5
-Red Zone Efficiency	1/2 - 50%
-Goal To Go Efficiency	1/2 - 50%
-Safeties	0
-Final Score	33
-Time of Possession	35:14
-
-Passing	CP/AT	YDS	TD	INT
-C. Newton	28/41	331	5	1
-Rushing	ATT	YDS	TD	LG
-J. Stewart	21	82	1	22
-C. Newton	10	49	0	30
-M. Tolbert	2	33	0	29
-F. Whittaker	1	11	0	11
-Receiving	REC	YDS	TD	LG
-G. Olsen	9	129	0	32
-T. Ginn	5	80	2	45T
-J. Stewart	3	31	0	15
-E. Dickson	3	27	0	16
-J. Cotchery	3	26	1	15T
-M. Tolbert	2	18	1	12T
-D. Funchess	1	13	1	13T
-C. Brown	2	7	0	5
-Fumbles	FUM	LOST	REC	YDS
-G. Olsen	1	1	0	0
-J. Stewart	1	1	0	0
-T. Davis	0	0	0	0
-Kicking	FG	LG	XP	PTS
-G. Gano	0/0	0	5/6	5
-Punting	NO	AVG	I20	LG
-B. Nortman	3	35.7	1	45
-Kickoff Returns	NO	AVG	TD	LG
-F. Whittaker	2	23	0	24
-Punt Returns	NO	AVG	TD	LG
-T. Ginn	0	0	0	0
-Defense	T-A	SCK	INT	FF
-T. Davis	7-0	1.0	0	1
-L. Kuechly	5-1	0.0	0	0
-C. Finnegan	4-0	0.0	0	0
-B. Benwikere	3-1	0.0	0	0
-K. Coleman	2-1	0.0	1	0
-R. Harper	2-0	0.0	0	0
-J. Norman	2-0	0.0	0	0
-K. Short	2-0	1.0	0	0
-S. Thompson	2-0	0.0	0	0
-J. Allen	1-0	0.0	0	0
-K. Ealy	1-0	0.0	0	0
-C. Jones	1-0	0.0	0	0
-S. Lotulelei	1-0	0.0	0	0
-K. Love	1-1	0.0	0	0
-Total First Downs	33
-By Rushing	9
-By Passing	18
-By Penalty	
-Third Down Efficiency	3/8 - 37%
-Fourth Down Efficiency	2/2 - 100%
-Total Net Yards	497
-Total Rushing/Passing Plays (includes Sacks)	76
-Average Gain per Offensive Play	6.5
-Net Yards Rushing	175
-Total Rushing Plays	34
-Average Gain per Rushing Play	5.1
-Tackled for a Loss (Number-Yards)	3--10
-Net Yards Passing	322
-Times Sacked (Number-Yards)	1 - 9
-Gross Yards Passing	331
-Pass Comp-Att-Int	28 - 41 - 1
-Average Gain per Passing Play (includes Sacks)	7.7
-Kickoffs (Number-In End Zone-Touchbacks)	7 - 7 - 6
-Punts (Number-Average)	3 - 38.0
-Blocked	0
-Net Punting Average	35.7
-FGs Blocked - PATs Blocked	0 - 1
-Total Return Yardage (excludes Kickoffs)	0
-Punt Returns (Number-Yards)	0 - 0
-Kickoff Returns (Number-Yards)	2 - 47
-Interception Returns (Number-Yards)	1 - 0
-Penalties (Number-Yards)	8 - 87
-Fumbles (Number-Lost)	2 - 2
-Touchdowns	6
-Rushing	1
-Passing	5
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	5 - 6
-Kicking (Made-Attempted)	5 - 6
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	5/6 - 83%
-Goal To Go Efficiency	3/3 - 100%
-Safeties	0
-Final Score	41
-Time of Possession	36:34
-
-Passing	CP/AT	YDS	TD	INT
-C. Newton	15/21	265	3	0
-D. Anderson	4/6	36	0	0
-Rushing	ATT	YDS	TD	LG
-J. Stewart	10	75	1	44
-F. Whittaker	8	34	1	16T
-M. Tolbert	6	17	0	5
-C. Brown	1	9	0	9
-T. Ginn	1	5	0	5
-C. Newton	3	4	0	3
-D. Anderson	3	-2	0	0
-Receiving	REC	YDS	TD	LG
-T. Ginn	2	120	2	74T
-C. Brown	3	59	0	26
-G. Olsen	3	52	0	24
-D. Funchess	3	25	0	11
-J. Stewart	1	14	0	14
-M. Tolbert	2	13	0	9
-J. Cotchery	2	10	0	6
-S. Simonson	1	10	0	10
-E. Dickson	1	4	1	4T
-F. Whittaker	1	-6	0	-6
-Fumbles	FUM	LOST	REC	YDS
-T. Davis	0	0	0	0
-K. Ealy	0	0	1	0
-A. Klein	0	0	0	0
-K. Short	0	0	1	0
-Kicking	FG	LG	XP	PTS
-G. Gano	1/1	38	5/5	8
-Punting	NO	AVG	I20	LG
-B. Nortman	4	46.5	0	65
-Kickoff Returns	NO	AVG	TD	LG
-Punt Returns	NO	AVG	TD	LG
-T. Ginn	0	0	0	0
-Defense	T-A	SCK	INT	FF
-B. Benwikere	5-0	0.0	0	0
-K. Coleman	4-4	0.0	1	0
-T. Davis	4-3	0.5	0	1
-A. Klein	3-2	1.0	0	1
-L. Kuechly	3-2	0.0	1	0
-K. Short	3-0	2.0	0	2
-C. Finnegan	2-0	0.0	0	0
-R. Harper	2-0	0.0	0	0
-J. Norman	2-3	0.0	0	0
-S. Thompson	2-0	0.0	0	0
-M. Addison	1-1	0.5	0	0
-T. Boston	1-1	0.0	0	0
-B. Jacobs	1-2	0.0	0	0
-K. Love	1-1	1.0	0	0
-T. Williams	1-0	0.0	0	0
-D. Edwards	0-1	0.0	0	0
-S. Lotulelei	0-2	0.0	0	0
-Total First Downs	20
-By Rushing	7
-By Passing	12
-By Penalty	
-Third Down Efficiency	6/12 - 50%
-Fourth Down Efficiency	0/1 - 0%
-Total Net Yards	424
-Total Rushing/Passing Plays (includes Sacks)	61
-Average Gain per Offensive Play	7.0
-Net Yards Rushing	142
-Total Rushing Plays	32
-Average Gain per Rushing Play	4.4
-Tackled for a Loss (Number-Yards)	1--3
-Net Yards Passing	282
-Times Sacked (Number-Yards)	2 - 19
-Gross Yards Passing	301
-Pass Comp-Att-Int	19 - 27 - 0
-Average Gain per Passing Play (includes Sacks)	9.7
-Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 5
-Punts (Number-Average)	4 - 49.0
-Blocked	0
-Net Punting Average	46.5
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	10
-Punt Returns (Number-Yards)	0 - 0
-Kickoff Returns (Number-Yards)	0 - 0
-Interception Returns (Number-Yards)	2 - 10
-Penalties (Number-Yards)	6 - 60
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	5
-Rushing	2
-Passing	3
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	5 - 5
-Kicking (Made-Attempted)	5 - 5
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	3/4 - 75%
-Goal To Go Efficiency	2/3 - 66%
-Safeties	0
-Final Score	38
-Time of Possession	31:30
-
-Passing	CP/AT	YDS	TD	INT
-C. Newton	25/45	340	5	0
-Rushing	ATT	YDS	TD	LG
-C. Newton	8	100	0	47
-C. Artis-Payne	14	59	0	26
-M. Tolbert	5	10	0	4
-F. Whittaker	2	2	0	2
-Receiving	REC	YDS	TD	LG
-T. Ginn	6	85	2	23
-G. Olsen	6	79	1	37T
-C. Brown	3	51	1	20T
-J. Cotchery	4	47	0	16
-C. Artis-Payne	2	34	0	20
-D. Funchess	2	30	1	16
-F. Whittaker	2	14	0	9
-Fumbles	FUM	LOST	REC	YDS
-C. Newton	1	1	0	-6
-J. Norman	0	0	0	0
-C. Tillman	0	0	1	0
-Kicking	FG	LG	XP	PTS
-G. Gano	1/2	43	5/5	8
-Punting	NO	AVG	I20	LG
-B. Nortman	7	40.9	1	59
-Kickoff Returns	NO	AVG	TD	LG
-J. Webb	3	21	0	27
-E. Dickson	1	1	0	1
-F. Whittaker	1	17	0	17
-Punt Returns	NO	AVG	TD	LG
-T. Ginn	3	14	0	36
-Defense	T-A	SCK	INT	FF
-L. Kuechly	10-5	0.0	0	0
-K. Coleman	8-5	0.0	0	0
-T. Davis	6-3	0.0	0	0
-C. Finnegan	5-0	0.0	0	0
-R. Harper	5-1	0.0	0	0
-C. Tillman	4-1	0.0	1	1
-S. Thompson	3-2	0.0	0	0
-S. Lotulelei	2-1	0.0	0	0
-J. Norman	2-1	0.0	0	1
-K. Short	2-0	0.0	0	0
-J. Allen	1-1	0.0	0	0
-K. Ealy	1-0	0.0	0	0
-D. Edwards	1-0	0.0	0	0
-C. Johnson	1-2	0.0	0	0
-K. Love	0-1	0.0	0	0
-Total First Downs	28
-By Rushing	7
-By Passing	20
-By Penalty	
-Third Down Efficiency	9/17 - 52%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	480
-Total Rushing/Passing Plays (includes Sacks)	77
-Average Gain per Offensive Play	6.2
-Net Yards Rushing	171
-Total Rushing Plays	29
-Average Gain per Rushing Play	5.9
-Tackled for a Loss (Number-Yards)	1--2
-Net Yards Passing	309
-Times Sacked (Number-Yards)	3 - 31
-Gross Yards Passing	340
-Pass Comp-Att-Int	25 - 45 - 0
-Average Gain per Passing Play (includes Sacks)	6.4
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 5 - 5
-Punts (Number-Average)	7 - 45.4
-Blocked	0
-Net Punting Average	40.9
-FGs Blocked - PATs Blocked	1 - 0
-Total Return Yardage (excludes Kickoffs)	44
-Punt Returns (Number-Yards)	3 - 44
-Kickoff Returns (Number-Yards)	5 - 82
-Interception Returns (Number-Yards)	1 - 0
-Penalties (Number-Yards)	7 - 88
-Fumbles (Number-Lost)	1 - 1
-Touchdowns	5
-Rushing	0
-Passing	5
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	5 - 5
-Kicking (Made-Attempted)	5 - 5
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 2
-Red Zone Efficiency	3/4 - 75%
-Goal To Go Efficiency	2/2 - 100%
-Safeties	0
-Final Score	38
-Time of Possession	30:52
-
-Passing	CP/AT	YDS	TD	INT
-C. Newton	17/30	142	0	0
-Rushing	ATT	YDS	TD	LG
-C. Artis-Payne	5	49	0	31
-C. Newton	7	46	1	18
-F. Whittaker	5	32	0	16
-J. Cotchery	1	16	0	16
-M. Tolbert	2	12	0	6
-Receiving	REC	YDS	TD	LG
-G. Olsen	4	40	0	15
-C. Brown	3	39	0	19
-J. Cotchery	4	24	0	11
-M. Tolbert	2	17	0	12
-T. Ginn	1	9	0	9
-C. Artis-Payne	1	7	0	7
-F. Whittaker	2	6	0	4
-Fumbles	FUM	LOST	REC	YDS
-C. Newton	1	1	0	0
-J. Norman	0	0	1	12
-Kicking	FG	LG	XP	PTS
-G. Gano	2/2	47	1/1	7
-Punting	NO	AVG	I20	LG
-B. Nortman	3	36.7	2	63
-Kickoff Returns	NO	AVG	TD	LG
-Punt Returns	NO	AVG	TD	LG
-T. Ginn	0	0	0	0
-Defense	T-A	SCK	INT	FF
-K. Coleman	7-1	0.0	0	0
-L. Kuechly	7-1	0.0	0	0
-K. Short	7-0	2.0	0	0
-R. Harper	5-1	0.0	0	0
-J. Norman	4-0	0.0	0	0
-S. Thompson	4-1	0.0	0	0
-C. Tillman	4-0	0.0	0	0
-M. Addison	2-0	0.0	0	0
-T. Davis	2-1	0.0	0	0
-S. Lotulelei	2-0	0.0	0	0
-J. Allen	1-0	0.0	0	0
-C. Johnson	1-1	0.0	0	0
-D. Edwards	0-1	0.0	0	0
-C. Finnegan	0-2	0.0	0	0
-Total First Downs	18
-By Rushing	11
-By Passing	7
-By Penalty	
-Third Down Efficiency	4/10 - 40%
-Fourth Down Efficiency	0/1 - 0%
-Total Net Yards	268
-Total Rushing/Passing Plays (includes Sacks)	52
-Average Gain per Offensive Play	5.2
-Net Yards Rushing	155
-Total Rushing Plays	20
-Average Gain per Rushing Play	7.8
-Tackled for a Loss (Number-Yards)	1--2
-Net Yards Passing	113
-Times Sacked (Number-Yards)	2 - 29
-Gross Yards Passing	142
-Pass Comp-Att-Int	17 - 30 - 0
-Average Gain per Passing Play (includes Sacks)	3.5
-Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 3
-Punts (Number-Average)	3 - 43.3
-Blocked	0
-Net Punting Average	36.7
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	0
-Punt Returns (Number-Yards)	0 - 0
-Kickoff Returns (Number-Yards)	0 - 0
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	4 - 40
-Fumbles (Number-Lost)	1 - 1
-Touchdowns	1
-Rushing	1
-Passing	0
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	1 - 1
-Kicking (Made-Attempted)	1 - 1
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 2
-Red Zone Efficiency	1/2 - 50%
-Goal To Go Efficiency	1/1 - 100%
-Safeties	0
-Final Score	13
-Time of Possession	24:22
-
-Passing	CP/AT	YDS	TD	INT
-C. Newton	21/26	293	2	0
-Rushing	ATT	YDS	TD	LG
-M. Tolbert	10	59	0	18
-C. Artis-Payne	14	44	1	11T
-C. Newton	6	10	2	4
-D. Anderson	2	-2	0	-1
-Receiving	REC	YDS	TD	LG
-D. Funchess	7	120	1	41
-C. Brown	3	58	0	21
-J. Cotchery	2	52	1	31T
-B. Bersin	2	25	0	17
-C. Artis-Payne	2	17	0	12
-G. Olsen	2	16	0	10
-M. Tolbert	1	5	0	5
-E. Dickson	2	0	0	1
-Fumbles	FUM	LOST	REC	YDS
-B. Bersin	1	1	0	0
-D. Funchess	1	1	0	0
-J. Webb	0	0	1	14
-T. Williams	0	0	0	0
-Kicking	FG	LG	XP	PTS
-G. Gano	1/1	49	5/5	8
-Punting	NO	AVG	I20	LG
-B. Nortman	2	38.0	2	51
-Kickoff Returns	NO	AVG	TD	LG
-J. Webb	2	25	0	27
-Punt Returns	NO	AVG	TD	LG
-R. McClain	2	2	0	3
-Defense	T-A	SCK	INT	FF
-C. Finnegan	4-1	0.0	0	0
-L. Kuechly	4-5	0.0	0	0
-R. McClain	4-3	0.0	1	0
-J. Allen	3-2	0.0	0	0
-T. Davis	3-2	0.0	1	0
-K. Ealy	3-0	0.0	0	0
-B. Jacobs	3-1	0.0	0	0
-S. Thompson	3-4	0.0	0	0
-T. Boston	2-3	0.0	0	0
-J. Norman	2-0	0.0	0	0
-C. Tillman	2-1	0.0	0	0
-M. Addison	1-0	1.0	0	0
-D. Edwards	1-0	0.0	0	0
-R. Harper	1-1	0.0	0	0
-S. Lotulelei	1-0	0.0	0	0
-K. Love	1-0	1.0	0	0
-C. Johnson	0-1	0.0	0	0
-K. Short	0-2	0.0	0	0
-Total First Downs	23
-By Rushing	10
-By Passing	12
-By Penalty	
-Third Down Efficiency	7/10 - 70%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	366
-Total Rushing/Passing Plays (includes Sacks)	62
-Average Gain per Offensive Play	5.9
-Net Yards Rushing	111
-Total Rushing Plays	32
-Average Gain per Rushing Play	3.5
-Tackled for a Loss (Number-Yards)	1--2
-Net Yards Passing	255
-Times Sacked (Number-Yards)	4 - 38
-Gross Yards Passing	293
-Pass Comp-Att-Int	21 - 26 - 0
-Average Gain per Passing Play (includes Sacks)	8.5
-Kickoffs (Number-In End Zone-Touchbacks)	7 - 7 - 7
-Punts (Number-Average)	2 - 38.0
-Blocked	0
-Net Punting Average	38.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	51
-Punt Returns (Number-Yards)	2 - 5
-Kickoff Returns (Number-Yards)	2 - 51
-Interception Returns (Number-Yards)	2 - 46
-Penalties (Number-Yards)	7 - 33
-Fumbles (Number-Lost)	2 - 2
-Touchdowns	5
-Rushing	3
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	5 - 5
-Kicking (Made-Attempted)	5 - 5
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	4/4 - 100%
-Goal To Go Efficiency	2/2 - 100%
-Safeties	0
-Final Score	38
-Time of Possession	31:50
-
-
+2	Total First Downs	25			
+2	By Rushing	9			
+2	By Passing	13			
+2	By Penalty				
+2	Third Down Efficiency	4/13 - 30%			
+2	Fourth Down Efficiency	0/0 - 0%			
+2	Total Net Yards	350			
+2	Total Rushing/Passing Plays (includes Sacks)	72			
+2	Average Gain per Offensive Play	4.9			
+2	Net Yards Rushing	172			
+2	Total Rushing Plays	33			
+2	Average Gain per Rushing Play	5.2			
+2	Tackled for a Loss (Number-Yards)	1--1			
+2	Net Yards Passing	178			
+2	Times Sacked (Number-Yards)	2 - 17			
+2	Gross Yards Passing	195			
+2	Pass Comp-Att-Int	18 - 37 - 1			
+2	Average Gain per Passing Play (includes Sacks)	4.6			
+2	Kickoffs (Number-In End Zone-Touchbacks)	5 - 5 - 4			
+2	Punts (Number-Average)	7 - 53.9			
+2	Blocked	0			
+2	Net Punting Average	42.7			
+2	FGs Blocked - PATs Blocked	1 - 0			
+2	Total Return Yardage (excludes Kickoffs)	52			
+2	Punt Returns (Number-Yards)	4 - 44			
+2	Kickoff Returns (Number-Yards)	1 - 33			
+2	Interception Returns (Number-Yards)	1 - 8			
+2	Penalties (Number-Yards)	10 - 92			
+2	Fumbles (Number-Lost)	0 - 0			
+2	Touchdowns	3			
+2	Rushing	1			
+2	Passing	2			
+2	Interceptions	0			
+2	Kickoff Returns	0			
+2	Fumble Returns	0			
+2	Punt Returns	0			
+2	Extra Points (Made-Attempted)	3 - 3			
+2	Kicking (Made-Attempted)	3 - 3			
+2	Two Point Conversions (Made-Attempted)	0 - 0			
+2	Field Goals (Made-Attempted)	1 - 2			
+2	Red Zone Efficiency	1/2 - 50%			
+2	Goal To Go Efficiency	1/1 - 100%			
+2	Safeties	0			
+2	Final Score	24			
+2	Time of Possession	32:17			
+					
+3	Passing	CP/AT	YDS	TD	INT
+3	C. Newton	20/31	315	2	0
+3	Rushing	ATT	YDS	TD	LG
+3	J. Stewart	14	52	0	14
+3	C. Newton	7	33	1	13T
+3	M. Tolbert	5	16	0	6
+3	C. Brown	1	12	0	12
+3	C. Artis-Payne	3	6	0	4
+3	Receiving	REC	YDS	TD	LG
+3	G. Olsen	8	134	2	52
+3	T. Ginn	4	93	0	55
+3	M. Tolbert	3	28	0	14
+3	E. Dickson	2	19	0	10
+3	D. Funchess	1	14	0	14
+3	F. Whittaker	1	14	0	14
+3	B. Bersin	1	13	0	13
+3	Fumbles	FUM	LOST	REC	YDS
+3	T. Davis	0	0	0	0
+3	R. Harper	0	0	1	1
+3	Kicking	FG	LG	XP	PTS
+3	G. Gano	2/2	47	3/3	9
+3	Punting	NO	AVG	I20	LG
+3	B. Nortman	4	22.8	1	55
+3	Kickoff Returns	NO	AVG	TD	LG
+3	J. Webb	1	15	0	15
+3	Punt Returns	NO	AVG	TD	LG
+3	T. Ginn	0	0	0	0
+3	Defense	T-A	SCK	INT	FF
+3	T. Davis	6-4	0.0	0	1
+3	A. Klein	6-4	0.0	0	0
+3	C. Tillman	6-3	0.0	0	0
+3	B. Benwikere	4-1	0.0	0	0
+3	J. Norman	4-1	0.0	1	0
+3	S. Thompson	3-4	1.0	0	0
+3	M. Addison	2-2	0.0	0	0
+3	T. Boston	2-1	0.0	0	0
+3	K. Coleman	1-1	0.0	0	0
+3	R. Harper	1-4	0.0	0	0
+3	S. Lotulelei	1-1	0.0	0	0
+3	K. Ealy	0-4	0.0	0	0
+3	D. Edwards	0-1	0.0	0	0
+3	C. Johnson	0-1	0.0	0	0
+3	K. Love	0-1	0.0	0	0
+3	K. Short	0-1	0.0	0	0
+3	Total First Downs	24			
+3	By Rushing	7			
+3	By Passing	15			
+3	By Penalty				
+3	Third Down Efficiency	5/11 - 45%			
+3	Fourth Down Efficiency	1/1 - 100%			
+3	Total Net Yards	431			
+3	Total Rushing/Passing Plays (includes Sacks)	62			
+3	Average Gain per Offensive Play	7.0			
+3	Net Yards Rushing	119			
+3	Total Rushing Plays	30			
+3	Average Gain per Rushing Play	4.0			
+3	Tackled for a Loss (Number-Yards)	2--5			
+3	Net Yards Passing	312			
+3	Times Sacked (Number-Yards)	1 - 3			
+3	Gross Yards Passing	315			
+3	Pass Comp-Att-Int	20 - 31 - 0			
+3	Average Gain per Passing Play (includes Sacks)	9.8			
+3	Kickoffs (Number-In End Zone-Touchbacks)	6 - 5 - 2			
+3	Punts (Number-Average)	4 - 43.3			
+3	Blocked	0			
+3	Net Punting Average	22.8			
+3	FGs Blocked - PATs Blocked	0 - 0			
+3	Total Return Yardage (excludes Kickoffs)	0			
+3	Punt Returns (Number-Yards)	0 - 0			
+3	Kickoff Returns (Number-Yards)	1 - 15			
+3	Interception Returns (Number-Yards)	1 - 0			
+3	Penalties (Number-Yards)	10 - 88			
+3	Fumbles (Number-Lost)	0 - 0			
+3	Touchdowns	3			
+3	Rushing	1			
+3	Passing	2			
+3	Interceptions	0			
+3	Kickoff Returns	0			
+3	Fumble Returns	0			
+3	Punt Returns	0			
+3	Extra Points (Made-Attempted)	3 - 3			
+3	Kicking (Made-Attempted)	3 - 3			
+3	Two Point Conversions (Made-Attempted)	0 - 0			
+3	Field Goals (Made-Attempted)	2 - 2			
+3	Red Zone Efficiency	3/4 - 75%			
+3	Goal To Go Efficiency	1/2 - 50%			
+3	Safeties	0			
+3	Final Score	27			
+3	Time of Possession	27:16			
+					
+4	Passing	CP/AT	YDS	TD	INT
+4	C. Newton	11/22	124	2	0
+4	Rushing	ATT	YDS	TD	LG
+4	C. Newton	12	51	0	12
+4	J. Stewart	10	50	0	13
+4	C. Artis-Payne	8	25	0	15
+4	M. Tolbert	3	7	0	6
+4	Receiving	REC	YDS	TD	LG
+4	B. Bersin	4	54	0	30
+4	G. Olsen	2	28	0	19
+4	T. Ginn	2	18	2	12T
+4	E. Dickson	1	11	0	11
+4	F. Whittaker	1	10	0	10
+4	C. Brown	1	3	0	3
+4	Fumbles	FUM	LOST	REC	YDS
+4	C. Newton	1	1	0	0
+4	J. Stewart	1	0	0	0
+4	E. Dickson	0	0	1	57
+4	S. Lotulelei	0	0	1	0
+4	Kicking	FG	LG	XP	PTS
+4	G. Gano	3/3	27	4/4	13
+4	Punting	NO	AVG	I20	LG
+4	B. Nortman	4	29.8	2	56
+4	Kickoff Returns	NO	AVG	TD	LG
+4	F. Whittaker	1	26	0	26
+4	Punt Returns	NO	AVG	TD	LG
+4	T. Ginn	2	2	0	5
+4	Defense	T-A	SCK	INT	FF
+4	T. Davis	8-3	0.0	1	0
+4	R. Delaire	5-0	2.0	0	0
+4	A. Klein	5-3	0.0	0	0
+4	T. Boston	4-1	0.0	0	0
+4	K. Coleman	4-1	0.0	1	0
+4	J. Norman	4-0	0.0	2	0
+4	S. Thompson	4-0	0.0	0	0
+4	R. Harper	3-1	0.0	0	0
+4	C. Jones	3-1	0.0	0	0
+4	K. Short	3-2	0.0	0	0
+4	K. Ealy	2-3	0.0	0	0
+4	J. Allen	1-0	0.0	0	0
+4	B. Benwikere	1-0	0.0	0	0
+4	D. Edwards	1-1	0.0	0	0
+4	K. Love	1-0	0.0	0	0
+4	C. Tillman	1-0	0.0	0	0
+4	T. Williams	1-1	0.0	0	0
+4	Total First Downs	17			
+4	By Rushing	8			
+4	By Passing	7			
+4	By Penalty				
+4	Third Down Efficiency	3/11 - 27%			
+4	Fourth Down Efficiency	0/0 - 0%			
+4	Total Net Yards	244			
+4	Total Rushing/Passing Plays (includes Sacks)	57			
+4	Average Gain per Offensive Play	4.3			
+4	Net Yards Rushing	133			
+4	Total Rushing Plays	33			
+4	Average Gain per Rushing Play	4.0			
+4	Tackled for a Loss (Number-Yards)	4--16			
+4	Net Yards Passing	111			
+4	Times Sacked (Number-Yards)	2 - 13			
+4	Gross Yards Passing	124			
+4	Pass Comp-Att-Int	11 - 22 - 0			
+4	Average Gain per Passing Play (includes Sacks)	4.6			
+4	Kickoffs (Number-In End Zone-Touchbacks)	8 - 7 - 5			
+4	Punts (Number-Average)	4 - 38.5			
+4	Blocked	0			
+4	Net Punting Average	29.8			
+4	FGs Blocked - PATs Blocked	0 - 0			
+4	Total Return Yardage (excludes Kickoffs)	85			
+4	Punt Returns (Number-Yards)	2 - 5			
+4	Kickoff Returns (Number-Yards)	1 - 26			
+4	Interception Returns (Number-Yards)	4 - 80			
+4	Penalties (Number-Yards)	5 - 45			
+4	Fumbles (Number-Lost)	2 - 1			
+4	Touchdowns	4			
+4	Rushing	0			
+4	Passing	2			
+4	Interceptions	1			
+4	Kickoff Returns	0			
+4	Fumble Returns	1			
+4	Punt Returns	0			
+4	Extra Points (Made-Attempted)	4 - 4			
+4	Kicking (Made-Attempted)	4 - 4			
+4	Two Point Conversions (Made-Attempted)	0 - 0			
+4	Field Goals (Made-Attempted)	3 - 3			
+4	Red Zone Efficiency	2/5 - 40%			
+4	Goal To Go Efficiency	1/2 - 50%			
+4	Safeties	0			
+4	Final Score	37			
+4	Time of Possession	27:52			
+					
+	week 5 bye				
+					
+6	Passing	CP/AT	YDS	TD	INT
+6	C. Newton	20/36	269	1	2
+6	Rushing	ATT	YDS	TD	LG
+6	J. Stewart	20	78	2	11
+6	C. Newton	7	30	1	9
+6	C. Brown	2	15	0	8
+6	M. Tolbert	3	10	0	7
+6	F. Whittaker	1	2	0	2
+6	Receiving	REC	YDS	TD	LG
+6	G. Olsen	7	131	1	32
+6	E. Dickson	3	24	0	14
+6	D. Funchess	2	24	0	16
+6	C. Brown	2	22	0	11
+6	J. Cotchery	2	21	0	14
+6	F. Whittaker	2	21	0	15
+6	T. Ginn	1	18	0	18
+6	J. Stewart	1	8	0	8
+6	Fumbles	FUM	LOST	REC	YDS
+6	Kicking	FG	LG	XP	PTS
+6	G. Gano	0/0	0	3/4	3
+6	Punting	NO	AVG	I20	LG
+6	B. Nortman	5	43.0	1	59
+6	Kickoff Returns	NO	AVG	TD	LG
+6	Punt Returns	NO	AVG	TD	LG
+6	T. Ginn	2	9	0	11
+6	Defense	T-A	SCK	INT	FF
+6	L. Kuechly	5-9	0.0	0	0
+6	T. Davis	4-4	1.0	0	0
+6	B. Benwikere	3-0	0.0	0	0
+6	K. Short	3-3	2.0	0	0
+6	K. Ealy	2-1	0.0	0	0
+6	W. Horton	2-1	1.0	0	0
+6	J. Norman	2-0	0.0	0	0
+6	C. Tillman	2-2	0.0	0	0
+6	T. Boston	1-0	0.0	0	0
+6	K. Coleman	1-7	0.0	0	0
+6	R. Delaire	1-0	0.0	0	0
+6	R. Harper	1-5	0.0	0	0
+6	S. Lotulelei	1-0	0.0	0	0
+6	M. Addison	0-1	0.0	0	0
+6	S. Thompson	0-3	0.0	0	0
+6	Total First Downs	25			
+6	By Rushing	10			
+6	By Passing	14			
+6	By Penalty				
+6	Third Down Efficiency	4/11 - 36%			
+6	Fourth Down Efficiency	0/1 - 0%			
+6	Total Net Yards	383			
+6	Total Rushing/Passing Plays (includes Sacks)	72			
+6	Average Gain per Offensive Play	5.3			
+6	Net Yards Rushing	135			
+6	Total Rushing Plays	33			
+6	Average Gain per Rushing Play	4.1			
+6	Tackled for a Loss (Number-Yards)	3--6			
+6	Net Yards Passing	248			
+6	Times Sacked (Number-Yards)	3 - 21			
+6	Gross Yards Passing	269			
+6	Pass Comp-Att-Int	20 - 36 - 2			
+6	Average Gain per Passing Play (includes Sacks)	6.4			
+6	Kickoffs (Number-In End Zone-Touchbacks)	5 - 5 - 3			
+6	Punts (Number-Average)	5 - 48.6			
+6	Blocked	0			
+6	Net Punting Average	43.0			
+6	FGs Blocked - PATs Blocked	0 - 0			
+6	Total Return Yardage (excludes Kickoffs)	18			
+6	Punt Returns (Number-Yards)	2 - 18			
+6	Kickoff Returns (Number-Yards)	0 - 0			
+6	Interception Returns (Number-Yards)	0 - 0			
+6	Penalties (Number-Yards)	5 - 25			
+6	Fumbles (Number-Lost)	0 - 0			
+6	Touchdowns	4			
+6	Rushing	3			
+6	Passing	1			
+6	Interceptions	0			
+6	Kickoff Returns	0			
+6	Fumble Returns	0			
+6	Punt Returns	0			
+6	Extra Points (Made-Attempted)	3 - 4			
+6	Kicking (Made-Attempted)	3 - 4			
+6	Two Point Conversions (Made-Attempted)	0 - 0			
+6	Field Goals (Made-Attempted)	0 - 0			
+6	Red Zone Efficiency	3/3 - 100%			
+6	Goal To Go Efficiency	3/3 - 100%			
+6	Safeties	0			
+6	Final Score	27			
+6	Time of Possession	32:12			
+					
+7	Passing	CP/AT	YDS	TD	INT
+7	C. Newton	14/24	197	1	3
+7	Rushing	ATT	YDS	TD	LG
+7	J. Stewart	24	125	0	36
+7	T. Ginn	1	43	0	43
+7	C. Newton	4	20	1	16
+7	M. Tolbert	3	16	1	11
+7	C. Artis-Payne	1	0	0	0
+7	Receiving	REC	YDS	TD	LG
+7	G. Olsen	3	65	0	28
+7	T. Ginn	5	59	0	20
+7	C. Brown	3	38	0	25
+7	D. Funchess	1	20	0	20
+7	J. Cotchery	1	13	0	13
+7	M. Tolbert	1	2	1	2T
+7	Fumbles	FUM	LOST	REC	YDS
+7	K. Short	0	0	0	0
+7	Kicking	FG	LG	XP	PTS
+7	G. Gano	2/2	35	3/3	9
+7	Punting	NO	AVG	I20	LG
+7	B. Nortman	4	38.8	3	45
+7	Kickoff Returns	NO	AVG	TD	LG
+7	E. Dickson	1	0	0	0
+7	F. Whittaker	1	27	0	27
+7	Punt Returns	NO	AVG	TD	LG
+7	T. Ginn	1	5	0	5
+7	Defense	T-A	SCK	INT	FF
+7	T. Davis	11-2	0.0	0	0
+7	L. Kuechly	8-3	0.0	0	0
+7	K. Short	6-2	3.0	0	1
+7	K. Coleman	5-0	0.0	0	0
+7	R. Harper	4-3	0.0	0	0
+7	B. Benwikere	3-1	0.0	0	0
+7	J. Allen	2-3	1.0	0	0
+7	J. Norman	2-1	0.0	0	0
+7	M. Addison	1-1	1.0	0	0
+7	T. Boston	1-0	0.0	0	0
+7	K. Ealy	1-3	0.0	0	0
+7	A. Klein	1-0	0.0	0	0
+7	S. Lotulelei	1-3	0.0	0	0
+7	C. Tillman	1-4	0.0	0	0
+7	C. Jones	0-0	0.0	1	0
+7	Total First Downs	21			
+7	By Rushing	9			
+7	By Passing	11			
+7	By Penalty				
+7	Third Down Efficiency	2/9 - 22%			
+7	Fourth Down Efficiency	0/0 - 0%			
+7	Total Net Yards	394			
+7	Total Rushing/Passing Plays (includes Sacks)	58			
+7	Average Gain per Offensive Play	6.8			
+7	Net Yards Rushing	204			
+7	Total Rushing Plays	33			
+7	Average Gain per Rushing Play	6.2			
+7	Tackled for a Loss (Number-Yards)	2--3			
+7	Net Yards Passing	190			
+7	Times Sacked (Number-Yards)	1 - 7			
+7	Gross Yards Passing	197			
+7	Pass Comp-Att-Int	14 - 24 - 3			
+7	Average Gain per Passing Play (includes Sacks)	7.6			
+7	Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 6			
+7	Punts (Number-Average)	4 - 39.3			
+7	Blocked	0			
+7	Net Punting Average	38.8			
+7	FGs Blocked - PATs Blocked	0 - 0			
+7	Total Return Yardage (excludes Kickoffs)	5			
+7	Punt Returns (Number-Yards)	1 - 5			
+7	Kickoff Returns (Number-Yards)	2 - 27			
+7	Interception Returns (Number-Yards)	1 - 0			
+7	Penalties (Number-Yards)	5 - 43			
+7	Fumbles (Number-Lost)	0 - 0			
+7	Touchdowns	3			
+7	Rushing	2			
+7	Passing	1			
+7	Interceptions	0			
+7	Kickoff Returns	0			
+7	Fumble Returns	0			
+7	Punt Returns	0			
+7	Extra Points (Made-Attempted)	3 - 3			
+7	Kicking (Made-Attempted)	3 - 3			
+7	Two Point Conversions (Made-Attempted)	0 - 0			
+7	Field Goals (Made-Attempted)	2 - 2			
+7	Red Zone Efficiency	3/5 - 60%			
+7	Goal To Go Efficiency	3/3 - 100%			
+7	Safeties	0			
+7	Final Score	27			
+7	Time of Possession	28:54			
+					
+8	Passing	CP/AT	YDS	TD	INT
+8	C. Newton	16/35	248	2	1
+8	Rushing	ATT	YDS	TD	LG
+8	J. Stewart	24	82	1	14
+8	C. Newton	10	41	0	11
+8	C. Brown	1	14	0	14
+8	F. Whittaker	1	3	0	3
+8	Receiving	REC	YDS	TD	LG
+8	G. Olsen	6	79	1	27T
+8	T. Ginn	2	60	0	48
+8	C. Brown	3	42	1	23
+8	M. Tolbert	1	40	0	40
+8	J. Cotchery	2	18	0	13
+8	D. Funchess	1	8	0	8
+8	J. Stewart	1	1	0	1
+8	Fumbles	FUM	LOST	REC	YDS
+8	C. Newton	1	1	0	-2
+8	J. Stewart	1	1	0	0
+8	K. Ealy	0	0	0	0
+8	R. Harper	0	0	1	0
+8	S. Lotulelei	0	0	0	0
+8	Kicking	FG	LG	XP	PTS
+8	G. Gano	3/3	52	2/3	11
+8	Punting	NO	AVG	I20	LG
+8	B. Nortman	7	39.6	1	61
+8	Kickoff Returns	NO	AVG	TD	LG
+8	F. Whittaker	2	18	0	21
+8	Punt Returns	NO	AVG	TD	LG
+8	T. Ginn	2	9	0	18
+8	Defense	T-A	SCK	INT	FF
+8	L. Kuechly	9-5	0.0	1	0
+8	R. Harper	7-5	0.0	0	0
+8	B. Benwikere	5-3	0.0	0	0
+8	K. Coleman	5-3	0.0	1	0
+8	J. Norman	4-0	0.0	0	0
+8	J. Allen	2-3	1.0	0	0
+8	A. Klein	2-0	0.0	0	0
+8	K. Love	2-1	0.0	0	0
+8	C. Tillman	2-2	0.0	1	0
+8	T. Boston	1-0	0.0	0	0
+8	T. Davis	1-1	0.0	0	0
+8	K. Ealy	1-4	1.0	0	1
+8	W. Horton	1-0	0.0	0	0
+8	S. Lotulelei	1-1	0.0	0	1
+8	K. Short	0-2	0.0	0	0
+8	Total First Downs	17			
+8	By Rushing	7			
+8	By Passing	10			
+8	By Penalty				
+8	Third Down Efficiency	4/16 - 25%			
+8	Fourth Down Efficiency	2/2 - 100%			
+8	Total Net Yards	379			
+8	Total Rushing/Passing Plays (includes Sacks)	73			
+8	Average Gain per Offensive Play	5.2			
+8	Net Yards Rushing	140			
+8	Total Rushing Plays	36			
+8	Average Gain per Rushing Play	3.9			
+8	Tackled for a Loss (Number-Yards)	2--9			
+8	Net Yards Passing	239			
+8	Times Sacked (Number-Yards)	2 - 9			
+8	Gross Yards Passing	248			
+8	Pass Comp-Att-Int	16 - 35 - 1			
+8	Average Gain per Passing Play (includes Sacks)	6.5			
+8	Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 2			
+8	Punts (Number-Average)	7 - 41.9			
+8	Blocked	0			
+8	Net Punting Average	39.6			
+8	FGs Blocked - PATs Blocked	0 - 0			
+8	Total Return Yardage (excludes Kickoffs)	32			
+8	Punt Returns (Number-Yards)	2 - 18			
+8	Kickoff Returns (Number-Yards)	2 - 37			
+8	Interception Returns (Number-Yards)	3 - 14			
+8	Penalties (Number-Yards)	6 - 55			
+8	Fumbles (Number-Lost)	2 - 2			
+8	Touchdowns	3			
+8	Rushing	1			
+8	Passing	2			
+8	Interceptions	0			
+8	Kickoff Returns	0			
+8	Fumble Returns	0			
+8	Punt Returns	0			
+8	Extra Points (Made-Attempted)	2 - 3			
+8	Kicking (Made-Attempted)	2 - 3			
+8	Two Point Conversions (Made-Attempted)	0 - 0			
+8	Field Goals (Made-Attempted)	3 - 3			
+8	Red Zone Efficiency	2/3 - 66%			
+8	Goal To Go Efficiency	0/1 - 0%			
+8	Safeties	0			
+8	Final Score	29			
+8	Time of Possession	33:38			
+					
+9	Passing	CP/AT	YDS	TD	INT
+9	C. Newton	15/30	297	3	1
+9	Rushing	ATT	YDS	TD	LG
+9	J. Stewart	20	66	0	14
+9	C. Newton	9	57	1	23
+9	F. Whittaker	2	13	0	10
+9	M. Tolbert	3	7	0	4
+9	J. Webb	1	-1	0	-1
+9	C. Brown	1	-12	0	-12
+9	Receiving	REC	YDS	TD	LG
+9	J. Cotchery	3	82	0	59
+9	D. Funchess	3	71	1	52
+9	G. Olsen	4	66	1	24
+9	C. Brown	2	50	1	39T
+9	T. Ginn	1	20	0	20
+9	E. Dickson	1	6	0	6
+9	J. Stewart	1	2	0	2
+9	Fumbles	FUM	LOST	REC	YDS
+9	K. Ealy	0	0	0	0
+9	K. Love	0	0	1	0
+9	C. Tillman	0	0	0	0
+9	Kicking	FG	LG	XP	PTS
+9	G. Gano	3/4	49	4/4	13
+9	Punting	NO	AVG	I20	LG
+9	B. Nortman	6	45.2	0	60
+9	Kickoff Returns	NO	AVG	TD	LG
+9	T. Ginn	1	8	0	8
+9	J. Webb	1	25	0	25
+9	Punt Returns	NO	AVG	TD	LG
+9	T. Ginn	5	7	0	11
+9	Defense	T-A	SCK	INT	FF
+9	L. Kuechly	6-3	0.0	0	0
+9	C. Tillman	6-2	0.0	0	1
+9	T. Davis	4-2	1.0	1	0
+9	R. Harper	4-2	0.0	0	0
+9	K. Short	4-1	1.0	0	0
+9	K. Coleman	3-2	1.0	0	0
+9	J. Norman	3-0	0.0	0	0
+9	B. Benwikere	2-4	0.0	0	0
+9	S. Lotulelei	2-1	1.0	0	0
+9	K. Ealy	1-0	1.0	0	1
+9	M. Addison	0-1	0.0	0	0
+9	J. Allen	0-1	0.0	0	0
+9	W. Horton	0-1	0.0	0	0
+9	K. Love	0-1	0.0	0	0
+9	S. Thompson	0-1	0.0	0	0
+9	Total First Downs	20			
+9	By Rushing	9			
+9	By Passing	10			
+9	By Penalty				
+9	Third Down Efficiency	5/15 - 33%			
+9	Fourth Down Efficiency	0/0 - 0%			
+9	Total Net Yards	427			
+9	Total Rushing/Passing Plays (includes Sacks)	66			
+9	Average Gain per Offensive Play	6.5			
+9	Net Yards Rushing	130			
+9	Total Rushing Plays	36			
+9	Average Gain per Rushing Play	3.6			
+9	Tackled for a Loss (Number-Yards)	5--24			
+9	Net Yards Passing	297			
+9	Times Sacked (Number-Yards)	0 - 0			
+9	Gross Yards Passing	297			
+9	Pass Comp-Att-Int	15 - 30 - 1			
+9	Average Gain per Passing Play (includes Sacks)	9.9			
+9	Kickoffs (Number-In End Zone-Touchbacks)	8 - 7 - 5			
+9	Punts (Number-Average)	6 - 48.2			
+9	Blocked	0			
+9	Net Punting Average	45.2			
+9	FGs Blocked - PATs Blocked	0 - 0			
+9	Total Return Yardage (excludes Kickoffs)	34			
+9	Punt Returns (Number-Yards)	5 - 35			
+9	Kickoff Returns (Number-Yards)	2 - 33			
+9	Interception Returns (Number-Yards)	1 - -1			
+9	Penalties (Number-Yards)	6 - 45			
+9	Fumbles (Number-Lost)	0 - 0			
+9	Touchdowns	4			
+9	Rushing	1			
+9	Passing	3			
+9	Interceptions	0			
+9	Kickoff Returns	0			
+9	Fumble Returns	0			
+9	Punt Returns	0			
+9	Extra Points (Made-Attempted)	4 - 4			
+9	Kicking (Made-Attempted)	4 - 4			
+9	Two Point Conversions (Made-Attempted)	0 - 0			
+9	Field Goals (Made-Attempted)	3 - 4			
+9	Red Zone Efficiency	3/5 - 60%			
+9	Goal To Go Efficiency	2/3 - 66%			
+9	Safeties	0			
+9	Final Score	37			
+9	Time of Possession	32:12			
+					
+10	Passing	CP/AT	YDS	TD	INT
+10	C. Newton	21/25	217	1	0
+10	Rushing	ATT	YDS	TD	LG
+10	J. Stewart	22	91	1	17
+10	C. Newton	9	23	1	7
+10	M. Tolbert	3	5	0	3
+10	Receiving	REC	YDS	TD	LG
+10	G. Olsen	8	80	0	20
+10	T. Ginn	4	45	0	19
+10	D. Funchess	2	41	0	27
+10	E. Dickson	3	21	1	17
+10	M. Tolbert	1	16	0	16
+10	C. Brown	1	8	0	8
+10	J. Cotchery	2	6	0	8
+10	Fumbles	FUM	LOST	REC	YDS
+10	L. Kuechly	0	0	0	0
+10	K. Short	0	0	1	0
+10	Kicking	FG	LG	XP	PTS
+10	G. Gano	2/2	48	3/3	9
+10	Punting	NO	AVG	I20	LG
+10	B. Nortman	4	47.3	2	63
+10	Kickoff Returns	NO	AVG	TD	LG
+10	F. Whittaker	1	22	0	22
+10	Punt Returns	NO	AVG	TD	LG
+10	T. Ginn	4	15	0	23
+10	Defense	T-A	SCK	INT	FF
+10	L. Kuechly	6-2	0.0	0	1
+10	R. Harper	3-1	0.0	0	0
+10	A. Klein	3-0	0.0	0	0
+10	J. Norman	3-0	0.0	0	0
+10	J. Allen	2-0	0.0	0	0
+10	B. Benwikere	2-2	0.0	0	0
+10	T. Boston	2-0	0.0	0	0
+10	K. Coleman	2-3	0.0	1	0
+10	C. Tillman	2-2	0.0	0	0
+10	K. Ealy	1-0	1.0	0	0
+10	S. Lotulelei	1-0	0.0	0	0
+10	K. Short	1-2	0.0	0	0
+10	S. Thompson	1-0	0.0	0	0
+10	K. Love	0-2	0.0	0	0
+10	Total First Downs	24			
+10	By Rushing	10			
+10	By Passing	13			
+10	By Penalty				
+10	Third Down Efficiency	7/13 - 53%			
+10	Fourth Down Efficiency	0/0 - 0%			
+10	Total Net Yards	303			
+10	Total Rushing/Passing Plays (includes Sacks)	64			
+10	Average Gain per Offensive Play	4.7			
+10	Net Yards Rushing	119			
+10	Total Rushing Plays	34			
+10	Average Gain per Rushing Play	3.5			
+10	Tackled for a Loss (Number-Yards)	4--9			
+10	Net Yards Passing	184			
+10	Times Sacked (Number-Yards)	5 - 33			
+10	Gross Yards Passing	217			
+10	Pass Comp-Att-Int	21 - 25 - 0			
+10	Average Gain per Passing Play (includes Sacks)	6.1			
+10	Kickoffs (Number-In End Zone-Touchbacks)	6 - 5 - 1			
+10	Punts (Number-Average)	4 - 47.3			
+10	Blocked	0			
+10	Net Punting Average	47.3			
+10	FGs Blocked - PATs Blocked	0 - 0			
+10	Total Return Yardage (excludes Kickoffs)	61			
+10	Punt Returns (Number-Yards)	4 - 61			
+10	Kickoff Returns (Number-Yards)	1 - 22			
+10	Interception Returns (Number-Yards)	1 - 0			
+10	Penalties (Number-Yards)	5 - 45			
+10	Fumbles (Number-Lost)	0 - 0			
+10	Touchdowns	3			
+10	Rushing	2			
+10	Passing	1			
+10	Interceptions	0			
+10	Kickoff Returns	0			
+10	Fumble Returns	0			
+10	Punt Returns	0			
+10	Extra Points (Made-Attempted)	3 - 3			
+10	Kicking (Made-Attempted)	3 - 3			
+10	Two Point Conversions (Made-Attempted)	0 - 0			
+10	Field Goals (Made-Attempted)	2 - 2			
+10	Red Zone Efficiency	3/5 - 60%			
+10	Goal To Go Efficiency	2/3 - 66%			
+10	Safeties	0			
+10	Final Score	27			
+10	Time of Possession	35:55			
+					
+11	Passing	CP/AT	YDS	TD	INT
+11	C. Newton	21/34	246	5	0
+11	Rushing	ATT	YDS	TD	LG
+11	J. Stewart	21	102	0	15
+11	C. Newton	4	16	0	9
+11	T. Ginn	2	12	0	11
+11	F. Whittaker	2	6	0	4
+11	M. Tolbert	7	5	0	6
+11	D. Anderson	2	2	0	2
+11	B. Nortman	1	-1	0	-1
+11	Receiving	REC	YDS	TD	LG
+11	D. Funchess	4	64	1	35
+11	J. Cotchery	4	57	0	19
+11	G. Olsen	3	54	1	34
+11	T. Ginn	5	37	1	17
+11	B. Bersin	1	15	0	15
+11	J. Stewart	1	12	1	12T
+11	M. Tolbert	2	5	1	3T
+11	F. Whittaker	1	2	0	2
+11	Fumbles	FUM	LOST	REC	YDS
+11	D. Anderson	1	0	1	0
+11	B. Benwikere	0	0	1	0
+11	T. Davis	0	0	1	0
+11	K. Ealy	0	0	1	0
+11	L. Kuechly	0	0	1	0
+11	J. Norman	0	0	0	0
+11	Kicking	FG	LG	XP	PTS
+11	G. Gano	3/3	48	5/5	14
+11	Punting	NO	AVG	I20	LG
+11	B. Nortman	4	46.0	1	56
+11	Kickoff Returns	NO	AVG	TD	LG
+11	M. Tolbert	1	8	0	8
+11	J. Webb	1	23	0	23
+11	Punt Returns	NO	AVG	TD	LG
+11	T. Ginn	1	1	0	1
+11	B. Bersin	0	0	0	0
+11	Defense	T-A	SCK	INT	FF
+11	B. Benwikere	5-0	1.0	0	1
+11	L. Kuechly	4-1	0.0	0	1
+11	J. Norman	4-0	0.0	0	1
+11	T. Davis	3-1	0.0	0	1
+11	A. Klein	3-1	0.0	0	0
+11	C. Jones	2-1	0.0	0	0
+11	S. Thompson	2-2	0.0	0	0
+11	M. Addison	1-1	1.5	0	0
+11	J. Allen	1-1	0.0	0	0
+11	K. Coleman	1-2	0.0	1	0
+11	R. Delaire	1-1	0.5	0	0
+11	K. Ealy	1-0	1.0	0	1
+11	D. Edwards	1-1	0.0	0	0
+11	R. Harper	1-0	0.0	0	0
+11	K. Love	1-0	1.0	0	0
+11	K. Short	1-0	0.0	0	0
+11	Total First Downs	27			
+11	By Rushing	8			
+11	By Passing	17			
+11	By Penalty				
+11	Third Down Efficiency	7/14 - 50%			
+11	Fourth Down Efficiency	0/1 - 0%			
+11	Total Net Yards	368			
+11	Total Rushing/Passing Plays (includes Sacks)	75			
+11	Average Gain per Offensive Play	4.9			
+11	Net Yards Rushing	142			
+11	Total Rushing Plays	39			
+11	Average Gain per Rushing Play	3.6			
+11	Tackled for a Loss (Number-Yards)	7--9			
+11	Net Yards Passing	226			
+11	Times Sacked (Number-Yards)	2 - 20			
+11	Gross Yards Passing	246			
+11	Pass Comp-Att-Int	21 - 34 - 0			
+11	Average Gain per Passing Play (includes Sacks)	6.3			
+11	Kickoffs (Number-In End Zone-Touchbacks)	9 - 6 - 4			
+11	Punts (Number-Average)	4 - 51.8			
+11	Blocked	0			
+11	Net Punting Average	46.0			
+11	FGs Blocked - PATs Blocked	0 - 0			
+11	Total Return Yardage (excludes Kickoffs)	29			
+11	Punt Returns (Number-Yards)	1 - 1			
+11	Kickoff Returns (Number-Yards)	2 - 31			
+11	Interception Returns (Number-Yards)	1 - 28			
+11	Penalties (Number-Yards)	8 - 66			
+11	Fumbles (Number-Lost)	1 - 0			
+11	Touchdowns	5			
+11	Rushing	0			
+11	Passing	5			
+11	Interceptions	0			
+11	Kickoff Returns	0			
+11	Fumble Returns	0			
+11	Punt Returns	0			
+11	Extra Points (Made-Attempted)	5 - 5			
+11	Kicking (Made-Attempted)	5 - 5			
+11	Two Point Conversions (Made-Attempted)	0 - 0			
+11	Field Goals (Made-Attempted)	3 - 3			
+11	Red Zone Efficiency	5/6 - 83%			
+11	Goal To Go Efficiency	2/2 - 100%			
+11	Safeties	0			
+11	Final Score	44			
+11	Time of Possession	38:07			
+					
+12	Passing	CP/AT	YDS	TD	INT
+12	C. Newton	16/27	183	0	0
+12	Rushing	ATT	YDS	TD	LG
+12	J. Stewart	21	68	0	8
+12	C. Newton	12	45	1	11
+12	M. Tolbert	4	16	0	5
+12	Receiving	REC	YDS	TD	LG
+12	J. Cotchery	5	73	0	24
+12	G. Olsen	5	70	0	31
+12	D. Funchess	2	19	0	15
+12	B. Bersin	1	12	0	12
+12	J. Stewart	3	9	0	7
+12	Fumbles	FUM	LOST	REC	YDS
+12	C. Newton	1	0	1	-2
+12	Kicking	FG	LG	XP	PTS
+12	G. Gano	4/5	50	3/3	15
+12	Punting	NO	AVG	I20	LG
+12	B. Nortman	2	36.0	1	58
+12	Kickoff Returns	NO	AVG	TD	LG
+12	T. Davis	1	3	0	3
+12	Punt Returns	NO	AVG	TD	LG
+12	D. Marlowe	1	0	0	0
+12	T. Ginn	0	0	0	0
+12	Defense	T-A	SCK	INT	FF
+12	C. Jones	5-1	0.0	0	0
+12	T. Davis	4-1	1.0	0	0
+12	B. Benwikere	3-0	0.0	0	0
+12	A. Klein	3-2	0.0	0	0
+12	K. Coleman	2-1	0.0	1	0
+12	L. Kuechly	2-5	0.0	2	0
+12	J. Norman	2-0	0.0	0	0
+12	K. Short	2-1	0.0	0	0
+12	S. Thompson	2-0	0.0	0	0
+12	M. Addison	1-0	0.0	0	0
+12	J. Allen	1-1	0.0	0	0
+12	T. Boston	1-0	0.0	0	0
+12	K. Ealy	1-0	1.0	0	0
+12	D. Edwards	1-0	0.0	0	0
+12	R. Harper	1-2	0.0	0	0
+12	C. Johnson	1-0	0.0	0	0
+12	K. Love	1-0	0.0	0	0
+12	Total First Downs	18			
+12	By Rushing	9			
+12	By Passing	8			
+12	By Penalty				
+12	Third Down Efficiency	8/16 - 50%			
+12	Fourth Down Efficiency	0/0 - 0%			
+12	Total Net Yards	294			
+12	Total Rushing/Passing Plays (includes Sacks)	65			
+12	Average Gain per Offensive Play	4.5			
+12	Net Yards Rushing	129			
+12	Total Rushing Plays	37			
+12	Average Gain per Rushing Play	3.5			
+12	Tackled for a Loss (Number-Yards)	4--12			
+12	Net Yards Passing	165			
+12	Times Sacked (Number-Yards)	1 - 18			
+12	Gross Yards Passing	183			
+12	Pass Comp-Att-Int	16 - 27 - 0			
+12	Average Gain per Passing Play (includes Sacks)	5.9			
+12	Kickoffs (Number-In End Zone-Touchbacks)	7 - 7 - 7			
+12	Punts (Number-Average)	2 - 40.0			
+12	Blocked	0			
+12	Net Punting Average	36.0			
+12	FGs Blocked - PATs Blocked	1 - 0			
+12	Total Return Yardage (excludes Kickoffs)	85			
+12	Punt Returns (Number-Yards)	1 - 0			
+12	Kickoff Returns (Number-Yards)	1 - 3			
+12	Interception Returns (Number-Yards)	3 - 85			
+12	Penalties (Number-Yards)	8 - 53			
+12	Fumbles (Number-Lost)	1 - 0			
+12	Touchdowns	3			
+12	Rushing	1			
+12	Passing	0			
+12	Interceptions	2			
+12	Kickoff Returns	0			
+12	Fumble Returns	0			
+12	Punt Returns	0			
+12	Extra Points (Made-Attempted)	3 - 3			
+12	Kicking (Made-Attempted)	3 - 3			
+12	Two Point Conversions (Made-Attempted)	0 - 0			
+12	Field Goals (Made-Attempted)	4 - 5			
+12	Red Zone Efficiency	1/2 - 50%			
+12	Goal To Go Efficiency	1/2 - 50%			
+12	Safeties	0			
+12	Final Score	33			
+12	Time of Possession	35:14			
+					
+13	Passing	CP/AT	YDS	TD	INT
+13	C. Newton	28/41	331	5	1
+13	Rushing	ATT	YDS	TD	LG
+13	J. Stewart	21	82	1	22
+13	C. Newton	10	49	0	30
+13	M. Tolbert	2	33	0	29
+13	F. Whittaker	1	11	0	11
+13	Receiving	REC	YDS	TD	LG
+13	G. Olsen	9	129	0	32
+13	T. Ginn	5	80	2	45T
+13	J. Stewart	3	31	0	15
+13	E. Dickson	3	27	0	16
+13	J. Cotchery	3	26	1	15T
+13	M. Tolbert	2	18	1	12T
+13	D. Funchess	1	13	1	13T
+13	C. Brown	2	7	0	5
+13	Fumbles	FUM	LOST	REC	YDS
+13	G. Olsen	1	1	0	0
+13	J. Stewart	1	1	0	0
+13	T. Davis	0	0	0	0
+13	Kicking	FG	LG	XP	PTS
+13	G. Gano	0/0	0	5/6	5
+13	Punting	NO	AVG	I20	LG
+13	B. Nortman	3	35.7	1	45
+13	Kickoff Returns	NO	AVG	TD	LG
+13	F. Whittaker	2	23	0	24
+13	Punt Returns	NO	AVG	TD	LG
+13	T. Ginn	0	0	0	0
+13	Defense	T-A	SCK	INT	FF
+13	T. Davis	7-0	1.0	0	1
+13	L. Kuechly	5-1	0.0	0	0
+13	C. Finnegan	4-0	0.0	0	0
+13	B. Benwikere	3-1	0.0	0	0
+13	K. Coleman	2-1	0.0	1	0
+13	R. Harper	2-0	0.0	0	0
+13	J. Norman	2-0	0.0	0	0
+13	K. Short	2-0	1.0	0	0
+13	S. Thompson	2-0	0.0	0	0
+13	J. Allen	1-0	0.0	0	0
+13	K. Ealy	1-0	0.0	0	0
+13	C. Jones	1-0	0.0	0	0
+13	S. Lotulelei	1-0	0.0	0	0
+13	K. Love	1-1	0.0	0	0
+13	Total First Downs	33			
+13	By Rushing	9			
+13	By Passing	18			
+13	By Penalty				
+13	Third Down Efficiency	3/8 - 37%			
+13	Fourth Down Efficiency	2/2 - 100%			
+13	Total Net Yards	497			
+13	Total Rushing/Passing Plays (includes Sacks)	76			
+13	Average Gain per Offensive Play	6.5			
+13	Net Yards Rushing	175			
+13	Total Rushing Plays	34			
+13	Average Gain per Rushing Play	5.1			
+13	Tackled for a Loss (Number-Yards)	3--10			
+13	Net Yards Passing	322			
+13	Times Sacked (Number-Yards)	1 - 9			
+13	Gross Yards Passing	331			
+13	Pass Comp-Att-Int	28 - 41 - 1			
+13	Average Gain per Passing Play (includes Sacks)	7.7			
+13	Kickoffs (Number-In End Zone-Touchbacks)	7 - 7 - 6			
+13	Punts (Number-Average)	3 - 38.0			
+13	Blocked	0			
+13	Net Punting Average	35.7			
+13	FGs Blocked - PATs Blocked	0 - 1			
+13	Total Return Yardage (excludes Kickoffs)	0			
+13	Punt Returns (Number-Yards)	0 - 0			
+13	Kickoff Returns (Number-Yards)	2 - 47			
+13	Interception Returns (Number-Yards)	1 - 0			
+13	Penalties (Number-Yards)	8 - 87			
+13	Fumbles (Number-Lost)	2 - 2			
+13	Touchdowns	6			
+13	Rushing	1			
+13	Passing	5			
+13	Interceptions	0			
+13	Kickoff Returns	0			
+13	Fumble Returns	0			
+13	Punt Returns	0			
+13	Extra Points (Made-Attempted)	5 - 6			
+13	Kicking (Made-Attempted)	5 - 6			
+13	Two Point Conversions (Made-Attempted)	0 - 0			
+13	Field Goals (Made-Attempted)	0 - 0			
+13	Red Zone Efficiency	5/6 - 83%			
+13	Goal To Go Efficiency	3/3 - 100%			
+13	Safeties	0			
+13	Final Score	41			
+13	Time of Possession	36:34			
+					
+14	Passing	CP/AT	YDS	TD	INT
+14	C. Newton	15/21	265	3	0
+14	D. Anderson	4/6	36	0	0
+14	Rushing	ATT	YDS	TD	LG
+14	J. Stewart	10	75	1	44
+14	F. Whittaker	8	34	1	16T
+14	M. Tolbert	6	17	0	5
+14	C. Brown	1	9	0	9
+14	T. Ginn	1	5	0	5
+14	C. Newton	3	4	0	3
+14	D. Anderson	3	-2	0	0
+14	Receiving	REC	YDS	TD	LG
+14	T. Ginn	2	120	2	74T
+14	C. Brown	3	59	0	26
+14	G. Olsen	3	52	0	24
+14	D. Funchess	3	25	0	11
+14	J. Stewart	1	14	0	14
+14	M. Tolbert	2	13	0	9
+14	J. Cotchery	2	10	0	6
+14	S. Simonson	1	10	0	10
+14	E. Dickson	1	4	1	4T
+14	F. Whittaker	1	-6	0	-6
+14	Fumbles	FUM	LOST	REC	YDS
+14	T. Davis	0	0	0	0
+14	K. Ealy	0	0	1	0
+14	A. Klein	0	0	0	0
+14	K. Short	0	0	1	0
+14	Kicking	FG	LG	XP	PTS
+14	G. Gano	1/1	38	5/5	8
+14	Punting	NO	AVG	I20	LG
+14	B. Nortman	4	46.5	0	65
+14	Kickoff Returns	NO	AVG	TD	LG
+14	Punt Returns	NO	AVG	TD	LG
+14	T. Ginn	0	0	0	0
+14	Defense	T-A	SCK	INT	FF
+14	B. Benwikere	5-0	0.0	0	0
+14	K. Coleman	4-4	0.0	1	0
+14	T. Davis	4-3	0.5	0	1
+14	A. Klein	3-2	1.0	0	1
+14	L. Kuechly	3-2	0.0	1	0
+14	K. Short	3-0	2.0	0	2
+14	C. Finnegan	2-0	0.0	0	0
+14	R. Harper	2-0	0.0	0	0
+14	J. Norman	2-3	0.0	0	0
+14	S. Thompson	2-0	0.0	0	0
+14	M. Addison	1-1	0.5	0	0
+14	T. Boston	1-1	0.0	0	0
+14	B. Jacobs	1-2	0.0	0	0
+14	K. Love	1-1	1.0	0	0
+14	T. Williams	1-0	0.0	0	0
+14	D. Edwards	0-1	0.0	0	0
+14	S. Lotulelei	0-2	0.0	0	0
+14	Total First Downs	20			
+14	By Rushing	7			
+14	By Passing	12			
+14	By Penalty				
+14	Third Down Efficiency	6/12 - 50%			
+14	Fourth Down Efficiency	0/1 - 0%			
+14	Total Net Yards	424			
+14	Total Rushing/Passing Plays (includes Sacks)	61			
+14	Average Gain per Offensive Play	7.0			
+14	Net Yards Rushing	142			
+14	Total Rushing Plays	32			
+14	Average Gain per Rushing Play	4.4			
+14	Tackled for a Loss (Number-Yards)	1--3			
+14	Net Yards Passing	282			
+14	Times Sacked (Number-Yards)	2 - 19			
+14	Gross Yards Passing	301			
+14	Pass Comp-Att-Int	19 - 27 - 0			
+14	Average Gain per Passing Play (includes Sacks)	9.7			
+14	Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 5			
+14	Punts (Number-Average)	4 - 49.0			
+14	Blocked	0			
+14	Net Punting Average	46.5			
+14	FGs Blocked - PATs Blocked	0 - 0			
+14	Total Return Yardage (excludes Kickoffs)	10			
+14	Punt Returns (Number-Yards)	0 - 0			
+14	Kickoff Returns (Number-Yards)	0 - 0			
+14	Interception Returns (Number-Yards)	2 - 10			
+14	Penalties (Number-Yards)	6 - 60			
+14	Fumbles (Number-Lost)	0 - 0			
+14	Touchdowns	5			
+14	Rushing	2			
+14	Passing	3			
+14	Interceptions	0			
+14	Kickoff Returns	0			
+14	Fumble Returns	0			
+14	Punt Returns	0			
+14	Extra Points (Made-Attempted)	5 - 5			
+14	Kicking (Made-Attempted)	5 - 5			
+14	Two Point Conversions (Made-Attempted)	0 - 0			
+14	Field Goals (Made-Attempted)	1 - 1			
+14	Red Zone Efficiency	3/4 - 75%			
+14	Goal To Go Efficiency	2/3 - 66%			
+14	Safeties	0			
+14	Final Score	38			
+14	Time of Possession	31:30			
+					
+15	Passing	CP/AT	YDS	TD	INT
+15	C. Newton	25/45	340	5	0
+15	Rushing	ATT	YDS	TD	LG
+15	C. Newton	8	100	0	47
+15	C. Artis-Payne	14	59	0	26
+15	M. Tolbert	5	10	0	4
+15	F. Whittaker	2	2	0	2
+15	Receiving	REC	YDS	TD	LG
+15	T. Ginn	6	85	2	23
+15	G. Olsen	6	79	1	37T
+15	C. Brown	3	51	1	20T
+15	J. Cotchery	4	47	0	16
+15	C. Artis-Payne	2	34	0	20
+15	D. Funchess	2	30	1	16
+15	F. Whittaker	2	14	0	9
+15	Fumbles	FUM	LOST	REC	YDS
+15	C. Newton	1	1	0	-6
+15	J. Norman	0	0	0	0
+15	C. Tillman	0	0	1	0
+15	Kicking	FG	LG	XP	PTS
+15	G. Gano	1/2	43	5/5	8
+15	Punting	NO	AVG	I20	LG
+15	B. Nortman	7	40.9	1	59
+15	Kickoff Returns	NO	AVG	TD	LG
+15	J. Webb	3	21	0	27
+15	E. Dickson	1	1	0	1
+15	F. Whittaker	1	17	0	17
+15	Punt Returns	NO	AVG	TD	LG
+15	T. Ginn	3	14	0	36
+15	Defense	T-A	SCK	INT	FF
+15	L. Kuechly	10-5	0.0	0	0
+15	K. Coleman	8-5	0.0	0	0
+15	T. Davis	6-3	0.0	0	0
+15	C. Finnegan	5-0	0.0	0	0
+15	R. Harper	5-1	0.0	0	0
+15	C. Tillman	4-1	0.0	1	1
+15	S. Thompson	3-2	0.0	0	0
+15	S. Lotulelei	2-1	0.0	0	0
+15	J. Norman	2-1	0.0	0	1
+15	K. Short	2-0	0.0	0	0
+15	J. Allen	1-1	0.0	0	0
+15	K. Ealy	1-0	0.0	0	0
+15	D. Edwards	1-0	0.0	0	0
+15	C. Johnson	1-2	0.0	0	0
+15	K. Love	0-1	0.0	0	0
+15	Total First Downs	28			
+15	By Rushing	7			
+15	By Passing	20			
+15	By Penalty				
+15	Third Down Efficiency	9/17 - 52%			
+15	Fourth Down Efficiency	0/0 - 0%			
+15	Total Net Yards	480			
+15	Total Rushing/Passing Plays (includes Sacks)	77			
+15	Average Gain per Offensive Play	6.2			
+15	Net Yards Rushing	171			
+15	Total Rushing Plays	29			
+15	Average Gain per Rushing Play	5.9			
+15	Tackled for a Loss (Number-Yards)	1--2			
+15	Net Yards Passing	309			
+15	Times Sacked (Number-Yards)	3 - 31			
+15	Gross Yards Passing	340			
+15	Pass Comp-Att-Int	25 - 45 - 0			
+15	Average Gain per Passing Play (includes Sacks)	6.4			
+15	Kickoffs (Number-In End Zone-Touchbacks)	6 - 5 - 5			
+15	Punts (Number-Average)	7 - 45.4			
+15	Blocked	0			
+15	Net Punting Average	40.9			
+15	FGs Blocked - PATs Blocked	1 - 0			
+15	Total Return Yardage (excludes Kickoffs)	44			
+15	Punt Returns (Number-Yards)	3 - 44			
+15	Kickoff Returns (Number-Yards)	5 - 82			
+15	Interception Returns (Number-Yards)	1 - 0			
+15	Penalties (Number-Yards)	7 - 88			
+15	Fumbles (Number-Lost)	1 - 1			
+15	Touchdowns	5			
+15	Rushing	0			
+15	Passing	5			
+15	Interceptions	0			
+15	Kickoff Returns	0			
+15	Fumble Returns	0			
+15	Punt Returns	0			
+15	Extra Points (Made-Attempted)	5 - 5			
+15	Kicking (Made-Attempted)	5 - 5			
+15	Two Point Conversions (Made-Attempted)	0 - 0			
+15	Field Goals (Made-Attempted)	1 - 2			
+15	Red Zone Efficiency	3/4 - 75%			
+15	Goal To Go Efficiency	2/2 - 100%			
+15	Safeties	0			
+15	Final Score	38			
+15	Time of Possession	30:52			
+					
+16	Passing	CP/AT	YDS	TD	INT
+16	C. Newton	17/30	142	0	0
+16	Rushing	ATT	YDS	TD	LG
+16	C. Artis-Payne	5	49	0	31
+16	C. Newton	7	46	1	18
+16	F. Whittaker	5	32	0	16
+16	J. Cotchery	1	16	0	16
+16	M. Tolbert	2	12	0	6
+16	Receiving	REC	YDS	TD	LG
+16	G. Olsen	4	40	0	15
+16	C. Brown	3	39	0	19
+16	J. Cotchery	4	24	0	11
+16	M. Tolbert	2	17	0	12
+16	T. Ginn	1	9	0	9
+16	C. Artis-Payne	1	7	0	7
+16	F. Whittaker	2	6	0	4
+16	Fumbles	FUM	LOST	REC	YDS
+16	C. Newton	1	1	0	0
+16	J. Norman	0	0	1	12
+16	Kicking	FG	LG	XP	PTS
+16	G. Gano	2/2	47	1/1	7
+16	Punting	NO	AVG	I20	LG
+16	B. Nortman	3	36.7	2	63
+16	Kickoff Returns	NO	AVG	TD	LG
+16	Punt Returns	NO	AVG	TD	LG
+16	T. Ginn	0	0	0	0
+16	Defense	T-A	SCK	INT	FF
+16	K. Coleman	7-1	0.0	0	0
+16	L. Kuechly	7-1	0.0	0	0
+16	K. Short	7-0	2.0	0	0
+16	R. Harper	5-1	0.0	0	0
+16	J. Norman	4-0	0.0	0	0
+16	S. Thompson	4-1	0.0	0	0
+16	C. Tillman	4-0	0.0	0	0
+16	M. Addison	2-0	0.0	0	0
+16	T. Davis	2-1	0.0	0	0
+16	S. Lotulelei	2-0	0.0	0	0
+16	J. Allen	1-0	0.0	0	0
+16	C. Johnson	1-1	0.0	0	0
+16	D. Edwards	0-1	0.0	0	0
+16	C. Finnegan	0-2	0.0	0	0
+16	Total First Downs	18			
+16	By Rushing	11			
+16	By Passing	7			
+16	By Penalty				
+16	Third Down Efficiency	4/10 - 40%			
+16	Fourth Down Efficiency	0/1 - 0%			
+16	Total Net Yards	268			
+16	Total Rushing/Passing Plays (includes Sacks)	52			
+16	Average Gain per Offensive Play	5.2			
+16	Net Yards Rushing	155			
+16	Total Rushing Plays	20			
+16	Average Gain per Rushing Play	7.8			
+16	Tackled for a Loss (Number-Yards)	1--2			
+16	Net Yards Passing	113			
+16	Times Sacked (Number-Yards)	2 - 29			
+16	Gross Yards Passing	142			
+16	Pass Comp-Att-Int	17 - 30 - 0			
+16	Average Gain per Passing Play (includes Sacks)	3.5			
+16	Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 3			
+16	Punts (Number-Average)	3 - 43.3			
+16	Blocked	0			
+16	Net Punting Average	36.7			
+16	FGs Blocked - PATs Blocked	0 - 0			
+16	Total Return Yardage (excludes Kickoffs)	0			
+16	Punt Returns (Number-Yards)	0 - 0			
+16	Kickoff Returns (Number-Yards)	0 - 0			
+16	Interception Returns (Number-Yards)	0 - 0			
+16	Penalties (Number-Yards)	4 - 40			
+16	Fumbles (Number-Lost)	1 - 1			
+16	Touchdowns	1			
+16	Rushing	1			
+16	Passing	0			
+16	Interceptions	0			
+16	Kickoff Returns	0			
+16	Fumble Returns	0			
+16	Punt Returns	0			
+16	Extra Points (Made-Attempted)	1 - 1			
+16	Kicking (Made-Attempted)	1 - 1			
+16	Two Point Conversions (Made-Attempted)	0 - 0			
+16	Field Goals (Made-Attempted)	2 - 2			
+16	Red Zone Efficiency	1/2 - 50%			
+16	Goal To Go Efficiency	1/1 - 100%			
+16	Safeties	0			
+16	Final Score	13			
+16	Time of Possession	24:22			
+					
+17	Passing	CP/AT	YDS	TD	INT
+17	C. Newton	21/26	293	2	0
+17	Rushing	ATT	YDS	TD	LG
+17	M. Tolbert	10	59	0	18
+17	C. Artis-Payne	14	44	1	11T
+17	C. Newton	6	10	2	4
+17	D. Anderson	2	-2	0	-1
+17	Receiving	REC	YDS	TD	LG
+17	D. Funchess	7	120	1	41
+17	C. Brown	3	58	0	21
+17	J. Cotchery	2	52	1	31T
+17	B. Bersin	2	25	0	17
+17	C. Artis-Payne	2	17	0	12
+17	G. Olsen	2	16	0	10
+17	M. Tolbert	1	5	0	5
+17	E. Dickson	2	0	0	1
+17	Fumbles	FUM	LOST	REC	YDS
+17	B. Bersin	1	1	0	0
+17	D. Funchess	1	1	0	0
+17	J. Webb	0	0	1	14
+17	T. Williams	0	0	0	0
+17	Kicking	FG	LG	XP	PTS
+17	G. Gano	1/1	49	5/5	8
+17	Punting	NO	AVG	I20	LG
+17	B. Nortman	2	38.0	2	51
+17	Kickoff Returns	NO	AVG	TD	LG
+17	J. Webb	2	25	0	27
+17	Punt Returns	NO	AVG	TD	LG
+17	R. McClain	2	2	0	3
+17	Defense	T-A	SCK	INT	FF
+17	C. Finnegan	4-1	0.0	0	0
+17	L. Kuechly	4-5	0.0	0	0
+17	R. McClain	4-3	0.0	1	0
+17	J. Allen	3-2	0.0	0	0
+17	T. Davis	3-2	0.0	1	0
+17	K. Ealy	3-0	0.0	0	0
+17	B. Jacobs	3-1	0.0	0	0
+17	S. Thompson	3-4	0.0	0	0
+17	T. Boston	2-3	0.0	0	0
+17	J. Norman	2-0	0.0	0	0
+17	C. Tillman	2-1	0.0	0	0
+17	M. Addison	1-0	1.0	0	0
+17	D. Edwards	1-0	0.0	0	0
+17	R. Harper	1-1	0.0	0	0
+17	S. Lotulelei	1-0	0.0	0	0
+17	K. Love	1-0	1.0	0	0
+17	C. Johnson	0-1	0.0	0	0
+17	K. Short	0-2	0.0	0	0
+17	Total First Downs	23			
+17	By Rushing	10			
+17	By Passing	12			
+17	By Penalty				
+17	Third Down Efficiency	7/10 - 70%			
+17	Fourth Down Efficiency	0/0 - 0%			
+17	Total Net Yards	366			
+17	Total Rushing/Passing Plays (includes Sacks)	62			
+17	Average Gain per Offensive Play	5.9			
+17	Net Yards Rushing	111			
+17	Total Rushing Plays	32			
+17	Average Gain per Rushing Play	3.5			
+17	Tackled for a Loss (Number-Yards)	1--2			
+17	Net Yards Passing	255			
+17	Times Sacked (Number-Yards)	4 - 38			
+17	Gross Yards Passing	293			
+17	Pass Comp-Att-Int	21 - 26 - 0			
+17	Average Gain per Passing Play (includes Sacks)	8.5			
+17	Kickoffs (Number-In End Zone-Touchbacks)	7 - 7 - 7			
+17	Punts (Number-Average)	2 - 38.0			
+17	Blocked	0			
+17	Net Punting Average	38.0			
+17	FGs Blocked - PATs Blocked	0 - 0			
+17	Total Return Yardage (excludes Kickoffs)	51			
+17	Punt Returns (Number-Yards)	2 - 5			
+17	Kickoff Returns (Number-Yards)	2 - 51			
+17	Interception Returns (Number-Yards)	2 - 46			
+17	Penalties (Number-Yards)	7 - 33			
+17	Fumbles (Number-Lost)	2 - 2			
+17	Touchdowns	5			
+17	Rushing	3			
+17	Passing	2			
+17	Interceptions	0			
+17	Kickoff Returns	0			
+17	Fumble Returns	0			
+17	Punt Returns	0			
+17	Extra Points (Made-Attempted)	5 - 5			
+17	Kicking (Made-Attempted)	5 - 5			
+17	Two Point Conversions (Made-Attempted)	0 - 0			
+17	Field Goals (Made-Attempted)	1 - 1			
+17	Red Zone Efficiency	4/4 - 100%			
+17	Goal To Go Efficiency	2/2 - 100%			
+17	Safeties	0			
+17	Final Score	38			
+17	Time of Possession	31:50			

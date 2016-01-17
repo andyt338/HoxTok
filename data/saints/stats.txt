@@ -41,1416 +41,1414 @@ week	Passing	CP/AT	YDS	TD	INT
 1	D. Hawthorne	1-1	0.0	0	0
 1	J. Sanford	1-0	0.0	0	0
 1	K. Williams	1-0	0.0	0	0
-1	Total First Downs	18
-1	By Rushing	4
-1	By Passing	12
-1	By Penalty	
-1	Third Down Efficiency	7/18 - 38%
-1	Fourth Down Efficiency	0/1 - 0%
-1	Total Net Yards	408
-1	Total Rushing/Passing Plays (includes Sacks)	70
-1	Average Gain per Offensive Play	5.8
-1	Net Yards Rushing	54
-1	Total Rushing Plays	20
-1	Average Gain per Rushing Play	2.7
-1	Tackled for a Loss (Number-Yards)	2--6
-1	Net Yards Passing	354
-1	Times Sacked (Number-Yards)	2 - 1
-1	Gross Yards Passing	355
-1	Pass Comp-Att-Int	30 - 48 - 1
-1	Average Gain per Passing Play (includes Sacks)	7.1
-1	Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 5
-1	Punts (Number-Average)	4 - 42.8
-1	Blocked	0
-1	Net Punting Average	39.0
-1	FGs Blocked - PATs Blocked	0 - 0
-1	Total Return Yardage (excludes Kickoffs)	2
-1	Punt Returns (Number-Yards)	1 - 2
-1	Kickoff Returns (Number-Yards)	1 - 10
-1	Interception Returns (Number-Yards)	0 - 0
-1	Penalties (Number-Yards)	7 - 73
-1	Fumbles (Number-Lost)	0 - 0
-1	Touchdowns	1
-1	Rushing	0
-1	Passing	1
-1	Interceptions	0
-1	Kickoff Returns	0
-1	Fumble Returns	0
-1	Punt Returns	0
-1	Extra Points (Made-Attempted)	1 - 1
-1	Kicking (Made-Attempted)	1 - 1
-1	Two Point Conversions (Made-Attempted)	0 - 0
-1	Field Goals (Made-Attempted)	4 - 4
-1	Red Zone Efficiency	1/4 - 25%
-1	Goal To Go Efficiency	0/0 - 0%
-1	Safeties	0
-1	Final Score	19
-1	Time of Possession	33:24
-
-
-Passing 	CP/AT 	YDS 	TD 	INT
-D. Brees 	24/38 	255 	1 	1
-Rushing 	ATT 	YDS 	TD 	LG
-M. Ingram 	16 	53 	1 	11T
-K. Robinson 	5 	48 	0 	14
-C. Spiller 	3 	7 	0 	7
-A. Johnson 	1 	1 	1 	1T
-D. Brees 	1 	-1 	0 	-1
-B. Cooks 	1 	-4 	0 	-4
-Receiving 	REC 	YDS 	TD 	LG
-M. Colston 	4 	69 	0 	24
-B. Cooks 	5 	62 	0 	21
-W. Snead 	4 	44 	1 	16T
-B. Coleman 	3 	33 	0 	22
-C. Spiller 	1 	19 	0 	19
-B. Watson 	2 	12 	0 	8
-K. Robinson 	1 	9 	0 	9
-M. Ingram 	3 	5 	0 	6
-J. Hill 	1 	2 	0 	2
-Fumbles 	FUM 	LOST 	REC 	YDS
-D. Brees 	2 	0 	1 	0
-M. Ingram 	1 	1 	0 	0
-M. Murphy 	1 	0 	1 	0
-W. Snead 	1 	1 	0 	0
-K. Edebali 	0 	0 	1 	0
-A. Johnson 	0 	0 	1 	0
-C. Jordan 	0 	0 	1 	0
-H. Kikaha 	0 	0 	0 	0
-K. Williams 	0 	0 	0 	0
-Kicking 	FG 	LG 	XP 	PTS
-Z. Hocker 	0/1 	0 	1/2 	1
-Punting 	NO 	AVG 	I20 	LG
-T. Morstead 	4 	35.3 	1 	55
-Kickoff Returns 	NO 	AVG 	TD 	LG
-M. Murphy 	1 	23 	0 	23
-Punt Returns 	NO 	AVG 	TD 	LG
-M. Murphy 	1 	0 	0 	0
-Defense 	T-A 	SCK 	INT 	FF
-K. Vaccaro 	6-3 	0.0 	0 	0
-K. Phillips 	5-3 	0.0 	0 	0
-D. Hawthorne 	4-1 	0.0 	0 	0
-H. Kikaha 	4-3 	1.0 	0 	1
-S. Anthony 	3-4 	0.0 	0 	0
-K. Edebali 	3-0 	1.0 	0 	0
-D. Swann 	3-1 	0.0 	0 	0
-R. Humber 	2-2 	0.0 	0 	0
-C. Jordan 	2-1 	1.0 	0 	0
-K. Williams 	2-0 	0.0 	0 	1
-D. Breaux 	1-0 	0.0 	0 	0
-B. Browner 	1-2 	0.0 	0 	0
-J. Jenkins 	1-1 	0.0 	0 	0
-K. Wilson 	1-0 	0.0 	0 	0
-A. Hicks 	0-1 	0.0 	0 	0
-B. Richardson 	0-2 	0.0 	0 	0
-Total First Downs	21
-By Rushing	8
-By Passing	11
-By Penalty	
-Third Down Efficiency	7/14 - 50%
-Fourth Down Efficiency	1/1 - 100%
-Total Net Yards	323
-Total Rushing/Passing Plays (includes Sacks)	69
-Average Gain per Offensive Play	4.7
-Net Yards Rushing	104
-Total Rushing Plays	27
-Average Gain per Rushing Play	3.9
-Tackled for a Loss (Number-Yards)	1--4
-Net Yards Passing	219
-Times Sacked (Number-Yards)	4 - 36
-Gross Yards Passing	255
-Pass Comp-Att-Int	24 - 38 - 1
-Average Gain per Passing Play (includes Sacks)	5.2
-Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 3
-Punts (Number-Average)	4 - 43.8
-Blocked	0
-Net Punting Average	35.3
-FGs Blocked - PATs Blocked	0 - 1
-Total Return Yardage (excludes Kickoffs)	0
-Punt Returns (Number-Yards)	1 - 0
-Kickoff Returns (Number-Yards)	1 - 23
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	10 - 115
-Fumbles (Number-Lost)	5 - 2
-Touchdowns	3
-Rushing	2
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	1 - 3
-Kicking (Made-Attempted)	1 - 2
-Two Point Conversions (Made-Attempted)	0 - 1
-Field Goals (Made-Attempted)	0 - 1
-Red Zone Efficiency	3/3 - 100%
-Goal To Go Efficiency	1/1 - 100%
-Safeties	0
-Final Score	19
-Time of Possession	31:28
-
-Passing	CP/AT	YDS	TD	INT
-L. McCown	31/38	310	0	1
-Rushing	ATT	YDS	TD	LG
-M. Ingram	14	50	1	9
-K. Robinson	7	12	1	8
-A. Johnson	2	4	0	3
-C. Spiller	1	4	0	4
-L. McCown	0	0	0	0
-Receiving	REC	YDS	TD	LG
-B. Cooks	7	79	0	16
-M. Ingram	5	49	0	23
-M. Colston	4	47	0	22
-W. Snead	5	44	0	15
-B. Watson	4	42	0	20
-C. Spiller	2	22	0	19
-J. Hill	1	10	0	10
-B. Coleman	1	9	0	9
-K. Robinson	2	8	0	4
-Fumbles	FUM	LOST	REC	YDS
-B. Watson	1	1	0	0
-Kicking	FG	LG	XP	PTS
-Z. Hocker	1/1	31	1/1	4
-Punting	NO	AVG	I20	LG
-T. Morstead	2	46.0	2	47
-Kickoff Returns	NO	AVG	TD	LG
-M. Murphy	3	24	0	35
-K. Robinson	1	14	0	14
-Punt Returns	NO	AVG	TD	LG
-M. Murphy	2	41	1	74T
-Defense	T-A	SCK	INT	FF
-B. Browner	6-1	0.0	0	0
-R. Humber	4-5	0.0	0	0
-H. Kikaha	4-2	1.0	0	0
-K. Vaccaro	4-5	0.0	0	0
-S. Anthony	3-2	0.0	0	0
-D. Hawthorne	3-5	0.0	0	0
-K. Phillips	2-1	0.0	0	0
-D. Swann	2-1	0.0	0	0
-T. Barnes	1-0	0.0	0	0
-K. Edebali	1-0	0.0	0	0
-C. Jordan	1-1	0.0	0	0
-D. Breaux	0-1	0.0	0	0
-A. Hicks	0-1	0.0	0	0
-J. Jenkins	0-4	0.0	0	0
-B. Richardson	0-4	0.0	0	0
-K. Williams	0-1	0.0	0	0
-Total First Downs	27
-By Rushing	5
-By Passing	18
-By Penalty	
-Third Down Efficiency	7/12 - 58%
-Fourth Down Efficiency	1/1 - 100%
-Total Net Yards	380
-Total Rushing/Passing Plays (includes Sacks)	63
-Average Gain per Offensive Play	6.0
-Net Yards Rushing	70
-Total Rushing Plays	24
-Average Gain per Rushing Play	2.9
-Tackled for a Loss (Number-Yards)	2--2
-Net Yards Passing	310
-Times Sacked (Number-Yards)	1 - 0
-Gross Yards Passing	310
-Pass Comp-Att-Int	31 - 38 - 1
-Average Gain per Passing Play (includes Sacks)	7.9
-Kickoffs (Number-In End Zone-Touchbacks)	5 - 4 - 4
-Punts (Number-Average)	2 - 46.0
-Blocked	0
-Net Punting Average	46.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	82
-Punt Returns (Number-Yards)	2 - 82
-Kickoff Returns (Number-Yards)	4 - 86
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	8 - 55
-Fumbles (Number-Lost)	1 - 1
-Touchdowns	3
-Rushing	2
-Passing	0
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	1
-Extra Points (Made-Attempted)	1 - 3
-Kicking (Made-Attempted)	1 - 1
-Two Point Conversions (Made-Attempted)	0 - 2
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	2/3 - 66%
-Goal To Go Efficiency	2/2 - 100%
-Safeties	0
-Final Score	22
-Time of Possession	32:44
-
-Passing	CP/AT	YDS	TD	INT
-D. Brees	33/41	359	2	0
-Rushing	ATT	YDS	TD	LG
-M. Ingram	17	77	0	15
-K. Robinson	6	16	1	8
-C. Spiller	2	10	0	10
-Receiving	REC	YDS	TD	LG
-C. Spiller	5	99	1	80T
-W. Snead	6	89	0	20
-M. Ingram	6	51	0	14
-B. Coleman	1	30	0	30
-B. Watson	3	30	0	21
-B. Cooks	4	25	0	13
-M. Colston	4	19	0	7
-J. Hill	2	11	1	8
-K. Robinson	2	5	0	9
-Fumbles	FUM	LOST	REC	YDS
-Kicking	FG	LG	XP	PTS
-Z. Hocker	2/3	51	2/2	8
-Punting	NO	AVG	I20	LG
-T. Morstead	3	41.0	2	47
-Z. Hocker	1	43.0	1	43
-Kickoff Returns	NO	AVG	TD	LG
-M. Murphy	1	34	0	34
-Punt Returns	NO	AVG	TD	LG
-M. Murphy	3	11	0	20
-Defense	T-A	SCK	INT	FF
-S. Anthony	5-2	1.0	0	0
-B. Browner	5-1	0.0	0	0
-H. Kikaha	4-4	1.0	0	0
-D. Swann	4-0	0.0	0	0
-D. Breaux	2-0	0.0	0	0
-J. Byrd	2-2	0.0	0	0
-T. Davison	2-2	1.0	0	0
-D. Hawthorne	2-1	0.0	0	0
-B. Richardson	2-4	0.0	0	0
-K. Vaccaro	2-1	0.0	0	0
-J. Jenkins	1-2	0.0	0	0
-C. Jordan	1-0	0.0	0	0
-K. Phillips	1-0	0.0	0	0
-D. Ellerbe	0-1	0.0	0	0
-K. Williams	0-2	0.0	0	0
-Total First Downs	27
-By Rushing	7
-By Passing	17
-By Penalty	
-Third Down Efficiency	6/13 - 46%
-Fourth Down Efficiency	1/1 - 100%
-Total Net Yards	438
-Total Rushing/Passing Plays (includes Sacks)	69
-Average Gain per Offensive Play	6.3
-Net Yards Rushing	103
-Total Rushing Plays	25
-Average Gain per Rushing Play	4.1
-Tackled for a Loss (Number-Yards)	3--5
-Net Yards Passing	335
-Times Sacked (Number-Yards)	3 - 24
-Gross Yards Passing	359
-Pass Comp-Att-Int	33 - 41 - 0
-Average Gain per Passing Play (includes Sacks)	7.6
-Kickoffs (Number-In End Zone-Touchbacks)	5 - 4 - 3
-Punts (Number-Average)	4 - 41.5
-Blocked	0
-Net Punting Average	41.5
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	34
-Punt Returns (Number-Yards)	3 - 34
-Kickoff Returns (Number-Yards)	1 - 34
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	8 - 64
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	3
-Rushing	1
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 3
-Red Zone Efficiency	2/4 - 50%
-Goal To Go Efficiency	2/2 - 100%
-Safeties	0
-Final Score	26
-Time of Possession	30:53
-
-Passing	CP/AT	YDS	TD	INT
-D. Brees	26/43	335	2	1
-Rushing	ATT	YDS	TD	LG
-M. Ingram	12	57	0	17
-K. Robinson	5	30	0	12
-C. Spiller	3	10	0	8
-D. Brees	1	-1	0	-1
-Receiving	REC	YDS	TD	LG
-W. Snead	6	141	0	59
-B. Cooks	5	107	1	46
-M. Colston	3	36	0	17
-B. Watson	3	36	1	21
-M. Ingram	2	17	0	13
-M. Hoomanawanui	2	4	0	7
-K. Robinson	2	2	0	1
-C. Spiller	3	-8	0	0
-Fumbles	FUM	LOST	REC	YDS
-D. Brees	2	2	0	0
-M. Hoomanawanui	1	1	0	0
-Kicking	FG	LG	XP	PTS
-Z. Hocker	1/1	21	2/2	5
-Punting	NO	AVG	I20	LG
-B. Fields	6	36.2	3	57
-Kickoff Returns	NO	AVG	TD	LG
-M. Murphy	3	22	0	28
-K. Robinson	1	19	0	19
-Punt Returns	NO	AVG	TD	LG
-M. Murphy	1	1	0	1
-Defense	T-A	SCK	INT	FF
-S. Anthony	9-0	0.0	0	0
-K. Vaccaro	9-2	0.0	0	0
-B. Browner	7-0	0.0	1	0
-D. Ellerbe	7-0	0.0	0	0
-D. Breaux	5-0	0.0	1	0
-D. Hawthorne	3-1	0.0	0	0
-C. Jordan	3-0	0.0	0	0
-J. Sanford	3-0	0.0	0	0
-J. Byrd	2-1	0.0	0	0
-J. Jenkins	2-0	0.0	0	0
-K. Wilson	2-0	0.0	0	0
-T. Barnes	1-0	0.0	0	0
-B. Dixon	1-0	0.0	0	0
-K. Edebali	1-0	0.0	0	0
-R. Humber	1-0	0.0	0	0
-H. Kikaha	1-0	0.0	0	0
-K. Lewis	1-0	0.0	0	0
-K. Williams	1-0	0.0	0	0
-T. Davison	0-1	0.0	0	0
-Total First Downs	19
-By Rushing	5
-By Passing	14
-By Penalty	
-Third Down Efficiency	8/16 - 50%
-Fourth Down Efficiency	1/1 - 100%
-Total Net Yards	388
-Total Rushing/Passing Plays (includes Sacks)	69
-Average Gain per Offensive Play	5.6
-Net Yards Rushing	96
-Total Rushing Plays	21
-Average Gain per Rushing Play	4.6
-Tackled for a Loss (Number-Yards)	2--2
-Net Yards Passing	292
-Times Sacked (Number-Yards)	5 - 43
-Gross Yards Passing	335
-Pass Comp-Att-Int	26 - 43 - 1
-Average Gain per Passing Play (includes Sacks)	6.1
-Kickoffs (Number-In End Zone-Touchbacks)	3 - 2 - 2
-Punts (Number-Average)	6 - 39.5
-Blocked	0
-Net Punting Average	36.2
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	1
-Punt Returns (Number-Yards)	1 - 1
-Kickoff Returns (Number-Yards)	4 - 85
-Interception Returns (Number-Yards)	2 - 0
-Penalties (Number-Yards)	7 - 78
-Fumbles (Number-Lost)	3 - 3
-Touchdowns	2
-Rushing	0
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	2/4 - 50%
-Goal To Go Efficiency	1/2 - 50%
-Safeties	0
-Final Score	17
-Time of Possession	25:58
-
-Passing	CP/AT	YDS	TD	INT
-D. Brees	30/39	312	1	0
-Rushing	ATT	YDS	TD	LG
-M. Ingram	20	46	2	11
-K. Robinson	7	23	0	10
-C. Spiller	3	10	0	7
-D. Brees	2	2	0	3
-Receiving	REC	YDS	TD	LG
-B. Watson	10	127	1	28
-W. Snead	4	55	0	24
-B. Cooks	4	41	0	26
-J. Hill	3	38	0	19
-K. Robinson	2	24	0	18
-C. Spiller	4	17	0	8
-M. Ingram	3	10	0	7
-Fumbles	FUM	LOST	REC	YDS
-B. Browner	0	0	1	0
-D. Ellerbe	0	0	1	0
-C. Jordan	0	0	1	0
-H. Kikaha	0	0	0	0
-Kicking	FG	LG	XP	PTS
-Z. Hocker	1/3	31	4/4	7
-Punting	NO	AVG	I20	LG
-B. Fields	4	33.5	1	57
-Kickoff Returns	NO	AVG	TD	LG
-Punt Returns	NO	AVG	TD	LG
-M. Murphy	2	6	0	6
-Defense	T-A	SCK	INT	FF
-D. Ellerbe	12-1	0.0	0	1
-H. Kikaha	6-1	1.0	0	1
-B. Browner	5-2	0.0	0	0
-C. Jordan	5-1	3.0	0	1
-S. Anthony	4-2	0.0	0	0
-D. Breaux	2-1	0.0	0	0
-J. Byrd	2-1	0.0	0	0
-R. Humber	2-2	0.0	0	0
-K. Lewis	2-0	0.0	0	0
-K. Vaccaro	2-3	0.0	0	0
-B. Dixon	1-0	0.0	0	0
-K. Edebali	1-0	1.0	0	0
-K. Williams	1-0	0.0	0	0
-Total First Downs	25
-By Rushing	7
-By Passing	16
-By Penalty	
-Third Down Efficiency	8/16 - 50%
-Fourth Down Efficiency	1/1 - 100%
-Total Net Yards	385
-Total Rushing/Passing Plays (includes Sacks)	72
-Average Gain per Offensive Play	5.3
-Net Yards Rushing	81
-Total Rushing Plays	32
-Average Gain per Rushing Play	2.5
-Tackled for a Loss (Number-Yards)	2--9
-Net Yards Passing	304
-Times Sacked (Number-Yards)	1 - 8
-Gross Yards Passing	312
-Pass Comp-Att-Int	30 - 39 - 0
-Average Gain per Passing Play (includes Sacks)	7.6
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 5 - 5
-Punts (Number-Average)	4 - 43.8
-Blocked	0
-Net Punting Average	33.5
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	12
-Punt Returns (Number-Yards)	2 - 12
-Kickoff Returns (Number-Yards)	0 - 0
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	3 - 15
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	4
-Rushing	2
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	4 - 4
-Kicking (Made-Attempted)	4 - 4
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 3
-Red Zone Efficiency	3/5 - 60%
-Goal To Go Efficiency	3/3 - 100%
-Safeties	0
-Final Score	31
-Time of Possession	32:30
-
-Passing	CP/AT	YDS	TD	INT
-D. Brees	28/44	255	1	1
-L. McCown	1/1	25	0	0
-Rushing	ATT	YDS	TD	LG
-M. Ingram	14	143	1	44
-K. Robinson	14	28	2	6T
-C. Spiller	4	16	0	9
-D. Brees	4	-4	0	-1
-Receiving	REC	YDS	TD	LG
-B. Cooks	6	81	0	47
-B. Watson	4	59	0	25
-C. Spiller	6	32	0	17
-M. Hoomanawanui	5	31	1	16T
-W. Snead	3	25	0	11
-B. Coleman	1	24	0	24
-M. Colston	1	20	0	20
-M. Ingram	2	5	0	10
-K. Robinson	1	3	0	3
-Fumbles	FUM	LOST	REC	YDS
-B. Cooks	1	0	0	0
-A. Davis	0	0	0	0
-D. Hawthorne	0	0	0	0
-J. Hill	0	0	1	0
-K. Wilson	0	0	1	4
-Kicking	FG	LG	XP	PTS
-K. Forbath	0/0	0	3/4	3
-Punting	NO	AVG	I20	LG
-T. Morstead	10	42.9	5	58
-Kickoff Returns	NO	AVG	TD	LG
-Punt Returns	NO	AVG	TD	LG
-M. Murphy	8	5	0	13
-Defense	T-A	SCK	INT	FF
-D. Ellerbe	7-0	0.0	0	0
-S. Anthony	5-2	0.0	1	0
-K. Vaccaro	5-0	1.0	0	0
-J. Byrd	3-0	0.0	0	0
-D. Breaux	2-0	0.0	0	0
-B. Dixon	2-0	0.0	0	0
-C. Jordan	2-0	2.0	0	0
-H. Kikaha	2-0	0.0	0	0
-K. Wilson	2-0	0.0	1	0
-B. Browner	1-0	0.0	0	0
-B. Richardson	1-1	0.5	0	0
-K. Williams	1-1	0.0	0	0
-J. Jenkins	0-2	0.5	0	0
-Total First Downs	22
-By Rushing	9
-By Passing	12
-By Penalty	
-Third Down Efficiency	7/20 - 35%
-Fourth Down Efficiency	1/1 - 100%
-Total Net Yards	449
-Total Rushing/Passing Plays (includes Sacks)	83
-Average Gain per Offensive Play	5.4
-Net Yards Rushing	183
-Total Rushing Plays	36
-Average Gain per Rushing Play	5.1
-Tackled for a Loss (Number-Yards)	3--7
-Net Yards Passing	266
-Times Sacked (Number-Yards)	2 - 14
-Gross Yards Passing	280
-Pass Comp-Att-Int	29 - 45 - 1
-Average Gain per Passing Play (includes Sacks)	5.7
-Kickoffs (Number-In End Zone-Touchbacks)	5 - 3 - 1
-Punts (Number-Average)	10 - 48.7
-Blocked	0
-Net Punting Average	42.9
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	69
-Punt Returns (Number-Yards)	8 - 44
-Kickoff Returns (Number-Yards)	0 - 0
-Interception Returns (Number-Yards)	2 - 25
-Penalties (Number-Yards)	12 - 100
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	4
-Rushing	3
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 4
-Kicking (Made-Attempted)	3 - 4
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	4/5 - 80%
-Goal To Go Efficiency	2/3 - 66%
-Safeties	0
-Final Score	27
-Time of Possession	38:23
-
-Passing	CP/AT	YDS	TD	INT
-D. Brees	39/50	505	7	2
-Rushing	ATT	YDS	TD	LG
-M. Ingram	16	80	0	16
-C. Spiller	4	21	0	11
-K. Robinson	4	4	0	3
-D. Brees	1	1	0	1
-B. Cooks	1	-3	0	-3
-Receiving	REC	YDS	TD	LG
-B. Watson	9	147	1	46
-M. Colston	8	114	1	53T
-B. Cooks	6	88	2	26T
-W. Snead	6	70	2	34T
-M. Ingram	4	39	0	17
-C. Spiller	2	15	1	9T
-B. Coleman	1	14	0	14
-K. Robinson	2	13	0	8
-J. Hill	1	5	0	5
-Fumbles	FUM	LOST	REC	YDS
-M. Murphy	1	0	0	0
-J. Byrd	0	0	1	1
-W. Snead	0	0	1	0
-Kicking	FG	LG	XP	PTS
-K. Forbath	1/1	50	7/7	10
-Punting	NO	AVG	I20	LG
-T. Morstead	2	41.0	0	48
-Kickoff Returns	NO	AVG	TD	LG
-M. Hoomanawanui	1	3	0	3
-M. Murphy	1	23	0	23
-Punt Returns	NO	AVG	TD	LG
-M. Murphy	2	15	0	24
-Defense	T-A	SCK	INT	FF
-B. Browner	8-0	0.0	0	0
-S. Anthony	6-5	0.0	0	0
-D. Breaux	5-1	0.0	0	0
-K. Vaccaro	4-1	0.0	0	0
-M. Mauti	3-0	0.0	0	0
-J. Byrd	2-1	0.0	0	1
-R. Humber	2-0	1.0	0	0
-K. Williams	2-1	0.0	0	0
-T. Davison	1-0	0.0	0	0
-K. Edebali	1-1	1.0	0	0
-J. Jenkins	1-2	0.0	0	0
-C. Jordan	1-0	0.0	0	0
-K. Lewis	1-0	0.0	0	0
-B. Richardson	1-1	0.0	0	0
-D. Swann	1-0	0.0	0	0
-J. Dunbar	0-1	0.0	0	0
-Total First Downs	35
-By Rushing	10
-By Passing	24
-By Penalty	
-Third Down Efficiency	7/11 - 63%
-Fourth Down Efficiency	1/1 - 100%
-Total Net Yards	608
-Total Rushing/Passing Plays (includes Sacks)	76
-Average Gain per Offensive Play	8.0
-Net Yards Rushing	103
-Total Rushing Plays	26
-Average Gain per Rushing Play	4.0
-Tackled for a Loss (Number-Yards)	4--8
-Net Yards Passing	505
-Times Sacked (Number-Yards)	0 - 0
-Gross Yards Passing	505
-Pass Comp-Att-Int	39 - 50 - 2
-Average Gain per Passing Play (includes Sacks)	10.1
-Kickoffs (Number-In End Zone-Touchbacks)	8 - 8 - 3
-Punts (Number-Average)	2 - 47.5
-Blocked	0
-Net Punting Average	41.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	30
-Punt Returns (Number-Yards)	2 - 30
-Kickoff Returns (Number-Yards)	2 - 26
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	12 - 93
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	7
-Rushing	0
-Passing	7
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	7 - 7
-Kicking (Made-Attempted)	7 - 7
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	2/2 - 100%
-Goal To Go Efficiency	1/1 - 100%
-Safeties	0
-Final Score	52
-Time of Possession	34:55
-
-Passing	CP/AT	YDS	TD	INT
-D. Brees	28/39	387	3	1
-Rushing	ATT	YDS	TD	LG
-M. Ingram	22	54	0	12
-C. Spiller	2	8	0	5
-D. Brees	3	-1	1	1T
-Receiving	REC	YDS	TD	LG
-W. Snead	6	95	0	32
-B. Cooks	4	71	1	38T
-B. Watson	5	60	0	19
-B. Coleman	2	58	0	30
-M. Ingram	4	42	0	14
-M. Colston	3	37	0	16
-J. Hill	2	21	1	11
-C. Spiller	1	2	0	2
-M. Hoomanawanui	1	1	1	1T
-Fumbles	FUM	LOST	REC	YDS
-M. Murphy	1	1	0	0
-O. Gwacham	0	0	1	0
-D. Hawthorne	0	0	0	0
-Kicking	FG	LG	XP	PTS
-K. Forbath	0/1	0	4/4	4
-Punting	NO	AVG	I20	LG
-T. Morstead	4	42.8	2	49
-Kickoff Returns	NO	AVG	TD	LG
-M. Murphy	3	27	0	35
-Punt Returns	NO	AVG	TD	LG
-M. Murphy	3	7	0	11
-Defense	T-A	SCK	INT	FF
-J. Byrd	7-3	0.0	0	0
-M. Mauti	5-4	0.0	0	0
-S. Anthony	4-4	0.0	0	0
-K. Vaccaro	4-6	0.0	0	0
-D. Hawthorne	3-1	0.0	0	1
-D. Breaux	2-0	0.0	0	0
-J. Jenkins	2-7	0.0	0	0
-C. Jordan	2-0	0.0	0	0
-B. Richardson	2-0	0.0	0	0
-K. Wilson	2-0	0.0	0	0
-B. Browner	1-2	0.0	0	0
-T. Davison	1-0	0.0	0	0
-K. Williams	1-4	0.0	0	0
-J. Dunbar	0-2	0.0	0	0
-Total First Downs	30
-By Rushing	5
-By Passing	18
-By Penalty	
-Third Down Efficiency	6/11 - 54%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	416
-Total Rushing/Passing Plays (includes Sacks)	70
-Average Gain per Offensive Play	5.9
-Net Yards Rushing	61
-Total Rushing Plays	27
-Average Gain per Rushing Play	2.3
-Tackled for a Loss (Number-Yards)	1--1
-Net Yards Passing	355
-Times Sacked (Number-Yards)	4 - 32
-Gross Yards Passing	387
-Pass Comp-Att-Int	28 - 39 - 1
-Average Gain per Passing Play (includes Sacks)	8.3
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 2
-Punts (Number-Average)	4 - 45.8
-Blocked	0
-Net Punting Average	42.8
-FGs Blocked - PATs Blocked	1 - 0
-Total Return Yardage (excludes Kickoffs)	21
-Punt Returns (Number-Yards)	3 - 21
-Kickoff Returns (Number-Yards)	3 - 82
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	8 - 75
-Fumbles (Number-Lost)	1 - 1
-Touchdowns	4
-Rushing	1
-Passing	3
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	4 - 4
-Kicking (Made-Attempted)	4 - 4
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 1
-Red Zone Efficiency	3/4 - 75%
-Goal To Go Efficiency	2/2 - 100%
-Safeties	0
-Final Score	28
-Time of Possession	32:49
-
-Passing	CP/AT	YDS	TD	INT
-D. Brees	19/28	209	2	2
-Rushing	ATT	YDS	TD	LG
-M. Ingram	5	77	0	70
-T. Hightower	11	46	0	9
-C. Spiller	8	24	0	7
-B. Cooks	1	11	0	11
-Receiving	REC	YDS	TD	LG
-B. Cooks	5	98	2	60T
-T. Graham	2	25	0	18
-M. Colston	3	22	0	10
-M. Ingram	3	21	0	12
-B. Watson	3	19	0	8
-B. Coleman	1	14	0	14
-C. Spiller	2	10	0	7
-Fumbles	FUM	LOST	REC	YDS
-C. Spiller	1	0	1	0
-K. Williams	0	0	0	0
-Kicking	FG	LG	XP	PTS
-K. Forbath	0/0	0	2/2	2
-Punting	NO	AVG	I20	LG
-T. Morstead	4	40.8	0	54
-Kickoff Returns	NO	AVG	TD	LG
-C. Spiller	3	19	0	22
-Punt Returns	NO	AVG	TD	LG
-M. Murphy	1	10	0	10
-J. Byrd	0	0	0	0
-Defense	T-A	SCK	INT	FF
-J. Dunbar	5-3	0.0	0	0
-J. Byrd	4-1	1.0	0	0
-M. Mauti	4-3	0.0	0	0
-K. Wilson	4-0	0.0	0	0
-D. Breaux	3-1	0.0	0	0
-J. Jenkins	3-2	0.0	0	0
-K. Vaccaro	3-2	0.0	0	0
-K. Williams	3-3	0.0	0	1
-S. Anthony	2-6	0.0	0	0
-C. Jordan	2-2	0.0	0	0
-K. Lewis	2-0	0.0	0	0
-B. Richardson	2-3	0.0	0	0
-T. Barnes	1-0	0.0	0	0
-B. Browner	1-2	0.0	0	0
-K. Edebali	1-0	0.0	0	0
-O. Gwacham	1-1	1.5	0	0
-T. Davison	0-1	0.5	0	0
-Total First Downs	16
-By Rushing	6
-By Passing	10
-By Penalty	
-Third Down Efficiency	4/11 - 36%
-Fourth Down Efficiency	0/2 - 0%
-Total Net Yards	350
-Total Rushing/Passing Plays (includes Sacks)	55
-Average Gain per Offensive Play	6.4
-Net Yards Rushing	158
-Total Rushing Plays	25
-Average Gain per Rushing Play	6.3
-Tackled for a Loss (Number-Yards)	3--5
-Net Yards Passing	192
-Times Sacked (Number-Yards)	2 - 17
-Gross Yards Passing	209
-Pass Comp-Att-Int	19 - 28 - 2
-Average Gain per Passing Play (includes Sacks)	6.4
-Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 1
-Punts (Number-Average)	4 - 47.3
-Blocked	0
-Net Punting Average	40.8
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	10
-Punt Returns (Number-Yards)	1 - 10
-Kickoff Returns (Number-Yards)	3 - 59
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	7 - 50
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	2
-Rushing	0
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	1/1 - 100%
-Goal To Go Efficiency	1/1 - 100%
-Safeties	0
-Final Score	14
-Time of Possession	26:26
-
-week 11 bye
-
-Passing	CP/AT	YDS	TD	INT
-D. Brees	25/44	228	0	1
-Rushing	ATT	YDS	TD	LG
-M. Ingram	9	52	0	29
-C. Spiller	1	-2	0	-2
-Receiving	REC	YDS	TD	LG
-B. Watson	4	53	0	26
-W. Snead	4	50	0	24
-M. Ingram	6	45	0	17
-M. Colston	3	38	0	19
-B. Cooks	5	35	0	11
-C. Spiller	2	8	0	7
-T. Graham	1	-1	0	-1
-Fumbles	FUM	LOST	REC	YDS
-D. Brees	1	0	1	0
-O. Gwacham	0	0	0	0
-K. Vaccaro	0	0	0	0
-Kicking	FG	LG	XP	PTS
-K. Forbath	2/2	57	0/0	6
-Punting	NO	AVG	I20	LG
-T. Morstead	6	41.7	2	53
-Kickoff Returns	NO	AVG	TD	LG
-C. Spiller	2	20	0	25
-Punt Returns	NO	AVG	TD	LG
-M. Murphy	1	12	0	12
-Defense	T-A	SCK	INT	FF
-S. Anthony	8-2	0.0	0	0
-K. Vaccaro	8-5	0.0	0	1
-J. Byrd	5-3	0.0	1	0
-M. Mauti	5-2	0.0	0	0
-J. Jenkins	4-2	0.0	0	0
-B. Browner	3-1	0.0	0	0
-B. Richardson	3-0	0.0	0	0
-D. Breaux	2-2	0.0	0	0
-C. Jordan	2-2	1.0	0	0
-R. Humber	1-6	0.0	0	0
-K. Williams	1-0	0.0	0	0
-T. Barnes	0-2	0.0	0	0
-T. Davison	0-3	0.0	0	0
-H. Kikaha	0-3	0.0	0	0
-K. Wilson	0-1	0.0	0	0
-Total First Downs	14
-By Rushing	2
-By Passing	11
-By Penalty	
-Third Down Efficiency	3/12 - 25%
-Fourth Down Efficiency	0/1 - 0%
-Total Net Yards	268
-Total Rushing/Passing Plays (includes Sacks)	56
-Average Gain per Offensive Play	4.8
-Net Yards Rushing	50
-Total Rushing Plays	10
-Average Gain per Rushing Play	5.0
-Tackled for a Loss (Number-Yards)	4--6
-Net Yards Passing	218
-Times Sacked (Number-Yards)	2 - 10
-Gross Yards Passing	228
-Pass Comp-Att-Int	25 - 44 - 1
-Average Gain per Passing Play (includes Sacks)	4.7
-Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 1
-Punts (Number-Average)	6 - 46.8
-Blocked	0
-Net Punting Average	41.7
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	36
-Punt Returns (Number-Yards)	1 - 12
-Kickoff Returns (Number-Yards)	2 - 40
-Interception Returns (Number-Yards)	1 - 24
-Penalties (Number-Yards)	10 - 82
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	0
-Rushing	0
-Passing	0
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	0 - 0
-Kicking (Made-Attempted)	0 - 0
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 2
-Red Zone Efficiency	0/3 - 0%
-Goal To Go Efficiency	0/0 - 0%
-Safeties	0
-Final Score	6
-Time of Possession	23:37
-
-Passing	CP/AT	YDS	TD	INT
-D. Brees	24/42	282	3	1
-Rushing	ATT	YDS	TD	LG
-M. Ingram	12	56	1	14
-D. Brees	1	12	0	12
-T. Hightower	1	2	0	2
-Receiving	REC	YDS	TD	LG
-B. Cooks	6	104	1	54T
-B. Coleman	4	73	1	31
-B. Watson	4	38	1	14T
-M. Ingram	4	23	0	11
-M. Hoomanawanui	1	19	0	19
-M. Colston	1	14	0	14
-J. Hill	2	11	0	7
-T. Graham	1	0	0	0
-C. Spiller	1	0	0	0
-Fumbles	FUM	LOST	REC	YDS
-M. Ingram	1	0	0	0
-S. Anthony	0	0	1	31
-B. Dixon	0	0	0	0
-A. Peat	0	0	1	0
-K. Vaccaro	0	0	1	8
-Kicking	FG	LG	XP	PTS
-K. Forbath	0/1	0	4/4	4
-Punting	NO	AVG	I20	LG
-T. Morstead	5	40.8	2	49
-Kickoff Returns	NO	AVG	TD	LG
-C. Spiller	1	26	0	26
-Punt Returns	NO	AVG	TD	LG
-M. Murphy	2	3	0	5
-J. Byrd	0	0	0	0
-Defense	T-A	SCK	INT	FF
-J. Anderson	7-4	0.0	0	0
-K. Vaccaro	6-3	0.0	0	0
-S. Anthony	4-6	0.0	0	1
-B. Browner	3-0	0.0	0	0
-J. Byrd	3-0	0.0	0	0
-C. Jordan	3-3	1.0	0	0
-H. Kikaha	3-4	0.0	0	0
-K. Wilson	3-0	0.0	0	0
-T. Davison	2-0	0.0	0	0
-B. Dixon	2-1	0.0	0	1
-B. Richardson	2-1	0.0	0	0
-K. Williams	2-0	0.0	0	0
-D. Breaux	1-0	0.0	1	0
-K. Edebali	1-0	0.0	0	0
-M. Mauti	1-0	0.0	0	0
-Total First Downs	21
-By Rushing	5
-By Passing	13
-By Penalty	
-Third Down Efficiency	3/10 - 30%
-Fourth Down Efficiency	0/1 - 0%
-Total Net Yards	334
-Total Rushing/Passing Plays (includes Sacks)	58
-Average Gain per Offensive Play	5.8
-Net Yards Rushing	70
-Total Rushing Plays	14
-Average Gain per Rushing Play	5.0
-Tackled for a Loss (Number-Yards)	2--4
-Net Yards Passing	264
-Times Sacked (Number-Yards)	2 - 18
-Gross Yards Passing	282
-Pass Comp-Att-Int	24 - 42 - 1
-Average Gain per Passing Play (includes Sacks)	6.0
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 5 - 4
-Punts (Number-Average)	5 - 40.8
-Blocked	0
-Net Punting Average	40.8
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	29
-Punt Returns (Number-Yards)	2 - 7
-Kickoff Returns (Number-Yards)	1 - 26
-Interception Returns (Number-Yards)	1 - 22
-Penalties (Number-Yards)	11 - 104
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	5
-Rushing	1
-Passing	3
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	1
-Punt Returns	0
-Extra Points (Made-Attempted)	5 - 5
-Kicking (Made-Attempted)	4 - 4
-Two Point Conversions (Made-Attempted)	1 - 1
-Field Goals (Made-Attempted)	0 - 1
-Red Zone Efficiency	2/2 - 100%
-Goal To Go Efficiency	1/1 - 100%
-Safeties	0
-Final Score	38
-Time of Possession	23:26
-
-Passing	CP/AT	YDS	TD	INT
-D. Brees	31/41	312	2	0
-Rushing	ATT	YDS	TD	LG
-T. Hightower	28	85	1	12
-C. Spiller	3	2	0	2
-D. Brees	3	0	0	2
-M. Murphy	1	0	0	0
-Receiving	REC	YDS	TD	LG
-W. Snead	7	122	0	41
-B. Watson	7	70	0	26
-M. Colston	6	36	2	12
-B. Coleman	3	32	0	20
-B. Cooks	3	29	0	14
-T. Hightower	1	10	0	10
-C. Spiller	3	7	0	8
-J. Hill	1	6	0	6
-Fumbles	FUM	LOST	REC	YDS
-Kicking	FG	LG	XP	PTS
-K. Forbath	1/1	23	3/3	6
-Punting	NO	AVG	I20	LG
-T. Morstead	4	33.8	2	53
-Kickoff Returns	NO	AVG	TD	LG
-J. Hill	1	0	0	0
-Punt Returns	NO	AVG	TD	LG
-J. Byrd	1	1	0	1
-M. Murphy	1	6	0	6
-Defense	T-A	SCK	INT	FF
-D. Ellerbe	5-1	0.0	0	0
-J. Byrd	4-1	0.0	0	0
-D. Swann	4-0	0.0	0	0
-J. Anderson	3-1	0.0	0	0
-B. Browner	3-0	0.0	0	0
-S. Anthony	2-1	0.0	0	0
-T. Davison	2-0	0.0	0	0
-O. Gwacham	2-0	1.0	0	0
-K. Vaccaro	2-0	0.0	0	0
-D. Breaux	1-1	0.0	0	0
-K. Edebali	1-0	0.0	0	0
-C. Jordan	1-0	0.0	0	0
-H. Kikaha	1-0	0.0	0	0
-B. Richardson	1-1	0.0	0	0
-K. Williams	1-0	0.0	0	0
-K. Wilson	1-0	0.0	0	0
-Total First Downs	26
-By Rushing	7
-By Passing	16
-By Penalty	
-Third Down Efficiency	12/17 - 70%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	388
-Total Rushing/Passing Plays (includes Sacks)	78
-Average Gain per Offensive Play	5.0
-Net Yards Rushing	87
-Total Rushing Plays	35
-Average Gain per Rushing Play	2.5
-Tackled for a Loss (Number-Yards)	3--9
-Net Yards Passing	301
-Times Sacked (Number-Yards)	2 - 11
-Gross Yards Passing	312
-Pass Comp-Att-Int	31 - 41 - 0
-Average Gain per Passing Play (includes Sacks)	7.0
-Kickoffs (Number-In End Zone-Touchbacks)	5 - 4 - 4
-Punts (Number-Average)	4 - 43.8
-Blocked	0
-Net Punting Average	33.8
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	7
-Punt Returns (Number-Yards)	2 - 7
-Kickoff Returns (Number-Yards)	1 - 0
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	12 - 95
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	3
-Rushing	1
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 3
-Kicking (Made-Attempted)	3 - 3
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	3/4 - 75%
-Goal To Go Efficiency	3/3 - 100%
-Safeties	0
-Final Score	24
-Time of Possession	37:14
-
-Passing	CP/AT	YDS	TD	INT
-D. Brees	34/52	341	3	0
-Rushing	ATT	YDS	TD	LG
-T. Hightower	13	54	0	17
-D. Brees	1	11	0	11
-K. Hunter	1	2	0	2
-C. Spiller	2	2	0	2
-M. Hoomanawanui	1	0	0	0
-Receiving	REC	YDS	TD	LG
-B. Cooks	10	124	1	28
-W. Snead	10	76	0	15
-B. Watson	6	49	1	11
-M. Colston	2	39	1	28
-T. Hightower	3	31	0	18
-C. Spiller	2	16	0	14
-A. Johnson	1	6	0	6
-Fumbles	FUM	LOST	REC	YDS
-W. Snead	1	0	1	0
-S. Anthony	0	0	0	0
-H. Kikaha	0	0	1	0
-Kicking	FG	LG	XP	PTS
-K. Forbath	2/2	45	3/3	9
-Punting	NO	AVG	I20	LG
-T. Morstead	4	37.8	0	47
-Kickoff Returns	NO	AVG	TD	LG
-M. Hoomanawanui	1	16	0	16
-C. Spiller	1	24	0	24
-Punt Returns	NO	AVG	TD	LG
-B. Cooks	2	6	0	6
-Defense	T-A	SCK	INT	FF
-K. Vaccaro	7-0	0.0	0	0
-K. Edebali	5-1	2.0	0	0
-B. Browner	4-1	0.0	0	0
-K. Wilson	4-0	0.0	0	0
-S. Anthony	3-3	0.0	0	1
-D. Breaux	3-0	0.0	0	0
-D. Ellerbe	3-2	0.0	0	0
-C. Jordan	2-1	1.0	0	0
-J. Anderson	1-0	0.0	0	0
-J. Byrd	1-1	0.0	0	0
-T. Davison	1-0	0.0	0	0
-M. Mauti	1-0	0.0	0	0
-K. Williams	1-0	0.0	0	0
-H. Kikaha	0-1	0.0	0	1
-B. Richardson	0-2	0.0	0	0
-Total First Downs	27
-By Rushing	3
-By Passing	21
-By Penalty	
-Third Down Efficiency	5/14 - 35%
-Fourth Down Efficiency	2/2 - 100%
-Total Net Yards	399
-Total Rushing/Passing Plays (includes Sacks)	71
-Average Gain per Offensive Play	5.6
-Net Yards Rushing	69
-Total Rushing Plays	18
-Average Gain per Rushing Play	3.8
-Tackled for a Loss (Number-Yards)	2--5
-Net Yards Passing	330
-Times Sacked (Number-Yards)	1 - 11
-Gross Yards Passing	341
-Pass Comp-Att-Int	34 - 52 - 0
-Average Gain per Passing Play (includes Sacks)	6.2
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 3 - 0
-Punts (Number-Average)	4 - 43.0
-Blocked	0
-Net Punting Average	37.8
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	12
-Punt Returns (Number-Yards)	2 - 12
-Kickoff Returns (Number-Yards)	2 - 40
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	6 - 28
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	3
-Rushing	0
-Passing	3
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 3
-Kicking (Made-Attempted)	3 - 3
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 2
-Red Zone Efficiency	2/4 - 50%
-Goal To Go Efficiency	1/3 - 33%
-Safeties	0
-Final Score	27
-Time of Possession	30:24
-
-Passing	CP/AT	YDS	TD	INT
-D. Brees	25/36	412	3	0
-Rushing	ATT	YDS	TD	LG
-T. Hightower	27	122	2	26
-B. Cooks	4	10	0	5
-T. Cadet	1	6	0	6
-D. Brees	3	-3	0	0
-Receiving	REC	YDS	TD	LG
-B. Cooks	5	123	1	71T
-W. Snead	4	75	0	36
-T. Cadet	3	69	1	44T
-T. Hightower	3	47	0	27
-B. Coleman	4	45	0	21
-A. Johnson	2	19	0	12
-M. Hoomanawanui	1	17	1	17T
-J. Hill	2	12	0	6
-B. Watson	1	5	0	5
-Fumbles	FUM	LOST	REC	YDS
-Kicking	FG	LG	XP	PTS
-K. Forbath	1/3	37	5/5	8
-Punting	NO	AVG	I20	LG
-T. Morstead	2	37.5	0	52
-Kickoff Returns	NO	AVG	TD	LG
-T. Cadet	1	19	0	19
-Punt Returns	NO	AVG	TD	LG
-T. Cadet	1	1	0	1
-J. Byrd	0	0	0	0
-Defense	T-A	SCK	INT	FF
-B. Browner	7-0	0.0	0	0
-R. Humber	5-1	0.0	0	0
-S. Anthony	4-2	0.0	0	0
-D. Breaux	4-0	0.0	1	0
-J. Jenkins	3-3	0.0	0	0
-K. Vaccaro	3-0	2.0	0	0
-K. Wilson	3-0	0.0	0	0
-J. Byrd	2-1	0.0	0	0
-D. Hawthorne	2-1	0.0	0	0
-K. Edebali	1-0	0.0	0	0
-H. Kikaha	1-0	0.0	0	0
-C. Jordan	0-1	0.0	0	0
-B. Richardson	0-0	0.0	1	0
-K. Williams	0-1	0.0	0	0
-Total First Downs	29
-By Rushing	9
-By Passing	18
-By Penalty	
-Third Down Efficiency	8/13 - 61%
-Fourth Down Efficiency	1/1 - 100%
-Total Net Yards	537
-Total Rushing/Passing Plays (includes Sacks)	72
-Average Gain per Offensive Play	7.5
-Net Yards Rushing	135
-Total Rushing Plays	35
-Average Gain per Rushing Play	3.9
-Tackled for a Loss (Number-Yards)	3--11
-Net Yards Passing	402
-Times Sacked (Number-Yards)	1 - 10
-Gross Yards Passing	412
-Pass Comp-Att-Int	25 - 36 - 0
-Average Gain per Passing Play (includes Sacks)	10.9
-Kickoffs (Number-In End Zone-Touchbacks)	7 - 7 - 5
-Punts (Number-Average)	2 - 49.5
-Blocked	0
-Net Punting Average	37.5
-FGs Blocked - PATs Blocked	1 - 0
-Total Return Yardage (excludes Kickoffs)	14
-Punt Returns (Number-Yards)	1 - 1
-Kickoff Returns (Number-Yards)	1 - 19
-Interception Returns (Number-Yards)	2 - 13
-Penalties (Number-Yards)	5 - 40
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	5
-Rushing	2
-Passing	3
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	5 - 5
-Kicking (Made-Attempted)	5 - 5
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 3
-Red Zone Efficiency	3/5 - 60%
-Goal To Go Efficiency	2/2 - 100%
-Safeties	0
-Final Score	38
-Time of Possession	37:53
-
-Passing	CP/AT	YDS	TD	INT
-D. Brees	32/42	323	1	0
-T. Cadet	0/1	0	0	0
-Rushing	ATT	YDS	TD	LG
-T. Hightower	16	66	1	11
-T. Cadet	3	6	0	6
-D. Brees	3	-5	0	-1
-Receiving	REC	YDS	TD	LG
-B. Coleman	5	81	0	22
-T. Cadet	6	77	0	36
-B. Watson	6	59	1	22
-T. Hightower	5	41	0	21
-W. Snead	3	35	0	22
-B. Cooks	5	22	0	12
-J. Hill	1	4	0	4
-M. Hoomanawanui	1	4	0	4
-Fumbles	FUM	LOST	REC	YDS
-T. Cadet	1	1	0	0
-J. Jenkins	0	0	1	0
-Kicking	FG	LG	XP	PTS
-K. Forbath	2/2	41	2/2	8
-Punting	NO	AVG	I20	LG
-T. Morstead	2	52.5	1	55
-Kickoff Returns	NO	AVG	TD	LG
-T. Cadet	2	37	0	38
-Punt Returns	NO	AVG	TD	LG
-J. Byrd	0	0	0	0
-T. Cadet	0	0	0	0
-Defense	T-A	SCK	INT	FF
-B. Browner	7-1	0.0	0	0
-S. Anthony	5-0	0.0	0	0
-B. Dixon	5-1	0.0	0	0
-R. Humber	4-2	0.0	0	0
-K. Vaccaro	4-2	0.0	0	0
-C. Jordan	3-1	1.0	0	0
-B. Richardson	3-1	0.0	0	0
-K. Wilson	3-1	0.0	0	0
-J. Jenkins	2-0	0.0	0	1
-J. Sanford	2-0	0.0	1	0
-T. Davison	1-1	0.0	0	0
-D. Hawthorne	1-1	0.0	0	0
-H. Kikaha	1-0	0.0	0	0
-K. Williams	1-1	0.0	0	0
-J. Byrd	0-1	0.0	0	0
-Total First Downs	24
-By Rushing	6
-By Passing	16
-By Penalty	
-Third Down Efficiency	6/10 - 60%
-Fourth Down Efficiency	0/1 - 0%
-Total Net Yards	390
-Total Rushing/Passing Plays (includes Sacks)	65
-Average Gain per Offensive Play	6.0
-Net Yards Rushing	67
-Total Rushing Plays	22
-Average Gain per Rushing Play	3.0
-Tackled for a Loss (Number-Yards)	2--6
-Net Yards Passing	323
-Times Sacked (Number-Yards)	0 - 0
-Gross Yards Passing	323
-Pass Comp-Att-Int	32 - 43 - 0
-Average Gain per Passing Play (includes Sacks)	7.5
-Kickoffs (Number-In End Zone-Touchbacks)	4 - 3 - 1
-Punts (Number-Average)	2 - 52.5
-Blocked	0
-Net Punting Average	52.5
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	3
-Punt Returns (Number-Yards)	0 - 0
-Kickoff Returns (Number-Yards)	2 - 75
-Interception Returns (Number-Yards)	1 - 3
-Penalties (Number-Yards)	4 - 45
-Fumbles (Number-Lost)	1 - 1
-Touchdowns	2
-Rushing	1
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 2
-Red Zone Efficiency	2/5 - 40%
-Goal To Go Efficiency	1/2 - 50%
-Safeties	0
-Final Score	20
-Time of Possession	29:34
-
+1	Total First Downs	18			
+1	By Rushing	4			
+1	By Passing	12			
+1	By Penalty				
+1	Third Down Efficiency	7/18 - 38%			
+1	Fourth Down Efficiency	0/1 - 0%			
+1	Total Net Yards	408			
+1	Total Rushing/Passing Plays (includes Sacks)	70			
+1	Average Gain per Offensive Play	5.8			
+1	Net Yards Rushing	54			
+1	Total Rushing Plays	20			
+1	Average Gain per Rushing Play	2.7			
+1	Tackled for a Loss (Number-Yards)	2--6			
+1	Net Yards Passing	354			
+1	Times Sacked (Number-Yards)	2 - 1			
+1	Gross Yards Passing	355			
+1	Pass Comp-Att-Int	30 - 48 - 1			
+1	Average Gain per Passing Play (includes Sacks)	7.1			
+1	Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 5			
+1	Punts (Number-Average)	4 - 42.8			
+1	Blocked	0			
+1	Net Punting Average	39.0			
+1	FGs Blocked - PATs Blocked	0 - 0			
+1	Total Return Yardage (excludes Kickoffs)	2			
+1	Punt Returns (Number-Yards)	1 - 2			
+1	Kickoff Returns (Number-Yards)	1 - 10			
+1	Interception Returns (Number-Yards)	0 - 0			
+1	Penalties (Number-Yards)	7 - 73			
+1	Fumbles (Number-Lost)	0 - 0			
+1	Touchdowns	1			
+1	Rushing	0			
+1	Passing	1			
+1	Interceptions	0			
+1	Kickoff Returns	0			
+1	Fumble Returns	0			
+1	Punt Returns	0			
+1	Extra Points (Made-Attempted)	1 - 1			
+1	Kicking (Made-Attempted)	1 - 1			
+1	Two Point Conversions (Made-Attempted)	0 - 0			
+1	Field Goals (Made-Attempted)	4 - 4			
+1	Red Zone Efficiency	1/4 - 25%			
+1	Goal To Go Efficiency	0/0 - 0%			
+1	Safeties	0			
+1	Final Score	19			
+1	Time of Possession	33:24			
+					
+2	Passing 	CP/AT 	YDS 	TD 	INT
+2	D. Brees 	24/38 	255 	1 	1
+2	Rushing 	ATT 	YDS 	TD 	LG
+2	M. Ingram 	16 	53 	1 	11T
+2	K. Robinson 	5 	48 	0 	14
+2	C. Spiller 	3 	7 	0 	7
+2	A. Johnson 	1 	1 	1 	1T
+2	D. Brees 	1 	-1 	0 	-1
+2	B. Cooks 	1 	-4 	0 	-4
+2	Receiving 	REC 	YDS 	TD 	LG
+2	M. Colston 	4 	69 	0 	24
+2	B. Cooks 	5 	62 	0 	21
+2	W. Snead 	4 	44 	1 	16T
+2	B. Coleman 	3 	33 	0 	22
+2	C. Spiller 	1 	19 	0 	19
+2	B. Watson 	2 	12 	0 	8
+2	K. Robinson 	1 	9 	0 	9
+2	M. Ingram 	3 	5 	0 	6
+2	J. Hill 	1 	2 	0 	2
+2	Fumbles 	FUM 	LOST 	REC 	YDS
+2	D. Brees 	2 	0 	1 	0
+2	M. Ingram 	1 	1 	0 	0
+2	M. Murphy 	1 	0 	1 	0
+2	W. Snead 	1 	1 	0 	0
+2	K. Edebali 	0 	0 	1 	0
+2	A. Johnson 	0 	0 	1 	0
+2	C. Jordan 	0 	0 	1 	0
+2	H. Kikaha 	0 	0 	0 	0
+2	K. Williams 	0 	0 	0 	0
+2	Kicking 	FG 	LG 	XP 	PTS
+2	Z. Hocker 	0/1 	0 	1/2 	1
+2	Punting 	NO 	AVG 	I20 	LG
+2	T. Morstead 	4 	35.3 	1 	55
+2	Kickoff Returns 	NO 	AVG 	TD 	LG
+2	M. Murphy 	1 	23 	0 	23
+2	Punt Returns 	NO 	AVG 	TD 	LG
+2	M. Murphy 	1 	0 	0 	0
+2	Defense 	T-A 	SCK 	INT 	FF
+2	K. Vaccaro 	6-3 	0.0 	0 	0
+2	K. Phillips 	5-3 	0.0 	0 	0
+2	D. Hawthorne 	4-1 	0.0 	0 	0
+2	H. Kikaha 	4-3 	1.0 	0 	1
+2	S. Anthony 	3-4 	0.0 	0 	0
+2	K. Edebali 	3-0 	1.0 	0 	0
+2	D. Swann 	3-1 	0.0 	0 	0
+2	R. Humber 	2-2 	0.0 	0 	0
+2	C. Jordan 	2-1 	1.0 	0 	0
+2	K. Williams 	2-0 	0.0 	0 	1
+2	D. Breaux 	1-0 	0.0 	0 	0
+2	B. Browner 	1-2 	0.0 	0 	0
+2	J. Jenkins 	1-1 	0.0 	0 	0
+2	K. Wilson 	1-0 	0.0 	0 	0
+2	A. Hicks 	0-1 	0.0 	0 	0
+2	B. Richardson 	0-2 	0.0 	0 	0
+2	Total First Downs	21			
+2	By Rushing	8			
+2	By Passing	11			
+2	By Penalty				
+2	Third Down Efficiency	7/14 - 50%			
+2	Fourth Down Efficiency	1/1 - 100%			
+2	Total Net Yards	323			
+2	Total Rushing/Passing Plays (includes Sacks)	69			
+2	Average Gain per Offensive Play	4.7			
+2	Net Yards Rushing	104			
+2	Total Rushing Plays	27			
+2	Average Gain per Rushing Play	3.9			
+2	Tackled for a Loss (Number-Yards)	1--4			
+2	Net Yards Passing	219			
+2	Times Sacked (Number-Yards)	4 - 36			
+2	Gross Yards Passing	255			
+2	Pass Comp-Att-Int	24 - 38 - 1			
+2	Average Gain per Passing Play (includes Sacks)	5.2			
+2	Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 3			
+2	Punts (Number-Average)	4 - 43.8			
+2	Blocked	0			
+2	Net Punting Average	35.3			
+2	FGs Blocked - PATs Blocked	0 - 1			
+2	Total Return Yardage (excludes Kickoffs)	0			
+2	Punt Returns (Number-Yards)	1 - 0			
+2	Kickoff Returns (Number-Yards)	1 - 23			
+2	Interception Returns (Number-Yards)	0 - 0			
+2	Penalties (Number-Yards)	10 - 115			
+2	Fumbles (Number-Lost)	5 - 2			
+2	Touchdowns	3			
+2	Rushing	2			
+2	Passing	1			
+2	Interceptions	0			
+2	Kickoff Returns	0			
+2	Fumble Returns	0			
+2	Punt Returns	0			
+2	Extra Points (Made-Attempted)	1 - 3			
+2	Kicking (Made-Attempted)	1 - 2			
+2	Two Point Conversions (Made-Attempted)	0 - 1			
+2	Field Goals (Made-Attempted)	0 - 1			
+2	Red Zone Efficiency	3/3 - 100%			
+2	Goal To Go Efficiency	1/1 - 100%			
+2	Safeties	0			
+2	Final Score	19			
+2	Time of Possession	31:28			
+					
+3	Passing	CP/AT	YDS	TD	INT
+3	L. McCown	31/38	310	0	1
+3	Rushing	ATT	YDS	TD	LG
+3	M. Ingram	14	50	1	9
+3	K. Robinson	7	12	1	8
+3	A. Johnson	2	4	0	3
+3	C. Spiller	1	4	0	4
+3	L. McCown	0	0	0	0
+3	Receiving	REC	YDS	TD	LG
+3	B. Cooks	7	79	0	16
+3	M. Ingram	5	49	0	23
+3	M. Colston	4	47	0	22
+3	W. Snead	5	44	0	15
+3	B. Watson	4	42	0	20
+3	C. Spiller	2	22	0	19
+3	J. Hill	1	10	0	10
+3	B. Coleman	1	9	0	9
+3	K. Robinson	2	8	0	4
+3	Fumbles	FUM	LOST	REC	YDS
+3	B. Watson	1	1	0	0
+3	Kicking	FG	LG	XP	PTS
+3	Z. Hocker	1/1	31	1/1	4
+3	Punting	NO	AVG	I20	LG
+3	T. Morstead	2	46.0	2	47
+3	Kickoff Returns	NO	AVG	TD	LG
+3	M. Murphy	3	24	0	35
+3	K. Robinson	1	14	0	14
+3	Punt Returns	NO	AVG	TD	LG
+3	M. Murphy	2	41	1	74T
+3	Defense	T-A	SCK	INT	FF
+3	B. Browner	6-1	0.0	0	0
+3	R. Humber	4-5	0.0	0	0
+3	H. Kikaha	4-2	1.0	0	0
+3	K. Vaccaro	4-5	0.0	0	0
+3	S. Anthony	3-2	0.0	0	0
+3	D. Hawthorne	3-5	0.0	0	0
+3	K. Phillips	2-1	0.0	0	0
+3	D. Swann	2-1	0.0	0	0
+3	T. Barnes	1-0	0.0	0	0
+3	K. Edebali	1-0	0.0	0	0
+3	C. Jordan	1-1	0.0	0	0
+3	D. Breaux	0-1	0.0	0	0
+3	A. Hicks	0-1	0.0	0	0
+3	J. Jenkins	0-4	0.0	0	0
+3	B. Richardson	0-4	0.0	0	0
+3	K. Williams	0-1	0.0	0	0
+3	Total First Downs	27			
+3	By Rushing	5			
+3	By Passing	18			
+3	By Penalty				
+3	Third Down Efficiency	7/12 - 58%			
+3	Fourth Down Efficiency	1/1 - 100%			
+3	Total Net Yards	380			
+3	Total Rushing/Passing Plays (includes Sacks)	63			
+3	Average Gain per Offensive Play	6.0			
+3	Net Yards Rushing	70			
+3	Total Rushing Plays	24			
+3	Average Gain per Rushing Play	2.9			
+3	Tackled for a Loss (Number-Yards)	2--2			
+3	Net Yards Passing	310			
+3	Times Sacked (Number-Yards)	1 - 0			
+3	Gross Yards Passing	310			
+3	Pass Comp-Att-Int	31 - 38 - 1			
+3	Average Gain per Passing Play (includes Sacks)	7.9			
+3	Kickoffs (Number-In End Zone-Touchbacks)	5 - 4 - 4			
+3	Punts (Number-Average)	2 - 46.0			
+3	Blocked	0			
+3	Net Punting Average	46.0			
+3	FGs Blocked - PATs Blocked	0 - 0			
+3	Total Return Yardage (excludes Kickoffs)	82			
+3	Punt Returns (Number-Yards)	2 - 82			
+3	Kickoff Returns (Number-Yards)	4 - 86			
+3	Interception Returns (Number-Yards)	0 - 0			
+3	Penalties (Number-Yards)	8 - 55			
+3	Fumbles (Number-Lost)	1 - 1			
+3	Touchdowns	3			
+3	Rushing	2			
+3	Passing	0			
+3	Interceptions	0			
+3	Kickoff Returns	0			
+3	Fumble Returns	0			
+3	Punt Returns	1			
+3	Extra Points (Made-Attempted)	1 - 3			
+3	Kicking (Made-Attempted)	1 - 1			
+3	Two Point Conversions (Made-Attempted)	0 - 2			
+3	Field Goals (Made-Attempted)	1 - 1			
+3	Red Zone Efficiency	2/3 - 66%			
+3	Goal To Go Efficiency	2/2 - 100%			
+3	Safeties	0			
+3	Final Score	22			
+3	Time of Possession	32:44			
+					
+4	Passing	CP/AT	YDS	TD	INT
+4	D. Brees	33/41	359	2	0
+4	Rushing	ATT	YDS	TD	LG
+4	M. Ingram	17	77	0	15
+4	K. Robinson	6	16	1	8
+4	C. Spiller	2	10	0	10
+4	Receiving	REC	YDS	TD	LG
+4	C. Spiller	5	99	1	80T
+4	W. Snead	6	89	0	20
+4	M. Ingram	6	51	0	14
+4	B. Coleman	1	30	0	30
+4	B. Watson	3	30	0	21
+4	B. Cooks	4	25	0	13
+4	M. Colston	4	19	0	7
+4	J. Hill	2	11	1	8
+4	K. Robinson	2	5	0	9
+4	Fumbles	FUM	LOST	REC	YDS
+4	Kicking	FG	LG	XP	PTS
+4	Z. Hocker	2/3	51	2/2	8
+4	Punting	NO	AVG	I20	LG
+4	T. Morstead	3	41.0	2	47
+4	Z. Hocker	1	43.0	1	43
+4	Kickoff Returns	NO	AVG	TD	LG
+4	M. Murphy	1	34	0	34
+4	Punt Returns	NO	AVG	TD	LG
+4	M. Murphy	3	11	0	20
+4	Defense	T-A	SCK	INT	FF
+4	S. Anthony	5-2	1.0	0	0
+4	B. Browner	5-1	0.0	0	0
+4	H. Kikaha	4-4	1.0	0	0
+4	D. Swann	4-0	0.0	0	0
+4	D. Breaux	2-0	0.0	0	0
+4	J. Byrd	2-2	0.0	0	0
+4	T. Davison	2-2	1.0	0	0
+4	D. Hawthorne	2-1	0.0	0	0
+4	B. Richardson	2-4	0.0	0	0
+4	K. Vaccaro	2-1	0.0	0	0
+4	J. Jenkins	1-2	0.0	0	0
+4	C. Jordan	1-0	0.0	0	0
+4	K. Phillips	1-0	0.0	0	0
+4	D. Ellerbe	0-1	0.0	0	0
+4	K. Williams	0-2	0.0	0	0
+4	Total First Downs	27			
+4	By Rushing	7			
+4	By Passing	17			
+4	By Penalty				
+4	Third Down Efficiency	6/13 - 46%			
+4	Fourth Down Efficiency	1/1 - 100%			
+4	Total Net Yards	438			
+4	Total Rushing/Passing Plays (includes Sacks)	69			
+4	Average Gain per Offensive Play	6.3			
+4	Net Yards Rushing	103			
+4	Total Rushing Plays	25			
+4	Average Gain per Rushing Play	4.1			
+4	Tackled for a Loss (Number-Yards)	3--5			
+4	Net Yards Passing	335			
+4	Times Sacked (Number-Yards)	3 - 24			
+4	Gross Yards Passing	359			
+4	Pass Comp-Att-Int	33 - 41 - 0			
+4	Average Gain per Passing Play (includes Sacks)	7.6			
+4	Kickoffs (Number-In End Zone-Touchbacks)	5 - 4 - 3			
+4	Punts (Number-Average)	4 - 41.5			
+4	Blocked	0			
+4	Net Punting Average	41.5			
+4	FGs Blocked - PATs Blocked	0 - 0			
+4	Total Return Yardage (excludes Kickoffs)	34			
+4	Punt Returns (Number-Yards)	3 - 34			
+4	Kickoff Returns (Number-Yards)	1 - 34			
+4	Interception Returns (Number-Yards)	0 - 0			
+4	Penalties (Number-Yards)	8 - 64			
+4	Fumbles (Number-Lost)	0 - 0			
+4	Touchdowns	3			
+4	Rushing	1			
+4	Passing	2			
+4	Interceptions	0			
+4	Kickoff Returns	0			
+4	Fumble Returns	0			
+4	Punt Returns	0			
+4	Extra Points (Made-Attempted)	2 - 2			
+4	Kicking (Made-Attempted)	2 - 2			
+4	Two Point Conversions (Made-Attempted)	0 - 0			
+4	Field Goals (Made-Attempted)	2 - 3			
+4	Red Zone Efficiency	2/4 - 50%			
+4	Goal To Go Efficiency	2/2 - 100%			
+4	Safeties	0			
+4	Final Score	26			
+4	Time of Possession	30:53			
+					
+5	Passing	CP/AT	YDS	TD	INT
+5	D. Brees	26/43	335	2	1
+5	Rushing	ATT	YDS	TD	LG
+5	M. Ingram	12	57	0	17
+5	K. Robinson	5	30	0	12
+5	C. Spiller	3	10	0	8
+5	D. Brees	1	-1	0	-1
+5	Receiving	REC	YDS	TD	LG
+5	W. Snead	6	141	0	59
+5	B. Cooks	5	107	1	46
+5	M. Colston	3	36	0	17
+5	B. Watson	3	36	1	21
+5	M. Ingram	2	17	0	13
+5	M. Hoomanawanui	2	4	0	7
+5	K. Robinson	2	2	0	1
+5	C. Spiller	3	-8	0	0
+5	Fumbles	FUM	LOST	REC	YDS
+5	D. Brees	2	2	0	0
+5	M. Hoomanawanui	1	1	0	0
+5	Kicking	FG	LG	XP	PTS
+5	Z. Hocker	1/1	21	2/2	5
+5	Punting	NO	AVG	I20	LG
+5	B. Fields	6	36.2	3	57
+5	Kickoff Returns	NO	AVG	TD	LG
+5	M. Murphy	3	22	0	28
+5	K. Robinson	1	19	0	19
+5	Punt Returns	NO	AVG	TD	LG
+5	M. Murphy	1	1	0	1
+5	Defense	T-A	SCK	INT	FF
+5	S. Anthony	9-0	0.0	0	0
+5	K. Vaccaro	9-2	0.0	0	0
+5	B. Browner	7-0	0.0	1	0
+5	D. Ellerbe	7-0	0.0	0	0
+5	D. Breaux	5-0	0.0	1	0
+5	D. Hawthorne	3-1	0.0	0	0
+5	C. Jordan	3-0	0.0	0	0
+5	J. Sanford	3-0	0.0	0	0
+5	J. Byrd	2-1	0.0	0	0
+5	J. Jenkins	2-0	0.0	0	0
+5	K. Wilson	2-0	0.0	0	0
+5	T. Barnes	1-0	0.0	0	0
+5	B. Dixon	1-0	0.0	0	0
+5	K. Edebali	1-0	0.0	0	0
+5	R. Humber	1-0	0.0	0	0
+5	H. Kikaha	1-0	0.0	0	0
+5	K. Lewis	1-0	0.0	0	0
+5	K. Williams	1-0	0.0	0	0
+5	T. Davison	0-1	0.0	0	0
+5	Total First Downs	19			
+5	By Rushing	5			
+5	By Passing	14			
+5	By Penalty				
+5	Third Down Efficiency	8/16 - 50%			
+5	Fourth Down Efficiency	1/1 - 100%			
+5	Total Net Yards	388			
+5	Total Rushing/Passing Plays (includes Sacks)	69			
+5	Average Gain per Offensive Play	5.6			
+5	Net Yards Rushing	96			
+5	Total Rushing Plays	21			
+5	Average Gain per Rushing Play	4.6			
+5	Tackled for a Loss (Number-Yards)	2--2			
+5	Net Yards Passing	292			
+5	Times Sacked (Number-Yards)	5 - 43			
+5	Gross Yards Passing	335			
+5	Pass Comp-Att-Int	26 - 43 - 1			
+5	Average Gain per Passing Play (includes Sacks)	6.1			
+5	Kickoffs (Number-In End Zone-Touchbacks)	3 - 2 - 2			
+5	Punts (Number-Average)	6 - 39.5			
+5	Blocked	0			
+5	Net Punting Average	36.2			
+5	FGs Blocked - PATs Blocked	0 - 0			
+5	Total Return Yardage (excludes Kickoffs)	1			
+5	Punt Returns (Number-Yards)	1 - 1			
+5	Kickoff Returns (Number-Yards)	4 - 85			
+5	Interception Returns (Number-Yards)	2 - 0			
+5	Penalties (Number-Yards)	7 - 78			
+5	Fumbles (Number-Lost)	3 - 3			
+5	Touchdowns	2			
+5	Rushing	0			
+5	Passing	2			
+5	Interceptions	0			
+5	Kickoff Returns	0			
+5	Fumble Returns	0			
+5	Punt Returns	0			
+5	Extra Points (Made-Attempted)	2 - 2			
+5	Kicking (Made-Attempted)	2 - 2			
+5	Two Point Conversions (Made-Attempted)	0 - 0			
+5	Field Goals (Made-Attempted)	1 - 1			
+5	Red Zone Efficiency	2/4 - 50%			
+5	Goal To Go Efficiency	1/2 - 50%			
+5	Safeties	0			
+5	Final Score	17			
+5	Time of Possession	25:58			
+					
+6	Passing	CP/AT	YDS	TD	INT
+6	D. Brees	30/39	312	1	0
+6	Rushing	ATT	YDS	TD	LG
+6	M. Ingram	20	46	2	11
+6	K. Robinson	7	23	0	10
+6	C. Spiller	3	10	0	7
+6	D. Brees	2	2	0	3
+6	Receiving	REC	YDS	TD	LG
+6	B. Watson	10	127	1	28
+6	W. Snead	4	55	0	24
+6	B. Cooks	4	41	0	26
+6	J. Hill	3	38	0	19
+6	K. Robinson	2	24	0	18
+6	C. Spiller	4	17	0	8
+6	M. Ingram	3	10	0	7
+6	Fumbles	FUM	LOST	REC	YDS
+6	B. Browner	0	0	1	0
+6	D. Ellerbe	0	0	1	0
+6	C. Jordan	0	0	1	0
+6	H. Kikaha	0	0	0	0
+6	Kicking	FG	LG	XP	PTS
+6	Z. Hocker	1/3	31	4/4	7
+6	Punting	NO	AVG	I20	LG
+6	B. Fields	4	33.5	1	57
+6	Kickoff Returns	NO	AVG	TD	LG
+6	Punt Returns	NO	AVG	TD	LG
+6	M. Murphy	2	6	0	6
+6	Defense	T-A	SCK	INT	FF
+6	D. Ellerbe	12-1	0.0	0	1
+6	H. Kikaha	6-1	1.0	0	1
+6	B. Browner	5-2	0.0	0	0
+6	C. Jordan	5-1	3.0	0	1
+6	S. Anthony	4-2	0.0	0	0
+6	D. Breaux	2-1	0.0	0	0
+6	J. Byrd	2-1	0.0	0	0
+6	R. Humber	2-2	0.0	0	0
+6	K. Lewis	2-0	0.0	0	0
+6	K. Vaccaro	2-3	0.0	0	0
+6	B. Dixon	1-0	0.0	0	0
+6	K. Edebali	1-0	1.0	0	0
+6	K. Williams	1-0	0.0	0	0
+6	Total First Downs	25			
+6	By Rushing	7			
+6	By Passing	16			
+6	By Penalty				
+6	Third Down Efficiency	8/16 - 50%			
+6	Fourth Down Efficiency	1/1 - 100%			
+6	Total Net Yards	385			
+6	Total Rushing/Passing Plays (includes Sacks)	72			
+6	Average Gain per Offensive Play	5.3			
+6	Net Yards Rushing	81			
+6	Total Rushing Plays	32			
+6	Average Gain per Rushing Play	2.5			
+6	Tackled for a Loss (Number-Yards)	2--9			
+6	Net Yards Passing	304			
+6	Times Sacked (Number-Yards)	1 - 8			
+6	Gross Yards Passing	312			
+6	Pass Comp-Att-Int	30 - 39 - 0			
+6	Average Gain per Passing Play (includes Sacks)	7.6			
+6	Kickoffs (Number-In End Zone-Touchbacks)	6 - 5 - 5			
+6	Punts (Number-Average)	4 - 43.8			
+6	Blocked	0			
+6	Net Punting Average	33.5			
+6	FGs Blocked - PATs Blocked	0 - 0			
+6	Total Return Yardage (excludes Kickoffs)	12			
+6	Punt Returns (Number-Yards)	2 - 12			
+6	Kickoff Returns (Number-Yards)	0 - 0			
+6	Interception Returns (Number-Yards)	0 - 0			
+6	Penalties (Number-Yards)	3 - 15			
+6	Fumbles (Number-Lost)	0 - 0			
+6	Touchdowns	4			
+6	Rushing	2			
+6	Passing	1			
+6	Interceptions	0			
+6	Kickoff Returns	0			
+6	Fumble Returns	0			
+6	Punt Returns	0			
+6	Extra Points (Made-Attempted)	4 - 4			
+6	Kicking (Made-Attempted)	4 - 4			
+6	Two Point Conversions (Made-Attempted)	0 - 0			
+6	Field Goals (Made-Attempted)	1 - 3			
+6	Red Zone Efficiency	3/5 - 60%			
+6	Goal To Go Efficiency	3/3 - 100%			
+6	Safeties	0			
+6	Final Score	31			
+6	Time of Possession	32:30			
+					
+7	Passing	CP/AT	YDS	TD	INT
+7	D. Brees	28/44	255	1	1
+7	L. McCown	1/1	25	0	0
+7	Rushing	ATT	YDS	TD	LG
+7	M. Ingram	14	143	1	44
+7	K. Robinson	14	28	2	6T
+7	C. Spiller	4	16	0	9
+7	D. Brees	4	-4	0	-1
+7	Receiving	REC	YDS	TD	LG
+7	B. Cooks	6	81	0	47
+7	B. Watson	4	59	0	25
+7	C. Spiller	6	32	0	17
+7	M. Hoomanawanui	5	31	1	16T
+7	W. Snead	3	25	0	11
+7	B. Coleman	1	24	0	24
+7	M. Colston	1	20	0	20
+7	M. Ingram	2	5	0	10
+7	K. Robinson	1	3	0	3
+7	Fumbles	FUM	LOST	REC	YDS
+7	B. Cooks	1	0	0	0
+7	A. Davis	0	0	0	0
+7	D. Hawthorne	0	0	0	0
+7	J. Hill	0	0	1	0
+7	K. Wilson	0	0	1	4
+7	Kicking	FG	LG	XP	PTS
+7	K. Forbath	0/0	0	3/4	3
+7	Punting	NO	AVG	I20	LG
+7	T. Morstead	10	42.9	5	58
+7	Kickoff Returns	NO	AVG	TD	LG
+7	Punt Returns	NO	AVG	TD	LG
+7	M. Murphy	8	5	0	13
+7	Defense	T-A	SCK	INT	FF
+7	D. Ellerbe	7-0	0.0	0	0
+7	S. Anthony	5-2	0.0	1	0
+7	K. Vaccaro	5-0	1.0	0	0
+7	J. Byrd	3-0	0.0	0	0
+7	D. Breaux	2-0	0.0	0	0
+7	B. Dixon	2-0	0.0	0	0
+7	C. Jordan	2-0	2.0	0	0
+7	H. Kikaha	2-0	0.0	0	0
+7	K. Wilson	2-0	0.0	1	0
+7	B. Browner	1-0	0.0	0	0
+7	B. Richardson	1-1	0.5	0	0
+7	K. Williams	1-1	0.0	0	0
+7	J. Jenkins	0-2	0.5	0	0
+7	Total First Downs	22			
+7	By Rushing	9			
+7	By Passing	12			
+7	By Penalty				
+7	Third Down Efficiency	7/20 - 35%			
+7	Fourth Down Efficiency	1/1 - 100%			
+7	Total Net Yards	449			
+7	Total Rushing/Passing Plays (includes Sacks)	83			
+7	Average Gain per Offensive Play	5.4			
+7	Net Yards Rushing	183			
+7	Total Rushing Plays	36			
+7	Average Gain per Rushing Play	5.1			
+7	Tackled for a Loss (Number-Yards)	3--7			
+7	Net Yards Passing	266			
+7	Times Sacked (Number-Yards)	2 - 14			
+7	Gross Yards Passing	280			
+7	Pass Comp-Att-Int	29 - 45 - 1			
+7	Average Gain per Passing Play (includes Sacks)	5.7			
+7	Kickoffs (Number-In End Zone-Touchbacks)	5 - 3 - 1			
+7	Punts (Number-Average)	10 - 48.7			
+7	Blocked	0			
+7	Net Punting Average	42.9			
+7	FGs Blocked - PATs Blocked	0 - 0			
+7	Total Return Yardage (excludes Kickoffs)	69			
+7	Punt Returns (Number-Yards)	8 - 44			
+7	Kickoff Returns (Number-Yards)	0 - 0			
+7	Interception Returns (Number-Yards)	2 - 25			
+7	Penalties (Number-Yards)	12 - 100			
+7	Fumbles (Number-Lost)	1 - 0			
+7	Touchdowns	4			
+7	Rushing	3			
+7	Passing	1			
+7	Interceptions	0			
+7	Kickoff Returns	0			
+7	Fumble Returns	0			
+7	Punt Returns	0			
+7	Extra Points (Made-Attempted)	3 - 4			
+7	Kicking (Made-Attempted)	3 - 4			
+7	Two Point Conversions (Made-Attempted)	0 - 0			
+7	Field Goals (Made-Attempted)	0 - 0			
+7	Red Zone Efficiency	4/5 - 80%			
+7	Goal To Go Efficiency	2/3 - 66%			
+7	Safeties	0			
+7	Final Score	27			
+7	Time of Possession	38:23			
+					
+8	Passing	CP/AT	YDS	TD	INT
+8	D. Brees	39/50	505	7	2
+8	Rushing	ATT	YDS	TD	LG
+8	M. Ingram	16	80	0	16
+8	C. Spiller	4	21	0	11
+8	K. Robinson	4	4	0	3
+8	D. Brees	1	1	0	1
+8	B. Cooks	1	-3	0	-3
+8	Receiving	REC	YDS	TD	LG
+8	B. Watson	9	147	1	46
+8	M. Colston	8	114	1	53T
+8	B. Cooks	6	88	2	26T
+8	W. Snead	6	70	2	34T
+8	M. Ingram	4	39	0	17
+8	C. Spiller	2	15	1	9T
+8	B. Coleman	1	14	0	14
+8	K. Robinson	2	13	0	8
+8	J. Hill	1	5	0	5
+8	Fumbles	FUM	LOST	REC	YDS
+8	M. Murphy	1	0	0	0
+8	J. Byrd	0	0	1	1
+8	W. Snead	0	0	1	0
+8	Kicking	FG	LG	XP	PTS
+8	K. Forbath	1/1	50	7/7	10
+8	Punting	NO	AVG	I20	LG
+8	T. Morstead	2	41.0	0	48
+8	Kickoff Returns	NO	AVG	TD	LG
+8	M. Hoomanawanui	1	3	0	3
+8	M. Murphy	1	23	0	23
+8	Punt Returns	NO	AVG	TD	LG
+8	M. Murphy	2	15	0	24
+8	Defense	T-A	SCK	INT	FF
+8	B. Browner	8-0	0.0	0	0
+8	S. Anthony	6-5	0.0	0	0
+8	D. Breaux	5-1	0.0	0	0
+8	K. Vaccaro	4-1	0.0	0	0
+8	M. Mauti	3-0	0.0	0	0
+8	J. Byrd	2-1	0.0	0	1
+8	R. Humber	2-0	1.0	0	0
+8	K. Williams	2-1	0.0	0	0
+8	T. Davison	1-0	0.0	0	0
+8	K. Edebali	1-1	1.0	0	0
+8	J. Jenkins	1-2	0.0	0	0
+8	C. Jordan	1-0	0.0	0	0
+8	K. Lewis	1-0	0.0	0	0
+8	B. Richardson	1-1	0.0	0	0
+8	D. Swann	1-0	0.0	0	0
+8	J. Dunbar	0-1	0.0	0	0
+8	Total First Downs	35			
+8	By Rushing	10			
+8	By Passing	24			
+8	By Penalty				
+8	Third Down Efficiency	7/11 - 63%			
+8	Fourth Down Efficiency	1/1 - 100%			
+8	Total Net Yards	608			
+8	Total Rushing/Passing Plays (includes Sacks)	76			
+8	Average Gain per Offensive Play	8.0			
+8	Net Yards Rushing	103			
+8	Total Rushing Plays	26			
+8	Average Gain per Rushing Play	4.0			
+8	Tackled for a Loss (Number-Yards)	4--8			
+8	Net Yards Passing	505			
+8	Times Sacked (Number-Yards)	0 - 0			
+8	Gross Yards Passing	505			
+8	Pass Comp-Att-Int	39 - 50 - 2			
+8	Average Gain per Passing Play (includes Sacks)	10.1			
+8	Kickoffs (Number-In End Zone-Touchbacks)	8 - 8 - 3			
+8	Punts (Number-Average)	2 - 47.5			
+8	Blocked	0			
+8	Net Punting Average	41.0			
+8	FGs Blocked - PATs Blocked	0 - 0			
+8	Total Return Yardage (excludes Kickoffs)	30			
+8	Punt Returns (Number-Yards)	2 - 30			
+8	Kickoff Returns (Number-Yards)	2 - 26			
+8	Interception Returns (Number-Yards)	0 - 0			
+8	Penalties (Number-Yards)	12 - 93			
+8	Fumbles (Number-Lost)	1 - 0			
+8	Touchdowns	7			
+8	Rushing	0			
+8	Passing	7			
+8	Interceptions	0			
+8	Kickoff Returns	0			
+8	Fumble Returns	0			
+8	Punt Returns	0			
+8	Extra Points (Made-Attempted)	7 - 7			
+8	Kicking (Made-Attempted)	7 - 7			
+8	Two Point Conversions (Made-Attempted)	0 - 0			
+8	Field Goals (Made-Attempted)	1 - 1			
+8	Red Zone Efficiency	2/2 - 100%			
+8	Goal To Go Efficiency	1/1 - 100%			
+8	Safeties	0			
+8	Final Score	52			
+8	Time of Possession	34:55			
+					
+9	Passing	CP/AT	YDS	TD	INT
+9	D. Brees	28/39	387	3	1
+9	Rushing	ATT	YDS	TD	LG
+9	M. Ingram	22	54	0	12
+9	C. Spiller	2	8	0	5
+9	D. Brees	3	-1	1	1T
+9	Receiving	REC	YDS	TD	LG
+9	W. Snead	6	95	0	32
+9	B. Cooks	4	71	1	38T
+9	B. Watson	5	60	0	19
+9	B. Coleman	2	58	0	30
+9	M. Ingram	4	42	0	14
+9	M. Colston	3	37	0	16
+9	J. Hill	2	21	1	11
+9	C. Spiller	1	2	0	2
+9	M. Hoomanawanui	1	1	1	1T
+9	Fumbles	FUM	LOST	REC	YDS
+9	M. Murphy	1	1	0	0
+9	O. Gwacham	0	0	1	0
+9	D. Hawthorne	0	0	0	0
+9	Kicking	FG	LG	XP	PTS
+9	K. Forbath	0/1	0	4/4	4
+9	Punting	NO	AVG	I20	LG
+9	T. Morstead	4	42.8	2	49
+9	Kickoff Returns	NO	AVG	TD	LG
+9	M. Murphy	3	27	0	35
+9	Punt Returns	NO	AVG	TD	LG
+9	M. Murphy	3	7	0	11
+9	Defense	T-A	SCK	INT	FF
+9	J. Byrd	7-3	0.0	0	0
+9	M. Mauti	5-4	0.0	0	0
+9	S. Anthony	4-4	0.0	0	0
+9	K. Vaccaro	4-6	0.0	0	0
+9	D. Hawthorne	3-1	0.0	0	1
+9	D. Breaux	2-0	0.0	0	0
+9	J. Jenkins	2-7	0.0	0	0
+9	C. Jordan	2-0	0.0	0	0
+9	B. Richardson	2-0	0.0	0	0
+9	K. Wilson	2-0	0.0	0	0
+9	B. Browner	1-2	0.0	0	0
+9	T. Davison	1-0	0.0	0	0
+9	K. Williams	1-4	0.0	0	0
+9	J. Dunbar	0-2	0.0	0	0
+9	Total First Downs	30			
+9	By Rushing	5			
+9	By Passing	18			
+9	By Penalty				
+9	Third Down Efficiency	6/11 - 54%			
+9	Fourth Down Efficiency	0/0 - 0%			
+9	Total Net Yards	416			
+9	Total Rushing/Passing Plays (includes Sacks)	70			
+9	Average Gain per Offensive Play	5.9			
+9	Net Yards Rushing	61			
+9	Total Rushing Plays	27			
+9	Average Gain per Rushing Play	2.3			
+9	Tackled for a Loss (Number-Yards)	1--1			
+9	Net Yards Passing	355			
+9	Times Sacked (Number-Yards)	4 - 32			
+9	Gross Yards Passing	387			
+9	Pass Comp-Att-Int	28 - 39 - 1			
+9	Average Gain per Passing Play (includes Sacks)	8.3			
+9	Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 2			
+9	Punts (Number-Average)	4 - 45.8			
+9	Blocked	0			
+9	Net Punting Average	42.8			
+9	FGs Blocked - PATs Blocked	1 - 0			
+9	Total Return Yardage (excludes Kickoffs)	21			
+9	Punt Returns (Number-Yards)	3 - 21			
+9	Kickoff Returns (Number-Yards)	3 - 82			
+9	Interception Returns (Number-Yards)	0 - 0			
+9	Penalties (Number-Yards)	8 - 75			
+9	Fumbles (Number-Lost)	1 - 1			
+9	Touchdowns	4			
+9	Rushing	1			
+9	Passing	3			
+9	Interceptions	0			
+9	Kickoff Returns	0			
+9	Fumble Returns	0			
+9	Punt Returns	0			
+9	Extra Points (Made-Attempted)	4 - 4			
+9	Kicking (Made-Attempted)	4 - 4			
+9	Two Point Conversions (Made-Attempted)	0 - 0			
+9	Field Goals (Made-Attempted)	0 - 1			
+9	Red Zone Efficiency	3/4 - 75%			
+9	Goal To Go Efficiency	2/2 - 100%			
+9	Safeties	0			
+9	Final Score	28			
+9	Time of Possession	32:49			
+					
+10	Passing	CP/AT	YDS	TD	INT
+10	D. Brees	19/28	209	2	2
+10	Rushing	ATT	YDS	TD	LG
+10	M. Ingram	5	77	0	70
+10	T. Hightower	11	46	0	9
+10	C. Spiller	8	24	0	7
+10	B. Cooks	1	11	0	11
+10	Receiving	REC	YDS	TD	LG
+10	B. Cooks	5	98	2	60T
+10	T. Graham	2	25	0	18
+10	M. Colston	3	22	0	10
+10	M. Ingram	3	21	0	12
+10	B. Watson	3	19	0	8
+10	B. Coleman	1	14	0	14
+10	C. Spiller	2	10	0	7
+10	Fumbles	FUM	LOST	REC	YDS
+10	C. Spiller	1	0	1	0
+10	K. Williams	0	0	0	0
+10	Kicking	FG	LG	XP	PTS
+10	K. Forbath	0/0	0	2/2	2
+10	Punting	NO	AVG	I20	LG
+10	T. Morstead	4	40.8	0	54
+10	Kickoff Returns	NO	AVG	TD	LG
+10	C. Spiller	3	19	0	22
+10	Punt Returns	NO	AVG	TD	LG
+10	M. Murphy	1	10	0	10
+10	J. Byrd	0	0	0	0
+10	Defense	T-A	SCK	INT	FF
+10	J. Dunbar	5-3	0.0	0	0
+10	J. Byrd	4-1	1.0	0	0
+10	M. Mauti	4-3	0.0	0	0
+10	K. Wilson	4-0	0.0	0	0
+10	D. Breaux	3-1	0.0	0	0
+10	J. Jenkins	3-2	0.0	0	0
+10	K. Vaccaro	3-2	0.0	0	0
+10	K. Williams	3-3	0.0	0	1
+10	S. Anthony	2-6	0.0	0	0
+10	C. Jordan	2-2	0.0	0	0
+10	K. Lewis	2-0	0.0	0	0
+10	B. Richardson	2-3	0.0	0	0
+10	T. Barnes	1-0	0.0	0	0
+10	B. Browner	1-2	0.0	0	0
+10	K. Edebali	1-0	0.0	0	0
+10	O. Gwacham	1-1	1.5	0	0
+10	T. Davison	0-1	0.5	0	0
+10	Total First Downs	16			
+10	By Rushing	6			
+10	By Passing	10			
+10	By Penalty				
+10	Third Down Efficiency	4/11 - 36%			
+10	Fourth Down Efficiency	0/2 - 0%			
+10	Total Net Yards	350			
+10	Total Rushing/Passing Plays (includes Sacks)	55			
+10	Average Gain per Offensive Play	6.4			
+10	Net Yards Rushing	158			
+10	Total Rushing Plays	25			
+10	Average Gain per Rushing Play	6.3			
+10	Tackled for a Loss (Number-Yards)	3--5			
+10	Net Yards Passing	192			
+10	Times Sacked (Number-Yards)	2 - 17			
+10	Gross Yards Passing	209			
+10	Pass Comp-Att-Int	19 - 28 - 2			
+10	Average Gain per Passing Play (includes Sacks)	6.4			
+10	Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 1			
+10	Punts (Number-Average)	4 - 47.3			
+10	Blocked	0			
+10	Net Punting Average	40.8			
+10	FGs Blocked - PATs Blocked	0 - 0			
+10	Total Return Yardage (excludes Kickoffs)	10			
+10	Punt Returns (Number-Yards)	1 - 10			
+10	Kickoff Returns (Number-Yards)	3 - 59			
+10	Interception Returns (Number-Yards)	0 - 0			
+10	Penalties (Number-Yards)	7 - 50			
+10	Fumbles (Number-Lost)	1 - 0			
+10	Touchdowns	2			
+10	Rushing	0			
+10	Passing	2			
+10	Interceptions	0			
+10	Kickoff Returns	0			
+10	Fumble Returns	0			
+10	Punt Returns	0			
+10	Extra Points (Made-Attempted)	2 - 2			
+10	Kicking (Made-Attempted)	2 - 2			
+10	Two Point Conversions (Made-Attempted)	0 - 0			
+10	Field Goals (Made-Attempted)	0 - 0			
+10	Red Zone Efficiency	1/1 - 100%			
+10	Goal To Go Efficiency	1/1 - 100%			
+10	Safeties	0			
+10	Final Score	14			
+10	Time of Possession	26:26			
+					
+	week 11 bye				
+					
+12	Passing	CP/AT	YDS	TD	INT
+12	D. Brees	25/44	228	0	1
+12	Rushing	ATT	YDS	TD	LG
+12	M. Ingram	9	52	0	29
+12	C. Spiller	1	-2	0	-2
+12	Receiving	REC	YDS	TD	LG
+12	B. Watson	4	53	0	26
+12	W. Snead	4	50	0	24
+12	M. Ingram	6	45	0	17
+12	M. Colston	3	38	0	19
+12	B. Cooks	5	35	0	11
+12	C. Spiller	2	8	0	7
+12	T. Graham	1	-1	0	-1
+12	Fumbles	FUM	LOST	REC	YDS
+12	D. Brees	1	0	1	0
+12	O. Gwacham	0	0	0	0
+12	K. Vaccaro	0	0	0	0
+12	Kicking	FG	LG	XP	PTS
+12	K. Forbath	2/2	57	0/0	6
+12	Punting	NO	AVG	I20	LG
+12	T. Morstead	6	41.7	2	53
+12	Kickoff Returns	NO	AVG	TD	LG
+12	C. Spiller	2	20	0	25
+12	Punt Returns	NO	AVG	TD	LG
+12	M. Murphy	1	12	0	12
+12	Defense	T-A	SCK	INT	FF
+12	S. Anthony	8-2	0.0	0	0
+12	K. Vaccaro	8-5	0.0	0	1
+12	J. Byrd	5-3	0.0	1	0
+12	M. Mauti	5-2	0.0	0	0
+12	J. Jenkins	4-2	0.0	0	0
+12	B. Browner	3-1	0.0	0	0
+12	B. Richardson	3-0	0.0	0	0
+12	D. Breaux	2-2	0.0	0	0
+12	C. Jordan	2-2	1.0	0	0
+12	R. Humber	1-6	0.0	0	0
+12	K. Williams	1-0	0.0	0	0
+12	T. Barnes	0-2	0.0	0	0
+12	T. Davison	0-3	0.0	0	0
+12	H. Kikaha	0-3	0.0	0	0
+12	K. Wilson	0-1	0.0	0	0
+12	Total First Downs	14			
+12	By Rushing	2			
+12	By Passing	11			
+12	By Penalty				
+12	Third Down Efficiency	3/12 - 25%			
+12	Fourth Down Efficiency	0/1 - 0%			
+12	Total Net Yards	268			
+12	Total Rushing/Passing Plays (includes Sacks)	56			
+12	Average Gain per Offensive Play	4.8			
+12	Net Yards Rushing	50			
+12	Total Rushing Plays	10			
+12	Average Gain per Rushing Play	5.0			
+12	Tackled for a Loss (Number-Yards)	4--6			
+12	Net Yards Passing	218			
+12	Times Sacked (Number-Yards)	2 - 10			
+12	Gross Yards Passing	228			
+12	Pass Comp-Att-Int	25 - 44 - 1			
+12	Average Gain per Passing Play (includes Sacks)	4.7			
+12	Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 1			
+12	Punts (Number-Average)	6 - 46.8			
+12	Blocked	0			
+12	Net Punting Average	41.7			
+12	FGs Blocked - PATs Blocked	0 - 0			
+12	Total Return Yardage (excludes Kickoffs)	36			
+12	Punt Returns (Number-Yards)	1 - 12			
+12	Kickoff Returns (Number-Yards)	2 - 40			
+12	Interception Returns (Number-Yards)	1 - 24			
+12	Penalties (Number-Yards)	10 - 82			
+12	Fumbles (Number-Lost)	1 - 0			
+12	Touchdowns	0			
+12	Rushing	0			
+12	Passing	0			
+12	Interceptions	0			
+12	Kickoff Returns	0			
+12	Fumble Returns	0			
+12	Punt Returns	0			
+12	Extra Points (Made-Attempted)	0 - 0			
+12	Kicking (Made-Attempted)	0 - 0			
+12	Two Point Conversions (Made-Attempted)	0 - 0			
+12	Field Goals (Made-Attempted)	2 - 2			
+12	Red Zone Efficiency	0/3 - 0%			
+12	Goal To Go Efficiency	0/0 - 0%			
+12	Safeties	0			
+12	Final Score	6			
+12	Time of Possession	23:37			
+					
+13	Passing	CP/AT	YDS	TD	INT
+13	D. Brees	24/42	282	3	1
+13	Rushing	ATT	YDS	TD	LG
+13	M. Ingram	12	56	1	14
+13	D. Brees	1	12	0	12
+13	T. Hightower	1	2	0	2
+13	Receiving	REC	YDS	TD	LG
+13	B. Cooks	6	104	1	54T
+13	B. Coleman	4	73	1	31
+13	B. Watson	4	38	1	14T
+13	M. Ingram	4	23	0	11
+13	M. Hoomanawanui	1	19	0	19
+13	M. Colston	1	14	0	14
+13	J. Hill	2	11	0	7
+13	T. Graham	1	0	0	0
+13	C. Spiller	1	0	0	0
+13	Fumbles	FUM	LOST	REC	YDS
+13	M. Ingram	1	0	0	0
+13	S. Anthony	0	0	1	31
+13	B. Dixon	0	0	0	0
+13	A. Peat	0	0	1	0
+13	K. Vaccaro	0	0	1	8
+13	Kicking	FG	LG	XP	PTS
+13	K. Forbath	0/1	0	4/4	4
+13	Punting	NO	AVG	I20	LG
+13	T. Morstead	5	40.8	2	49
+13	Kickoff Returns	NO	AVG	TD	LG
+13	C. Spiller	1	26	0	26
+13	Punt Returns	NO	AVG	TD	LG
+13	M. Murphy	2	3	0	5
+13	J. Byrd	0	0	0	0
+13	Defense	T-A	SCK	INT	FF
+13	J. Anderson	7-4	0.0	0	0
+13	K. Vaccaro	6-3	0.0	0	0
+13	S. Anthony	4-6	0.0	0	1
+13	B. Browner	3-0	0.0	0	0
+13	J. Byrd	3-0	0.0	0	0
+13	C. Jordan	3-3	1.0	0	0
+13	H. Kikaha	3-4	0.0	0	0
+13	K. Wilson	3-0	0.0	0	0
+13	T. Davison	2-0	0.0	0	0
+13	B. Dixon	2-1	0.0	0	1
+13	B. Richardson	2-1	0.0	0	0
+13	K. Williams	2-0	0.0	0	0
+13	D. Breaux	1-0	0.0	1	0
+13	K. Edebali	1-0	0.0	0	0
+13	M. Mauti	1-0	0.0	0	0
+13	Total First Downs	21			
+13	By Rushing	5			
+13	By Passing	13			
+13	By Penalty				
+13	Third Down Efficiency	3/10 - 30%			
+13	Fourth Down Efficiency	0/1 - 0%			
+13	Total Net Yards	334			
+13	Total Rushing/Passing Plays (includes Sacks)	58			
+13	Average Gain per Offensive Play	5.8			
+13	Net Yards Rushing	70			
+13	Total Rushing Plays	14			
+13	Average Gain per Rushing Play	5.0			
+13	Tackled for a Loss (Number-Yards)	2--4			
+13	Net Yards Passing	264			
+13	Times Sacked (Number-Yards)	2 - 18			
+13	Gross Yards Passing	282			
+13	Pass Comp-Att-Int	24 - 42 - 1			
+13	Average Gain per Passing Play (includes Sacks)	6.0			
+13	Kickoffs (Number-In End Zone-Touchbacks)	6 - 5 - 4			
+13	Punts (Number-Average)	5 - 40.8			
+13	Blocked	0			
+13	Net Punting Average	40.8			
+13	FGs Blocked - PATs Blocked	0 - 0			
+13	Total Return Yardage (excludes Kickoffs)	29			
+13	Punt Returns (Number-Yards)	2 - 7			
+13	Kickoff Returns (Number-Yards)	1 - 26			
+13	Interception Returns (Number-Yards)	1 - 22			
+13	Penalties (Number-Yards)	11 - 104			
+13	Fumbles (Number-Lost)	1 - 0			
+13	Touchdowns	5			
+13	Rushing	1			
+13	Passing	3			
+13	Interceptions	0			
+13	Kickoff Returns	0			
+13	Fumble Returns	1			
+13	Punt Returns	0			
+13	Extra Points (Made-Attempted)	5 - 5			
+13	Kicking (Made-Attempted)	4 - 4			
+13	Two Point Conversions (Made-Attempted)	1 - 1			
+13	Field Goals (Made-Attempted)	0 - 1			
+13	Red Zone Efficiency	2/2 - 100%			
+13	Goal To Go Efficiency	1/1 - 100%			
+13	Safeties	0			
+13	Final Score	38			
+13	Time of Possession	23:26			
+					
+14	Passing	CP/AT	YDS	TD	INT
+14	D. Brees	31/41	312	2	0
+14	Rushing	ATT	YDS	TD	LG
+14	T. Hightower	28	85	1	12
+14	C. Spiller	3	2	0	2
+14	D. Brees	3	0	0	2
+14	M. Murphy	1	0	0	0
+14	Receiving	REC	YDS	TD	LG
+14	W. Snead	7	122	0	41
+14	B. Watson	7	70	0	26
+14	M. Colston	6	36	2	12
+14	B. Coleman	3	32	0	20
+14	B. Cooks	3	29	0	14
+14	T. Hightower	1	10	0	10
+14	C. Spiller	3	7	0	8
+14	J. Hill	1	6	0	6
+14	Fumbles	FUM	LOST	REC	YDS
+14	Kicking	FG	LG	XP	PTS
+14	K. Forbath	1/1	23	3/3	6
+14	Punting	NO	AVG	I20	LG
+14	T. Morstead	4	33.8	2	53
+14	Kickoff Returns	NO	AVG	TD	LG
+14	J. Hill	1	0	0	0
+14	Punt Returns	NO	AVG	TD	LG
+14	J. Byrd	1	1	0	1
+14	M. Murphy	1	6	0	6
+14	Defense	T-A	SCK	INT	FF
+14	D. Ellerbe	5-1	0.0	0	0
+14	J. Byrd	4-1	0.0	0	0
+14	D. Swann	4-0	0.0	0	0
+14	J. Anderson	3-1	0.0	0	0
+14	B. Browner	3-0	0.0	0	0
+14	S. Anthony	2-1	0.0	0	0
+14	T. Davison	2-0	0.0	0	0
+14	O. Gwacham	2-0	1.0	0	0
+14	K. Vaccaro	2-0	0.0	0	0
+14	D. Breaux	1-1	0.0	0	0
+14	K. Edebali	1-0	0.0	0	0
+14	C. Jordan	1-0	0.0	0	0
+14	H. Kikaha	1-0	0.0	0	0
+14	B. Richardson	1-1	0.0	0	0
+14	K. Williams	1-0	0.0	0	0
+14	K. Wilson	1-0	0.0	0	0
+14	Total First Downs	26			
+14	By Rushing	7			
+14	By Passing	16			
+14	By Penalty				
+14	Third Down Efficiency	12/17 - 70%			
+14	Fourth Down Efficiency	0/0 - 0%			
+14	Total Net Yards	388			
+14	Total Rushing/Passing Plays (includes Sacks)	78			
+14	Average Gain per Offensive Play	5.0			
+14	Net Yards Rushing	87			
+14	Total Rushing Plays	35			
+14	Average Gain per Rushing Play	2.5			
+14	Tackled for a Loss (Number-Yards)	3--9			
+14	Net Yards Passing	301			
+14	Times Sacked (Number-Yards)	2 - 11			
+14	Gross Yards Passing	312			
+14	Pass Comp-Att-Int	31 - 41 - 0			
+14	Average Gain per Passing Play (includes Sacks)	7.0			
+14	Kickoffs (Number-In End Zone-Touchbacks)	5 - 4 - 4			
+14	Punts (Number-Average)	4 - 43.8			
+14	Blocked	0			
+14	Net Punting Average	33.8			
+14	FGs Blocked - PATs Blocked	0 - 0			
+14	Total Return Yardage (excludes Kickoffs)	7			
+14	Punt Returns (Number-Yards)	2 - 7			
+14	Kickoff Returns (Number-Yards)	1 - 0			
+14	Interception Returns (Number-Yards)	0 - 0			
+14	Penalties (Number-Yards)	12 - 95			
+14	Fumbles (Number-Lost)	0 - 0			
+14	Touchdowns	3			
+14	Rushing	1			
+14	Passing	2			
+14	Interceptions	0			
+14	Kickoff Returns	0			
+14	Fumble Returns	0			
+14	Punt Returns	0			
+14	Extra Points (Made-Attempted)	3 - 3			
+14	Kicking (Made-Attempted)	3 - 3			
+14	Two Point Conversions (Made-Attempted)	0 - 0			
+14	Field Goals (Made-Attempted)	1 - 1			
+14	Red Zone Efficiency	3/4 - 75%			
+14	Goal To Go Efficiency	3/3 - 100%			
+14	Safeties	0			
+14	Final Score	24			
+14	Time of Possession	37:14			
+					
+15	Passing	CP/AT	YDS	TD	INT
+15	D. Brees	34/52	341	3	0
+15	Rushing	ATT	YDS	TD	LG
+15	T. Hightower	13	54	0	17
+15	D. Brees	1	11	0	11
+15	K. Hunter	1	2	0	2
+15	C. Spiller	2	2	0	2
+15	M. Hoomanawanui	1	0	0	0
+15	Receiving	REC	YDS	TD	LG
+15	B. Cooks	10	124	1	28
+15	W. Snead	10	76	0	15
+15	B. Watson	6	49	1	11
+15	M. Colston	2	39	1	28
+15	T. Hightower	3	31	0	18
+15	C. Spiller	2	16	0	14
+15	A. Johnson	1	6	0	6
+15	Fumbles	FUM	LOST	REC	YDS
+15	W. Snead	1	0	1	0
+15	S. Anthony	0	0	0	0
+15	H. Kikaha	0	0	1	0
+15	Kicking	FG	LG	XP	PTS
+15	K. Forbath	2/2	45	3/3	9
+15	Punting	NO	AVG	I20	LG
+15	T. Morstead	4	37.8	0	47
+15	Kickoff Returns	NO	AVG	TD	LG
+15	M. Hoomanawanui	1	16	0	16
+15	C. Spiller	1	24	0	24
+15	Punt Returns	NO	AVG	TD	LG
+15	B. Cooks	2	6	0	6
+15	Defense	T-A	SCK	INT	FF
+15	K. Vaccaro	7-0	0.0	0	0
+15	K. Edebali	5-1	2.0	0	0
+15	B. Browner	4-1	0.0	0	0
+15	K. Wilson	4-0	0.0	0	0
+15	S. Anthony	3-3	0.0	0	1
+15	D. Breaux	3-0	0.0	0	0
+15	D. Ellerbe	3-2	0.0	0	0
+15	C. Jordan	2-1	1.0	0	0
+15	J. Anderson	1-0	0.0	0	0
+15	J. Byrd	1-1	0.0	0	0
+15	T. Davison	1-0	0.0	0	0
+15	M. Mauti	1-0	0.0	0	0
+15	K. Williams	1-0	0.0	0	0
+15	H. Kikaha	0-1	0.0	0	1
+15	B. Richardson	0-2	0.0	0	0
+15	Total First Downs	27			
+15	By Rushing	3			
+15	By Passing	21			
+15	By Penalty				
+15	Third Down Efficiency	5/14 - 35%			
+15	Fourth Down Efficiency	2/2 - 100%			
+15	Total Net Yards	399			
+15	Total Rushing/Passing Plays (includes Sacks)	71			
+15	Average Gain per Offensive Play	5.6			
+15	Net Yards Rushing	69			
+15	Total Rushing Plays	18			
+15	Average Gain per Rushing Play	3.8			
+15	Tackled for a Loss (Number-Yards)	2--5			
+15	Net Yards Passing	330			
+15	Times Sacked (Number-Yards)	1 - 11			
+15	Gross Yards Passing	341			
+15	Pass Comp-Att-Int	34 - 52 - 0			
+15	Average Gain per Passing Play (includes Sacks)	6.2			
+15	Kickoffs (Number-In End Zone-Touchbacks)	6 - 3 - 0			
+15	Punts (Number-Average)	4 - 43.0			
+15	Blocked	0			
+15	Net Punting Average	37.8			
+15	FGs Blocked - PATs Blocked	0 - 0			
+15	Total Return Yardage (excludes Kickoffs)	12			
+15	Punt Returns (Number-Yards)	2 - 12			
+15	Kickoff Returns (Number-Yards)	2 - 40			
+15	Interception Returns (Number-Yards)	0 - 0			
+15	Penalties (Number-Yards)	6 - 28			
+15	Fumbles (Number-Lost)	1 - 0			
+15	Touchdowns	3			
+15	Rushing	0			
+15	Passing	3			
+15	Interceptions	0			
+15	Kickoff Returns	0			
+15	Fumble Returns	0			
+15	Punt Returns	0			
+15	Extra Points (Made-Attempted)	3 - 3			
+15	Kicking (Made-Attempted)	3 - 3			
+15	Two Point Conversions (Made-Attempted)	0 - 0			
+15	Field Goals (Made-Attempted)	2 - 2			
+15	Red Zone Efficiency	2/4 - 50%			
+15	Goal To Go Efficiency	1/3 - 33%			
+15	Safeties	0			
+15	Final Score	27			
+15	Time of Possession	30:24			
+					
+16	Passing	CP/AT	YDS	TD	INT
+16	D. Brees	25/36	412	3	0
+16	Rushing	ATT	YDS	TD	LG
+16	T. Hightower	27	122	2	26
+16	B. Cooks	4	10	0	5
+16	T. Cadet	1	6	0	6
+16	D. Brees	3	-3	0	0
+16	Receiving	REC	YDS	TD	LG
+16	B. Cooks	5	123	1	71T
+16	W. Snead	4	75	0	36
+16	T. Cadet	3	69	1	44T
+16	T. Hightower	3	47	0	27
+16	B. Coleman	4	45	0	21
+16	A. Johnson	2	19	0	12
+16	M. Hoomanawanui	1	17	1	17T
+16	J. Hill	2	12	0	6
+16	B. Watson	1	5	0	5
+16	Fumbles	FUM	LOST	REC	YDS
+16	Kicking	FG	LG	XP	PTS
+16	K. Forbath	1/3	37	5/5	8
+16	Punting	NO	AVG	I20	LG
+16	T. Morstead	2	37.5	0	52
+16	Kickoff Returns	NO	AVG	TD	LG
+16	T. Cadet	1	19	0	19
+16	Punt Returns	NO	AVG	TD	LG
+16	T. Cadet	1	1	0	1
+16	J. Byrd	0	0	0	0
+16	Defense	T-A	SCK	INT	FF
+16	B. Browner	7-0	0.0	0	0
+16	R. Humber	5-1	0.0	0	0
+16	S. Anthony	4-2	0.0	0	0
+16	D. Breaux	4-0	0.0	1	0
+16	J. Jenkins	3-3	0.0	0	0
+16	K. Vaccaro	3-0	2.0	0	0
+16	K. Wilson	3-0	0.0	0	0
+16	J. Byrd	2-1	0.0	0	0
+16	D. Hawthorne	2-1	0.0	0	0
+16	K. Edebali	1-0	0.0	0	0
+16	H. Kikaha	1-0	0.0	0	0
+16	C. Jordan	0-1	0.0	0	0
+16	B. Richardson	0-0	0.0	1	0
+16	K. Williams	0-1	0.0	0	0
+16	Total First Downs	29			
+16	By Rushing	9			
+16	By Passing	18			
+16	By Penalty				
+16	Third Down Efficiency	8/13 - 61%			
+16	Fourth Down Efficiency	1/1 - 100%			
+16	Total Net Yards	537			
+16	Total Rushing/Passing Plays (includes Sacks)	72			
+16	Average Gain per Offensive Play	7.5			
+16	Net Yards Rushing	135			
+16	Total Rushing Plays	35			
+16	Average Gain per Rushing Play	3.9			
+16	Tackled for a Loss (Number-Yards)	3--11			
+16	Net Yards Passing	402			
+16	Times Sacked (Number-Yards)	1 - 10			
+16	Gross Yards Passing	412			
+16	Pass Comp-Att-Int	25 - 36 - 0			
+16	Average Gain per Passing Play (includes Sacks)	10.9			
+16	Kickoffs (Number-In End Zone-Touchbacks)	7 - 7 - 5			
+16	Punts (Number-Average)	2 - 49.5			
+16	Blocked	0			
+16	Net Punting Average	37.5			
+16	FGs Blocked - PATs Blocked	1 - 0			
+16	Total Return Yardage (excludes Kickoffs)	14			
+16	Punt Returns (Number-Yards)	1 - 1			
+16	Kickoff Returns (Number-Yards)	1 - 19			
+16	Interception Returns (Number-Yards)	2 - 13			
+16	Penalties (Number-Yards)	5 - 40			
+16	Fumbles (Number-Lost)	0 - 0			
+16	Touchdowns	5			
+16	Rushing	2			
+16	Passing	3			
+16	Interceptions	0			
+16	Kickoff Returns	0			
+16	Fumble Returns	0			
+16	Punt Returns	0			
+16	Extra Points (Made-Attempted)	5 - 5			
+16	Kicking (Made-Attempted)	5 - 5			
+16	Two Point Conversions (Made-Attempted)	0 - 0			
+16	Field Goals (Made-Attempted)	1 - 3			
+16	Red Zone Efficiency	3/5 - 60%			
+16	Goal To Go Efficiency	2/2 - 100%			
+16	Safeties	0			
+16	Final Score	38			
+16	Time of Possession	37:53			
+					
+17	Passing	CP/AT	YDS	TD	INT
+17	D. Brees	32/42	323	1	0
+17	T. Cadet	0/1	0	0	0
+17	Rushing	ATT	YDS	TD	LG
+17	T. Hightower	16	66	1	11
+17	T. Cadet	3	6	0	6
+17	D. Brees	3	-5	0	-1
+17	Receiving	REC	YDS	TD	LG
+17	B. Coleman	5	81	0	22
+17	T. Cadet	6	77	0	36
+17	B. Watson	6	59	1	22
+17	T. Hightower	5	41	0	21
+17	W. Snead	3	35	0	22
+17	B. Cooks	5	22	0	12
+17	J. Hill	1	4	0	4
+17	M. Hoomanawanui	1	4	0	4
+17	Fumbles	FUM	LOST	REC	YDS
+17	T. Cadet	1	1	0	0
+17	J. Jenkins	0	0	1	0
+17	Kicking	FG	LG	XP	PTS
+17	K. Forbath	2/2	41	2/2	8
+17	Punting	NO	AVG	I20	LG
+17	T. Morstead	2	52.5	1	55
+17	Kickoff Returns	NO	AVG	TD	LG
+17	T. Cadet	2	37	0	38
+17	Punt Returns	NO	AVG	TD	LG
+17	J. Byrd	0	0	0	0
+17	T. Cadet	0	0	0	0
+17	Defense	T-A	SCK	INT	FF
+17	B. Browner	7-1	0.0	0	0
+17	S. Anthony	5-0	0.0	0	0
+17	B. Dixon	5-1	0.0	0	0
+17	R. Humber	4-2	0.0	0	0
+17	K. Vaccaro	4-2	0.0	0	0
+17	C. Jordan	3-1	1.0	0	0
+17	B. Richardson	3-1	0.0	0	0
+17	K. Wilson	3-1	0.0	0	0
+17	J. Jenkins	2-0	0.0	0	1
+17	J. Sanford	2-0	0.0	1	0
+17	T. Davison	1-1	0.0	0	0
+17	D. Hawthorne	1-1	0.0	0	0
+17	H. Kikaha	1-0	0.0	0	0
+17	K. Williams	1-1	0.0	0	0
+17	J. Byrd	0-1	0.0	0	0
+17	Total First Downs	24			
+17	By Rushing	6			
+17	By Passing	16			
+17	By Penalty				
+17	Third Down Efficiency	6/10 - 60%			
+17	Fourth Down Efficiency	0/1 - 0%			
+17	Total Net Yards	390			
+17	Total Rushing/Passing Plays (includes Sacks)	65			
+17	Average Gain per Offensive Play	6.0			
+17	Net Yards Rushing	67			
+17	Total Rushing Plays	22			
+17	Average Gain per Rushing Play	3.0			
+17	Tackled for a Loss (Number-Yards)	2--6			
+17	Net Yards Passing	323			
+17	Times Sacked (Number-Yards)	0 - 0			
+17	Gross Yards Passing	323			
+17	Pass Comp-Att-Int	32 - 43 - 0			
+17	Average Gain per Passing Play (includes Sacks)	7.5			
+17	Kickoffs (Number-In End Zone-Touchbacks)	4 - 3 - 1			
+17	Punts (Number-Average)	2 - 52.5			
+17	Blocked	0			
+17	Net Punting Average	52.5			
+17	FGs Blocked - PATs Blocked	0 - 0			
+17	Total Return Yardage (excludes Kickoffs)	3			
+17	Punt Returns (Number-Yards)	0 - 0			
+17	Kickoff Returns (Number-Yards)	2 - 75			
+17	Interception Returns (Number-Yards)	1 - 3			
+17	Penalties (Number-Yards)	4 - 45			
+17	Fumbles (Number-Lost)	1 - 1			
+17	Touchdowns	2			
+17	Rushing	1			
+17	Passing	1			
+17	Interceptions	0			
+17	Kickoff Returns	0			
+17	Fumble Returns	0			
+17	Punt Returns	0			
+17	Extra Points (Made-Attempted)	2 - 2			
+17	Kicking (Made-Attempted)	2 - 2			
+17	Two Point Conversions (Made-Attempted)	0 - 0			
+17	Field Goals (Made-Attempted)	2 - 2			
+17	Red Zone Efficiency	2/5 - 40%			
+17	Goal To Go Efficiency	1/2 - 50%			
+17	Safeties	0			
+17	Final Score	20			
+17	Time of Possession	29:34			

@@ -41,1412 +41,1411 @@ week	Passing	CP/AT	YDS	TD	INT
 1	V. Curry	1-0	0.0	0	0
 1	C. Thornton	1-0	0.0	0	0
 1	C. Maragos	0-1	0.0	0	0
-1	Total First Downs	23
-1	By Rushing	5
-1	By Passing	17
-1	By Penalty	
-1	Third Down Efficiency	3/12 - 25%
-1	Fourth Down Efficiency	1/1 - 100%
-1	Total Net Yards	399
-1	Total Rushing/Passing Plays (includes Sacks)	68
-1	Average Gain per Offensive Play	5.9
-1	Net Yards Rushing	63
-1	Total Rushing Plays	16
-1	Average Gain per Rushing Play	3.9
-1	Tackled for a Loss (Number-Yards)	1--12
-1	Net Yards Passing	336
-1	Times Sacked (Number-Yards)	0 - 0
-1	Gross Yards Passing	336
-1	Pass Comp-Att-Int	36 - 52 - 2
-1	Average Gain per Passing Play (includes Sacks)	6.5
-1	Kickoffs (Number-In End Zone-Touchbacks)	5 - 5 - 2
-1	Punts (Number-Average)	5 - 45.2
-1	Blocked	0
-1	Net Punting Average	37.6
-1	FGs Blocked - PATs Blocked	0 - 0
-1	Total Return Yardage (excludes Kickoffs)	48
-1	Punt Returns (Number-Yards)	3 - 25
-1	Kickoff Returns (Number-Yards)	0 - 0
-1	Interception Returns (Number-Yards)	2 - 23
-1	Penalties (Number-Yards)	10 - 88
-1	Fumbles (Number-Lost)	1 - 0
-1	Touchdowns	3
-1	Rushing	2
-1	Passing	1
-1	Interceptions	0
-1	Kickoff Returns	0
-1	Fumble Returns	0
-1	Punt Returns	0
-1	Extra Points (Made-Attempted)	3 - 3
-1	Kicking (Made-Attempted)	3 - 3
-1	Two Point Conversions (Made-Attempted)	0 - 0
-1	Field Goals (Made-Attempted)	1 - 2
-1	Red Zone Efficiency	3/4 - 75%
-1	Goal To Go Efficiency	3/3 - 100%
-1	Safeties	0
-1	Final Score	24
-1	Time of Possession	24:33
-
-Passing	CP/AT	YDS	TD	INT
-S. Bradford	23/37	224	1	2
-Rushing	ATT	YDS	TD	LG
-S. Bradford	2	9	0	9
-D. Murray	13	2	0	9
-R. Mathews	1	0	0	0
-D. Sproles	1	-4	0	-4
-Receiving	REC	YDS	TD	LG
-J. Matthews	6	80	1	32
-D. Murray	5	53	0	22
-N. Agholor	3	31	0	12
-D. Sproles	4	23	0	11
-J. Huff	2	20	0	11
-Z. Ertz	3	17	0	9
-Fumbles	FUM	LOST	REC	YDS
-S. Bradford	1	1	0	-2
-F. Cox	0	0	1	0
-J. Hicks	0	0	0	0
-M. Jenkins	0	0	1	34
-B. Maxwell	0	0	0	0
-Kicking	FG	LG	XP	PTS
-C. Parkey	1/1	46	1/1	4
-Punting	NO	AVG	I20	LG
-D. Jones	6	43.0	1	59
-Kickoff Returns	NO	AVG	TD	LG
-J. Huff	1	21	0	21
-Punt Returns	NO	AVG	TD	LG
-D. Sproles	2	10	0	15
-Defense	T-A	SCK	INT	FF
-J. Hicks	7-0	1.0	0	1
-M. Jenkins	7-0	0.0	0	0
-M. Kendricks	7-0	0.0	0	0
-C. Barwin	4-0	1.0	0	0
-B. Logan	4-1	0.0	0	0
-D. Ryans	4-2	0.0	0	0
-C. Thornton	4-0	1.0	0	0
-W. Thurmond	4-1	0.0	0	0
-N. Carroll	3-0	0.0	0	0
-B. Maxwell	3-1	0.0	0	1
-B. Graham	2-0	0.0	0	0
-K. Alonso	1-0	0.0	0	0
-F. Cox	1-1	0.0	0	0
-B. Allen	0-1	0.0	0	0
-T. Hart	0-1	0.0	0	0
-Total First Downs	17
-By Rushing	2
-By Passing	11
-By Penalty	
-Third Down Efficiency	2/11 - 18%
-Fourth Down Efficiency	1/1 - 100%
-Total Net Yards	226
-Total Rushing/Passing Plays (includes Sacks)	55
-Average Gain per Offensive Play	4.1
-Net Yards Rushing	7
-Total Rushing Plays	17
-Average Gain per Rushing Play	0.4
-Tackled for a Loss (Number-Yards)	6--25
-Net Yards Passing	219
-Times Sacked (Number-Yards)	1 - 5
-Gross Yards Passing	224
-Pass Comp-Att-Int	23 - 37 - 2
-Average Gain per Passing Play (includes Sacks)	5.8
-Kickoffs (Number-In End Zone-Touchbacks)	3 - 2 - 1
-Punts (Number-Average)	7 - 43.1
-Blocked	1
-Net Punting Average	37.6
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	20
-Punt Returns (Number-Yards)	2 - 20
-Kickoff Returns (Number-Yards)	1 - 21
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	8 - 60
-Fumbles (Number-Lost)	1 - 1
-Touchdowns	1
-Rushing	0
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	1 - 1
-Kicking (Made-Attempted)	1 - 1
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	1/2 - 50%
-Goal To Go Efficiency	1/2 - 50%
-Safeties	0
-Final Score	10
-Time of Possession	19:35
-
-Passing	CP/AT	YDS	TD	INT
-S. Bradford	14/28	118	1	0
-Rushing	ATT	YDS	TD	LG
-R. Mathews	24	108	0	27
-D. Sproles	11	17	1	12
-S. Bradford	3	-2	0	0
-Receiving	REC	YDS	TD	LG
-J. Matthews	6	49	0	17
-Z. Ertz	2	30	0	21
-R. Mathews	2	20	1	23T
-D. Sproles	4	19	0	9
-Fumbles	FUM	LOST	REC	YDS
-R. Mathews	1	1	0	0
-J. Hicks	0	0	1	11
-M. Jenkins	0	0	0	0
-Kicking	FG	LG	XP	PTS
-C. Parkey	1/1	30	3/3	6
-Punting	NO	AVG	I20	LG
-D. Jones	9	41.2	2	56
-Kickoff Returns	NO	AVG	TD	LG
-K. Barner	1	10	0	10
-Punt Returns	NO	AVG	TD	LG
-D. Sproles	3	29	1	89T
-Defense	T-A	SCK	INT	FF
-J. Hicks	9-1	0.0	1	0
-B. Maxwell	6-2	0.0	0	0
-M. Jenkins	5-1	0.0	0	2
-C. Barwin	4-0	1.0	0	0
-B. Bair	3-1	0.0	0	0
-N. Carroll	2-2	0.0	0	0
-N. Goode	2-0	0.0	0	0
-B. Logan	2-1	0.0	0	0
-D. Ryans	2-1	0.0	0	0
-W. Thurmond	2-2	0.0	1	0
-E. Biggers	1-0	0.0	0	0
-V. Curry	1-0	0.0	0	0
-B. Graham	1-2	0.0	0	0
-E. Rowe	1-0	0.0	1	0
-B. Allen	0-1	0.0	0	0
-F. Cox	0-3	0.0	0	0
-Total First Downs	18
-By Rushing	8
-By Passing	6
-By Penalty	
-Third Down Efficiency	4/14 - 28%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	231
-Total Rushing/Passing Plays (includes Sacks)	67
-Average Gain per Offensive Play	3.4
-Net Yards Rushing	123
-Total Rushing Plays	38
-Average Gain per Rushing Play	3.2
-Tackled for a Loss (Number-Yards)	7--18
-Net Yards Passing	108
-Times Sacked (Number-Yards)	1 - 10
-Gross Yards Passing	118
-Pass Comp-Att-Int	14 - 28 - 0
-Average Gain per Passing Play (includes Sacks)	3.7
-Kickoffs (Number-In End Zone-Touchbacks)	5 - 2 - 0
-Punts (Number-Average)	9 - 48.9
-Blocked	0
-Net Punting Average	41.2
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	89
-Punt Returns (Number-Yards)	3 - 89
-Kickoff Returns (Number-Yards)	1 - 10
-Interception Returns (Number-Yards)	3 - 0
-Penalties (Number-Yards)	5 - 21
-Fumbles (Number-Lost)	1 - 1
-Touchdowns	3
-Rushing	1
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	1
-Extra Points (Made-Attempted)	3 - 3
-Kicking (Made-Attempted)	3 - 3
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	1/2 - 50%
-Goal To Go Efficiency	1/2 - 50%
-Safeties	0
-Final Score	24
-Time of Possession	28:11
-
-Passing	CP/AT	YDS	TD	INT
-S. Bradford	15/28	270	3	0
-Rushing	ATT	YDS	TD	LG
-D. Murray	8	36	0	30
-R. Mathews	5	20	0	9
-D. Sproles	4	17	0	11
-S. Bradford	1	14	0	14
-Receiving	REC	YDS	TD	LG
-R. Cooper	2	72	1	62T
-N. Agholor	3	64	0	45
-M. Austin	2	51	1	39T
-J. Matthews	3	50	0	30
-D. Murray	2	12	0	8
-Z. Ertz	2	11	0	7
-B. Celek	1	10	1	10T
-Fumbles	FUM	LOST	REC	YDS
-N. Agholor	1	1	0	0
-R. Mathews	1	1	0	-3
-B. Graham	0	0	0	0
-J. Hicks	0	0	1	0
-Kicking	FG	LG	XP	PTS
-C. Sturgis	0/1	0	2/3	2
-Punting	NO	AVG	I20	LG
-D. Jones	6	38.2	2	46
-Kickoff Returns	NO	AVG	TD	LG
-Punt Returns	NO	AVG	TD	LG
-D. Sproles	1	45	0	45
-Defense	T-A	SCK	INT	FF
-M. Jenkins	7-1	0.0	0	0
-N. Carroll	6-2	0.0	0	0
-B. Graham	6-1	1.0	0	1
-E. Biggers	5-3	0.0	0	0
-E. Rowe	5-1	0.0	0	0
-W. Thurmond	5-3	0.0	0	0
-F. Cox	4-1	0.0	0	0
-D. Ryans	4-2	0.0	0	0
-J. Hicks	3-3	0.0	0	0
-B. Logan	3-6	0.0	0	0
-B. Allen	1-4	0.0	0	0
-C. Barwin	1-1	0.0	0	0
-B. Maxwell	1-0	0.0	0	0
-B. Bair	0-1	0.0	0	0
-V. Curry	0-1	0.0	0	0
-Total First Downs	14
-By Rushing	4
-By Passing	6
-By Penalty	
-Third Down Efficiency	4/12 - 33%
-Fourth Down Efficiency	0/1 - 0%
-Total Net Yards	320
-Total Rushing/Passing Plays (includes Sacks)	51
-Average Gain per Offensive Play	6.3
-Net Yards Rushing	87
-Total Rushing Plays	18
-Average Gain per Rushing Play	4.8
-Tackled for a Loss (Number-Yards)	2--6
-Net Yards Passing	233
-Times Sacked (Number-Yards)	5 - 37
-Gross Yards Passing	270
-Pass Comp-Att-Int	15 - 28 - 0
-Average Gain per Passing Play (includes Sacks)	7.1
-Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 3
-Punts (Number-Average)	6 - 41.8
-Blocked	0
-Net Punting Average	38.2
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	45
-Punt Returns (Number-Yards)	1 - 45
-Kickoff Returns (Number-Yards)	0 - 0
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	8 - 72
-Fumbles (Number-Lost)	2 - 2
-Touchdowns	3
-Rushing	0
-Passing	3
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 3
-Kicking (Made-Attempted)	2 - 3
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 1
-Red Zone Efficiency	1/2 - 50%
-Goal To Go Efficiency	0/0 - 0%
-Safeties	0
-Final Score	20
-Time of Possession	18:52
-
-Passing	CP/AT	YDS	TD	INT
-S. Bradford	32/45	333	2	2
-Rushing	ATT	YDS	TD	LG
-D. Murray	20	83	1	24
-R. Mathews	8	73	1	33
-D. Sproles	5	27	0	14
-S. Bradford	1	3	0	3
-Receiving	REC	YDS	TD	LG
-J. Huff	4	78	1	41T
-Z. Ertz	5	60	0	21
-B. Celek	3	44	1	23
-J. Matthews	5	44	0	18
-D. Murray	7	37	0	13
-R. Cooper	3	32	0	14
-R. Mathews	3	23	0	13
-D. Sproles	1	10	0	10
-N. Agholor	1	5	0	5
-Fumbles	FUM	LOST	REC	YDS
-F. Cox	0	0	1	0
-J. Hicks	0	0	1	0
-B. Maxwell	0	0	1	2
-D. Ryans	0	0	0	0
-Kicking	FG	LG	XP	PTS
-C. Sturgis	4/4	41	3/4	15
-Punting	NO	AVG	I20	LG
-D. Jones	1	49.0	0	50
-Kickoff Returns	NO	AVG	TD	LG
-J. Huff	1	40	0	40
-Punt Returns	NO	AVG	TD	LG
-D. Sproles	0	0	0	0
-Defense	T-A	SCK	INT	FF
-F. Cox	6-0	3.0	0	2
-M. Jenkins	4-2	0.0	0	0
-B. Logan	4-1	1.0	0	0
-W. Thurmond	4-0	0.0	1	0
-E. Biggers	3-0	0.0	0	0
-N. Carroll	3-2	0.0	0	0
-N. Goode	3-0	0.0	0	0
-E. Rowe	3-0	0.0	0	0
-B. Allen	2-0	0.0	0	0
-C. Barwin	2-0	0.0	0	0
-J. Hicks	2-2	0.0	0	0
-B. Maxwell	2-0	0.0	0	0
-B. Braman	1-0	1.0	0	0
-C. Maragos	1-0	0.0	0	0
-D. Ryans	1-0	0.0	0	1
-T. Hart	0-1	0.0	0	0
-M. Smith	0-1	0.0	0	0
-C. Thornton	0-1	0.0	0	0
-Total First Downs	34
-By Rushing	11
-By Passing	18
-By Penalty	
-Third Down Efficiency	4/11 - 36%
-Fourth Down Efficiency	0/2 - 0%
-Total Net Yards	519
-Total Rushing/Passing Plays (includes Sacks)	79
-Average Gain per Offensive Play	6.6
-Net Yards Rushing	186
-Total Rushing Plays	34
-Average Gain per Rushing Play	5.5
-Tackled for a Loss (Number-Yards)	2--7
-Net Yards Passing	333
-Times Sacked (Number-Yards)	0 - 0
-Gross Yards Passing	333
-Pass Comp-Att-Int	32 - 45 - 2
-Average Gain per Passing Play (includes Sacks)	7.4
-Kickoffs (Number-In End Zone-Touchbacks)	9 - 7 - 5
-Punts (Number-Average)	1 - 50.0
-Blocked	0
-Net Punting Average	49.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	44
-Punt Returns (Number-Yards)	0 - 0
-Kickoff Returns (Number-Yards)	1 - 40
-Interception Returns (Number-Yards)	1 - 44
-Penalties (Number-Yards)	4 - 35
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	4
-Rushing	2
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 4
-Kicking (Made-Attempted)	3 - 4
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	4 - 4
-Red Zone Efficiency	3/7 - 42%
-Goal To Go Efficiency	2/4 - 50%
-Safeties	0
-Final Score	39
-Time of Possession	34:02
-
-Passing	CP/AT	YDS	TD	INT
-S. Bradford	24/38	280	1	3
-Rushing	ATT	YDS	TD	LG
-D. Murray	21	112	1	21
-R. Mathews	9	40	0	9
-D. Sproles	2	4	0	4
-S. Bradford	5	2	0	5
-Receiving	REC	YDS	TD	LG
-R. Cooper	3	76	1	43
-M. Austin	3	60	0	37
-J. Matthews	6	59	0	19
-Z. Ertz	4	43	0	17
-J. Huff	3	19	0	15
-D. Murray	3	14	0	7
-R. Mathews	1	6	0	6
-D. Sproles	1	3	0	3
-Fumbles	FUM	LOST	REC	YDS
-S. Bradford	2	0	1	-21
-J. Matthews	1	1	0	0
-F. Cox	0	0	0	0
-M. Jenkins	0	0	0	0
-L. Johnson	0	0	1	0
-D. Ryans	0	0	1	0
-Kicking	FG	LG	XP	PTS
-C. Sturgis	2/2	39	3/3	9
-Punting	NO	AVG	I20	LG
-D. Jones	4	49.0	1	57
-Kickoff Returns	NO	AVG	TD	LG
-R. Cooper	1	12	0	12
-J. Huff	1	21	0	21
-Punt Returns	NO	AVG	TD	LG
-D. Sproles	4	6	0	13
-Defense	T-A	SCK	INT	FF
-J. Hicks	10-0	0.0	0	0
-N. Carroll	5-1	0.0	1	0
-B. Maxwell	5-1	0.0	0	0
-D. Ryans	5-0	0.0	1	0
-F. Cox	4-0	1.0	0	1
-B. Graham	4-0	1.0	0	0
-M. Jenkins	4-0	0.0	0	1
-B. Logan	3-0	0.0	0	0
-W. Thurmond	3-0	0.0	0	0
-B. Allen	1-0	0.0	0	0
-V. Curry	1-0	1.0	0	0
-C. Thornton	1-1	0.0	0	0
-E. Biggers	0-1	0.0	0	0
-N. Goode	0-1	0.0	0	0
-T. Hart	0-1	0.0	0	0
-Total First Downs	24
-By Rushing	10
-By Passing	11
-By Penalty	
-Third Down Efficiency	6/16 - 37%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	428
-Total Rushing/Passing Plays (includes Sacks)	76
-Average Gain per Offensive Play	5.6
-Net Yards Rushing	158
-Total Rushing Plays	37
-Average Gain per Rushing Play	4.3
-Tackled for a Loss (Number-Yards)	1--4
-Net Yards Passing	270
-Times Sacked (Number-Yards)	1 - 10
-Gross Yards Passing	280
-Pass Comp-Att-Int	24 - 38 - 3
-Average Gain per Passing Play (includes Sacks)	6.9
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 4 - 2
-Punts (Number-Average)	4 - 54.3
-Blocked	0
-Net Punting Average	49.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	42
-Punt Returns (Number-Yards)	4 - 25
-Kickoff Returns (Number-Yards)	2 - 33
-Interception Returns (Number-Yards)	2 - 17
-Penalties (Number-Yards)	9 - 72
-Fumbles (Number-Lost)	3 - 1
-Touchdowns	3
-Rushing	1
-Passing	1
-Interceptions	1
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 3
-Kicking (Made-Attempted)	3 - 3
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 2
-Red Zone Efficiency	1/2 - 50%
-Goal To Go Efficiency	0/1 - 0%
-Safeties	0
-Final Score	27
-Time of Possession	30:24
-
-Passing	CP/AT	YDS	TD	INT
-S. Bradford	26/46	205	0	1
-Rushing	ATT	YDS	TD	LG
-R. Mathews	6	97	1	63T
-D. Murray	18	65	0	11
-D. Sproles	3	9	0	6
-S. Bradford	3	6	0	2
-Receiving	REC	YDS	TD	LG
-Z. Ertz	5	63	0	24
-M. Austin	4	52	0	22
-D. Sproles	5	31	0	9
-R. Mathews	3	24	0	20
-J. Matthews	3	14	0	7
-B. Celek	2	11	0	6
-J. Huff	2	5	0	6
-D. Murray	2	5	0	3
-Fumbles	FUM	LOST	REC	YDS
-S. Bradford	1	0	0	0
-J. Kelce	0	0	1	0
-Kicking	FG	LG	XP	PTS
-C. Sturgis	3/4	52	1/1	10
-Punting	NO	AVG	I20	LG
-D. Jones	5	45.6	3	54
-Kickoff Returns	NO	AVG	TD	LG
-Punt Returns	NO	AVG	TD	LG
-D. Sproles	1	2	0	2
-Defense	T-A	SCK	INT	FF
-N. Carroll	6-3	0.0	1	0
-J. Hicks	6-0	0.0	0	0
-B. Maxwell	4-1	0.0	1	0
-M. Kendricks	3-5	1.0	0	0
-F. Cox	2-0	0.0	0	0
-B. Graham	2-3	0.0	0	0
-W. Thurmond	2-2	0.0	0	0
-M. Jenkins	1-1	0.0	1	0
-C. Thornton	1-6	0.0	0	0
-C. Barwin	0-1	0.0	0	0
-T. Hart	0-6	0.0	0	0
-B. Logan	0-3	0.0	0	0
-C. Maragos	0-1	0.0	0	0
-Total First Downs	20
-By Rushing	6
-By Passing	12
-By Penalty	
-Third Down Efficiency	7/18 - 38%
-Fourth Down Efficiency	1/2 - 50%
-Total Net Yards	349
-Total Rushing/Passing Plays (includes Sacks)	81
-Average Gain per Offensive Play	4.3
-Net Yards Rushing	177
-Total Rushing Plays	30
-Average Gain per Rushing Play	5.9
-Tackled for a Loss (Number-Yards)	1--1
-Net Yards Passing	172
-Times Sacked (Number-Yards)	5 - 33
-Gross Yards Passing	205
-Pass Comp-Att-Int	26 - 46 - 1
-Average Gain per Passing Play (includes Sacks)	3.4
-Kickoffs (Number-In End Zone-Touchbacks)	5 - 3 - 2
-Punts (Number-Average)	5 - 46.6
-Blocked	0
-Net Punting Average	45.6
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	25
-Punt Returns (Number-Yards)	1 - 2
-Kickoff Returns (Number-Yards)	0 - 0
-Interception Returns (Number-Yards)	3 - 23
-Penalties (Number-Yards)	7 - 46
-Fumbles (Number-Lost)	1 - 0
-Touchdowns	1
-Rushing	1
-Passing	0
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	1 - 1
-Kicking (Made-Attempted)	1 - 1
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	3 - 4
-Red Zone Efficiency	0/2 - 0%
-Goal To Go Efficiency	0/1 - 0%
-Safeties	0
-Final Score	16
-Time of Possession	31:06
-
-week 8 bye
-
-Passing	CP/AT	YDS	TD	INT
-S. Bradford	25/36	295	1	0
-Rushing	ATT	YDS	TD	LG
-D. Murray	18	83	1	20
-R. Mathews	11	67	1	21
-D. Sproles	5	23	0	8
-S. Bradford	1	-1	0	-1
-Receiving	REC	YDS	TD	LG
-J. Matthews	9	133	1	41T
-D. Murray	6	78	0	44
-Z. Ertz	5	44	0	27
-M. Austin	1	27	0	27
-J. Huff	2	10	0	5
-D. Sproles	2	3	0	7
-Fumbles	FUM	LOST	REC	YDS
-B. Graham	0	0	0	0
-Kicking	FG	LG	XP	PTS
-C. Sturgis	2/2	53	3/3	9
-Punting	NO	AVG	I20	LG
-D. Jones	5	47.2	4	59
-Kickoff Returns	NO	AVG	TD	LG
-Punt Returns	NO	AVG	TD	LG
-D. Sproles	0	0	0	0
-Defense	T-A	SCK	INT	FF
-M. Jenkins	8-1	0.0	0	0
-B. Graham	7-0	2.0	0	2
-N. Carroll	6-2	0.0	0	0
-J. Hicks	5-1	0.0	1	0
-M. Kendricks	5-0	1.0	0	0
-C. Barwin	4-0	1.0	0	0
-B. Allen	3-0	0.0	0	0
-C. Maragos	3-1	0.0	0	0
-B. Maxwell	3-1	0.0	0	0
-C. Thornton	3-0	0.0	0	0
-B. Logan	2-1	0.0	0	0
-W. Thurmond	2-0	0.0	0	0
-K. Alonso	1-0	0.0	0	0
-F. Cox	1-1	0.0	0	0
-Total First Downs	25
-By Rushing	13
-By Passing	9
-By Penalty	
-Third Down Efficiency	3/13 - 23%
-Fourth Down Efficiency	2/2 - 100%
-Total Net Yards	459
-Total Rushing/Passing Plays (includes Sacks)	72
-Average Gain per Offensive Play	6.4
-Net Yards Rushing	172
-Total Rushing Plays	35
-Average Gain per Rushing Play	4.9
-Tackled for a Loss (Number-Yards)	3--9
-Net Yards Passing	287
-Times Sacked (Number-Yards)	1 - 8
-Gross Yards Passing	295
-Pass Comp-Att-Int	25 - 36 - 0
-Average Gain per Passing Play (includes Sacks)	7.8
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 5
-Punts (Number-Average)	5 - 48.2
-Blocked	0
-Net Punting Average	47.2
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	67
-Punt Returns (Number-Yards)	0 - 0
-Kickoff Returns (Number-Yards)	0 - 0
-Interception Returns (Number-Yards)	1 - 67
-Penalties (Number-Yards)	10 - 70
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	4
-Rushing	2
-Passing	1
-Interceptions	1
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 3
-Kicking (Made-Attempted)	3 - 3
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 2
-Red Zone Efficiency	2/3 - 66%
-Goal To Go Efficiency	2/2 - 100%
-Safeties	0
-Final Score	33
-Time of Possession	25:42
-
-Passing	CP/AT	YDS	TD	INT
-S. Bradford	19/25	236	1	0
-M. Sanchez	14/23	156	0	1
-Rushing	ATT	YDS	TD	LG
-D. Murray	22	61	0	13
-R. Mathews	7	18	1	12
-M. Sanchez	2	4	0	4
-S. Bradford	1	0	0	0
-D. Sproles	3	0	0	2
-Receiving	REC	YDS	TD	LG
-B. Celek	4	134	0	60
-Z. Ertz	7	68	0	27
-D. Murray	6	58	0	20
-D. Sproles	5	34	0	10
-N. Agholor	3	32	0	21
-J. Huff	3	23	1	16
-R. Mathews	2	22	0	17
-J. Matthews	3	21	0	9
-Fumbles	FUM	LOST	REC	YDS
-S. Bradford	2	0	1	0
-J. Kelce	1	0	0	-20
-D. Kelly	0	0	2	0
-W. Thurmond	0	0	0	0
-Kicking	FG	LG	XP	PTS
-C. Sturgis	1/2	37	2/2	5
-Punting	NO	AVG	I20	LG
-D. Jones	6	32.1	3	52
-Kickoff Returns	NO	AVG	TD	LG
-J. Huff	1	31	0	31
-D. Sproles	1	20	0	20
-Punt Returns	NO	AVG	TD	LG
-D. Sproles	7	8	0	16
-Defense	T-A	SCK	INT	FF
-M. Jenkins	8-2	0.0	0	0
-M. Kendricks	6-0	1.0	0	0
-W. Thurmond	5-1	1.0	0	1
-B. Logan	4-0	0.0	0	0
-K. Alonso	3-1	0.0	0	0
-B. Maxwell	3-0	0.0	0	0
-C. Barwin	2-3	0.5	0	0
-F. Cox	2-3	0.5	0	0
-E. Biggers	1-0	0.0	0	0
-N. Carroll	1-1	0.0	0	0
-V. Curry	1-1	0.5	0	0
-B. Graham	1-1	0.5	0	0
-T. Hart	1-0	0.0	0	0
-D. Ryans	0-3	0.0	0	0
-Total First Downs	29
-By Rushing	10
-By Passing	15
-By Penalty	
-Third Down Efficiency	7/18 - 38%
-Fourth Down Efficiency	1/2 - 50%
-Total Net Yards	436
-Total Rushing/Passing Plays (includes Sacks)	87
-Average Gain per Offensive Play	5.0
-Net Yards Rushing	83
-Total Rushing Plays	35
-Average Gain per Rushing Play	2.4
-Tackled for a Loss (Number-Yards)	5--14
-Net Yards Passing	353
-Times Sacked (Number-Yards)	4 - 39
-Gross Yards Passing	392
-Pass Comp-Att-Int	33 - 48 - 1
-Average Gain per Passing Play (includes Sacks)	6.8
-Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 2
-Punts (Number-Average)	7 - 36.3
-Blocked	1
-Net Punting Average	28.1
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	57
-Punt Returns (Number-Yards)	7 - 57
-Kickoff Returns (Number-Yards)	2 - 51
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	7 - 54
-Fumbles (Number-Lost)	3 - 0
-Touchdowns	2
-Rushing	1
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 2
-Red Zone Efficiency	2/5 - 40%
-Goal To Go Efficiency	2/3 - 66%
-Safeties	1
-Final Score	19
-Time of Possession	31:07
-
-Passing	CP/AT	YDS	TD	INT
-M. Sanchez	26/41	261	2	3
-Rushing	ATT	YDS	TD	LG
-D. Murray	13	64	0	16
-K. Barner	7	37	0	8
-D. Sproles	6	21	0	7
-M. Sanchez	2	14	0	11
-Receiving	REC	YDS	TD	LG
-B. Celek	7	79	0	18
-R. Cooper	2	42	0	24
-J. Huff	1	39	1	39T
-D. Sproles	3	38	1	35T
-D. Murray	4	27	0	11
-J. Matthews	4	13	0	5
-Z. Ertz	2	12	0	7
-N. Agholor	3	11	0	7
-Fumbles	FUM	LOST	REC	YDS
-D. Murray	1	1	0	0
-B. Celek	0	0	1	0
-Z. Ertz	0	0	0	0
-M. Kendricks	0	0	0	0
-W. Thurmond	0	0	0	0
-Kicking	FG	LG	XP	PTS
-C. Sturgis	1/1	43	2/2	5
-Punting	NO	AVG	I20	LG
-D. Jones	6	40.0	2	51
-Kickoff Returns	NO	AVG	TD	LG
-J. Huff	4	24	0	39
-R. Cooper	1	16	0	16
-Punt Returns	NO	AVG	TD	LG
-D. Sproles	2	3	0	7
-Defense	T-A	SCK	INT	FF
-C. Barwin	6-0	0.0	0	0
-B. Logan	5-0	0.0	0	0
-C. Thornton	5-0	0.0	0	0
-W. Thurmond	5-0	1.0	0	1
-E. Biggers	4-0	0.0	0	0
-N. Carroll	4-1	0.0	0	0
-F. Cox	4-3	0.0	0	0
-M. Jenkins	4-1	0.0	0	0
-M. Kendricks	4-1	0.0	0	1
-B. Maxwell	3-1	0.0	0	0
-B. Graham	2-0	0.0	0	0
-T. Hart	2-1	0.0	0	0
-D. Ryans	2-0	0.0	0	0
-K. Alonso	1-0	0.0	0	0
-Total First Downs	21
-By Rushing	8
-By Passing	12
-By Penalty	
-Third Down Efficiency	7/15 - 46%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	383
-Total Rushing/Passing Plays (includes Sacks)	72
-Average Gain per Offensive Play	5.3
-Net Yards Rushing	136
-Total Rushing Plays	28
-Average Gain per Rushing Play	4.9
-Tackled for a Loss (Number-Yards)	0-0
-Net Yards Passing	247
-Times Sacked (Number-Yards)	3 - 14
-Gross Yards Passing	261
-Pass Comp-Att-Int	26 - 41 - 3
-Average Gain per Passing Play (includes Sacks)	5.6
-Kickoffs (Number-In End Zone-Touchbacks)	4 - 3 - 2
-Punts (Number-Average)	6 - 46.5
-Blocked	0
-Net Punting Average	40.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	6
-Punt Returns (Number-Yards)	2 - 6
-Kickoff Returns (Number-Yards)	5 - 112
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	5 - 25
-Fumbles (Number-Lost)	1 - 1
-Touchdowns	2
-Rushing	0
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	0/0 - 0%
-Goal To Go Efficiency	0/0 - 0%
-Safeties	0
-Final Score	17
-Time of Possession	24:06
-
-Passing	CP/AT	YDS	TD	INT
-M. Sanchez	19/27	199	2	0
-Rushing	ATT	YDS	TD	LG
-K. Barner	7	30	0	16
-D. Murray	14	30	0	19
-M. Sanchez	2	4	0	5
-D. Sproles	2	4	0	5
-Receiving	REC	YDS	TD	LG
-J. Matthews	3	60	1	24T
-T. Burton	2	49	0	43
-D. Sproles	4	21	0	16
-R. Cooper	2	16	0	8
-N. Agholor	2	15	0	12
-M. Austin	1	12	0	12
-J. Huff	1	11	0	11
-B. Celek	2	10	1	8
-S. Ajirotutu	1	4	0	4
-K. Barner	1	1	0	1
-Fumbles	FUM	LOST	REC	YDS
-M. Sanchez	1	1	0	0
-Kicking	FG	LG	XP	PTS
-C. Sturgis	0/1	0	2/2	2
-Punting	NO	AVG	I20	LG
-D. Jones	6	46.3	2	60
-Kickoff Returns	NO	AVG	TD	LG
-Punt Returns	NO	AVG	TD	LG
-D. Sproles	2	1	0	5
-Defense	T-A	SCK	INT	FF
-B. Maxwell	6-0	0.0	0	0
-W. Thurmond	6-3	0.0	0	0
-M. Kendricks	5-2	0.0	0	0
-B. Logan	5-0	0.0	0	0
-C. Barwin	4-1	0.0	0	0
-M. Jenkins	4-1	0.0	0	0
-B. Graham	3-0	0.0	0	0
-K. Alonso	2-2	0.0	0	0
-V. Curry	2-0	2.0	0	0
-D. Ryans	2-2	0.0	0	0
-B. Allen	1-0	0.0	0	0
-F. Cox	1-0	0.0	0	0
-T. Hart	1-0	0.0	0	0
-E. Reynolds	1-0	0.0	0	0
-E. Rowe	1-1	0.0	0	0
-C. Thornton	1-1	0.0	0	0
-E. Biggers	0-1	0.0	0	0
-N. Carroll	0-1	0.0	0	0
-Total First Downs	14
-By Rushing	4
-By Passing	9
-By Penalty	
-Third Down Efficiency	6/14 - 42%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	227
-Total Rushing/Passing Plays (includes Sacks)	58
-Average Gain per Offensive Play	3.9
-Net Yards Rushing	68
-Total Rushing Plays	25
-Average Gain per Rushing Play	2.7
-Tackled for a Loss (Number-Yards)	5--9
-Net Yards Passing	159
-Times Sacked (Number-Yards)	6 - 40
-Gross Yards Passing	199
-Pass Comp-Att-Int	19 - 27 - 0
-Average Gain per Passing Play (includes Sacks)	4.8
-Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 2
-Punts (Number-Average)	6 - 48.0
-Blocked	0
-Net Punting Average	46.3
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	3
-Punt Returns (Number-Yards)	2 - 3
-Kickoff Returns (Number-Yards)	0 - 0
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	2 - 30
-Fumbles (Number-Lost)	1 - 1
-Touchdowns	2
-Rushing	0
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 1
-Red Zone Efficiency	1/1 - 100%
-Goal To Go Efficiency	1/1 - 100%
-Safeties	0
-Final Score	14
-Time of Possession	22:49
-
-Passing	CP/AT	YDS	TD	INT
-S. Bradford	14/24	120	2	0
-Rushing	ATT	YDS	TD	LG
-D. Sproles	15	66	0	13
-K. Barner	9	39	0	19
-D. Murray	8	24	0	19
-S. Bradford	1	-1	0	-1
-Receiving	REC	YDS	TD	LG
-J. Matthews	3	36	1	20
-D. Sproles	4	34	0	16
-B. Celek	1	16	0	16
-R. Cooper	1	14	0	14
-Z. Ertz	2	9	1	5T
-K. Barner	2	7	0	5
-J. Krause	1	4	0	4
-Fumbles	FUM	LOST	REC	YDS
-K. Barner	1	1	0	0
-J. Matthews	1	0	0	0
-Kicking	FG	LG	XP	PTS
-C. Sturgis	0/0	0	5/5	5
-Punting	NO	AVG	I20	LG
-D. Jones	7	40.6	2	64
-Kickoff Returns	NO	AVG	TD	LG
-J. Huff	2	17	0	19
-S. Ajirotutu	1	0	0	0
-Punt Returns	NO	AVG	TD	LG
-D. Sproles	5	23	1	83T
-Defense	T-A	SCK	INT	FF
-M. Jenkins	6-1	0.0	1	0
-W. Thurmond	6-4	0.0	0	0
-B. Graham	4-0	2.0	0	0
-E. Reynolds	4-1	0.0	0	0
-C. Barwin	3-3	2.0	0	0
-E. Biggers	3-0	0.0	0	0
-M. Kendricks	3-1	0.0	0	0
-E. Rowe	3-0	0.0	0	0
-K. Alonso	2-1	0.0	0	0
-B. Bair	1-2	0.0	0	0
-F. Cox	1-2	0.0	0	0
-V. Curry	1-0	0.0	0	0
-B. Maxwell	1-2	0.0	1	0
-B. Allen	0-1	0.0	0	0
-T. Hart	0-4	0.0	0	0
-B. Logan	0-1	0.0	0	0
-D. Ryans	0-1	0.0	0	0
-Total First Downs	15
-By Rushing	6
-By Passing	8
-By Penalty	
-Third Down Efficiency	6/14 - 42%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	248
-Total Rushing/Passing Plays (includes Sacks)	58
-Average Gain per Offensive Play	4.3
-Net Yards Rushing	128
-Total Rushing Plays	33
-Average Gain per Rushing Play	3.9
-Tackled for a Loss (Number-Yards)	6--20
-Net Yards Passing	120
-Times Sacked (Number-Yards)	1 - 0
-Gross Yards Passing	120
-Pass Comp-Att-Int	14 - 24 - 0
-Average Gain per Passing Play (includes Sacks)	4.8
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 3 - 1
-Punts (Number-Average)	7 - 46.9
-Blocked	0
-Net Punting Average	40.6
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	214
-Punt Returns (Number-Yards)	5 - 115
-Kickoff Returns (Number-Yards)	3 - 35
-Interception Returns (Number-Yards)	2 - 99
-Penalties (Number-Yards)	8 - 97
-Fumbles (Number-Lost)	2 - 1
-Touchdowns	5
-Rushing	0
-Passing	2
-Interceptions	1
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	1
-Extra Points (Made-Attempted)	5 - 5
-Kicking (Made-Attempted)	5 - 5
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	2/2 - 100%
-Goal To Go Efficiency	0/0 - 0%
-Safeties	0
-Final Score	35
-Time of Possession	25:44
-
-Passing	CP/AT	YDS	TD	INT
-S. Bradford	23/38	247	1	1
-Rushing	ATT	YDS	TD	LG
-D. Sproles	7	41	1	15
-R. Mathews	13	38	0	9
-D. Murray	11	34	0	7
-S. Bradford	3	3	0	5
-Receiving	REC	YDS	TD	LG
-Z. Ertz	5	98	0	41
-N. Agholor	3	62	1	53T
-R. Cooper	3	28	0	11
-J. Huff	2	28	0	18
-J. Matthews	3	19	0	8
-R. Mathews	2	4	0	3
-D. Sproles	2	4	0	3
-D. Murray	2	3	0	4
-B. Celek	1	1	0	1
-Fumbles	FUM	LOST	REC	YDS
-B. Braman	0	0	1	0
-B. Maxwell	0	0	0	0
-Kicking	FG	LG	XP	PTS
-C. Sturgis	3/3	45	2/2	11
-Punting	NO	AVG	I20	LG
-D. Jones	7	43.3	1	63
-Kickoff Returns	NO	AVG	TD	LG
-J. Huff	3	18	0	22
-Punt Returns	NO	AVG	TD	LG
-D. Sproles	4	11	0	28
-Defense	T-A	SCK	INT	FF
-F. Cox	7-1	1.0	0	0
-M. Kendricks	7-1	0.0	0	0
-M. Jenkins	6-2	0.0	0	0
-C. Barwin	4-0	0.0	0	0
-E. Rowe	4-0	0.0	0	0
-D. Ryans	3-1	0.0	0	0
-W. Thurmond	3-0	0.0	0	0
-K. Alonso	2-3	0.0	0	0
-B. Logan	2-0	0.0	0	0
-B. Maxwell	2-0	0.0	0	1
-B. Allen	1-0	0.0	0	0
-E. Biggers	1-0	0.0	0	0
-B. Graham	1-2	0.0	0	0
-E. Reynolds	1-0	0.0	1	0
-Total First Downs	20
-By Rushing	8
-By Passing	11
-By Penalty	
-Third Down Efficiency	9/18 - 50%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	348
-Total Rushing/Passing Plays (includes Sacks)	73
-Average Gain per Offensive Play	4.8
-Net Yards Rushing	116
-Total Rushing Plays	34
-Average Gain per Rushing Play	3.4
-Tackled for a Loss (Number-Yards)	3--5
-Net Yards Passing	232
-Times Sacked (Number-Yards)	1 - 15
-Gross Yards Passing	247
-Pass Comp-Att-Int	23 - 38 - 1
-Average Gain per Passing Play (includes Sacks)	5.9
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 5 - 5
-Punts (Number-Average)	7 - 50.4
-Blocked	0
-Net Punting Average	43.3
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	54
-Punt Returns (Number-Yards)	4 - 47
-Kickoff Returns (Number-Yards)	3 - 56
-Interception Returns (Number-Yards)	1 - 7
-Penalties (Number-Yards)	5 - 55
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	2
-Rushing	1
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	3 - 3
-Red Zone Efficiency	1/2 - 50%
-Goal To Go Efficiency	1/1 - 100%
-Safeties	0
-Final Score	23
-Time of Possession	24:58
-
-Passing	CP/AT	YDS	TD	INT
-S. Bradford	28/41	361	2	2
-Rushing	ATT	YDS	TD	LG
-R. Mathews	11	58	0	20
-D. Sproles	6	9	0	3
-S. Bradford	1	4	0	4
-D. Murray	2	3	0	2
-Receiving	REC	YDS	TD	LG
-J. Matthews	8	159	1	78T
-Z. Ertz	8	78	1	22T
-J. Huff	4	52	0	22
-B. Celek	2	31	0	21
-R. Cooper	2	22	0	15
-D. Sproles	3	16	0	6
-R. Mathews	1	3	0	3
-Fumbles	FUM	LOST	REC	YDS
-S. Bradford	1	1	0	0
-R. Mathews	1	1	0	0
-Kicking	FG	LG	XP	PTS
-C. Sturgis	1/1	36	2/2	5
-Punting	NO	AVG	I20	LG
-D. Jones	3	47.0	2	53
-Kickoff Returns	NO	AVG	TD	LG
-J. Huff	5	23	0	39
-Punt Returns	NO	AVG	TD	LG
-D. Sproles	2	6	0	6
-Defense	T-A	SCK	INT	FF
-M. Kendricks	8-2	0.0	0	0
-B. Maxwell	6-0	0.0	0	0
-E. Biggers	5-0	0.0	0	0
-F. Cox	5-1	1.0	0	0
-M. Jenkins	5-2	0.0	0	0
-T. Hart	4-0	0.0	0	0
-B. Logan	3-0	0.0	0	0
-M. Smith	2-1	0.5	0	0
-K. Alonso	1-0	0.0	0	0
-C. Barwin	1-1	0.5	0	0
-V. Curry	1-0	0.0	0	0
-B. Graham	1-0	0.0	0	0
-E. Rowe	1-2	0.0	0	0
-D. Ryans	1-2	0.0	0	0
-W. Thurmond	1-0	0.0	0	0
-J. Watkins	1-0	0.0	0	0
-E. Reynolds	0-1	0.0	0	0
-C. Thornton	0-2	0.0	0	0
-Total First Downs	19
-By Rushing	4
-By Passing	15
-By Penalty	
-Third Down Efficiency	6/12 - 50%
-Fourth Down Efficiency	0/2 - 0%
-Total Net Yards	424
-Total Rushing/Passing Plays (includes Sacks)	63
-Average Gain per Offensive Play	6.7
-Net Yards Rushing	74
-Total Rushing Plays	20
-Average Gain per Rushing Play	3.7
-Tackled for a Loss (Number-Yards)	1--3
-Net Yards Passing	350
-Times Sacked (Number-Yards)	2 - 11
-Gross Yards Passing	361
-Pass Comp-Att-Int	28 - 41 - 2
-Average Gain per Passing Play (includes Sacks)	8.1
-Kickoffs (Number-In End Zone-Touchbacks)	4 - 3 - 1
-Punts (Number-Average)	3 - 49.0
-Blocked	0
-Net Punting Average	47.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	12
-Punt Returns (Number-Yards)	2 - 12
-Kickoff Returns (Number-Yards)	5 - 118
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	5 - 38
-Fumbles (Number-Lost)	2 - 2
-Touchdowns	2
-Rushing	0
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	0/2 - 0%
-Goal To Go Efficiency	0/0 - 0%
-Safeties	0
-Final Score	17
-Time of Possession	22:32
-
-Passing	CP/AT	YDS	TD	INT
-S. Bradford	37/56	380	1	0
-Rushing	ATT	YDS	TD	LG
-D. Murray	5	27	1	12
-D. Sproles	5	9	0	8
-R. Mathews	4	5	1	2
-S. Bradford	2	4	0	4
-Receiving	REC	YDS	TD	LG
-Z. Ertz	13	122	0	17
-J. Matthews	6	104	1	43
-D. Sproles	7	56	0	14
-N. Agholor	2	35	0	18
-D. Murray	3	24	0	13
-B. Celek	1	18	0	18
-R. Mathews	2	13	0	11
-J. Huff	1	8	0	8
-J. Krause	1	7	0	7
-K. Barner	1	-7	0	-7
-Fumbles	FUM	LOST	REC	YDS
-S. Bradford	3	1	2	-12
-B. Celek	1	0	1	0
-Z. Ertz	1	1	0	0
-J. Kelce	1	0	1	3
-D. Sproles	1	0	1	0
-Kicking	FG	LG	XP	PTS
-C. Sturgis	1/1	34	3/3	6
-Punting	NO	AVG	I20	LG
-D. Jones	7	42.1	3	56
-Kickoff Returns	NO	AVG	TD	LG
-J. Huff	2	32	0	49
-Punt Returns	NO	AVG	TD	LG
-D. Sproles	2	0	0	0
-K. Barner	1	-3	0	-3
-Defense	T-A	SCK	INT	FF
-M. Jenkins	6-0	0.0	0	0
-K. Alonso	5-3	0.0	0	0
-F. Cox	5-2	2.0	0	0
-E. Reynolds	5-1	0.0	0	0
-B. Allen	4-1	0.0	0	0
-C. Barwin	3-0	0.0	0	0
-E. Biggers	3-1	0.0	0	0
-M. Kendricks	3-1	0.0	0	0
-E. Rowe	3-0	0.0	0	0
-D. Ryans	3-2	0.0	0	0
-B. Bair	1-1	0.0	0	0
-C. Thornton	1-0	0.0	0	0
-W. Thurmond	1-0	0.0	0	0
-J. Watkins	1-0	0.0	0	0
-B. Graham	0-1	0.0	0	0
-T. Hart	0-1	0.0	0	0
-Total First Downs	23
-By Rushing	4
-By Passing	17
-By Penalty	
-Third Down Efficiency	7/19 - 36%
-Fourth Down Efficiency	2/3 - 66%
-Total Net Yards	398
-Total Rushing/Passing Plays (includes Sacks)	77
-Average Gain per Offensive Play	5.2
-Net Yards Rushing	45
-Total Rushing Plays	16
-Average Gain per Rushing Play	2.8
-Tackled for a Loss (Number-Yards)	1--6
-Net Yards Passing	353
-Times Sacked (Number-Yards)	5 - 27
-Gross Yards Passing	380
-Pass Comp-Att-Int	37 - 56 - 0
-Average Gain per Passing Play (includes Sacks)	5.8
-Kickoffs (Number-In End Zone-Touchbacks)	5 - 4 - 3
-Punts (Number-Average)	7 - 43.6
-Blocked	0
-Net Punting Average	42.1
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	-3
-Punt Returns (Number-Yards)	3 - -3
-Kickoff Returns (Number-Yards)	2 - 65
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	8 - 45
-Fumbles (Number-Lost)	7 - 2
-Touchdowns	3
-Rushing	2
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 3
-Kicking (Made-Attempted)	3 - 3
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	3/4 - 75%
-Goal To Go Efficiency	1/1 - 100%
-Safeties	0
-Final Score	24
-Time of Possession	25:45
-
-Passing	CP/AT	YDS	TD	INT
-S. Bradford	30/38	320	2	1
-Rushing	ATT	YDS	TD	LG
-D. Murray	12	69	1	54T
-D. Sproles	3	24	1	13
-K. Barner	5	18	0	7
-R. Mathews	4	11	0	7
-S. Bradford	2	-2	0	-1
-Receiving	REC	YDS	TD	LG
-Z. Ertz	9	152	0	60
-J. Matthews	7	54	2	25
-B. Celek	2	38	0	24
-N. Agholor	2	23	0	16
-K. Barner	5	21	0	12
-D. Sproles	3	20	0	14
-R. Mathews	1	7	0	7
-T. Burton	1	5	0	5
-Fumbles	FUM	LOST	REC	YDS
-D. Murray	1	1	0	0
-C. Barwin	0	0	0	0
-W. Thurmond	0	0	1	83
-Kicking	FG	LG	XP	PTS
-C. Sturgis	0/0	0	5/5	5
-Punting	NO	AVG	I20	LG
-D. Jones	3	33.0	0	43
-Kickoff Returns	NO	AVG	TD	LG
-Z. Ertz	1	9	0	9
-J. Huff	1	15	0	15
-Punt Returns	NO	AVG	TD	LG
-Defense	T-A	SCK	INT	FF
-K. Alonso	8-1	0.0	0	0
-M. Jenkins	7-2	0.0	0	0
-F. Cox	6-2	0.0	0	0
-E. Biggers	5-2	0.0	0	0
-M. Kendricks	5-4	0.0	0	0
-E. Reynolds	5-2	0.0	0	0
-B. Allen	4-2	0.0	0	0
-B. Graham	3-1	0.0	0	0
-E. Rowe	3-2	0.0	0	0
-D. Ryans	3-1	0.0	0	0
-C. Barwin	2-0	1.0	0	1
-T. Hart	2-0	0.0	0	0
-C. Maragos	2-0	0.0	0	0
-B. Bair	1-0	0.0	0	0
-V. Curry	1-1	0.0	0	0
-M. Smith	1-1	1.0	0	0
-C. Thornton	0-5	0.0	0	0
-Total First Downs	23
-By Rushing	7
-By Passing	16
-By Penalty	
-Third Down Efficiency	10/13 - 76%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	435
-Total Rushing/Passing Plays (includes Sacks)	65
-Average Gain per Offensive Play	6.7
-Net Yards Rushing	120
-Total Rushing Plays	26
-Average Gain per Rushing Play	4.6
-Tackled for a Loss (Number-Yards)	4--7
-Net Yards Passing	315
-Times Sacked (Number-Yards)	1 - 5
-Gross Yards Passing	320
-Pass Comp-Att-Int	30 - 38 - 1
-Average Gain per Passing Play (includes Sacks)	8.1
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 6
-Punts (Number-Average)	3 - 41.3
-Blocked	0
-Net Punting Average	33.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	0
-Punt Returns (Number-Yards)	0 - 0
-Kickoff Returns (Number-Yards)	2 - 24
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	3 - 11
-Fumbles (Number-Lost)	1 - 1
-Touchdowns	5
-Rushing	2
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	1
-Punt Returns	0
-Extra Points (Made-Attempted)	5 - 5
-Kicking (Made-Attempted)	5 - 5
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	3/3 - 100%
-Goal To Go Efficiency	3/3 - 100%
-Safeties	0
-Final Score	35
-Time of Possession	28:06
-
+1	Total First Downs	23			
+1	By Rushing	5			
+1	By Passing	17			
+1	By Penalty				
+1	Third Down Efficiency	3/12 - 25%			
+1	Fourth Down Efficiency	1/1 - 100%			
+1	Total Net Yards	399			
+1	Total Rushing/Passing Plays (includes Sacks)	68			
+1	Average Gain per Offensive Play	5.9			
+1	Net Yards Rushing	63			
+1	Total Rushing Plays	16			
+1	Average Gain per Rushing Play	3.9			
+1	Tackled for a Loss (Number-Yards)	1--12			
+1	Net Yards Passing	336			
+1	Times Sacked (Number-Yards)	0 - 0			
+1	Gross Yards Passing	336			
+1	Pass Comp-Att-Int	36 - 52 - 2			
+1	Average Gain per Passing Play (includes Sacks)	6.5			
+1	Kickoffs (Number-In End Zone-Touchbacks)	5 - 5 - 2			
+1	Punts (Number-Average)	5 - 45.2			
+1	Blocked	0			
+1	Net Punting Average	37.6			
+1	FGs Blocked - PATs Blocked	0 - 0			
+1	Total Return Yardage (excludes Kickoffs)	48			
+1	Punt Returns (Number-Yards)	3 - 25			
+1	Kickoff Returns (Number-Yards)	0 - 0			
+1	Interception Returns (Number-Yards)	2 - 23			
+1	Penalties (Number-Yards)	10 - 88			
+1	Fumbles (Number-Lost)	1 - 0			
+1	Touchdowns	3			
+1	Rushing	2			
+1	Passing	1			
+1	Interceptions	0			
+1	Kickoff Returns	0			
+1	Fumble Returns	0			
+1	Punt Returns	0			
+1	Extra Points (Made-Attempted)	3 - 3			
+1	Kicking (Made-Attempted)	3 - 3			
+1	Two Point Conversions (Made-Attempted)	0 - 0			
+1	Field Goals (Made-Attempted)	1 - 2			
+1	Red Zone Efficiency	3/4 - 75%			
+1	Goal To Go Efficiency	3/3 - 100%			
+1	Safeties	0			
+1	Final Score	24			
+1	Time of Possession	24:33			
+					
+2	Passing	CP/AT	YDS	TD	INT
+2	S. Bradford	23/37	224	1	2
+2	Rushing	ATT	YDS	TD	LG
+2	S. Bradford	2	9	0	9
+2	D. Murray	13	2	0	9
+2	R. Mathews	1	0	0	0
+2	D. Sproles	1	-4	0	-4
+2	Receiving	REC	YDS	TD	LG
+2	J. Matthews	6	80	1	32
+2	D. Murray	5	53	0	22
+2	N. Agholor	3	31	0	12
+2	D. Sproles	4	23	0	11
+2	J. Huff	2	20	0	11
+2	Z. Ertz	3	17	0	9
+2	Fumbles	FUM	LOST	REC	YDS
+2	S. Bradford	1	1	0	-2
+2	F. Cox	0	0	1	0
+2	J. Hicks	0	0	0	0
+2	M. Jenkins	0	0	1	34
+2	B. Maxwell	0	0	0	0
+2	Kicking	FG	LG	XP	PTS
+2	C. Parkey	1/1	46	1/1	4
+2	Punting	NO	AVG	I20	LG
+2	D. Jones	6	43.0	1	59
+2	Kickoff Returns	NO	AVG	TD	LG
+2	J. Huff	1	21	0	21
+2	Punt Returns	NO	AVG	TD	LG
+2	D. Sproles	2	10	0	15
+2	Defense	T-A	SCK	INT	FF
+2	J. Hicks	7-0	1.0	0	1
+2	M. Jenkins	7-0	0.0	0	0
+2	M. Kendricks	7-0	0.0	0	0
+2	C. Barwin	4-0	1.0	0	0
+2	B. Logan	4-1	0.0	0	0
+2	D. Ryans	4-2	0.0	0	0
+2	C. Thornton	4-0	1.0	0	0
+2	W. Thurmond	4-1	0.0	0	0
+2	N. Carroll	3-0	0.0	0	0
+2	B. Maxwell	3-1	0.0	0	1
+2	B. Graham	2-0	0.0	0	0
+2	K. Alonso	1-0	0.0	0	0
+2	F. Cox	1-1	0.0	0	0
+2	B. Allen	0-1	0.0	0	0
+2	T. Hart	0-1	0.0	0	0
+2	Total First Downs	17			
+2	By Rushing	2			
+2	By Passing	11			
+2	By Penalty				
+2	Third Down Efficiency	2/11 - 18%			
+2	Fourth Down Efficiency	1/1 - 100%			
+2	Total Net Yards	226			
+2	Total Rushing/Passing Plays (includes Sacks)	55			
+2	Average Gain per Offensive Play	4.1			
+2	Net Yards Rushing	7			
+2	Total Rushing Plays	17			
+2	Average Gain per Rushing Play	0.4			
+2	Tackled for a Loss (Number-Yards)	6--25			
+2	Net Yards Passing	219			
+2	Times Sacked (Number-Yards)	1 - 5			
+2	Gross Yards Passing	224			
+2	Pass Comp-Att-Int	23 - 37 - 2			
+2	Average Gain per Passing Play (includes Sacks)	5.8			
+2	Kickoffs (Number-In End Zone-Touchbacks)	3 - 2 - 1			
+2	Punts (Number-Average)	7 - 43.1			
+2	Blocked	1			
+2	Net Punting Average	37.6			
+2	FGs Blocked - PATs Blocked	0 - 0			
+2	Total Return Yardage (excludes Kickoffs)	20			
+2	Punt Returns (Number-Yards)	2 - 20			
+2	Kickoff Returns (Number-Yards)	1 - 21			
+2	Interception Returns (Number-Yards)	0 - 0			
+2	Penalties (Number-Yards)	8 - 60			
+2	Fumbles (Number-Lost)	1 - 1			
+2	Touchdowns	1			
+2	Rushing	0			
+2	Passing	1			
+2	Interceptions	0			
+2	Kickoff Returns	0			
+2	Fumble Returns	0			
+2	Punt Returns	0			
+2	Extra Points (Made-Attempted)	1 - 1			
+2	Kicking (Made-Attempted)	1 - 1			
+2	Two Point Conversions (Made-Attempted)	0 - 0			
+2	Field Goals (Made-Attempted)	1 - 1			
+2	Red Zone Efficiency	1/2 - 50%			
+2	Goal To Go Efficiency	1/2 - 50%			
+2	Safeties	0			
+2	Final Score	10			
+2	Time of Possession	19:35			
+					
+3	Passing	CP/AT	YDS	TD	INT
+3	S. Bradford	14/28	118	1	0
+3	Rushing	ATT	YDS	TD	LG
+3	R. Mathews	24	108	0	27
+3	D. Sproles	11	17	1	12
+3	S. Bradford	3	-2	0	0
+3	Receiving	REC	YDS	TD	LG
+3	J. Matthews	6	49	0	17
+3	Z. Ertz	2	30	0	21
+3	R. Mathews	2	20	1	23T
+3	D. Sproles	4	19	0	9
+3	Fumbles	FUM	LOST	REC	YDS
+3	R. Mathews	1	1	0	0
+3	J. Hicks	0	0	1	11
+3	M. Jenkins	0	0	0	0
+3	Kicking	FG	LG	XP	PTS
+3	C. Parkey	1/1	30	3/3	6
+3	Punting	NO	AVG	I20	LG
+3	D. Jones	9	41.2	2	56
+3	Kickoff Returns	NO	AVG	TD	LG
+3	K. Barner	1	10	0	10
+3	Punt Returns	NO	AVG	TD	LG
+3	D. Sproles	3	29	1	89T
+3	Defense	T-A	SCK	INT	FF
+3	J. Hicks	9-1	0.0	1	0
+3	B. Maxwell	6-2	0.0	0	0
+3	M. Jenkins	5-1	0.0	0	2
+3	C. Barwin	4-0	1.0	0	0
+3	B. Bair	3-1	0.0	0	0
+3	N. Carroll	2-2	0.0	0	0
+3	N. Goode	2-0	0.0	0	0
+3	B. Logan	2-1	0.0	0	0
+3	D. Ryans	2-1	0.0	0	0
+3	W. Thurmond	2-2	0.0	1	0
+3	E. Biggers	1-0	0.0	0	0
+3	V. Curry	1-0	0.0	0	0
+3	B. Graham	1-2	0.0	0	0
+3	E. Rowe	1-0	0.0	1	0
+3	B. Allen	0-1	0.0	0	0
+3	F. Cox	0-3	0.0	0	0
+3	Total First Downs	18			
+3	By Rushing	8			
+3	By Passing	6			
+3	By Penalty				
+3	Third Down Efficiency	4/14 - 28%			
+3	Fourth Down Efficiency	0/0 - 0%			
+3	Total Net Yards	231			
+3	Total Rushing/Passing Plays (includes Sacks)	67			
+3	Average Gain per Offensive Play	3.4			
+3	Net Yards Rushing	123			
+3	Total Rushing Plays	38			
+3	Average Gain per Rushing Play	3.2			
+3	Tackled for a Loss (Number-Yards)	7--18			
+3	Net Yards Passing	108			
+3	Times Sacked (Number-Yards)	1 - 10			
+3	Gross Yards Passing	118			
+3	Pass Comp-Att-Int	14 - 28 - 0			
+3	Average Gain per Passing Play (includes Sacks)	3.7			
+3	Kickoffs (Number-In End Zone-Touchbacks)	5 - 2 - 0			
+3	Punts (Number-Average)	9 - 48.9			
+3	Blocked	0			
+3	Net Punting Average	41.2			
+3	FGs Blocked - PATs Blocked	0 - 0			
+3	Total Return Yardage (excludes Kickoffs)	89			
+3	Punt Returns (Number-Yards)	3 - 89			
+3	Kickoff Returns (Number-Yards)	1 - 10			
+3	Interception Returns (Number-Yards)	3 - 0			
+3	Penalties (Number-Yards)	5 - 21			
+3	Fumbles (Number-Lost)	1 - 1			
+3	Touchdowns	3			
+3	Rushing	1			
+3	Passing	1			
+3	Interceptions	0			
+3	Kickoff Returns	0			
+3	Fumble Returns	0			
+3	Punt Returns	1			
+3	Extra Points (Made-Attempted)	3 - 3			
+3	Kicking (Made-Attempted)	3 - 3			
+3	Two Point Conversions (Made-Attempted)	0 - 0			
+3	Field Goals (Made-Attempted)	1 - 1			
+3	Red Zone Efficiency	1/2 - 50%			
+3	Goal To Go Efficiency	1/2 - 50%			
+3	Safeties	0			
+3	Final Score	24			
+3	Time of Possession	28:11			
+					
+4	Passing	CP/AT	YDS	TD	INT
+4	S. Bradford	15/28	270	3	0
+4	Rushing	ATT	YDS	TD	LG
+4	D. Murray	8	36	0	30
+4	R. Mathews	5	20	0	9
+4	D. Sproles	4	17	0	11
+4	S. Bradford	1	14	0	14
+4	Receiving	REC	YDS	TD	LG
+4	R. Cooper	2	72	1	62T
+4	N. Agholor	3	64	0	45
+4	M. Austin	2	51	1	39T
+4	J. Matthews	3	50	0	30
+4	D. Murray	2	12	0	8
+4	Z. Ertz	2	11	0	7
+4	B. Celek	1	10	1	10T
+4	Fumbles	FUM	LOST	REC	YDS
+4	N. Agholor	1	1	0	0
+4	R. Mathews	1	1	0	-3
+4	B. Graham	0	0	0	0
+4	J. Hicks	0	0	1	0
+4	Kicking	FG	LG	XP	PTS
+4	C. Sturgis	0/1	0	2/3	2
+4	Punting	NO	AVG	I20	LG
+4	D. Jones	6	38.2	2	46
+4	Kickoff Returns	NO	AVG	TD	LG
+4	Punt Returns	NO	AVG	TD	LG
+4	D. Sproles	1	45	0	45
+4	Defense	T-A	SCK	INT	FF
+4	M. Jenkins	7-1	0.0	0	0
+4	N. Carroll	6-2	0.0	0	0
+4	B. Graham	6-1	1.0	0	1
+4	E. Biggers	5-3	0.0	0	0
+4	E. Rowe	5-1	0.0	0	0
+4	W. Thurmond	5-3	0.0	0	0
+4	F. Cox	4-1	0.0	0	0
+4	D. Ryans	4-2	0.0	0	0
+4	J. Hicks	3-3	0.0	0	0
+4	B. Logan	3-6	0.0	0	0
+4	B. Allen	1-4	0.0	0	0
+4	C. Barwin	1-1	0.0	0	0
+4	B. Maxwell	1-0	0.0	0	0
+4	B. Bair	0-1	0.0	0	0
+4	V. Curry	0-1	0.0	0	0
+4	Total First Downs	14			
+4	By Rushing	4			
+4	By Passing	6			
+4	By Penalty				
+4	Third Down Efficiency	4/12 - 33%			
+4	Fourth Down Efficiency	0/1 - 0%			
+4	Total Net Yards	320			
+4	Total Rushing/Passing Plays (includes Sacks)	51			
+4	Average Gain per Offensive Play	6.3			
+4	Net Yards Rushing	87			
+4	Total Rushing Plays	18			
+4	Average Gain per Rushing Play	4.8			
+4	Tackled for a Loss (Number-Yards)	2--6			
+4	Net Yards Passing	233			
+4	Times Sacked (Number-Yards)	5 - 37			
+4	Gross Yards Passing	270			
+4	Pass Comp-Att-Int	15 - 28 - 0			
+4	Average Gain per Passing Play (includes Sacks)	7.1			
+4	Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 3			
+4	Punts (Number-Average)	6 - 41.8			
+4	Blocked	0			
+4	Net Punting Average	38.2			
+4	FGs Blocked - PATs Blocked	0 - 0			
+4	Total Return Yardage (excludes Kickoffs)	45			
+4	Punt Returns (Number-Yards)	1 - 45			
+4	Kickoff Returns (Number-Yards)	0 - 0			
+4	Interception Returns (Number-Yards)	0 - 0			
+4	Penalties (Number-Yards)	8 - 72			
+4	Fumbles (Number-Lost)	2 - 2			
+4	Touchdowns	3			
+4	Rushing	0			
+4	Passing	3			
+4	Interceptions	0			
+4	Kickoff Returns	0			
+4	Fumble Returns	0			
+4	Punt Returns	0			
+4	Extra Points (Made-Attempted)	2 - 3			
+4	Kicking (Made-Attempted)	2 - 3			
+4	Two Point Conversions (Made-Attempted)	0 - 0			
+4	Field Goals (Made-Attempted)	0 - 1			
+4	Red Zone Efficiency	1/2 - 50%			
+4	Goal To Go Efficiency	0/0 - 0%			
+4	Safeties	0			
+4	Final Score	20			
+4	Time of Possession	18:52			
+					
+5	Passing	CP/AT	YDS	TD	INT
+5	S. Bradford	32/45	333	2	2
+5	Rushing	ATT	YDS	TD	LG
+5	D. Murray	20	83	1	24
+5	R. Mathews	8	73	1	33
+5	D. Sproles	5	27	0	14
+5	S. Bradford	1	3	0	3
+5	Receiving	REC	YDS	TD	LG
+5	J. Huff	4	78	1	41T
+5	Z. Ertz	5	60	0	21
+5	B. Celek	3	44	1	23
+5	J. Matthews	5	44	0	18
+5	D. Murray	7	37	0	13
+5	R. Cooper	3	32	0	14
+5	R. Mathews	3	23	0	13
+5	D. Sproles	1	10	0	10
+5	N. Agholor	1	5	0	5
+5	Fumbles	FUM	LOST	REC	YDS
+5	F. Cox	0	0	1	0
+5	J. Hicks	0	0	1	0
+5	B. Maxwell	0	0	1	2
+5	D. Ryans	0	0	0	0
+5	Kicking	FG	LG	XP	PTS
+5	C. Sturgis	4/4	41	3/4	15
+5	Punting	NO	AVG	I20	LG
+5	D. Jones	1	49.0	0	50
+5	Kickoff Returns	NO	AVG	TD	LG
+5	J. Huff	1	40	0	40
+5	Punt Returns	NO	AVG	TD	LG
+5	D. Sproles	0	0	0	0
+5	Defense	T-A	SCK	INT	FF
+5	F. Cox	6-0	3.0	0	2
+5	M. Jenkins	4-2	0.0	0	0
+5	B. Logan	4-1	1.0	0	0
+5	W. Thurmond	4-0	0.0	1	0
+5	E. Biggers	3-0	0.0	0	0
+5	N. Carroll	3-2	0.0	0	0
+5	N. Goode	3-0	0.0	0	0
+5	E. Rowe	3-0	0.0	0	0
+5	B. Allen	2-0	0.0	0	0
+5	C. Barwin	2-0	0.0	0	0
+5	J. Hicks	2-2	0.0	0	0
+5	B. Maxwell	2-0	0.0	0	0
+5	B. Braman	1-0	1.0	0	0
+5	C. Maragos	1-0	0.0	0	0
+5	D. Ryans	1-0	0.0	0	1
+5	T. Hart	0-1	0.0	0	0
+5	M. Smith	0-1	0.0	0	0
+5	C. Thornton	0-1	0.0	0	0
+5	Total First Downs	34			
+5	By Rushing	11			
+5	By Passing	18			
+5	By Penalty				
+5	Third Down Efficiency	4/11 - 36%			
+5	Fourth Down Efficiency	0/2 - 0%			
+5	Total Net Yards	519			
+5	Total Rushing/Passing Plays (includes Sacks)	79			
+5	Average Gain per Offensive Play	6.6			
+5	Net Yards Rushing	186			
+5	Total Rushing Plays	34			
+5	Average Gain per Rushing Play	5.5			
+5	Tackled for a Loss (Number-Yards)	2--7			
+5	Net Yards Passing	333			
+5	Times Sacked (Number-Yards)	0 - 0			
+5	Gross Yards Passing	333			
+5	Pass Comp-Att-Int	32 - 45 - 2			
+5	Average Gain per Passing Play (includes Sacks)	7.4			
+5	Kickoffs (Number-In End Zone-Touchbacks)	9 - 7 - 5			
+5	Punts (Number-Average)	1 - 50.0			
+5	Blocked	0			
+5	Net Punting Average	49.0			
+5	FGs Blocked - PATs Blocked	0 - 0			
+5	Total Return Yardage (excludes Kickoffs)	44			
+5	Punt Returns (Number-Yards)	0 - 0			
+5	Kickoff Returns (Number-Yards)	1 - 40			
+5	Interception Returns (Number-Yards)	1 - 44			
+5	Penalties (Number-Yards)	4 - 35			
+5	Fumbles (Number-Lost)	0 - 0			
+5	Touchdowns	4			
+5	Rushing	2			
+5	Passing	2			
+5	Interceptions	0			
+5	Kickoff Returns	0			
+5	Fumble Returns	0			
+5	Punt Returns	0			
+5	Extra Points (Made-Attempted)	3 - 4			
+5	Kicking (Made-Attempted)	3 - 4			
+5	Two Point Conversions (Made-Attempted)	0 - 0			
+5	Field Goals (Made-Attempted)	4 - 4			
+5	Red Zone Efficiency	3/7 - 42%			
+5	Goal To Go Efficiency	2/4 - 50%			
+5	Safeties	0			
+5	Final Score	39			
+5	Time of Possession	34:02			
+					
+6	Passing	CP/AT	YDS	TD	INT
+6	S. Bradford	24/38	280	1	3
+6	Rushing	ATT	YDS	TD	LG
+6	D. Murray	21	112	1	21
+6	R. Mathews	9	40	0	9
+6	D. Sproles	2	4	0	4
+6	S. Bradford	5	2	0	5
+6	Receiving	REC	YDS	TD	LG
+6	R. Cooper	3	76	1	43
+6	M. Austin	3	60	0	37
+6	J. Matthews	6	59	0	19
+6	Z. Ertz	4	43	0	17
+6	J. Huff	3	19	0	15
+6	D. Murray	3	14	0	7
+6	R. Mathews	1	6	0	6
+6	D. Sproles	1	3	0	3
+6	Fumbles	FUM	LOST	REC	YDS
+6	S. Bradford	2	0	1	-21
+6	J. Matthews	1	1	0	0
+6	F. Cox	0	0	0	0
+6	M. Jenkins	0	0	0	0
+6	L. Johnson	0	0	1	0
+6	D. Ryans	0	0	1	0
+6	Kicking	FG	LG	XP	PTS
+6	C. Sturgis	2/2	39	3/3	9
+6	Punting	NO	AVG	I20	LG
+6	D. Jones	4	49.0	1	57
+6	Kickoff Returns	NO	AVG	TD	LG
+6	R. Cooper	1	12	0	12
+6	J. Huff	1	21	0	21
+6	Punt Returns	NO	AVG	TD	LG
+6	D. Sproles	4	6	0	13
+6	Defense	T-A	SCK	INT	FF
+6	J. Hicks	10-0	0.0	0	0
+6	N. Carroll	5-1	0.0	1	0
+6	B. Maxwell	5-1	0.0	0	0
+6	D. Ryans	5-0	0.0	1	0
+6	F. Cox	4-0	1.0	0	1
+6	B. Graham	4-0	1.0	0	0
+6	M. Jenkins	4-0	0.0	0	1
+6	B. Logan	3-0	0.0	0	0
+6	W. Thurmond	3-0	0.0	0	0
+6	B. Allen	1-0	0.0	0	0
+6	V. Curry	1-0	1.0	0	0
+6	C. Thornton	1-1	0.0	0	0
+6	E. Biggers	0-1	0.0	0	0
+6	N. Goode	0-1	0.0	0	0
+6	T. Hart	0-1	0.0	0	0
+6	Total First Downs	24			
+6	By Rushing	10			
+6	By Passing	11			
+6	By Penalty				
+6	Third Down Efficiency	6/16 - 37%			
+6	Fourth Down Efficiency	0/0 - 0%			
+6	Total Net Yards	428			
+6	Total Rushing/Passing Plays (includes Sacks)	76			
+6	Average Gain per Offensive Play	5.6			
+6	Net Yards Rushing	158			
+6	Total Rushing Plays	37			
+6	Average Gain per Rushing Play	4.3			
+6	Tackled for a Loss (Number-Yards)	1--4			
+6	Net Yards Passing	270			
+6	Times Sacked (Number-Yards)	1 - 10			
+6	Gross Yards Passing	280			
+6	Pass Comp-Att-Int	24 - 38 - 3			
+6	Average Gain per Passing Play (includes Sacks)	6.9			
+6	Kickoffs (Number-In End Zone-Touchbacks)	6 - 4 - 2			
+6	Punts (Number-Average)	4 - 54.3			
+6	Blocked	0			
+6	Net Punting Average	49.0			
+6	FGs Blocked - PATs Blocked	0 - 0			
+6	Total Return Yardage (excludes Kickoffs)	42			
+6	Punt Returns (Number-Yards)	4 - 25			
+6	Kickoff Returns (Number-Yards)	2 - 33			
+6	Interception Returns (Number-Yards)	2 - 17			
+6	Penalties (Number-Yards)	9 - 72			
+6	Fumbles (Number-Lost)	3 - 1			
+6	Touchdowns	3			
+6	Rushing	1			
+6	Passing	1			
+6	Interceptions	1			
+6	Kickoff Returns	0			
+6	Fumble Returns	0			
+6	Punt Returns	0			
+6	Extra Points (Made-Attempted)	3 - 3			
+6	Kicking (Made-Attempted)	3 - 3			
+6	Two Point Conversions (Made-Attempted)	0 - 0			
+6	Field Goals (Made-Attempted)	2 - 2			
+6	Red Zone Efficiency	1/2 - 50%			
+6	Goal To Go Efficiency	0/1 - 0%			
+6	Safeties	0			
+6	Final Score	27			
+6	Time of Possession	30:24			
+					
+7	Passing	CP/AT	YDS	TD	INT
+7	S. Bradford	26/46	205	0	1
+7	Rushing	ATT	YDS	TD	LG
+7	R. Mathews	6	97	1	63T
+7	D. Murray	18	65	0	11
+7	D. Sproles	3	9	0	6
+7	S. Bradford	3	6	0	2
+7	Receiving	REC	YDS	TD	LG
+7	Z. Ertz	5	63	0	24
+7	M. Austin	4	52	0	22
+7	D. Sproles	5	31	0	9
+7	R. Mathews	3	24	0	20
+7	J. Matthews	3	14	0	7
+7	B. Celek	2	11	0	6
+7	J. Huff	2	5	0	6
+7	D. Murray	2	5	0	3
+7	Fumbles	FUM	LOST	REC	YDS
+7	S. Bradford	1	0	0	0
+7	J. Kelce	0	0	1	0
+7	Kicking	FG	LG	XP	PTS
+7	C. Sturgis	3/4	52	1/1	10
+7	Punting	NO	AVG	I20	LG
+7	D. Jones	5	45.6	3	54
+7	Kickoff Returns	NO	AVG	TD	LG
+7	Punt Returns	NO	AVG	TD	LG
+7	D. Sproles	1	2	0	2
+7	Defense	T-A	SCK	INT	FF
+7	N. Carroll	6-3	0.0	1	0
+7	J. Hicks	6-0	0.0	0	0
+7	B. Maxwell	4-1	0.0	1	0
+7	M. Kendricks	3-5	1.0	0	0
+7	F. Cox	2-0	0.0	0	0
+7	B. Graham	2-3	0.0	0	0
+7	W. Thurmond	2-2	0.0	0	0
+7	M. Jenkins	1-1	0.0	1	0
+7	C. Thornton	1-6	0.0	0	0
+7	C. Barwin	0-1	0.0	0	0
+7	T. Hart	0-6	0.0	0	0
+7	B. Logan	0-3	0.0	0	0
+7	C. Maragos	0-1	0.0	0	0
+7	Total First Downs	20			
+7	By Rushing	6			
+7	By Passing	12			
+7	By Penalty				
+7	Third Down Efficiency	7/18 - 38%			
+7	Fourth Down Efficiency	1/2 - 50%			
+7	Total Net Yards	349			
+7	Total Rushing/Passing Plays (includes Sacks)	81			
+7	Average Gain per Offensive Play	4.3			
+7	Net Yards Rushing	177			
+7	Total Rushing Plays	30			
+7	Average Gain per Rushing Play	5.9			
+7	Tackled for a Loss (Number-Yards)	1--1			
+7	Net Yards Passing	172			
+7	Times Sacked (Number-Yards)	5 - 33			
+7	Gross Yards Passing	205			
+7	Pass Comp-Att-Int	26 - 46 - 1			
+7	Average Gain per Passing Play (includes Sacks)	3.4			
+7	Kickoffs (Number-In End Zone-Touchbacks)	5 - 3 - 2			
+7	Punts (Number-Average)	5 - 46.6			
+7	Blocked	0			
+7	Net Punting Average	45.6			
+7	FGs Blocked - PATs Blocked	0 - 0			
+7	Total Return Yardage (excludes Kickoffs)	25			
+7	Punt Returns (Number-Yards)	1 - 2			
+7	Kickoff Returns (Number-Yards)	0 - 0			
+7	Interception Returns (Number-Yards)	3 - 23			
+7	Penalties (Number-Yards)	7 - 46			
+7	Fumbles (Number-Lost)	1 - 0			
+7	Touchdowns	1			
+7	Rushing	1			
+7	Passing	0			
+7	Interceptions	0			
+7	Kickoff Returns	0			
+7	Fumble Returns	0			
+7	Punt Returns	0			
+7	Extra Points (Made-Attempted)	1 - 1			
+7	Kicking (Made-Attempted)	1 - 1			
+7	Two Point Conversions (Made-Attempted)	0 - 0			
+7	Field Goals (Made-Attempted)	3 - 4			
+7	Red Zone Efficiency	0/2 - 0%			
+7	Goal To Go Efficiency	0/1 - 0%			
+7	Safeties	0			
+7	Final Score	16			
+7	Time of Possession	31:06			
+					
+	week 8 bye				
+					
+9	Passing	CP/AT	YDS	TD	INT
+9	S. Bradford	25/36	295	1	0
+9	Rushing	ATT	YDS	TD	LG
+9	D. Murray	18	83	1	20
+9	R. Mathews	11	67	1	21
+9	D. Sproles	5	23	0	8
+9	S. Bradford	1	-1	0	-1
+9	Receiving	REC	YDS	TD	LG
+9	J. Matthews	9	133	1	41T
+9	D. Murray	6	78	0	44
+9	Z. Ertz	5	44	0	27
+9	M. Austin	1	27	0	27
+9	J. Huff	2	10	0	5
+9	D. Sproles	2	3	0	7
+9	Fumbles	FUM	LOST	REC	YDS
+9	B. Graham	0	0	0	0
+9	Kicking	FG	LG	XP	PTS
+9	C. Sturgis	2/2	53	3/3	9
+9	Punting	NO	AVG	I20	LG
+9	D. Jones	5	47.2	4	59
+9	Kickoff Returns	NO	AVG	TD	LG
+9	Punt Returns	NO	AVG	TD	LG
+9	D. Sproles	0	0	0	0
+9	Defense	T-A	SCK	INT	FF
+9	M. Jenkins	8-1	0.0	0	0
+9	B. Graham	7-0	2.0	0	2
+9	N. Carroll	6-2	0.0	0	0
+9	J. Hicks	5-1	0.0	1	0
+9	M. Kendricks	5-0	1.0	0	0
+9	C. Barwin	4-0	1.0	0	0
+9	B. Allen	3-0	0.0	0	0
+9	C. Maragos	3-1	0.0	0	0
+9	B. Maxwell	3-1	0.0	0	0
+9	C. Thornton	3-0	0.0	0	0
+9	B. Logan	2-1	0.0	0	0
+9	W. Thurmond	2-0	0.0	0	0
+9	K. Alonso	1-0	0.0	0	0
+9	F. Cox	1-1	0.0	0	0
+9	Total First Downs	25			
+9	By Rushing	13			
+9	By Passing	9			
+9	By Penalty				
+9	Third Down Efficiency	3/13 - 23%			
+9	Fourth Down Efficiency	2/2 - 100%			
+9	Total Net Yards	459			
+9	Total Rushing/Passing Plays (includes Sacks)	72			
+9	Average Gain per Offensive Play	6.4			
+9	Net Yards Rushing	172			
+9	Total Rushing Plays	35			
+9	Average Gain per Rushing Play	4.9			
+9	Tackled for a Loss (Number-Yards)	3--9			
+9	Net Yards Passing	287			
+9	Times Sacked (Number-Yards)	1 - 8			
+9	Gross Yards Passing	295			
+9	Pass Comp-Att-Int	25 - 36 - 0			
+9	Average Gain per Passing Play (includes Sacks)	7.8			
+9	Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 5			
+9	Punts (Number-Average)	5 - 48.2			
+9	Blocked	0			
+9	Net Punting Average	47.2			
+9	FGs Blocked - PATs Blocked	0 - 0			
+9	Total Return Yardage (excludes Kickoffs)	67			
+9	Punt Returns (Number-Yards)	0 - 0			
+9	Kickoff Returns (Number-Yards)	0 - 0			
+9	Interception Returns (Number-Yards)	1 - 67			
+9	Penalties (Number-Yards)	10 - 70			
+9	Fumbles (Number-Lost)	0 - 0			
+9	Touchdowns	4			
+9	Rushing	2			
+9	Passing	1			
+9	Interceptions	1			
+9	Kickoff Returns	0			
+9	Fumble Returns	0			
+9	Punt Returns	0			
+9	Extra Points (Made-Attempted)	3 - 3			
+9	Kicking (Made-Attempted)	3 - 3			
+9	Two Point Conversions (Made-Attempted)	0 - 0			
+9	Field Goals (Made-Attempted)	2 - 2			
+9	Red Zone Efficiency	2/3 - 66%			
+9	Goal To Go Efficiency	2/2 - 100%			
+9	Safeties	0			
+9	Final Score	33			
+9	Time of Possession	25:42			
+					
+10	Passing	CP/AT	YDS	TD	INT
+10	S. Bradford	19/25	236	1	0
+10	M. Sanchez	14/23	156	0	1
+10	Rushing	ATT	YDS	TD	LG
+10	D. Murray	22	61	0	13
+10	R. Mathews	7	18	1	12
+10	M. Sanchez	2	4	0	4
+10	S. Bradford	1	0	0	0
+10	D. Sproles	3	0	0	2
+10	Receiving	REC	YDS	TD	LG
+10	B. Celek	4	134	0	60
+10	Z. Ertz	7	68	0	27
+10	D. Murray	6	58	0	20
+10	D. Sproles	5	34	0	10
+10	N. Agholor	3	32	0	21
+10	J. Huff	3	23	1	16
+10	R. Mathews	2	22	0	17
+10	J. Matthews	3	21	0	9
+10	Fumbles	FUM	LOST	REC	YDS
+10	S. Bradford	2	0	1	0
+10	J. Kelce	1	0	0	-20
+10	D. Kelly	0	0	2	0
+10	W. Thurmond	0	0	0	0
+10	Kicking	FG	LG	XP	PTS
+10	C. Sturgis	1/2	37	2/2	5
+10	Punting	NO	AVG	I20	LG
+10	D. Jones	6	32.1	3	52
+10	Kickoff Returns	NO	AVG	TD	LG
+10	J. Huff	1	31	0	31
+10	D. Sproles	1	20	0	20
+10	Punt Returns	NO	AVG	TD	LG
+10	D. Sproles	7	8	0	16
+10	Defense	T-A	SCK	INT	FF
+10	M. Jenkins	8-2	0.0	0	0
+10	M. Kendricks	6-0	1.0	0	0
+10	W. Thurmond	5-1	1.0	0	1
+10	B. Logan	4-0	0.0	0	0
+10	K. Alonso	3-1	0.0	0	0
+10	B. Maxwell	3-0	0.0	0	0
+10	C. Barwin	2-3	0.5	0	0
+10	F. Cox	2-3	0.5	0	0
+10	E. Biggers	1-0	0.0	0	0
+10	N. Carroll	1-1	0.0	0	0
+10	V. Curry	1-1	0.5	0	0
+10	B. Graham	1-1	0.5	0	0
+10	T. Hart	1-0	0.0	0	0
+10	D. Ryans	0-3	0.0	0	0
+10	Total First Downs	29			
+10	By Rushing	10			
+10	By Passing	15			
+10	By Penalty				
+10	Third Down Efficiency	7/18 - 38%			
+10	Fourth Down Efficiency	1/2 - 50%			
+10	Total Net Yards	436			
+10	Total Rushing/Passing Plays (includes Sacks)	87			
+10	Average Gain per Offensive Play	5.0			
+10	Net Yards Rushing	83			
+10	Total Rushing Plays	35			
+10	Average Gain per Rushing Play	2.4			
+10	Tackled for a Loss (Number-Yards)	5--14			
+10	Net Yards Passing	353			
+10	Times Sacked (Number-Yards)	4 - 39			
+10	Gross Yards Passing	392			
+10	Pass Comp-Att-Int	33 - 48 - 1			
+10	Average Gain per Passing Play (includes Sacks)	6.8			
+10	Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 2			
+10	Punts (Number-Average)	7 - 36.3			
+10	Blocked	1			
+10	Net Punting Average	28.1			
+10	FGs Blocked - PATs Blocked	0 - 0			
+10	Total Return Yardage (excludes Kickoffs)	57			
+10	Punt Returns (Number-Yards)	7 - 57			
+10	Kickoff Returns (Number-Yards)	2 - 51			
+10	Interception Returns (Number-Yards)	0 - 0			
+10	Penalties (Number-Yards)	7 - 54			
+10	Fumbles (Number-Lost)	3 - 0			
+10	Touchdowns	2			
+10	Rushing	1			
+10	Passing	1			
+10	Interceptions	0			
+10	Kickoff Returns	0			
+10	Fumble Returns	0			
+10	Punt Returns	0			
+10	Extra Points (Made-Attempted)	2 - 2			
+10	Kicking (Made-Attempted)	2 - 2			
+10	Two Point Conversions (Made-Attempted)	0 - 0			
+10	Field Goals (Made-Attempted)	1 - 2			
+10	Red Zone Efficiency	2/5 - 40%			
+10	Goal To Go Efficiency	2/3 - 66%			
+10	Safeties	1			
+10	Final Score	19			
+10	Time of Possession	31:07			
+					
+11	Passing	CP/AT	YDS	TD	INT
+11	M. Sanchez	26/41	261	2	3
+11	Rushing	ATT	YDS	TD	LG
+11	D. Murray	13	64	0	16
+11	K. Barner	7	37	0	8
+11	D. Sproles	6	21	0	7
+11	M. Sanchez	2	14	0	11
+11	Receiving	REC	YDS	TD	LG
+11	B. Celek	7	79	0	18
+11	R. Cooper	2	42	0	24
+11	J. Huff	1	39	1	39T
+11	D. Sproles	3	38	1	35T
+11	D. Murray	4	27	0	11
+11	J. Matthews	4	13	0	5
+11	Z. Ertz	2	12	0	7
+11	N. Agholor	3	11	0	7
+11	Fumbles	FUM	LOST	REC	YDS
+11	D. Murray	1	1	0	0
+11	B. Celek	0	0	1	0
+11	Z. Ertz	0	0	0	0
+11	M. Kendricks	0	0	0	0
+11	W. Thurmond	0	0	0	0
+11	Kicking	FG	LG	XP	PTS
+11	C. Sturgis	1/1	43	2/2	5
+11	Punting	NO	AVG	I20	LG
+11	D. Jones	6	40.0	2	51
+11	Kickoff Returns	NO	AVG	TD	LG
+11	J. Huff	4	24	0	39
+11	R. Cooper	1	16	0	16
+11	Punt Returns	NO	AVG	TD	LG
+11	D. Sproles	2	3	0	7
+11	Defense	T-A	SCK	INT	FF
+11	C. Barwin	6-0	0.0	0	0
+11	B. Logan	5-0	0.0	0	0
+11	C. Thornton	5-0	0.0	0	0
+11	W. Thurmond	5-0	1.0	0	1
+11	E. Biggers	4-0	0.0	0	0
+11	N. Carroll	4-1	0.0	0	0
+11	F. Cox	4-3	0.0	0	0
+11	M. Jenkins	4-1	0.0	0	0
+11	M. Kendricks	4-1	0.0	0	1
+11	B. Maxwell	3-1	0.0	0	0
+11	B. Graham	2-0	0.0	0	0
+11	T. Hart	2-1	0.0	0	0
+11	D. Ryans	2-0	0.0	0	0
+11	K. Alonso	1-0	0.0	0	0
+11	Total First Downs	21			
+11	By Rushing	8			
+11	By Passing	12			
+11	By Penalty				
+11	Third Down Efficiency	7/15 - 46%			
+11	Fourth Down Efficiency	0/0 - 0%			
+11	Total Net Yards	383			
+11	Total Rushing/Passing Plays (includes Sacks)	72			
+11	Average Gain per Offensive Play	5.3			
+11	Net Yards Rushing	136			
+11	Total Rushing Plays	28			
+11	Average Gain per Rushing Play	4.9			
+11	Tackled for a Loss (Number-Yards)	0-0			
+11	Net Yards Passing	247			
+11	Times Sacked (Number-Yards)	3 - 14			
+11	Gross Yards Passing	261			
+11	Pass Comp-Att-Int	26 - 41 - 3			
+11	Average Gain per Passing Play (includes Sacks)	5.6			
+11	Kickoffs (Number-In End Zone-Touchbacks)	4 - 3 - 2			
+11	Punts (Number-Average)	6 - 46.5			
+11	Blocked	0			
+11	Net Punting Average	40.0			
+11	FGs Blocked - PATs Blocked	0 - 0			
+11	Total Return Yardage (excludes Kickoffs)	6			
+11	Punt Returns (Number-Yards)	2 - 6			
+11	Kickoff Returns (Number-Yards)	5 - 112			
+11	Interception Returns (Number-Yards)	0 - 0			
+11	Penalties (Number-Yards)	5 - 25			
+11	Fumbles (Number-Lost)	1 - 1			
+11	Touchdowns	2			
+11	Rushing	0			
+11	Passing	2			
+11	Interceptions	0			
+11	Kickoff Returns	0			
+11	Fumble Returns	0			
+11	Punt Returns	0			
+11	Extra Points (Made-Attempted)	2 - 2			
+11	Kicking (Made-Attempted)	2 - 2			
+11	Two Point Conversions (Made-Attempted)	0 - 0			
+11	Field Goals (Made-Attempted)	1 - 1			
+11	Red Zone Efficiency	0/0 - 0%			
+11	Goal To Go Efficiency	0/0 - 0%			
+11	Safeties	0			
+11	Final Score	17			
+11	Time of Possession	24:06			
+					
+12	Passing	CP/AT	YDS	TD	INT
+12	M. Sanchez	19/27	199	2	0
+12	Rushing	ATT	YDS	TD	LG
+12	K. Barner	7	30	0	16
+12	D. Murray	14	30	0	19
+12	M. Sanchez	2	4	0	5
+12	D. Sproles	2	4	0	5
+12	Receiving	REC	YDS	TD	LG
+12	J. Matthews	3	60	1	24T
+12	T. Burton	2	49	0	43
+12	D. Sproles	4	21	0	16
+12	R. Cooper	2	16	0	8
+12	N. Agholor	2	15	0	12
+12	M. Austin	1	12	0	12
+12	J. Huff	1	11	0	11
+12	B. Celek	2	10	1	8
+12	S. Ajirotutu	1	4	0	4
+12	K. Barner	1	1	0	1
+12	Fumbles	FUM	LOST	REC	YDS
+12	M. Sanchez	1	1	0	0
+12	Kicking	FG	LG	XP	PTS
+12	C. Sturgis	0/1	0	2/2	2
+12	Punting	NO	AVG	I20	LG
+12	D. Jones	6	46.3	2	60
+12	Kickoff Returns	NO	AVG	TD	LG
+12	Punt Returns	NO	AVG	TD	LG
+12	D. Sproles	2	1	0	5
+12	Defense	T-A	SCK	INT	FF
+12	B. Maxwell	6-0	0.0	0	0
+12	W. Thurmond	6-3	0.0	0	0
+12	M. Kendricks	5-2	0.0	0	0
+12	B. Logan	5-0	0.0	0	0
+12	C. Barwin	4-1	0.0	0	0
+12	M. Jenkins	4-1	0.0	0	0
+12	B. Graham	3-0	0.0	0	0
+12	K. Alonso	2-2	0.0	0	0
+12	V. Curry	2-0	2.0	0	0
+12	D. Ryans	2-2	0.0	0	0
+12	B. Allen	1-0	0.0	0	0
+12	F. Cox	1-0	0.0	0	0
+12	T. Hart	1-0	0.0	0	0
+12	E. Reynolds	1-0	0.0	0	0
+12	E. Rowe	1-1	0.0	0	0
+12	C. Thornton	1-1	0.0	0	0
+12	E. Biggers	0-1	0.0	0	0
+12	N. Carroll	0-1	0.0	0	0
+12	Total First Downs	14			
+12	By Rushing	4			
+12	By Passing	9			
+12	By Penalty				
+12	Third Down Efficiency	6/14 - 42%			
+12	Fourth Down Efficiency	0/0 - 0%			
+12	Total Net Yards	227			
+12	Total Rushing/Passing Plays (includes Sacks)	58			
+12	Average Gain per Offensive Play	3.9			
+12	Net Yards Rushing	68			
+12	Total Rushing Plays	25			
+12	Average Gain per Rushing Play	2.7			
+12	Tackled for a Loss (Number-Yards)	5--9			
+12	Net Yards Passing	159			
+12	Times Sacked (Number-Yards)	6 - 40			
+12	Gross Yards Passing	199			
+12	Pass Comp-Att-Int	19 - 27 - 0			
+12	Average Gain per Passing Play (includes Sacks)	4.8			
+12	Kickoffs (Number-In End Zone-Touchbacks)	3 - 3 - 2			
+12	Punts (Number-Average)	6 - 48.0			
+12	Blocked	0			
+12	Net Punting Average	46.3			
+12	FGs Blocked - PATs Blocked	0 - 0			
+12	Total Return Yardage (excludes Kickoffs)	3			
+12	Punt Returns (Number-Yards)	2 - 3			
+12	Kickoff Returns (Number-Yards)	0 - 0			
+12	Interception Returns (Number-Yards)	0 - 0			
+12	Penalties (Number-Yards)	2 - 30			
+12	Fumbles (Number-Lost)	1 - 1			
+12	Touchdowns	2			
+12	Rushing	0			
+12	Passing	2			
+12	Interceptions	0			
+12	Kickoff Returns	0			
+12	Fumble Returns	0			
+12	Punt Returns	0			
+12	Extra Points (Made-Attempted)	2 - 2			
+12	Kicking (Made-Attempted)	2 - 2			
+12	Two Point Conversions (Made-Attempted)	0 - 0			
+12	Field Goals (Made-Attempted)	0 - 1			
+12	Red Zone Efficiency	1/1 - 100%			
+12	Goal To Go Efficiency	1/1 - 100%			
+12	Safeties	0			
+12	Final Score	14			
+12	Time of Possession	22:49			
+					
+13	Passing	CP/AT	YDS	TD	INT
+13	S. Bradford	14/24	120	2	0
+13	Rushing	ATT	YDS	TD	LG
+13	D. Sproles	15	66	0	13
+13	K. Barner	9	39	0	19
+13	D. Murray	8	24	0	19
+13	S. Bradford	1	-1	0	-1
+13	Receiving	REC	YDS	TD	LG
+13	J. Matthews	3	36	1	20
+13	D. Sproles	4	34	0	16
+13	B. Celek	1	16	0	16
+13	R. Cooper	1	14	0	14
+13	Z. Ertz	2	9	1	5T
+13	K. Barner	2	7	0	5
+13	J. Krause	1	4	0	4
+13	Fumbles	FUM	LOST	REC	YDS
+13	K. Barner	1	1	0	0
+13	J. Matthews	1	0	0	0
+13	Kicking	FG	LG	XP	PTS
+13	C. Sturgis	0/0	0	5/5	5
+13	Punting	NO	AVG	I20	LG
+13	D. Jones	7	40.6	2	64
+13	Kickoff Returns	NO	AVG	TD	LG
+13	J. Huff	2	17	0	19
+13	S. Ajirotutu	1	0	0	0
+13	Punt Returns	NO	AVG	TD	LG
+13	D. Sproles	5	23	1	83T
+13	Defense	T-A	SCK	INT	FF
+13	M. Jenkins	6-1	0.0	1	0
+13	W. Thurmond	6-4	0.0	0	0
+13	B. Graham	4-0	2.0	0	0
+13	E. Reynolds	4-1	0.0	0	0
+13	C. Barwin	3-3	2.0	0	0
+13	E. Biggers	3-0	0.0	0	0
+13	M. Kendricks	3-1	0.0	0	0
+13	E. Rowe	3-0	0.0	0	0
+13	K. Alonso	2-1	0.0	0	0
+13	B. Bair	1-2	0.0	0	0
+13	F. Cox	1-2	0.0	0	0
+13	V. Curry	1-0	0.0	0	0
+13	B. Maxwell	1-2	0.0	1	0
+13	B. Allen	0-1	0.0	0	0
+13	T. Hart	0-4	0.0	0	0
+13	B. Logan	0-1	0.0	0	0
+13	D. Ryans	0-1	0.0	0	0
+13	Total First Downs	15			
+13	By Rushing	6			
+13	By Passing	8			
+13	By Penalty				
+13	Third Down Efficiency	6/14 - 42%			
+13	Fourth Down Efficiency	0/0 - 0%			
+13	Total Net Yards	248			
+13	Total Rushing/Passing Plays (includes Sacks)	58			
+13	Average Gain per Offensive Play	4.3			
+13	Net Yards Rushing	128			
+13	Total Rushing Plays	33			
+13	Average Gain per Rushing Play	3.9			
+13	Tackled for a Loss (Number-Yards)	6--20			
+13	Net Yards Passing	120			
+13	Times Sacked (Number-Yards)	1 - 0			
+13	Gross Yards Passing	120			
+13	Pass Comp-Att-Int	14 - 24 - 0			
+13	Average Gain per Passing Play (includes Sacks)	4.8			
+13	Kickoffs (Number-In End Zone-Touchbacks)	6 - 3 - 1			
+13	Punts (Number-Average)	7 - 46.9			
+13	Blocked	0			
+13	Net Punting Average	40.6			
+13	FGs Blocked - PATs Blocked	0 - 0			
+13	Total Return Yardage (excludes Kickoffs)	214			
+13	Punt Returns (Number-Yards)	5 - 115			
+13	Kickoff Returns (Number-Yards)	3 - 35			
+13	Interception Returns (Number-Yards)	2 - 99			
+13	Penalties (Number-Yards)	8 - 97			
+13	Fumbles (Number-Lost)	2 - 1			
+13	Touchdowns	5			
+13	Rushing	0			
+13	Passing	2			
+13	Interceptions	1			
+13	Kickoff Returns	0			
+13	Fumble Returns	0			
+13	Punt Returns	1			
+13	Extra Points (Made-Attempted)	5 - 5			
+13	Kicking (Made-Attempted)	5 - 5			
+13	Two Point Conversions (Made-Attempted)	0 - 0			
+13	Field Goals (Made-Attempted)	0 - 0			
+13	Red Zone Efficiency	2/2 - 100%			
+13	Goal To Go Efficiency	0/0 - 0%			
+13	Safeties	0			
+13	Final Score	35			
+13	Time of Possession	25:44			
+					
+14	Passing	CP/AT	YDS	TD	INT
+14	S. Bradford	23/38	247	1	1
+14	Rushing	ATT	YDS	TD	LG
+14	D. Sproles	7	41	1	15
+14	R. Mathews	13	38	0	9
+14	D. Murray	11	34	0	7
+14	S. Bradford	3	3	0	5
+14	Receiving	REC	YDS	TD	LG
+14	Z. Ertz	5	98	0	41
+14	N. Agholor	3	62	1	53T
+14	R. Cooper	3	28	0	11
+14	J. Huff	2	28	0	18
+14	J. Matthews	3	19	0	8
+14	R. Mathews	2	4	0	3
+14	D. Sproles	2	4	0	3
+14	D. Murray	2	3	0	4
+14	B. Celek	1	1	0	1
+14	Fumbles	FUM	LOST	REC	YDS
+14	B. Braman	0	0	1	0
+14	B. Maxwell	0	0	0	0
+14	Kicking	FG	LG	XP	PTS
+14	C. Sturgis	3/3	45	2/2	11
+14	Punting	NO	AVG	I20	LG
+14	D. Jones	7	43.3	1	63
+14	Kickoff Returns	NO	AVG	TD	LG
+14	J. Huff	3	18	0	22
+14	Punt Returns	NO	AVG	TD	LG
+14	D. Sproles	4	11	0	28
+14	Defense	T-A	SCK	INT	FF
+14	F. Cox	7-1	1.0	0	0
+14	M. Kendricks	7-1	0.0	0	0
+14	M. Jenkins	6-2	0.0	0	0
+14	C. Barwin	4-0	0.0	0	0
+14	E. Rowe	4-0	0.0	0	0
+14	D. Ryans	3-1	0.0	0	0
+14	W. Thurmond	3-0	0.0	0	0
+14	K. Alonso	2-3	0.0	0	0
+14	B. Logan	2-0	0.0	0	0
+14	B. Maxwell	2-0	0.0	0	1
+14	B. Allen	1-0	0.0	0	0
+14	E. Biggers	1-0	0.0	0	0
+14	B. Graham	1-2	0.0	0	0
+14	E. Reynolds	1-0	0.0	1	0
+14	Total First Downs	20			
+14	By Rushing	8			
+14	By Passing	11			
+14	By Penalty				
+14	Third Down Efficiency	9/18 - 50%			
+14	Fourth Down Efficiency	0/0 - 0%			
+14	Total Net Yards	348			
+14	Total Rushing/Passing Plays (includes Sacks)	73			
+14	Average Gain per Offensive Play	4.8			
+14	Net Yards Rushing	116			
+14	Total Rushing Plays	34			
+14	Average Gain per Rushing Play	3.4			
+14	Tackled for a Loss (Number-Yards)	3--5			
+14	Net Yards Passing	232			
+14	Times Sacked (Number-Yards)	1 - 15			
+14	Gross Yards Passing	247			
+14	Pass Comp-Att-Int	23 - 38 - 1			
+14	Average Gain per Passing Play (includes Sacks)	5.9			
+14	Kickoffs (Number-In End Zone-Touchbacks)	6 - 5 - 5			
+14	Punts (Number-Average)	7 - 50.4			
+14	Blocked	0			
+14	Net Punting Average	43.3			
+14	FGs Blocked - PATs Blocked	0 - 0			
+14	Total Return Yardage (excludes Kickoffs)	54			
+14	Punt Returns (Number-Yards)	4 - 47			
+14	Kickoff Returns (Number-Yards)	3 - 56			
+14	Interception Returns (Number-Yards)	1 - 7			
+14	Penalties (Number-Yards)	5 - 55			
+14	Fumbles (Number-Lost)	0 - 0			
+14	Touchdowns	2			
+14	Rushing	1			
+14	Passing	1			
+14	Interceptions	0			
+14	Kickoff Returns	0			
+14	Fumble Returns	0			
+14	Punt Returns	0			
+14	Extra Points (Made-Attempted)	2 - 2			
+14	Kicking (Made-Attempted)	2 - 2			
+14	Two Point Conversions (Made-Attempted)	0 - 0			
+14	Field Goals (Made-Attempted)	3 - 3			
+14	Red Zone Efficiency	1/2 - 50%			
+14	Goal To Go Efficiency	1/1 - 100%			
+14	Safeties	0			
+14	Final Score	23			
+14	Time of Possession	24:58			
+					
+15	Passing	CP/AT	YDS	TD	INT
+15	S. Bradford	28/41	361	2	2
+15	Rushing	ATT	YDS	TD	LG
+15	R. Mathews	11	58	0	20
+15	D. Sproles	6	9	0	3
+15	S. Bradford	1	4	0	4
+15	D. Murray	2	3	0	2
+15	Receiving	REC	YDS	TD	LG
+15	J. Matthews	8	159	1	78T
+15	Z. Ertz	8	78	1	22T
+15	J. Huff	4	52	0	22
+15	B. Celek	2	31	0	21
+15	R. Cooper	2	22	0	15
+15	D. Sproles	3	16	0	6
+15	R. Mathews	1	3	0	3
+15	Fumbles	FUM	LOST	REC	YDS
+15	S. Bradford	1	1	0	0
+15	R. Mathews	1	1	0	0
+15	Kicking	FG	LG	XP	PTS
+15	C. Sturgis	1/1	36	2/2	5
+15	Punting	NO	AVG	I20	LG
+15	D. Jones	3	47.0	2	53
+15	Kickoff Returns	NO	AVG	TD	LG
+15	J. Huff	5	23	0	39
+15	Punt Returns	NO	AVG	TD	LG
+15	D. Sproles	2	6	0	6
+15	Defense	T-A	SCK	INT	FF
+15	M. Kendricks	8-2	0.0	0	0
+15	B. Maxwell	6-0	0.0	0	0
+15	E. Biggers	5-0	0.0	0	0
+15	F. Cox	5-1	1.0	0	0
+15	M. Jenkins	5-2	0.0	0	0
+15	T. Hart	4-0	0.0	0	0
+15	B. Logan	3-0	0.0	0	0
+15	M. Smith	2-1	0.5	0	0
+15	K. Alonso	1-0	0.0	0	0
+15	C. Barwin	1-1	0.5	0	0
+15	V. Curry	1-0	0.0	0	0
+15	B. Graham	1-0	0.0	0	0
+15	E. Rowe	1-2	0.0	0	0
+15	D. Ryans	1-2	0.0	0	0
+15	W. Thurmond	1-0	0.0	0	0
+15	J. Watkins	1-0	0.0	0	0
+15	E. Reynolds	0-1	0.0	0	0
+15	C. Thornton	0-2	0.0	0	0
+15	Total First Downs	19			
+15	By Rushing	4			
+15	By Passing	15			
+15	By Penalty				
+15	Third Down Efficiency	6/12 - 50%			
+15	Fourth Down Efficiency	0/2 - 0%			
+15	Total Net Yards	424			
+15	Total Rushing/Passing Plays (includes Sacks)	63			
+15	Average Gain per Offensive Play	6.7			
+15	Net Yards Rushing	74			
+15	Total Rushing Plays	20			
+15	Average Gain per Rushing Play	3.7			
+15	Tackled for a Loss (Number-Yards)	1--3			
+15	Net Yards Passing	350			
+15	Times Sacked (Number-Yards)	2 - 11			
+15	Gross Yards Passing	361			
+15	Pass Comp-Att-Int	28 - 41 - 2			
+15	Average Gain per Passing Play (includes Sacks)	8.1			
+15	Kickoffs (Number-In End Zone-Touchbacks)	4 - 3 - 1			
+15	Punts (Number-Average)	3 - 49.0			
+15	Blocked	0			
+15	Net Punting Average	47.0			
+15	FGs Blocked - PATs Blocked	0 - 0			
+15	Total Return Yardage (excludes Kickoffs)	12			
+15	Punt Returns (Number-Yards)	2 - 12			
+15	Kickoff Returns (Number-Yards)	5 - 118			
+15	Interception Returns (Number-Yards)	0 - 0			
+15	Penalties (Number-Yards)	5 - 38			
+15	Fumbles (Number-Lost)	2 - 2			
+15	Touchdowns	2			
+15	Rushing	0			
+15	Passing	2			
+15	Interceptions	0			
+15	Kickoff Returns	0			
+15	Fumble Returns	0			
+15	Punt Returns	0			
+15	Extra Points (Made-Attempted)	2 - 2			
+15	Kicking (Made-Attempted)	2 - 2			
+15	Two Point Conversions (Made-Attempted)	0 - 0			
+15	Field Goals (Made-Attempted)	1 - 1			
+15	Red Zone Efficiency	0/2 - 0%			
+15	Goal To Go Efficiency	0/0 - 0%			
+15	Safeties	0			
+15	Final Score	17			
+15	Time of Possession	22:32			
+					
+16	Passing	CP/AT	YDS	TD	INT
+16	S. Bradford	37/56	380	1	0
+16	Rushing	ATT	YDS	TD	LG
+16	D. Murray	5	27	1	12
+16	D. Sproles	5	9	0	8
+16	R. Mathews	4	5	1	2
+16	S. Bradford	2	4	0	4
+16	Receiving	REC	YDS	TD	LG
+16	Z. Ertz	13	122	0	17
+16	J. Matthews	6	104	1	43
+16	D. Sproles	7	56	0	14
+16	N. Agholor	2	35	0	18
+16	D. Murray	3	24	0	13
+16	B. Celek	1	18	0	18
+16	R. Mathews	2	13	0	11
+16	J. Huff	1	8	0	8
+16	J. Krause	1	7	0	7
+16	K. Barner	1	-7	0	-7
+16	Fumbles	FUM	LOST	REC	YDS
+16	S. Bradford	3	1	2	-12
+16	B. Celek	1	0	1	0
+16	Z. Ertz	1	1	0	0
+16	J. Kelce	1	0	1	3
+16	D. Sproles	1	0	1	0
+16	Kicking	FG	LG	XP	PTS
+16	C. Sturgis	1/1	34	3/3	6
+16	Punting	NO	AVG	I20	LG
+16	D. Jones	7	42.1	3	56
+16	Kickoff Returns	NO	AVG	TD	LG
+16	J. Huff	2	32	0	49
+16	Punt Returns	NO	AVG	TD	LG
+16	D. Sproles	2	0	0	0
+16	K. Barner	1	-3	0	-3
+16	Defense	T-A	SCK	INT	FF
+16	M. Jenkins	6-0	0.0	0	0
+16	K. Alonso	5-3	0.0	0	0
+16	F. Cox	5-2	2.0	0	0
+16	E. Reynolds	5-1	0.0	0	0
+16	B. Allen	4-1	0.0	0	0
+16	C. Barwin	3-0	0.0	0	0
+16	E. Biggers	3-1	0.0	0	0
+16	M. Kendricks	3-1	0.0	0	0
+16	E. Rowe	3-0	0.0	0	0
+16	D. Ryans	3-2	0.0	0	0
+16	B. Bair	1-1	0.0	0	0
+16	C. Thornton	1-0	0.0	0	0
+16	W. Thurmond	1-0	0.0	0	0
+16	J. Watkins	1-0	0.0	0	0
+16	B. Graham	0-1	0.0	0	0
+16	T. Hart	0-1	0.0	0	0
+16	Total First Downs	23			
+16	By Rushing	4			
+16	By Passing	17			
+16	By Penalty				
+16	Third Down Efficiency	7/19 - 36%			
+16	Fourth Down Efficiency	2/3 - 66%			
+16	Total Net Yards	398			
+16	Total Rushing/Passing Plays (includes Sacks)	77			
+16	Average Gain per Offensive Play	5.2			
+16	Net Yards Rushing	45			
+16	Total Rushing Plays	16			
+16	Average Gain per Rushing Play	2.8			
+16	Tackled for a Loss (Number-Yards)	1--6			
+16	Net Yards Passing	353			
+16	Times Sacked (Number-Yards)	5 - 27			
+16	Gross Yards Passing	380			
+16	Pass Comp-Att-Int	37 - 56 - 0			
+16	Average Gain per Passing Play (includes Sacks)	5.8			
+16	Kickoffs (Number-In End Zone-Touchbacks)	5 - 4 - 3			
+16	Punts (Number-Average)	7 - 43.6			
+16	Blocked	0			
+16	Net Punting Average	42.1			
+16	FGs Blocked - PATs Blocked	0 - 0			
+16	Total Return Yardage (excludes Kickoffs)	-3			
+16	Punt Returns (Number-Yards)	3 - -3			
+16	Kickoff Returns (Number-Yards)	2 - 65			
+16	Interception Returns (Number-Yards)	0 - 0			
+16	Penalties (Number-Yards)	8 - 45			
+16	Fumbles (Number-Lost)	7 - 2			
+16	Touchdowns	3			
+16	Rushing	2			
+16	Passing	1			
+16	Interceptions	0			
+16	Kickoff Returns	0			
+16	Fumble Returns	0			
+16	Punt Returns	0			
+16	Extra Points (Made-Attempted)	3 - 3			
+16	Kicking (Made-Attempted)	3 - 3			
+16	Two Point Conversions (Made-Attempted)	0 - 0			
+16	Field Goals (Made-Attempted)	1 - 1			
+16	Red Zone Efficiency	3/4 - 75%			
+16	Goal To Go Efficiency	1/1 - 100%			
+16	Safeties	0			
+16	Final Score	24			
+16	Time of Possession	25:45			
+					
+17	Passing	CP/AT	YDS	TD	INT
+17	S. Bradford	30/38	320	2	1
+17	Rushing	ATT	YDS	TD	LG
+17	D. Murray	12	69	1	54T
+17	D. Sproles	3	24	1	13
+17	K. Barner	5	18	0	7
+17	R. Mathews	4	11	0	7
+17	S. Bradford	2	-2	0	-1
+17	Receiving	REC	YDS	TD	LG
+17	Z. Ertz	9	152	0	60
+17	J. Matthews	7	54	2	25
+17	B. Celek	2	38	0	24
+17	N. Agholor	2	23	0	16
+17	K. Barner	5	21	0	12
+17	D. Sproles	3	20	0	14
+17	R. Mathews	1	7	0	7
+17	T. Burton	1	5	0	5
+17	Fumbles	FUM	LOST	REC	YDS
+17	D. Murray	1	1	0	0
+17	C. Barwin	0	0	0	0
+17	W. Thurmond	0	0	1	83
+17	Kicking	FG	LG	XP	PTS
+17	C. Sturgis	0/0	0	5/5	5
+17	Punting	NO	AVG	I20	LG
+17	D. Jones	3	33.0	0	43
+17	Kickoff Returns	NO	AVG	TD	LG
+17	Z. Ertz	1	9	0	9
+17	J. Huff	1	15	0	15
+17	Punt Returns	NO	AVG	TD	LG
+17	Defense	T-A	SCK	INT	FF
+17	K. Alonso	8-1	0.0	0	0
+17	M. Jenkins	7-2	0.0	0	0
+17	F. Cox	6-2	0.0	0	0
+17	E. Biggers	5-2	0.0	0	0
+17	M. Kendricks	5-4	0.0	0	0
+17	E. Reynolds	5-2	0.0	0	0
+17	B. Allen	4-2	0.0	0	0
+17	B. Graham	3-1	0.0	0	0
+17	E. Rowe	3-2	0.0	0	0
+17	D. Ryans	3-1	0.0	0	0
+17	C. Barwin	2-0	1.0	0	1
+17	T. Hart	2-0	0.0	0	0
+17	C. Maragos	2-0	0.0	0	0
+17	B. Bair	1-0	0.0	0	0
+17	V. Curry	1-1	0.0	0	0
+17	M. Smith	1-1	1.0	0	0
+17	C. Thornton	0-5	0.0	0	0
+17	Total First Downs	23			
+17	By Rushing	7			
+17	By Passing	16			
+17	By Penalty				
+17	Third Down Efficiency	10/13 - 76%			
+17	Fourth Down Efficiency	0/0 - 0%			
+17	Total Net Yards	435			
+17	Total Rushing/Passing Plays (includes Sacks)	65			
+17	Average Gain per Offensive Play	6.7			
+17	Net Yards Rushing	120			
+17	Total Rushing Plays	26			
+17	Average Gain per Rushing Play	4.6			
+17	Tackled for a Loss (Number-Yards)	4--7			
+17	Net Yards Passing	315			
+17	Times Sacked (Number-Yards)	1 - 5			
+17	Gross Yards Passing	320			
+17	Pass Comp-Att-Int	30 - 38 - 1			
+17	Average Gain per Passing Play (includes Sacks)	8.1			
+17	Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 6			
+17	Punts (Number-Average)	3 - 41.3			
+17	Blocked	0			
+17	Net Punting Average	33.0			
+17	FGs Blocked - PATs Blocked	0 - 0			
+17	Total Return Yardage (excludes Kickoffs)	0			
+17	Punt Returns (Number-Yards)	0 - 0			
+17	Kickoff Returns (Number-Yards)	2 - 24			
+17	Interception Returns (Number-Yards)	0 - 0			
+17	Penalties (Number-Yards)	3 - 11			
+17	Fumbles (Number-Lost)	1 - 1			
+17	Touchdowns	5			
+17	Rushing	2			
+17	Passing	2			
+17	Interceptions	0			
+17	Kickoff Returns	0			
+17	Fumble Returns	1			
+17	Punt Returns	0			
+17	Extra Points (Made-Attempted)	5 - 5			
+17	Kicking (Made-Attempted)	5 - 5			
+17	Two Point Conversions (Made-Attempted)	0 - 0			
+17	Field Goals (Made-Attempted)	0 - 0			
+17	Red Zone Efficiency	3/3 - 100%			
+17	Goal To Go Efficiency	3/3 - 100%			
+17	Safeties	0			
+17	Final Score	35			
+17	Time of Possession	28:06			

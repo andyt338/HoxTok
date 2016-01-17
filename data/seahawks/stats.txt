@@ -41,1382 +41,1381 @@ week	Passing	CP/AT	YDS	TD	INT
 1	J. Hill	1-0	0.0	0	0
 1	C. Marsh	1-1	0.0	0	0
 1	B. Mebane	1-0	0.0	0	0
-week	Total First Downs	21
-1	By Rushing	10
-1	By Passing	10
-1	By Penalty	
-1	Third Down Efficiency	8/19 - 42%
-1	Fourth Down Efficiency	1/2 - 50%
-1	Total Net Yards	343
-1	Total Rushing/Passing Plays (includes Sacks)	79
-1	Average Gain per Offensive Play	4.3
-1	Net Yards Rushing	124
-1	Total Rushing Plays	32
-1	Average Gain per Rushing Play	3.9
-1	Tackled for a Loss (Number-Yards)	4--5
-1	Net Yards Passing	219
-1	Times Sacked (Number-Yards)	6 - 32
-1	Gross Yards Passing	251
-1	Pass Comp-Att-Int	32 - 41 - 1
-1	Average Gain per Passing Play (includes Sacks)	4.7
-1	Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 3
-1	Punts (Number-Average)	4 - 51.8
-1	Blocked	0
-1	Net Punting Average	25.5
-1	FGs Blocked - PATs Blocked	0 - 0
-1	Total Return Yardage (excludes Kickoffs)	63
-1	Punt Returns (Number-Yards)	2 - 63
-1	Kickoff Returns (Number-Yards)	2 - 56
-1	Interception Returns (Number-Yards)	0 - 0
-1	Penalties (Number-Yards)	7 - 46
-1	Fumbles (Number-Lost)	0 - 0
-1	Touchdowns	3
-1	Rushing	0
-1	Passing	1
-1	Interceptions	0
-1	Kickoff Returns	0
-1	Fumble Returns	1
-1	Punt Returns	1
-1	Extra Points (Made-Attempted)	3 - 3
-1	Kicking (Made-Attempted)	2 - 2
-1	Two Point Conversions (Made-Attempted)	1 - 1
-1	Field Goals (Made-Attempted)	3 - 3
-1	Red Zone Efficiency	1/4 - 25%
-1	Goal To Go Efficiency	1/1 - 100%
-1	Safeties	0
-1	Final Score	31
-1	Time of Possession	37:28
-
-Passing 	CP/AT 	YDS 	TD 	INT
-R. Wilson 	19/30 	206 	2 	1
-Rushing 	ATT 	YDS 	TD 	LG
-R. Wilson 	10 	78 	0 	17
-M. Lynch 	15 	41 	0 	11
-Receiving 	REC 	YDS 	TD 	LG
-D. Baldwin 	7 	92 	1 	32
-L. Willson 	2 	36 	0 	24
-M. Lynch 	3 	21 	0 	12
-T. Lockett 	2 	17 	0 	17
-F. Jackson 	2 	16 	1 	11
-C. Matthews 	1 	13 	0 	13
-J. Graham 	1 	11 	0 	11
-D. Coleman 	1 	0 	0 	0
-Fumbles 	FUM 	LOST 	REC 	YDS
-F. Jackson 	1 	1 	0 	0
-G. Gilliam 	0 	0 	0 	0
-K. Wright 	0 	0 	1 	0
-Kicking 	FG 	LG 	XP 	PTS
-S. Hauschka 	1/1 	54 	2/2 	5
-Punting 	NO 	AVG 	I20 	LG
-J. Ryan 	5 	36.2 	2 	58
-Kickoff Returns 	NO 	AVG 	TD 	LG
-T. Lockett 	4 	19 	0 	26
-Punt Returns 	NO 	AVG 	TD 	LG
-T. Lockett 	2 	11 	0 	22
-Defense 	T-A 	SCK 	INT 	FF
-M. Burley 	7-0 	0.0 	0 	0
-B. Wagner 	6-6 	0.0 	0 	0
-K. Wright 	6-3 	0.0 	0 	1
-D. Shead 	5-3 	0.0 	0 	0
-J. Hill 	4-2 	0.0 	0 	0
-E. Thomas 	4-1 	0.0 	0 	0
-A. Rubin 	3-1 	0.0 	0 	0
-C. Avril 	2-1 	0.0 	0 	0
-B. Mebane 	2-3 	0.0 	0 	0
-C. Williams 	2-1 	0.0 	0 	0
-M. Bennett 	1-1 	1.0 	0 	0
-B. Irvin 	1-0 	1.0 	0 	0
-K. Pierre-Louis 	0-1 	0.0 	0 	0
-Total First Downs	21
-By Rushing	8
-By Passing	12
-By Penalty	
-Third Down Efficiency	3/9 - 33%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	324
-Total Rushing/Passing Plays (includes Sacks)	57
-Average Gain per Offensive Play	5.7
-Net Yards Rushing	119
-Total Rushing Plays	25
-Average Gain per Rushing Play	4.8
-Tackled for a Loss (Number-Yards)	6--11
-Net Yards Passing	205
-Times Sacked (Number-Yards)	2 - 1
-Gross Yards Passing	206
-Pass Comp-Att-Int	19 - 30 - 1
-Average Gain per Passing Play (includes Sacks)	6.4
-Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 3
-Punts (Number-Average)	5 - 40.2
-Blocked	0
-Net Punting Average	36.2
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	22
-Punt Returns (Number-Yards)	2 - 22
-Kickoff Returns (Number-Yards)	4 - 79
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	6 - 92
-Fumbles (Number-Lost)	1 - 1
-Touchdowns	2
-Rushing	0
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	2/2 - 100%
-Goal To Go Efficiency	1/1 - 100%
-Safeties	0
-Final Score	17
-Time of Possession	26:42
-
-Passing	CP/AT	YDS	TD	INT
-R. Wilson	20/30	235	1	0
-Rushing	ATT	YDS	TD	LG
-T. Rawls	16	104	0	21
-R. Wilson	6	28	0	13
-M. Lynch	5	14	0	8
-F. Jackson	2	13	0	8
-Receiving	REC	YDS	TD	LG
-J. Graham	7	83	1	30T
-J. Kearse	6	76	0	22
-D. Baldwin	3	35	0	22
-R. Lockette	1	23	0	23
-F. Jackson	2	9	0	5
-M. Lynch	1	9	0	9
-Fumbles	FUM	LOST	REC	YDS
-Kicking	FG	LG	XP	PTS
-S. Hauschka	4/4	48	2/2	14
-Punting	NO	AVG	I20	LG
-J. Ryan	4	41.5	2	46
-Kickoff Returns	NO	AVG	TD	LG
-T. Lockett	1	105	1	105
-Punt Returns	NO	AVG	TD	LG
-T. Lockett	3	3	0	10
-R. Sherman	1	64	0	64
-Defense	T-A	SCK	INT	FF
-K. Wright	5-5	0.0	0	0
-M. Bennett	2-2	0.0	0	0
-M. Burley	2-1	0.0	0	0
-F. Clark	2-0	0.0	0	0
-J. Hill	2-2	0.0	0	0
-D. Shead	2-1	0.0	0	0
-B. Wagner	2-5	0.5	0	0
-C. Williams	2-2	0.0	0	0
-C. Avril	1-2	1.0	0	0
-A. Rubin	1-2	0.0	0	0
-R. Sherman	1-0	0.0	0	0
-K. Chancellor	0-1	0.0	0	0
-D. Dobbs	0-3	0.0	0	0
-B. Irvin	0-5	0.5	0	0
-C. Marsh	0-1	0.0	0	0
-Total First Downs	17
-By Rushing	5
-By Passing	12
-By Penalty	
-Third Down Efficiency	5/16 - 31%
-Fourth Down Efficiency	2/2 - 100%
-Total Net Yards	371
-Total Rushing/Passing Plays (includes Sacks)	63
-Average Gain per Offensive Play	5.9
-Net Yards Rushing	159
-Total Rushing Plays	29
-Average Gain per Rushing Play	5.5
-Tackled for a Loss (Number-Yards)	1--1
-Net Yards Passing	212
-Times Sacked (Number-Yards)	4 - 23
-Gross Yards Passing	235
-Pass Comp-Att-Int	20 - 30 - 0
-Average Gain per Passing Play (includes Sacks)	6.2
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 5
-Punts (Number-Average)	4 - 41.5
-Blocked	0
-Net Punting Average	41.5
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	73
-Punt Returns (Number-Yards)	4 - 73
-Kickoff Returns (Number-Yards)	1 - 105
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	5 - 41
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	2
-Rushing	0
-Passing	1
-Interceptions	0
-Kickoff Returns	1
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	4 - 4
-Red Zone Efficiency	0/2 - 0%
-Goal To Go Efficiency	0/1 - 0%
-Safeties	0
-Final Score	26
-Time of Possession	32:36
-
-Passing	CP/AT	YDS	TD	INT
-R. Wilson	20/26	287	1	0
-Rushing	ATT	YDS	TD	LG
-T. Rawls	17	48	0	10
-R. Wilson	10	40	0	15
-F. Jackson	3	21	0	16
-T. Lockett	1	1	0	1
-Receiving	REC	YDS	TD	LG
-J. Kearse	2	84	0	50
-T. Lockett	4	58	0	23
-D. Baldwin	3	36	1	24T
-F. Jackson	2	33	0	26
-J. Graham	4	29	0	13
-C. Matthews	1	21	0	21
-L. Willson	2	15	0	9
-B. Daniels	1	12	0	12
-T. Rawls	1	-1	0	-1
-Fumbles	FUM	LOST	REC	YDS
-R. Wilson	3	2	1	0
-T. Lockett	1	1	0	0
-D. Nowak	1	0	0	-12
-K. Chancellor	0	0	0	0
-Kicking	FG	LG	XP	PTS
-S. Hauschka	2/2	52	1/1	7
-Punting	NO	AVG	I20	LG
-J. Ryan	4	40.8	3	70
-Kickoff Returns	NO	AVG	TD	LG
-T. Lockett	2	15	0	19
-W. Tukuafu	1	16	0	16
-Punt Returns	NO	AVG	TD	LG
-T. Lockett	5	8	0	14
-Defense	T-A	SCK	INT	FF
-K. Chancellor	6-1	0.0	0	1
-B. Wagner	4-4	0.0	0	0
-B. Irvin	3-1	0.0	0	0
-R. Sherman	3-2	0.0	0	0
-C. Williams	3-0	0.0	0	0
-C. Avril	2-2	0.0	0	0
-M. Bennett	2-3	0.0	0	0
-E. Thomas	2-3	0.0	0	0
-K. Wright	2-2	0.0	0	0
-F. Clark	1-0	0.0	0	0
-C. Marsh	1-0	0.0	0	0
-D. Shead	1-0	0.0	0	0
-J. Hill	0-5	0.0	0	0
-D. King	0-1	0.0	0	0
-A. Rubin	0-1	0.0	0	0
-Total First Downs	18
-By Rushing	6
-By Passing	12
-By Penalty	
-Third Down Efficiency	6/13 - 46%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	345
-Total Rushing/Passing Plays (includes Sacks)	63
-Average Gain per Offensive Play	5.5
-Net Yards Rushing	110
-Total Rushing Plays	31
-Average Gain per Rushing Play	3.5
-Tackled for a Loss (Number-Yards)	3--4
-Net Yards Passing	235
-Times Sacked (Number-Yards)	6 - 52
-Gross Yards Passing	287
-Pass Comp-Att-Int	20 - 26 - 0
-Average Gain per Passing Play (includes Sacks)	7.3
-Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 2
-Punts (Number-Average)	4 - 48.0
-Blocked	0
-Net Punting Average	40.8
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	42
-Punt Returns (Number-Yards)	5 - 42
-Kickoff Returns (Number-Yards)	3 - 46
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	5 - 30
-Fumbles (Number-Lost)	5 - 3
-Touchdowns	1
-Rushing	0
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	1 - 1
-Kicking (Made-Attempted)	1 - 1
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 2
-Red Zone Efficiency	0/1 - 0%
-Goal To Go Efficiency	0/1 - 0%
-Safeties	0
-Final Score	13
-Time of Possession	32:04
-
-Passing	CP/AT	YDS	TD	INT
-R. Wilson	15/23	213	1	1
-Rushing	ATT	YDS	TD	LG
-T. Rawls	23	169	1	69T
-R. Wilson	3	21	0	9
-F. Jackson	2	5	0	5
-R. Smith	2	5	0	3
-Receiving	REC	YDS	TD	LG
-D. Baldwin	3	70	0	46
-J. Kearse	2	38	1	30T
-J. Graham	3	30	0	22
-F. Jackson	3	29	0	12
-T. Lockett	2	29	0	22
-L. Willson	2	17	0	9
-Fumbles	FUM	LOST	REC	YDS
-M. Bennett	0	0	0	0
-B. Wagner	0	0	1	23
-Kicking	FG	LG	XP	PTS
-S. Hauschka	1/1	24	3/3	6
-Punting	NO	AVG	I20	LG
-J. Ryan	8	36.8	0	62
-Kickoff Returns	NO	AVG	TD	LG
-T. Lockett	1	21	0	21
-Punt Returns	NO	AVG	TD	LG
-T. Lockett	2	4	0	12
-Defense	T-A	SCK	INT	FF
-K. Chancellor	8-3	0.0	0	0
-R. Sherman	6-2	0.0	0	0
-K. Wright	6-0	0.0	0	0
-M. Bennett	5-1	1.0	0	1
-B. Wagner	5-2	0.0	0	0
-C. Avril	4-2	1.0	0	0
-D. Shead	4-1	1.0	0	0
-B. Irvin	3-1	0.0	0	0
-A. Rubin	3-1	1.0	0	0
-C. Williams	3-1	0.0	0	0
-C. Marsh	2-1	0.0	0	0
-B. Mebane	2-0	0.0	0	0
-E. Thomas	2-0	0.0	1	0
-J. Hill	1-1	0.0	0	0
-Total First Downs	16
-By Rushing	7
-By Passing	9
-By Penalty	
-Third Down Efficiency	5/13 - 38%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	397
-Total Rushing/Passing Plays (includes Sacks)	57
-Average Gain per Offensive Play	7.0
-Net Yards Rushing	200
-Total Rushing Plays	30
-Average Gain per Rushing Play	6.7
-Tackled for a Loss (Number-Yards)	1--1
-Net Yards Passing	197
-Times Sacked (Number-Yards)	4 - 16
-Gross Yards Passing	213
-Pass Comp-Att-Int	15 - 23 - 1
-Average Gain per Passing Play (includes Sacks)	7.3
-Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 0
-Punts (Number-Average)	8 - 50.9
-Blocked	0
-Net Punting Average	36.8
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	40
-Punt Returns (Number-Yards)	2 - 8
-Kickoff Returns (Number-Yards)	1 - 21
-Interception Returns (Number-Yards)	1 - 32
-Penalties (Number-Yards)	10 - 112
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	3
-Rushing	1
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	1
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 3
-Kicking (Made-Attempted)	3 - 3
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	0/2 - 0%
-Goal To Go Efficiency	0/1 - 0%
-Safeties	0
-Final Score	24
-Time of Possession	30:35
-
-Passing	CP/AT	YDS	TD	INT
-R. Wilson	18/30	241	1	0
-Rushing	ATT	YDS	TD	LG
-M. Lynch	17	54	1	17
-R. Wilson	8	53	0	24
-T. Rawls	1	8	0	8
-Receiving	REC	YDS	TD	LG
-J. Graham	8	140	0	45
-R. Lockette	2	43	1	40T
-D. Baldwin	3	23	0	14
-L. Willson	1	16	0	16
-C. Matthews	1	12	0	12
-F. Jackson	2	7	0	5
-M. Lynch	1	0	0	0
-Fumbles	FUM	LOST	REC	YDS
-Kicking	FG	LG	XP	PTS
-S. Hauschka	3/3	50	2/2	11
-Punting	NO	AVG	I20	LG
-J. Ryan	7	44.7	2	68
-Kickoff Returns	NO	AVG	TD	LG
-T. Lockett	2	13	0	14
-Punt Returns	NO	AVG	TD	LG
-T. Lockett	4	7	0	10
-Defense	T-A	SCK	INT	FF
-K. Chancellor	6-4	0.0	1	0
-B. Irvin	4-1	2.0	0	0
-C. Williams	4-3	0.0	0	0
-K. Pierre-Louis	3-8	0.0	0	0
-D. Shead	3-0	0.0	0	0
-K. Wright	3-9	0.0	0	0
-C. Avril	2-1	0.0	0	0
-D. Dobbs	2-0	0.0	0	0
-R. Sherman	2-2	0.0	0	0
-E. Thomas	2-2	0.0	1	0
-M. Bennett	1-1	0.0	0	0
-M. Morgan	1-0	1.0	0	0
-C. Marsh	0-2	0.0	0	0
-B. Mebane	0-1	0.0	0	0
-A. Rubin	0-2	0.0	0	0
-Total First Downs	14
-By Rushing	4
-By Passing	10
-By Penalty	
-Third Down Efficiency	4/14 - 28%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	334
-Total Rushing/Passing Plays (includes Sacks)	60
-Average Gain per Offensive Play	5.6
-Net Yards Rushing	115
-Total Rushing Plays	26
-Average Gain per Rushing Play	4.4
-Tackled for a Loss (Number-Yards)	3--8
-Net Yards Passing	219
-Times Sacked (Number-Yards)	4 - 22
-Gross Yards Passing	241
-Pass Comp-Att-Int	18 - 30 - 0
-Average Gain per Passing Play (includes Sacks)	6.4
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 6
-Punts (Number-Average)	7 - 50.1
-Blocked	0
-Net Punting Average	44.7
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	34
-Punt Returns (Number-Yards)	4 - 28
-Kickoff Returns (Number-Yards)	2 - 27
-Interception Returns (Number-Yards)	2 - 6
-Penalties (Number-Yards)	7 - 48
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	2
-Rushing	1
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	3 - 3
-Red Zone Efficiency	1/3 - 33%
-Goal To Go Efficiency	1/1 - 100%
-Safeties	0
-Final Score	23
-Time of Possession	27:48
-
-Passing	CP/AT	YDS	TD	INT
-R. Wilson	18/24	235	1	2
-Rushing	ATT	YDS	TD	LG
-M. Lynch	27	122	1	17
-T. Rawls	6	32	0	17
-R. Wilson	7	20	0	9
-F. Jackson	1	2	0	2
-Receiving	REC	YDS	TD	LG
-T. Lockett	5	79	1	43T
-J. Kearse	3	64	0	36
-F. Jackson	4	33	0	18
-J. Graham	2	31	0	23
-D. Baldwin	2	19	0	15
-T. Rawls	2	9	0	5
-Fumbles	FUM	LOST	REC	YDS
-C. Avril	0	0	0	0
-Kicking	FG	LG	XP	PTS
-S. Hauschka	2/2	49	2/2	8
-Punting	NO	AVG	I20	LG
-J. Ryan	4	39.5	1	53
-Kickoff Returns	NO	AVG	TD	LG
-T. Lockett	1	20	0	20
-Punt Returns	NO	AVG	TD	LG
-T. Lockett	5	2	0	5
-Defense	T-A	SCK	INT	FF
-B. Wagner	5-0	0.0	0	0
-C. Avril	4-1	1.5	0	1
-M. Bennett	4-1	3.5	0	0
-E. Thomas	3-2	0.0	0	0
-K. Wright	3-1	0.0	0	0
-K. Chancellor	2-1	0.0	0	0
-F. Clark	2-0	0.0	0	0
-D. Shead	2-0	0.0	0	0
-R. Sherman	2-1	0.0	0	0
-C. Williams	2-1	0.0	0	0
-B. Irvin	1-0	0.0	0	0
-D. King	1-1	0.5	0	0
-C. Marsh	1-0	0.0	0	0
-B. Mebane	0-1	0.5	0	0
-Total First Downs	21
-By Rushing	11
-By Passing	9
-By Penalty	
-Third Down Efficiency	5/13 - 38%
-Fourth Down Efficiency	1/1 - 100%
-Total Net Yards	388
-Total Rushing/Passing Plays (includes Sacks)	70
-Average Gain per Offensive Play	5.5
-Net Yards Rushing	176
-Total Rushing Plays	41
-Average Gain per Rushing Play	4.3
-Tackled for a Loss (Number-Yards)	1--4
-Net Yards Passing	212
-Times Sacked (Number-Yards)	5 - 23
-Gross Yards Passing	235
-Pass Comp-Att-Int	18 - 24 - 2
-Average Gain per Passing Play (includes Sacks)	7.3
-Kickoffs (Number-In End Zone-Touchbacks)	5 - 3 - 1
-Punts (Number-Average)	4 - 46.8
-Blocked	0
-Net Punting Average	39.5
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	11
-Punt Returns (Number-Yards)	5 - 11
-Kickoff Returns (Number-Yards)	1 - 20
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	6 - 50
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	2
-Rushing	1
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 2
-Red Zone Efficiency	1/1 - 100%
-Goal To Go Efficiency	1/1 - 100%
-Safeties	0
-Final Score	20
-Time of Possession	38:05
-
-Passing	CP/AT	YDS	TD	INT
-R. Wilson	19/30	210	1	1
-Rushing	ATT	YDS	TD	LG
-M. Lynch	21	71	0	12
-R. Wilson	6	32	0	10
-T. Rawls	4	10	0	7
-Receiving	REC	YDS	TD	LG
-J. Graham	7	75	0	19
-L. Willson	2	41	1	22T
-T. Lockett	3	36	0	16
-D. Baldwin	3	35	0	15
-M. Lynch	2	11	0	10
-F. Jackson	1	9	0	9
-R. Lockette	1	3	0	3
-Fumbles	FUM	LOST	REC	YDS
-Kicking	FG	LG	XP	PTS
-S. Hauschka	2/3	26	1/1	7
-Punting	NO	AVG	I20	LG
-J. Ryan	4	46.3	0	55
-Kickoff Returns	NO	AVG	TD	LG
-T. Lockett	1	18	0	18
-Punt Returns	NO	AVG	TD	LG
-T. Lockett	1	12	0	12
-Defense	T-A	SCK	INT	FF
-K. Wright	6-3	0.0	0	0
-K. Chancellor	5-1	0.0	0	0
-E. Thomas	4-1	0.0	0	0
-B. Wagner	4-1	0.0	0	0
-C. Williams	4-1	0.0	0	0
-C. Avril	3-1	0.0	0	0
-M. Bennett	2-1	0.0	0	0
-C. Marsh	2-0	0.0	0	0
-A. Rubin	2-2	0.0	0	0
-F. Clark	1-0	0.0	0	0
-J. Hill	1-0	0.0	0	0
-B. Irvin	1-0	1.0	0	0
-D. Shead	1-1	0.0	0	0
-R. Sherman	1-0	0.0	0	0
-Total First Downs	19
-By Rushing	8
-By Passing	11
-By Penalty	
-Third Down Efficiency	5/12 - 41%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	323
-Total Rushing/Passing Plays (includes Sacks)	61
-Average Gain per Offensive Play	5.3
-Net Yards Rushing	113
-Total Rushing Plays	31
-Average Gain per Rushing Play	3.6
-Tackled for a Loss (Number-Yards)	5--10
-Net Yards Passing	210
-Times Sacked (Number-Yards)	0 - 0
-Gross Yards Passing	210
-Pass Comp-Att-Int	19 - 30 - 1
-Average Gain per Passing Play (includes Sacks)	7.0
-Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 4
-Punts (Number-Average)	4 - 48.3
-Blocked	0
-Net Punting Average	46.3
-FGs Blocked - PATs Blocked	1 - 0
-Total Return Yardage (excludes Kickoffs)	12
-Punt Returns (Number-Yards)	1 - 12
-Kickoff Returns (Number-Yards)	1 - 18
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	5 - 40
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	1
-Rushing	0
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	1 - 1
-Kicking (Made-Attempted)	1 - 1
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	2 - 3
-Red Zone Efficiency	0/2 - 0%
-Goal To Go Efficiency	0/1 - 0%
-Safeties	0
-Final Score	13
-Time of Possession	29:38
-
-week 9 bye
-
-Passing	CP/AT	YDS	TD	INT
-R. Wilson	14/32	240	1	1
-Rushing	ATT	YDS	TD	LG
-R. Wilson	6	52	0	20
-M. Lynch	8	42	1	16
-T. Rawls	2	19	0	13
-W. Tukuafu	2	2	1	1T
-Receiving	REC	YDS	TD	LG
-D. Baldwin	7	134	1	33
-J. Graham	3	41	0	30
-P. Richardson	1	40	0	40
-J. Kearse	1	10	0	10
-M. Lynch	1	8	0	8
-T. Lockett	1	7	0	7
-Fumbles	FUM	LOST	REC	YDS
-R. Wilson	2	0	1	0
-C. Avril	0	0	0	0
-B. Wagner	0	0	1	22
-K. Wright	0	0	1	4
-Kicking	FG	LG	XP	PTS
-S. Hauschka	2/2	46	2/2	8
-Punting	NO	AVG	I20	LG
-J. Ryan	5	35.0	2	57
-Kickoff Returns	NO	AVG	TD	LG
-T. Lockett	5	20	0	34
-Punt Returns	NO	AVG	TD	LG
-T. Lockett	1	0	0	0
-Defense	T-A	SCK	INT	FF
-K. Chancellor	5-12	0.0	0	0
-E. Thomas	4-0	0.0	1	0
-B. Wagner	4-7	0.0	0	0
-C. Williams	4-5	0.0	0	0
-K. Wright	4-5	1.0	0	1
-C. Avril	3-2	1.0	0	1
-A. Rubin	3-0	1.0	0	0
-R. Sherman	3-2	0.0	0	0
-F. Clark	2-0	0.0	0	0
-D. Dobbs	1-0	0.0	0	0
-J. Hill	1-0	0.0	0	0
-B. Irvin	1-4	0.0	0	0
-C. Marsh	1-0	0.0	0	0
-D. Shead	1-0	0.0	0	0
-M. Bennett	0-2	0.0	0	0
-B. Mebane	0-1	0.0	0	0
-Total First Downs	18
-By Rushing	9
-By Passing	7
-By Penalty	
-Third Down Efficiency	1/8 - 12%
-Fourth Down Efficiency	1/1 - 100%
-Total Net Yards	343
-Total Rushing/Passing Plays (includes Sacks)	52
-Average Gain per Offensive Play	6.6
-Net Yards Rushing	115
-Total Rushing Plays	18
-Average Gain per Rushing Play	6.4
-Tackled for a Loss (Number-Yards)	1--1
-Net Yards Passing	228
-Times Sacked (Number-Yards)	2 - 12
-Gross Yards Passing	240
-Pass Comp-Att-Int	14 - 32 - 1
-Average Gain per Passing Play (includes Sacks)	6.7
-Kickoffs (Number-In End Zone-Touchbacks)	8 - 6 - 2
-Punts (Number-Average)	5 - 40.8
-Blocked	0
-Net Punting Average	35.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	0
-Punt Returns (Number-Yards)	1 - 0
-Kickoff Returns (Number-Yards)	5 - 104
-Interception Returns (Number-Yards)	1 - 0
-Penalties (Number-Yards)	14 - 131
-Fumbles (Number-Lost)	2 - 0
-Touchdowns	4
-Rushing	2
-Passing	1
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	1
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 4
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 2
-Field Goals (Made-Attempted)	2 - 2
-Red Zone Efficiency	2/3 - 66%
-Goal To Go Efficiency	2/2 - 100%
-Safeties	0
-Final Score	32
-Time of Possession	21:08
-
-Passing	CP/AT	YDS	TD	INT
-R. Wilson	24/29	260	3	0
-Rushing	ATT	YDS	TD	LG
-T. Rawls	30	209	1	30
-R. Wilson	9	30	0	8
-F. Jackson	4	11	0	5
-T. Lockett	1	5	0	5
-Receiving	REC	YDS	TD	LG
-D. Baldwin	6	60	0	21
-T. Lockett	4	48	2	24T
-T. Rawls	3	46	1	31T
-J. Graham	3	39	0	20
-J. Kearse	3	34	0	18
-L. Willson	2	15	0	10
-F. Jackson	2	11	0	9
-C. Helfet	1	7	0	7
-Fumbles	FUM	LOST	REC	YDS
-D. Shead	0	0	0	0
-K. Wright	0	0	0	0
-Kicking	FG	LG	XP	PTS
-S. Hauschka	1/1	33	2/4	5
-Punting	NO	AVG	I20	LG
-J. Ryan	4	37.0	3	43
-Kickoff Returns	NO	AVG	TD	LG
-Punt Returns	NO	AVG	TD	LG
-T. Lockett	4	0	0	4
-Defense	T-A	SCK	INT	FF
-K. Chancellor	3-2	0.0	0	0
-D. Dobbs	3-1	0.0	0	0
-D. Shead	3-0	0.0	0	0
-B. Wagner	3-5	0.0	0	0
-C. Williams	3-2	0.0	0	0
-C. Avril	2-1	2.0	0	0
-M. Morgan	2-2	0.0	0	0
-R. Sherman	2-2	0.0	0	0
-K. Wright	2-4	0.0	0	1
-M. Burley	1-0	0.0	0	0
-C. Marsh	1-0	0.0	0	0
-E. Thomas	1-4	0.0	0	0
-M. Bennett	0-1	0.0	0	0
-F. Clark	0-1	0.0	0	0
-J. Hill	0-2	0.0	0	0
-A. Rubin	0-1	0.0	0	0
-Total First Downs	28
-By Rushing	14
-By Passing	14
-By Penalty	
-Third Down Efficiency	8/14 - 57%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	508
-Total Rushing/Passing Plays (includes Sacks)	75
-Average Gain per Offensive Play	6.8
-Net Yards Rushing	255
-Total Rushing Plays	44
-Average Gain per Rushing Play	5.8
-Tackled for a Loss (Number-Yards)	1--4
-Net Yards Passing	253
-Times Sacked (Number-Yards)	2 - 7
-Gross Yards Passing	260
-Pass Comp-Att-Int	24 - 29 - 0
-Average Gain per Passing Play (includes Sacks)	8.2
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 2
-Punts (Number-Average)	4 - 38.5
-Blocked	0
-Net Punting Average	37.0
-FGs Blocked - PATs Blocked	0 - 1
-Total Return Yardage (excludes Kickoffs)	1
-Punt Returns (Number-Yards)	4 - 1
-Kickoff Returns (Number-Yards)	0 - 0
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	8 - 51
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	4
-Rushing	1
-Passing	3
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 4
-Kicking (Made-Attempted)	2 - 4
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	2/3 - 66%
-Goal To Go Efficiency	1/1 - 100%
-Safeties	0
-Final Score	29
-Time of Possession	37:39
-
-Passing	CP/AT	YDS	TD	INT
-R. Wilson	21/30	345	5	0
-Rushing	ATT	YDS	TD	LG
-T. Rawls	21	81	1	17
-R. Wilson	4	14	0	10
-F. Jackson	1	4	0	4
-D. Coleman	1	1	0	1
-Receiving	REC	YDS	TD	LG
-D. Baldwin	6	145	3	80T
-J. Graham	4	75	0	36
-J. Kearse	4	47	2	22
-T. Lockett	3	38	0	16
-K. Smith	1	21	0	21
-L. Willson	1	12	0	12
-F. Jackson	2	7	0	8
-Fumbles	FUM	LOST	REC	YDS
-J. Kearse	1	0	0	0
-R. Wilson	1	0	0	-3
-T. Rawls	0	0	1	0
-B. Wagner	0	0	0	0
-Kicking	FG	LG	XP	PTS
-S. Hauschka	0/0	0	3/4	3
-Punting	NO	AVG	I20	LG
-J. Ryan	6	36.3	3	63
-Kickoff Returns	NO	AVG	TD	LG
-T. Lockett	5	29	0	54
-Punt Returns	NO	AVG	TD	LG
-T. Lockett	0	0	0	0
-Defense	T-A	SCK	INT	FF
-D. Shead	8-2	0.0	0	0
-B. Wagner	7-5	0.0	0	1
-E. Thomas	6-0	0.0	0	0
-K. Wright	4-2	0.0	0	0
-C. Avril	2-0	1.0	0	0
-M. Burley	2-0	0.0	0	0
-K. Chancellor	2-3	0.0	1	0
-M. Morgan	2-2	0.0	0	0
-R. Sherman	2-3	0.0	1	0
-F. Clark	1-0	1.0	0	0
-J. Lane	1-1	0.0	1	0
-M. Bennett	0-2	0.0	0	0
-B. Irvin	0-2	0.0	0	0
-C. Marsh	0-1	0.0	0	0
-B. Mebane	0-2	0.0	0	0
-A. Rubin	0-1	0.0	1	0
-Total First Downs	21
-By Rushing	5
-By Passing	15
-By Penalty	
-Third Down Efficiency	7/13 - 53%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	436
-Total Rushing/Passing Plays (includes Sacks)	59
-Average Gain per Offensive Play	7.4
-Net Yards Rushing	100
-Total Rushing Plays	27
-Average Gain per Rushing Play	3.7
-Tackled for a Loss (Number-Yards)	1--3
-Net Yards Passing	336
-Times Sacked (Number-Yards)	2 - 9
-Gross Yards Passing	345
-Pass Comp-Att-Int	21 - 30 - 0
-Average Gain per Passing Play (includes Sacks)	10.5
-Kickoffs (Number-In End Zone-Touchbacks)	7 - 7 - 3
-Punts (Number-Average)	6 - 42.5
-Blocked	0
-Net Punting Average	36.3
-FGs Blocked - PATs Blocked	0 - 1
-Total Return Yardage (excludes Kickoffs)	82
-Punt Returns (Number-Yards)	0 - 0
-Kickoff Returns (Number-Yards)	5 - 148
-Interception Returns (Number-Yards)	4 - 82
-Penalties (Number-Yards)	8 - 76
-Fumbles (Number-Lost)	2 - 0
-Touchdowns	6
-Rushing	1
-Passing	5
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 6
-Kicking (Made-Attempted)	3 - 4
-Two Point Conversions (Made-Attempted)	0 - 2
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	4/4 - 100%
-Goal To Go Efficiency	2/2 - 100%
-Safeties	0
-Final Score	39
-Time of Possession	28:00
-
-Passing	CP/AT	YDS	TD	INT
-R. Wilson	21/27	274	3	0
-T. Jackson	0/1	0	0	0
-Rushing	ATT	YDS	TD	LG
-T. Rawls	19	101	1	20
-R. Wilson	9	51	1	14
-D. Harris	3	7	0	3
-T. Lockett	1	7	0	7
-F. Jackson	1	5	0	5
-W. Tukuafu	1	4	0	4
-T. Jackson	2	-2	0	-1
-Receiving	REC	YDS	TD	LG
-D. Baldwin	5	94	2	53T
-T. Lockett	7	90	0	29
-L. Willson	2	36	0	22
-T. Rawls	3	22	0	9
-C. Helfet	1	13	0	13
-F. Jackson	2	13	1	8
-B. Daniels	1	6	0	6
-Fumbles	FUM	LOST	REC	YDS
-T. Lockett	1	0	0	0
-T. Rawls	1	1	0	0
-B. Irvin	0	0	0	0
-Kicking	FG	LG	XP	PTS
-S. Hauschka	1/1	23	5/5	8
-Punting	NO	AVG	I20	LG
-J. Ryan	2	27.0	0	40
-Kickoff Returns	NO	AVG	TD	LG
-T. Lockett	1	47	0	47
-Punt Returns	NO	AVG	TD	LG
-T. Lockett	3	6	0	19
-B. Daniels	1	7	0	7
-Defense	T-A	SCK	INT	FF
-K. Wright	9-1	0.0	0	0
-B. Wagner	7-0	0.0	0	0
-K. Chancellor	5-2	0.0	0	0
-M. Bennett	3-1	1.0	0	0
-B. Irvin	3-0	1.0	0	1
-F. Clark	2-0	2.0	0	0
-C. Marsh	2-0	0.0	0	0
-D. Shead	2-0	0.0	0	0
-K. McCray	1-0	0.0	0	0
-A. Rubin	1-0	0.0	0	0
-R. Sherman	1-0	0.0	0	0
-E. Thomas	1-1	0.0	1	0
-Total First Downs	25
-By Rushing	11
-By Passing	11
-By Penalty	
-Third Down Efficiency	9/13 - 69%
-Fourth Down Efficiency	1/1 - 100%
-Total Net Yards	433
-Total Rushing/Passing Plays (includes Sacks)	66
-Average Gain per Offensive Play	6.6
-Net Yards Rushing	173
-Total Rushing Plays	36
-Average Gain per Rushing Play	4.8
-Tackled for a Loss (Number-Yards)	3--8
-Net Yards Passing	260
-Times Sacked (Number-Yards)	2 - 14
-Gross Yards Passing	274
-Pass Comp-Att-Int	21 - 28 - 0
-Average Gain per Passing Play (includes Sacks)	8.7
-Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 1
-Punts (Number-Average)	2 - 39.0
-Blocked	0
-Net Punting Average	27.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	51
-Punt Returns (Number-Yards)	4 - 26
-Kickoff Returns (Number-Yards)	1 - 47
-Interception Returns (Number-Yards)	1 - 25
-Penalties (Number-Yards)	9 - 65
-Fumbles (Number-Lost)	2 - 1
-Touchdowns	5
-Rushing	2
-Passing	3
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	5 - 5
-Kicking (Made-Attempted)	5 - 5
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	3/4 - 75%
-Goal To Go Efficiency	2/3 - 66%
-Safeties	0
-Final Score	38
-Time of Possession	35:10
-
-Passing	CP/AT	YDS	TD	INT
-R. Wilson	23/32	292	5	0
-T. Jackson	1/1	9	0	0
-Rushing	ATT	YDS	TD	LG
-T. Rawls	6	44	0	16
-D. Harris	18	42	0	6
-D. Coleman	1	19	0	19
-F. Jackson	7	15	0	5
-R. Wilson	1	6	0	6
-T. Jackson	3	-3	0	-1
-Receiving	REC	YDS	TD	LG
-T. Lockett	6	104	2	49T
-D. Baldwin	6	82	3	22T
-J. Kearse	7	74	0	20
-C. Helfet	2	20	0	17
-F. Jackson	1	8	0	8
-L. Willson	1	8	0	8
-K. Smith	1	5	0	5
-Fumbles	FUM	LOST	REC	YDS
-D. Harris	1	1	0	0
-F. Clark	0	0	0	0
-B. Wagner	0	0	1	0
-Kicking	FG	LG	XP	PTS
-S. Hauschka	0/0	0	5/5	5
-Punting	NO	AVG	I20	LG
-J. Ryan	3	35.7	0	63
-Kickoff Returns	NO	AVG	TD	LG
-Punt Returns	NO	AVG	TD	LG
-T. Lockett	1	0	0	0
-Defense	T-A	SCK	INT	FF
-K. Wright	5-3	0.0	0	0
-E. Thomas	4-0	0.0	0	0
-M. Bennett	3-1	1.0	0	0
-K. McCray	3-0	0.0	0	0
-J. Lane	2-0	0.0	0	0
-B. Mebane	2-1	0.0	0	0
-D. Shead	2-1	0.0	0	0
-R. Sherman	2-0	0.0	1	0
-B. Wagner	2-4	0.0	0	0
-C. Avril	1-1	0.0	0	0
-M. Burley	1-0	0.0	0	0
-F. Clark	1-0	0.0	0	1
-B. Irvin	1-0	0.0	0	0
-C. Marsh	1-0	0.0	0	0
-A. Francis	0-1	0.0	0	0
-A. Rubin	0-2	0.0	0	0
-Total First Downs	28
-By Rushing	8
-By Passing	17
-By Penalty	
-Third Down Efficiency	8/12 - 66%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	424
-Total Rushing/Passing Plays (includes Sacks)	69
-Average Gain per Offensive Play	6.1
-Net Yards Rushing	123
-Total Rushing Plays	36
-Average Gain per Rushing Play	3.4
-Tackled for a Loss (Number-Yards)	4--7
-Net Yards Passing	301
-Times Sacked (Number-Yards)	0 - 0
-Gross Yards Passing	301
-Pass Comp-Att-Int	24 - 33 - 0
-Average Gain per Passing Play (includes Sacks)	9.1
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 6
-Punts (Number-Average)	3 - 51.0
-Blocked	0
-Net Punting Average	35.7
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	4
-Punt Returns (Number-Yards)	1 - 0
-Kickoff Returns (Number-Yards)	0 - 0
-Interception Returns (Number-Yards)	1 - 4
-Penalties (Number-Yards)	6 - 42
-Fumbles (Number-Lost)	1 - 1
-Touchdowns	5
-Rushing	0
-Passing	5
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	5 - 5
-Kicking (Made-Attempted)	5 - 5
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	0 - 0
-Red Zone Efficiency	4/5 - 80%
-Goal To Go Efficiency	0/1 - 0%
-Safeties	0
-Final Score	35
-Time of Possession	35:43
-
-Passing	CP/AT	YDS	TD	INT
-R. Wilson	21/30	249	3	0
-Rushing	ATT	YDS	TD	LG
-C. Michael	16	84	0	10
-R. Wilson	5	46	0	16
-B. Brown	9	43	0	18
-D. Coleman	5	10	0	6
-T. Jackson	1	-1	0	-1
-Receiving	REC	YDS	TD	LG
-J. Kearse	7	110	0	39
-T. Lockett	5	55	1	27T
-D. Baldwin	4	45	2	27
-F. Jackson	2	17	0	10
-L. Willson	2	17	0	11
-C. Helfet	1	5	0	5
-Fumbles	FUM	LOST	REC	YDS
-M. Bennett	0	0	0	0
-B. Wagner	0	0	0	0
-Kicking	FG	LG	XP	PTS
-S. Hauschka	3/3	49	3/3	12
-Punting	NO	AVG	I20	LG
-J. Ryan	1	44.0	0	64
-Kickoff Returns	NO	AVG	TD	LG
-T. Lockett	4	22	0	30
-Punt Returns	NO	AVG	TD	LG
-T. Lockett	1	5	0	5
-Defense	T-A	SCK	INT	FF
-K. McCray	5-3	0.0	0	0
-M. Bennett	4-1	1.0	0	1
-J. Lane	4-0	0.0	0	0
-K. Wright	4-3	0.0	0	0
-M. Burley	2-0	1.0	1	0
-F. Clark	2-0	0.0	0	0
-B. Mebane	2-1	1.0	0	0
-E. Thomas	2-1	0.0	0	0
-B. Wagner	2-4	0.0	0	1
-C. Avril	1-0	0.0	0	0
-A. Rubin	1-0	0.0	0	0
-D. Shead	1-0	0.0	0	0
-R. Sherman	1-1	0.0	0	0
-Total First Downs	28
-By Rushing	12
-By Passing	14
-By Penalty	
-Third Down Efficiency	9/12 - 75%
-Fourth Down Efficiency	0/0 - 0%
-Total Net Yards	423
-Total Rushing/Passing Plays (includes Sacks)	68
-Average Gain per Offensive Play	6.2
-Net Yards Rushing	182
-Total Rushing Plays	36
-Average Gain per Rushing Play	5.1
-Tackled for a Loss (Number-Yards)	1--2
-Net Yards Passing	241
-Times Sacked (Number-Yards)	2 - 8
-Gross Yards Passing	249
-Pass Comp-Att-Int	21 - 30 - 0
-Average Gain per Passing Play (includes Sacks)	7.5
-Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 1
-Punts (Number-Average)	1 - 64.0
-Blocked	0
-Net Punting Average	44.0
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	5
-Punt Returns (Number-Yards)	1 - 5
-Kickoff Returns (Number-Yards)	4 - 91
-Interception Returns (Number-Yards)	1 - 0
-Penalties (Number-Yards)	5 - 30
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	3
-Rushing	0
-Passing	3
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 3
-Kicking (Made-Attempted)	3 - 3
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	3 - 3
-Red Zone Efficiency	2/4 - 50%
-Goal To Go Efficiency	1/2 - 50%
-Safeties	0
-Final Score	30
-Time of Possession	34:33
-
-Passing	CP/AT	YDS	TD	INT
-R. Wilson	25/41	289	2	1
-Rushing	ATT	YDS	TD	LG
-R. Wilson	6	38	0	20
-F. Jackson	2	11	0	7
-B. Brown	7	9	0	4
-C. Michael	6	6	0	5
-W. Tukuafu	1	-5	0	-5
-Receiving	REC	YDS	TD	LG
-D. Baldwin	8	118	1	28
-C. Helfet	4	43	0	16
-F. Jackson	5	43	0	14
-J. Kearse	3	38	1	18T
-T. Lockett	3	33	0	16
-C. Michael	2	14	0	11
-Fumbles	FUM	LOST	REC	YDS
-P. Lewis	2	0	0	-21
-D. Baldwin	1	0	0	0
-W. Tukuafu	1	1	0	0
-R. Wilson	1	1	0	0
-F. Jackson	0	0	1	0
-J. Kearse	0	0	1	0
-C. Michael	0	0	1	0
-D. Shead	0	0	0	0
-K. Wright	0	0	0	0
-Kicking	FG	LG	XP	PTS
-S. Hauschka	1/1	26	2/2	5
-Punting	NO	AVG	I20	LG
-J. Ryan	5	35.6	2	45
-Kickoff Returns	NO	AVG	TD	LG
-T. Lockett	4	26	0	34
-Punt Returns	NO	AVG	TD	LG
-T. Lockett	2	10	0	13
-K. Smith	0	0	0	0
-Defense	T-A	SCK	INT	FF
-B. Wagner	9-2	0.0	0	0
-K. McCray	5-5	0.0	0	0
-B. Mebane	4-0	0.0	0	0
-K. Wright	4-2	0.0	0	1
-J. Lane	2-0	0.0	0	0
-A. Rubin	2-2	0.0	0	0
-D. Shead	2-2	0.0	0	1
-R. Sherman	2-1	0.0	0	0
-C. Avril	1-1	0.0	0	0
-M. Bennett	1-0	0.0	0	0
-B. Irvin	1-0	0.0	0	0
-E. Thomas	1-1	0.0	0	0
-Total First Downs	18
-By Rushing	3
-By Passing	13
-By Penalty	
-Third Down Efficiency	8/17 - 47%
-Fourth Down Efficiency	1/1 - 100%
-Total Net Yards	312
-Total Rushing/Passing Plays (includes Sacks)	67
-Average Gain per Offensive Play	4.7
-Net Yards Rushing	59
-Total Rushing Plays	22
-Average Gain per Rushing Play	2.7
-Tackled for a Loss (Number-Yards)	4--17
-Net Yards Passing	253
-Times Sacked (Number-Yards)	4 - 36
-Gross Yards Passing	289
-Pass Comp-Att-Int	25 - 41 - 1
-Average Gain per Passing Play (includes Sacks)	5.6
-Kickoffs (Number-In End Zone-Touchbacks)	4 - 2 - 1
-Punts (Number-Average)	5 - 40.4
-Blocked	0
-Net Punting Average	35.6
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	20
-Punt Returns (Number-Yards)	2 - 20
-Kickoff Returns (Number-Yards)	4 - 106
-Interception Returns (Number-Yards)	0 - 0
-Penalties (Number-Yards)	10 - 83
-Fumbles (Number-Lost)	5 - 2
-Touchdowns	2
-Rushing	0
-Passing	2
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	2 - 2
-Kicking (Made-Attempted)	2 - 2
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	1 - 1
-Red Zone Efficiency	2/3 - 66%
-Goal To Go Efficiency	0/1 - 0%
-Safeties	0
-Final Score	17
-Time of Possession	32:06
-
-Passing	CP/AT	YDS	TD	INT
-R. Wilson	19/28	197	3	0
-T. Jackson	3/4	28	0	0
-Rushing	ATT	YDS	TD	LG
-C. Michael	17	102	0	45
-B. Brown	9	20	1	5
-R. Wilson	5	13	0	9
-T. Lockett	2	7	0	8
-K. Williams	1	5	0	5
-T. Jackson	2	-2	0	-1
-Receiving	REC	YDS	TD	LG
-D. Baldwin	5	46	0	15
-C. Helfet	4	42	0	20
-T. Lockett	2	36	0	36
-J. Kearse	3	34	1	24T
-C. Coffman	4	29	1	8T
-K. Smith	1	17	0	17
-K. Williams	1	8	0	8
-W. Tukuafu	1	7	1	7T
-F. Jackson	1	6	0	6
-Fumbles	FUM	LOST	REC	YDS
-Kicking	FG	LG	XP	PTS
-S. Hauschka	3/4	52	3/4	12
-Punting	NO	AVG	I20	LG
-J. Ryan	2	46.5	2	46
-Kickoff Returns	NO	AVG	TD	LG
-Punt Returns	NO	AVG	TD	LG
-T. Lockett	4	34	0	66
-Defense	T-A	SCK	INT	FF
-K. Wright	5-1	0.0	0	0
-R. Sherman	3-0	0.0	0	0
-B. Coyle	2-1	0.0	0	0
-J. Hill	2-0	0.0	0	0
-K. McCray	2-1	0.0	0	0
-M. Morgan	2-0	0.0	0	0
-A. Rubin	2-0	0.0	0	0
-B. Wagner	2-0	0.0	0	0
-C. Avril	1-1	1.5	0	0
-M. Bennett	1-1	0.5	0	0
-M. Burley	1-0	0.0	0	0
-F. Clark	1-0	0.0	0	0
-D. Dobbs	1-0	0.0	0	0
-B. Irvin	1-0	0.0	0	0
-J. Lane	1-0	0.0	1	0
-B. Mebane	1-0	0.0	0	0
-D. Shead	1-0	0.0	1	0
-S. Terrell	1-0	0.0	0	0
-E. Thomas	0-0	0.0	1	0
-Total First Downs	22
-By Rushing	7
-By Passing	14
-By Penalty	
-Third Down Efficiency	8/15 - 53%
-Fourth Down Efficiency	1/1 - 100%
-Total Net Yards	354
-Total Rushing/Passing Plays (includes Sacks)	69
-Average Gain per Offensive Play	5.1
-Net Yards Rushing	145
-Total Rushing Plays	36
-Average Gain per Rushing Play	4.0
-Tackled for a Loss (Number-Yards)	3--12
-Net Yards Passing	209
-Times Sacked (Number-Yards)	1 - 16
-Gross Yards Passing	225
-Pass Comp-Att-Int	22 - 32 - 0
-Average Gain per Passing Play (includes Sacks)	6.3
-Kickoffs (Number-In End Zone-Touchbacks)	8 - 8 - 7
-Punts (Number-Average)	2 - 45.5
-Blocked	0
-Net Punting Average	46.5
-FGs Blocked - PATs Blocked	0 - 0
-Total Return Yardage (excludes Kickoffs)	195
-Punt Returns (Number-Yards)	4 - 139
-Kickoff Returns (Number-Yards)	0 - 0
-Interception Returns (Number-Yards)	3 - 56
-Penalties (Number-Yards)	6 - 70
-Fumbles (Number-Lost)	0 - 0
-Touchdowns	4
-Rushing	1
-Passing	3
-Interceptions	0
-Kickoff Returns	0
-Fumble Returns	0
-Punt Returns	0
-Extra Points (Made-Attempted)	3 - 4
-Kicking (Made-Attempted)	3 - 4
-Two Point Conversions (Made-Attempted)	0 - 0
-Field Goals (Made-Attempted)	3 - 4
-Red Zone Efficiency	3/6 - 50%
-Goal To Go Efficiency	3/3 - 100%
-Safeties	0
-Final Score	36
-Time of Possession	36:37
-
+1	Total First Downs	21			
+1	By Rushing	10			
+1	By Passing	10			
+1	By Penalty				
+1	Third Down Efficiency	8/19 - 42%			
+1	Fourth Down Efficiency	1/2 - 50%			
+1	Total Net Yards	343			
+1	Total Rushing/Passing Plays (includes Sacks)	79			
+1	Average Gain per Offensive Play	4.3			
+1	Net Yards Rushing	124			
+1	Total Rushing Plays	32			
+1	Average Gain per Rushing Play	3.9			
+1	Tackled for a Loss (Number-Yards)	4--5			
+1	Net Yards Passing	219			
+1	Times Sacked (Number-Yards)	6 - 32			
+1	Gross Yards Passing	251			
+1	Pass Comp-Att-Int	32 - 41 - 1			
+1	Average Gain per Passing Play (includes Sacks)	4.7			
+1	Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 3			
+1	Punts (Number-Average)	4 - 51.8			
+1	Blocked	0			
+1	Net Punting Average	25.5			
+1	FGs Blocked - PATs Blocked	0 - 0			
+1	Total Return Yardage (excludes Kickoffs)	63			
+1	Punt Returns (Number-Yards)	2 - 63			
+1	Kickoff Returns (Number-Yards)	2 - 56			
+1	Interception Returns (Number-Yards)	0 - 0			
+1	Penalties (Number-Yards)	7 - 46			
+1	Fumbles (Number-Lost)	0 - 0			
+1	Touchdowns	3			
+1	Rushing	0			
+1	Passing	1			
+1	Interceptions	0			
+1	Kickoff Returns	0			
+1	Fumble Returns	1			
+1	Punt Returns	1			
+1	Extra Points (Made-Attempted)	3 - 3			
+1	Kicking (Made-Attempted)	2 - 2			
+1	Two Point Conversions (Made-Attempted)	1 - 1			
+1	Field Goals (Made-Attempted)	3 - 3			
+1	Red Zone Efficiency	1/4 - 25%			
+1	Goal To Go Efficiency	1/1 - 100%			
+1	Safeties	0			
+1	Final Score	31			
+1	Time of Possession	37:28			
+					
+2	Passing 	CP/AT 	YDS 	TD 	INT
+2	R. Wilson 	19/30 	206 	2 	1
+2	Rushing 	ATT 	YDS 	TD 	LG
+2	R. Wilson 	10 	78 	0 	17
+2	M. Lynch 	15 	41 	0 	11
+2	Receiving 	REC 	YDS 	TD 	LG
+2	D. Baldwin 	7 	92 	1 	32
+2	L. Willson 	2 	36 	0 	24
+2	M. Lynch 	3 	21 	0 	12
+2	T. Lockett 	2 	17 	0 	17
+2	F. Jackson 	2 	16 	1 	11
+2	C. Matthews 	1 	13 	0 	13
+2	J. Graham 	1 	11 	0 	11
+2	D. Coleman 	1 	0 	0 	0
+2	Fumbles 	FUM 	LOST 	REC 	YDS
+2	F. Jackson 	1 	1 	0 	0
+2	G. Gilliam 	0 	0 	0 	0
+2	K. Wright 	0 	0 	1 	0
+2	Kicking 	FG 	LG 	XP 	PTS
+2	S. Hauschka 	1/1 	54 	2/2 	5
+2	Punting 	NO 	AVG 	I20 	LG
+2	J. Ryan 	5 	36.2 	2 	58
+2	Kickoff Returns 	NO 	AVG 	TD 	LG
+2	T. Lockett 	4 	19 	0 	26
+2	Punt Returns 	NO 	AVG 	TD 	LG
+2	T. Lockett 	2 	11 	0 	22
+2	Defense 	T-A 	SCK 	INT 	FF
+2	M. Burley 	7-0 	0.0 	0 	0
+2	B. Wagner 	6-6 	0.0 	0 	0
+2	K. Wright 	6-3 	0.0 	0 	1
+2	D. Shead 	5-3 	0.0 	0 	0
+2	J. Hill 	4-2 	0.0 	0 	0
+2	E. Thomas 	4-1 	0.0 	0 	0
+2	A. Rubin 	3-1 	0.0 	0 	0
+2	C. Avril 	2-1 	0.0 	0 	0
+2	B. Mebane 	2-3 	0.0 	0 	0
+2	C. Williams 	2-1 	0.0 	0 	0
+2	M. Bennett 	1-1 	1.0 	0 	0
+2	B. Irvin 	1-0 	1.0 	0 	0
+2	K. Pierre-Louis 	0-1 	0.0 	0 	0
+2	Total First Downs	21			
+2	By Rushing	8			
+2	By Passing	12			
+2	By Penalty				
+2	Third Down Efficiency	3/9 - 33%			
+2	Fourth Down Efficiency	0/0 - 0%			
+2	Total Net Yards	324			
+2	Total Rushing/Passing Plays (includes Sacks)	57			
+2	Average Gain per Offensive Play	5.7			
+2	Net Yards Rushing	119			
+2	Total Rushing Plays	25			
+2	Average Gain per Rushing Play	4.8			
+2	Tackled for a Loss (Number-Yards)	6--11			
+2	Net Yards Passing	205			
+2	Times Sacked (Number-Yards)	2 - 1			
+2	Gross Yards Passing	206			
+2	Pass Comp-Att-Int	19 - 30 - 1			
+2	Average Gain per Passing Play (includes Sacks)	6.4			
+2	Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 3			
+2	Punts (Number-Average)	5 - 40.2			
+2	Blocked	0			
+2	Net Punting Average	36.2			
+2	FGs Blocked - PATs Blocked	0 - 0			
+2	Total Return Yardage (excludes Kickoffs)	22			
+2	Punt Returns (Number-Yards)	2 - 22			
+2	Kickoff Returns (Number-Yards)	4 - 79			
+2	Interception Returns (Number-Yards)	0 - 0			
+2	Penalties (Number-Yards)	6 - 92			
+2	Fumbles (Number-Lost)	1 - 1			
+2	Touchdowns	2			
+2	Rushing	0			
+2	Passing	2			
+2	Interceptions	0			
+2	Kickoff Returns	0			
+2	Fumble Returns	0			
+2	Punt Returns	0			
+2	Extra Points (Made-Attempted)	2 - 2			
+2	Kicking (Made-Attempted)	2 - 2			
+2	Two Point Conversions (Made-Attempted)	0 - 0			
+2	Field Goals (Made-Attempted)	1 - 1			
+2	Red Zone Efficiency	2/2 - 100%			
+2	Goal To Go Efficiency	1/1 - 100%			
+2	Safeties	0			
+2	Final Score	17			
+2	Time of Possession	26:42			
+					
+3	Passing	CP/AT	YDS	TD	INT
+3	R. Wilson	20/30	235	1	0
+3	Rushing	ATT	YDS	TD	LG
+3	T. Rawls	16	104	0	21
+3	R. Wilson	6	28	0	13
+3	M. Lynch	5	14	0	8
+3	F. Jackson	2	13	0	8
+3	Receiving	REC	YDS	TD	LG
+3	J. Graham	7	83	1	30T
+3	J. Kearse	6	76	0	22
+3	D. Baldwin	3	35	0	22
+3	R. Lockette	1	23	0	23
+3	F. Jackson	2	9	0	5
+3	M. Lynch	1	9	0	9
+3	Fumbles	FUM	LOST	REC	YDS
+3	Kicking	FG	LG	XP	PTS
+3	S. Hauschka	4/4	48	2/2	14
+3	Punting	NO	AVG	I20	LG
+3	J. Ryan	4	41.5	2	46
+3	Kickoff Returns	NO	AVG	TD	LG
+3	T. Lockett	1	105	1	105
+3	Punt Returns	NO	AVG	TD	LG
+3	T. Lockett	3	3	0	10
+3	R. Sherman	1	64	0	64
+3	Defense	T-A	SCK	INT	FF
+3	K. Wright	5-5	0.0	0	0
+3	M. Bennett	2-2	0.0	0	0
+3	M. Burley	2-1	0.0	0	0
+3	F. Clark	2-0	0.0	0	0
+3	J. Hill	2-2	0.0	0	0
+3	D. Shead	2-1	0.0	0	0
+3	B. Wagner	2-5	0.5	0	0
+3	C. Williams	2-2	0.0	0	0
+3	C. Avril	1-2	1.0	0	0
+3	A. Rubin	1-2	0.0	0	0
+3	R. Sherman	1-0	0.0	0	0
+3	K. Chancellor	0-1	0.0	0	0
+3	D. Dobbs	0-3	0.0	0	0
+3	B. Irvin	0-5	0.5	0	0
+3	C. Marsh	0-1	0.0	0	0
+3	Total First Downs	17			
+3	By Rushing	5			
+3	By Passing	12			
+3	By Penalty				
+3	Third Down Efficiency	5/16 - 31%			
+3	Fourth Down Efficiency	2/2 - 100%			
+3	Total Net Yards	371			
+3	Total Rushing/Passing Plays (includes Sacks)	63			
+3	Average Gain per Offensive Play	5.9			
+3	Net Yards Rushing	159			
+3	Total Rushing Plays	29			
+3	Average Gain per Rushing Play	5.5			
+3	Tackled for a Loss (Number-Yards)	1--1			
+3	Net Yards Passing	212			
+3	Times Sacked (Number-Yards)	4 - 23			
+3	Gross Yards Passing	235			
+3	Pass Comp-Att-Int	20 - 30 - 0			
+3	Average Gain per Passing Play (includes Sacks)	6.2			
+3	Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 5			
+3	Punts (Number-Average)	4 - 41.5			
+3	Blocked	0			
+3	Net Punting Average	41.5			
+3	FGs Blocked - PATs Blocked	0 - 0			
+3	Total Return Yardage (excludes Kickoffs)	73			
+3	Punt Returns (Number-Yards)	4 - 73			
+3	Kickoff Returns (Number-Yards)	1 - 105			
+3	Interception Returns (Number-Yards)	0 - 0			
+3	Penalties (Number-Yards)	5 - 41			
+3	Fumbles (Number-Lost)	0 - 0			
+3	Touchdowns	2			
+3	Rushing	0			
+3	Passing	1			
+3	Interceptions	0			
+3	Kickoff Returns	1			
+3	Fumble Returns	0			
+3	Punt Returns	0			
+3	Extra Points (Made-Attempted)	2 - 2			
+3	Kicking (Made-Attempted)	2 - 2			
+3	Two Point Conversions (Made-Attempted)	0 - 0			
+3	Field Goals (Made-Attempted)	4 - 4			
+3	Red Zone Efficiency	0/2 - 0%			
+3	Goal To Go Efficiency	0/1 - 0%			
+3	Safeties	0			
+3	Final Score	26			
+3	Time of Possession	32:36			
+					
+4	Passing	CP/AT	YDS	TD	INT
+4	R. Wilson	20/26	287	1	0
+4	Rushing	ATT	YDS	TD	LG
+4	T. Rawls	17	48	0	10
+4	R. Wilson	10	40	0	15
+4	F. Jackson	3	21	0	16
+4	T. Lockett	1	1	0	1
+4	Receiving	REC	YDS	TD	LG
+4	J. Kearse	2	84	0	50
+4	T. Lockett	4	58	0	23
+4	D. Baldwin	3	36	1	24T
+4	F. Jackson	2	33	0	26
+4	J. Graham	4	29	0	13
+4	C. Matthews	1	21	0	21
+4	L. Willson	2	15	0	9
+4	B. Daniels	1	12	0	12
+4	T. Rawls	1	-1	0	-1
+4	Fumbles	FUM	LOST	REC	YDS
+4	R. Wilson	3	2	1	0
+4	T. Lockett	1	1	0	0
+4	D. Nowak	1	0	0	-12
+4	K. Chancellor	0	0	0	0
+4	Kicking	FG	LG	XP	PTS
+4	S. Hauschka	2/2	52	1/1	7
+4	Punting	NO	AVG	I20	LG
+4	J. Ryan	4	40.8	3	70
+4	Kickoff Returns	NO	AVG	TD	LG
+4	T. Lockett	2	15	0	19
+4	W. Tukuafu	1	16	0	16
+4	Punt Returns	NO	AVG	TD	LG
+4	T. Lockett	5	8	0	14
+4	Defense	T-A	SCK	INT	FF
+4	K. Chancellor	6-1	0.0	0	1
+4	B. Wagner	4-4	0.0	0	0
+4	B. Irvin	3-1	0.0	0	0
+4	R. Sherman	3-2	0.0	0	0
+4	C. Williams	3-0	0.0	0	0
+4	C. Avril	2-2	0.0	0	0
+4	M. Bennett	2-3	0.0	0	0
+4	E. Thomas	2-3	0.0	0	0
+4	K. Wright	2-2	0.0	0	0
+4	F. Clark	1-0	0.0	0	0
+4	C. Marsh	1-0	0.0	0	0
+4	D. Shead	1-0	0.0	0	0
+4	J. Hill	0-5	0.0	0	0
+4	D. King	0-1	0.0	0	0
+4	A. Rubin	0-1	0.0	0	0
+4	Total First Downs	18			
+4	By Rushing	6			
+4	By Passing	12			
+4	By Penalty				
+4	Third Down Efficiency	6/13 - 46%			
+4	Fourth Down Efficiency	0/0 - 0%			
+4	Total Net Yards	345			
+4	Total Rushing/Passing Plays (includes Sacks)	63			
+4	Average Gain per Offensive Play	5.5			
+4	Net Yards Rushing	110			
+4	Total Rushing Plays	31			
+4	Average Gain per Rushing Play	3.5			
+4	Tackled for a Loss (Number-Yards)	3--4			
+4	Net Yards Passing	235			
+4	Times Sacked (Number-Yards)	6 - 52			
+4	Gross Yards Passing	287			
+4	Pass Comp-Att-Int	20 - 26 - 0			
+4	Average Gain per Passing Play (includes Sacks)	7.3			
+4	Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 2			
+4	Punts (Number-Average)	4 - 48.0			
+4	Blocked	0			
+4	Net Punting Average	40.8			
+4	FGs Blocked - PATs Blocked	0 - 0			
+4	Total Return Yardage (excludes Kickoffs)	42			
+4	Punt Returns (Number-Yards)	5 - 42			
+4	Kickoff Returns (Number-Yards)	3 - 46			
+4	Interception Returns (Number-Yards)	0 - 0			
+4	Penalties (Number-Yards)	5 - 30			
+4	Fumbles (Number-Lost)	5 - 3			
+4	Touchdowns	1			
+4	Rushing	0			
+4	Passing	1			
+4	Interceptions	0			
+4	Kickoff Returns	0			
+4	Fumble Returns	0			
+4	Punt Returns	0			
+4	Extra Points (Made-Attempted)	1 - 1			
+4	Kicking (Made-Attempted)	1 - 1			
+4	Two Point Conversions (Made-Attempted)	0 - 0			
+4	Field Goals (Made-Attempted)	2 - 2			
+4	Red Zone Efficiency	0/1 - 0%			
+4	Goal To Go Efficiency	0/1 - 0%			
+4	Safeties	0			
+4	Final Score	13			
+4	Time of Possession	32:04			
+					
+5	Passing	CP/AT	YDS	TD	INT
+5	R. Wilson	15/23	213	1	1
+5	Rushing	ATT	YDS	TD	LG
+5	T. Rawls	23	169	1	69T
+5	R. Wilson	3	21	0	9
+5	F. Jackson	2	5	0	5
+5	R. Smith	2	5	0	3
+5	Receiving	REC	YDS	TD	LG
+5	D. Baldwin	3	70	0	46
+5	J. Kearse	2	38	1	30T
+5	J. Graham	3	30	0	22
+5	F. Jackson	3	29	0	12
+5	T. Lockett	2	29	0	22
+5	L. Willson	2	17	0	9
+5	Fumbles	FUM	LOST	REC	YDS
+5	M. Bennett	0	0	0	0
+5	B. Wagner	0	0	1	23
+5	Kicking	FG	LG	XP	PTS
+5	S. Hauschka	1/1	24	3/3	6
+5	Punting	NO	AVG	I20	LG
+5	J. Ryan	8	36.8	0	62
+5	Kickoff Returns	NO	AVG	TD	LG
+5	T. Lockett	1	21	0	21
+5	Punt Returns	NO	AVG	TD	LG
+5	T. Lockett	2	4	0	12
+5	Defense	T-A	SCK	INT	FF
+5	K. Chancellor	8-3	0.0	0	0
+5	R. Sherman	6-2	0.0	0	0
+5	K. Wright	6-0	0.0	0	0
+5	M. Bennett	5-1	1.0	0	1
+5	B. Wagner	5-2	0.0	0	0
+5	C. Avril	4-2	1.0	0	0
+5	D. Shead	4-1	1.0	0	0
+5	B. Irvin	3-1	0.0	0	0
+5	A. Rubin	3-1	1.0	0	0
+5	C. Williams	3-1	0.0	0	0
+5	C. Marsh	2-1	0.0	0	0
+5	B. Mebane	2-0	0.0	0	0
+5	E. Thomas	2-0	0.0	1	0
+5	J. Hill	1-1	0.0	0	0
+5	Total First Downs	16			
+5	By Rushing	7			
+5	By Passing	9			
+5	By Penalty				
+5	Third Down Efficiency	5/13 - 38%			
+5	Fourth Down Efficiency	0/0 - 0%			
+5	Total Net Yards	397			
+5	Total Rushing/Passing Plays (includes Sacks)	57			
+5	Average Gain per Offensive Play	7.0			
+5	Net Yards Rushing	200			
+5	Total Rushing Plays	30			
+5	Average Gain per Rushing Play	6.7			
+5	Tackled for a Loss (Number-Yards)	1--1			
+5	Net Yards Passing	197			
+5	Times Sacked (Number-Yards)	4 - 16			
+5	Gross Yards Passing	213			
+5	Pass Comp-Att-Int	15 - 23 - 1			
+5	Average Gain per Passing Play (includes Sacks)	7.3			
+5	Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 0			
+5	Punts (Number-Average)	8 - 50.9			
+5	Blocked	0			
+5	Net Punting Average	36.8			
+5	FGs Blocked - PATs Blocked	0 - 0			
+5	Total Return Yardage (excludes Kickoffs)	40			
+5	Punt Returns (Number-Yards)	2 - 8			
+5	Kickoff Returns (Number-Yards)	1 - 21			
+5	Interception Returns (Number-Yards)	1 - 32			
+5	Penalties (Number-Yards)	10 - 112			
+5	Fumbles (Number-Lost)	0 - 0			
+5	Touchdowns	3			
+5	Rushing	1			
+5	Passing	1			
+5	Interceptions	0			
+5	Kickoff Returns	0			
+5	Fumble Returns	1			
+5	Punt Returns	0			
+5	Extra Points (Made-Attempted)	3 - 3			
+5	Kicking (Made-Attempted)	3 - 3			
+5	Two Point Conversions (Made-Attempted)	0 - 0			
+5	Field Goals (Made-Attempted)	1 - 1			
+5	Red Zone Efficiency	0/2 - 0%			
+5	Goal To Go Efficiency	0/1 - 0%			
+5	Safeties	0			
+5	Final Score	24			
+5	Time of Possession	30:35			
+					
+6	Passing	CP/AT	YDS	TD	INT
+6	R. Wilson	18/30	241	1	0
+6	Rushing	ATT	YDS	TD	LG
+6	M. Lynch	17	54	1	17
+6	R. Wilson	8	53	0	24
+6	T. Rawls	1	8	0	8
+6	Receiving	REC	YDS	TD	LG
+6	J. Graham	8	140	0	45
+6	R. Lockette	2	43	1	40T
+6	D. Baldwin	3	23	0	14
+6	L. Willson	1	16	0	16
+6	C. Matthews	1	12	0	12
+6	F. Jackson	2	7	0	5
+6	M. Lynch	1	0	0	0
+6	Fumbles	FUM	LOST	REC	YDS
+6	Kicking	FG	LG	XP	PTS
+6	S. Hauschka	3/3	50	2/2	11
+6	Punting	NO	AVG	I20	LG
+6	J. Ryan	7	44.7	2	68
+6	Kickoff Returns	NO	AVG	TD	LG
+5	T. Lockett	2	13	0	14
+5	Punt Returns	NO	AVG	TD	LG
+6	T. Lockett	4	7	0	10
+6	Defense	T-A	SCK	INT	FF
+6	K. Chancellor	6-4	0.0	1	0
+6	B. Irvin	4-1	2.0	0	0
+6	C. Williams	4-3	0.0	0	0
+6	K. Pierre-Louis	3-8	0.0	0	0
+6	D. Shead	3-0	0.0	0	0
+6	K. Wright	3-9	0.0	0	0
+6	C. Avril	2-1	0.0	0	0
+6	D. Dobbs	2-0	0.0	0	0
+6	R. Sherman	2-2	0.0	0	0
+6	E. Thomas	2-2	0.0	1	0
+6	M. Bennett	1-1	0.0	0	0
+6	M. Morgan	1-0	1.0	0	0
+6	C. Marsh	0-2	0.0	0	0
+6	B. Mebane	0-1	0.0	0	0
+6	A. Rubin	0-2	0.0	0	0
+6	Total First Downs	14			
+6	By Rushing	4			
+6	By Passing	10			
+6	By Penalty				
+6	Third Down Efficiency	4/14 - 28%			
+6	Fourth Down Efficiency	0/0 - 0%			
+6	Total Net Yards	334			
+6	Total Rushing/Passing Plays (includes Sacks)	60			
+6	Average Gain per Offensive Play	5.6			
+6	Net Yards Rushing	115			
+6	Total Rushing Plays	26			
+6	Average Gain per Rushing Play	4.4			
+6	Tackled for a Loss (Number-Yards)	3--8			
+6	Net Yards Passing	219			
+6	Times Sacked (Number-Yards)	4 - 22			
+6	Gross Yards Passing	241			
+6	Pass Comp-Att-Int	18 - 30 - 0			
+6	Average Gain per Passing Play (includes Sacks)	6.4			
+6	Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 6			
+6	Punts (Number-Average)	7 - 50.1			
+6	Blocked	0			
+6	Net Punting Average	44.7			
+6	FGs Blocked - PATs Blocked	0 - 0			
+6	Total Return Yardage (excludes Kickoffs)	34			
+6	Punt Returns (Number-Yards)	4 - 28			
+6	Kickoff Returns (Number-Yards)	2 - 27			
+6	Interception Returns (Number-Yards)	2 - 6			
+6	Penalties (Number-Yards)	7 - 48			
+6	Fumbles (Number-Lost)	0 - 0			
+6	Touchdowns	2			
+6	Rushing	1			
+6	Passing	1			
+6	Interceptions	0			
+6	Kickoff Returns	0			
+6	Fumble Returns	0			
+6	Punt Returns	0			
+6	Extra Points (Made-Attempted)	2 - 2			
+6	Kicking (Made-Attempted)	2 - 2			
+6	Two Point Conversions (Made-Attempted)	0 - 0			
+6	Field Goals (Made-Attempted)	3 - 3			
+6	Red Zone Efficiency	1/3 - 33%			
+6	Goal To Go Efficiency	1/1 - 100%			
+6	Safeties	0			
+6	Final Score	23			
+6	Time of Possession	27:48			
+					
+7	Passing	CP/AT	YDS	TD	INT
+7	R. Wilson	18/24	235	1	2
+7	Rushing	ATT	YDS	TD	LG
+7	M. Lynch	27	122	1	17
+7	T. Rawls	6	32	0	17
+7	R. Wilson	7	20	0	9
+7	F. Jackson	1	2	0	2
+7	Receiving	REC	YDS	TD	LG
+7	T. Lockett	5	79	1	43T
+7	J. Kearse	3	64	0	36
+7	F. Jackson	4	33	0	18
+7	J. Graham	2	31	0	23
+7	D. Baldwin	2	19	0	15
+7	T. Rawls	2	9	0	5
+7	Fumbles	FUM	LOST	REC	YDS
+7	C. Avril	0	0	0	0
+7	Kicking	FG	LG	XP	PTS
+7	S. Hauschka	2/2	49	2/2	8
+7	Punting	NO	AVG	I20	LG
+7	J. Ryan	4	39.5	1	53
+7	Kickoff Returns	NO	AVG	TD	LG
+7	T. Lockett	1	20	0	20
+7	Punt Returns	NO	AVG	TD	LG
+7	T. Lockett	5	2	0	5
+7	Defense	T-A	SCK	INT	FF
+7	B. Wagner	5-0	0.0	0	0
+7	C. Avril	4-1	1.5	0	1
+7	M. Bennett	4-1	3.5	0	0
+7	E. Thomas	3-2	0.0	0	0
+7	K. Wright	3-1	0.0	0	0
+7	K. Chancellor	2-1	0.0	0	0
+7	F. Clark	2-0	0.0	0	0
+7	D. Shead	2-0	0.0	0	0
+7	R. Sherman	2-1	0.0	0	0
+7	C. Williams	2-1	0.0	0	0
+7	B. Irvin	1-0	0.0	0	0
+7	D. King	1-1	0.5	0	0
+7	C. Marsh	1-0	0.0	0	0
+7	B. Mebane	0-1	0.5	0	0
+7	Total First Downs	21			
+7	By Rushing	11			
+7	By Passing	9			
+7	By Penalty				
+7	Third Down Efficiency	5/13 - 38%			
+7	Fourth Down Efficiency	1/1 - 100%			
+7	Total Net Yards	388			
+7	Total Rushing/Passing Plays (includes Sacks)	70			
+7	Average Gain per Offensive Play	5.5			
+7	Net Yards Rushing	176			
+7	Total Rushing Plays	41			
+7	Average Gain per Rushing Play	4.3			
+7	Tackled for a Loss (Number-Yards)	1--4			
+7	Net Yards Passing	212			
+7	Times Sacked (Number-Yards)	5 - 23			
+7	Gross Yards Passing	235			
+7	Pass Comp-Att-Int	18 - 24 - 2			
+7	Average Gain per Passing Play (includes Sacks)	7.3			
+7	Kickoffs (Number-In End Zone-Touchbacks)	5 - 3 - 1			
+7	Punts (Number-Average)	4 - 46.8			
+7	Blocked	0			
+7	Net Punting Average	39.5			
+7	FGs Blocked - PATs Blocked	0 - 0			
+7	Total Return Yardage (excludes Kickoffs)	11			
+7	Punt Returns (Number-Yards)	5 - 11			
+7	Kickoff Returns (Number-Yards)	1 - 20			
+7	Interception Returns (Number-Yards)	0 - 0			
+7	Penalties (Number-Yards)	6 - 50			
+7	Fumbles (Number-Lost)	0 - 0			
+7	Touchdowns	2			
+7	Rushing	1			
+7	Passing	1			
+7	Interceptions	0			
+7	Kickoff Returns	0			
+7	Fumble Returns	0			
+7	Punt Returns	0			
+7	Extra Points (Made-Attempted)	2 - 2			
+7	Kicking (Made-Attempted)	2 - 2			
+7	Two Point Conversions (Made-Attempted)	0 - 0			
+7	Field Goals (Made-Attempted)	2 - 2			
+7	Red Zone Efficiency	1/1 - 100%			
+7	Goal To Go Efficiency	1/1 - 100%			
+7	Safeties	0			
+7	Final Score	20			
+7	Time of Possession	38:05			
+					
+8	Passing	CP/AT	YDS	TD	INT
+8	R. Wilson	19/30	210	1	1
+8	Rushing	ATT	YDS	TD	LG
+8	M. Lynch	21	71	0	12
+8	R. Wilson	6	32	0	10
+8	T. Rawls	4	10	0	7
+8	Receiving	REC	YDS	TD	LG
+8	J. Graham	7	75	0	19
+8	L. Willson	2	41	1	22T
+8	T. Lockett	3	36	0	16
+8	D. Baldwin	3	35	0	15
+8	M. Lynch	2	11	0	10
+8	F. Jackson	1	9	0	9
+8	R. Lockette	1	3	0	3
+8	Fumbles	FUM	LOST	REC	YDS
+8	Kicking	FG	LG	XP	PTS
+8	S. Hauschka	2/3	26	1/1	7
+8	Punting	NO	AVG	I20	LG
+8	J. Ryan	4	46.3	0	55
+8	Kickoff Returns	NO	AVG	TD	LG
+8	T. Lockett	1	18	0	18
+8	Punt Returns	NO	AVG	TD	LG
+8	T. Lockett	1	12	0	12
+8	Defense	T-A	SCK	INT	FF
+8	K. Wright	6-3	0.0	0	0
+8	K. Chancellor	5-1	0.0	0	0
+8	E. Thomas	4-1	0.0	0	0
+8	B. Wagner	4-1	0.0	0	0
+8	C. Williams	4-1	0.0	0	0
+8	C. Avril	3-1	0.0	0	0
+8	M. Bennett	2-1	0.0	0	0
+8	C. Marsh	2-0	0.0	0	0
+8	A. Rubin	2-2	0.0	0	0
+8	F. Clark	1-0	0.0	0	0
+8	J. Hill	1-0	0.0	0	0
+8	B. Irvin	1-0	1.0	0	0
+8	D. Shead	1-1	0.0	0	0
+8	R. Sherman	1-0	0.0	0	0
+8	Total First Downs	19			
+8	By Rushing	8			
+8	By Passing	11			
+8	By Penalty				
+8	Third Down Efficiency	5/12 - 41%			
+8	Fourth Down Efficiency	0/0 - 0%			
+8	Total Net Yards	323			
+8	Total Rushing/Passing Plays (includes Sacks)	61			
+8	Average Gain per Offensive Play	5.3			
+8	Net Yards Rushing	113			
+8	Total Rushing Plays	31			
+8	Average Gain per Rushing Play	3.6			
+8	Tackled for a Loss (Number-Yards)	5--10			
+8	Net Yards Passing	210			
+8	Times Sacked (Number-Yards)	0 - 0			
+8	Gross Yards Passing	210			
+8	Pass Comp-Att-Int	19 - 30 - 1			
+8	Average Gain per Passing Play (includes Sacks)	7.0			
+8	Kickoffs (Number-In End Zone-Touchbacks)	4 - 4 - 4			
+8	Punts (Number-Average)	4 - 48.3			
+8	Blocked	0			
+8	Net Punting Average	46.3			
+8	FGs Blocked - PATs Blocked	1 - 0			
+8	Total Return Yardage (excludes Kickoffs)	12			
+8	Punt Returns (Number-Yards)	1 - 12			
+8	Kickoff Returns (Number-Yards)	1 - 18			
+8	Interception Returns (Number-Yards)	0 - 0			
+8	Penalties (Number-Yards)	5 - 40			
+8	Fumbles (Number-Lost)	0 - 0			
+8	Touchdowns	1			
+8	Rushing	0			
+8	Passing	1			
+8	Interceptions	0			
+8	Kickoff Returns	0			
+8	Fumble Returns	0			
+8	Punt Returns	0			
+8	Extra Points (Made-Attempted)	1 - 1			
+8	Kicking (Made-Attempted)	1 - 1			
+8	Two Point Conversions (Made-Attempted)	0 - 0			
+8	Field Goals (Made-Attempted)	2 - 3			
+8	Red Zone Efficiency	0/2 - 0%			
+8	Goal To Go Efficiency	0/1 - 0%			
+8	Safeties	0			
+8	Final Score	13			
+8	Time of Possession	29:38			
+					
+	week 9 bye				
+					
+10	Passing	CP/AT	YDS	TD	INT
+10	R. Wilson	14/32	240	1	1
+10	Rushing	ATT	YDS	TD	LG
+10	R. Wilson	6	52	0	20
+10	M. Lynch	8	42	1	16
+10	T. Rawls	2	19	0	13
+10	W. Tukuafu	2	2	1	1T
+10	Receiving	REC	YDS	TD	LG
+10	D. Baldwin	7	134	1	33
+10	J. Graham	3	41	0	30
+10	P. Richardson	1	40	0	40
+10	J. Kearse	1	10	0	10
+10	M. Lynch	1	8	0	8
+10	T. Lockett	1	7	0	7
+10	Fumbles	FUM	LOST	REC	YDS
+10	R. Wilson	2	0	1	0
+10	C. Avril	0	0	0	0
+10	B. Wagner	0	0	1	22
+10	K. Wright	0	0	1	4
+10	Kicking	FG	LG	XP	PTS
+10	S. Hauschka	2/2	46	2/2	8
+10	Punting	NO	AVG	I20	LG
+10	J. Ryan	5	35.0	2	57
+10	Kickoff Returns	NO	AVG	TD	LG
+10	T. Lockett	5	20	0	34
+10	Punt Returns	NO	AVG	TD	LG
+10	T. Lockett	1	0	0	0
+10	Defense	T-A	SCK	INT	FF
+10	K. Chancellor	5-12	0.0	0	0
+10	E. Thomas	4-0	0.0	1	0
+10	B. Wagner	4-7	0.0	0	0
+10	C. Williams	4-5	0.0	0	0
+10	K. Wright	4-5	1.0	0	1
+10	C. Avril	3-2	1.0	0	1
+10	A. Rubin	3-0	1.0	0	0
+10	R. Sherman	3-2	0.0	0	0
+10	F. Clark	2-0	0.0	0	0
+10	D. Dobbs	1-0	0.0	0	0
+10	J. Hill	1-0	0.0	0	0
+10	B. Irvin	1-4	0.0	0	0
+10	C. Marsh	1-0	0.0	0	0
+10	D. Shead	1-0	0.0	0	0
+10	M. Bennett	0-2	0.0	0	0
+10	B. Mebane	0-1	0.0	0	0
+10	Total First Downs	18			
+10	By Rushing	9			
+10	By Passing	7			
+10	By Penalty				
+10	Third Down Efficiency	1/8 - 12%			
+10	Fourth Down Efficiency	1/1 - 100%			
+10	Total Net Yards	343			
+10	Total Rushing/Passing Plays (includes Sacks)	52			
+10	Average Gain per Offensive Play	6.6			
+10	Net Yards Rushing	115			
+10	Total Rushing Plays	18			
+10	Average Gain per Rushing Play	6.4			
+10	Tackled for a Loss (Number-Yards)	1--1			
+10	Net Yards Passing	228			
+10	Times Sacked (Number-Yards)	2 - 12			
+10	Gross Yards Passing	240			
+10	Pass Comp-Att-Int	14 - 32 - 1			
+10	Average Gain per Passing Play (includes Sacks)	6.7			
+10	Kickoffs (Number-In End Zone-Touchbacks)	8 - 6 - 2			
+10	Punts (Number-Average)	5 - 40.8			
+10	Blocked	0			
+10	Net Punting Average	35.0			
+10	FGs Blocked - PATs Blocked	0 - 0			
+10	Total Return Yardage (excludes Kickoffs)	0			
+10	Punt Returns (Number-Yards)	1 - 0			
+10	Kickoff Returns (Number-Yards)	5 - 104			
+10	Interception Returns (Number-Yards)	1 - 0			
+10	Penalties (Number-Yards)	14 - 131			
+10	Fumbles (Number-Lost)	2 - 0			
+10	Touchdowns	4			
+10	Rushing	2			
+10	Passing	1			
+10	Interceptions	0			
+10	Kickoff Returns	0			
+10	Fumble Returns	1			
+10	Punt Returns	0			
+10	Extra Points (Made-Attempted)	2 - 4			
+10	Kicking (Made-Attempted)	2 - 2			
+10	Two Point Conversions (Made-Attempted)	0 - 2			
+10	Field Goals (Made-Attempted)	2 - 2			
+10	Red Zone Efficiency	2/3 - 66%			
+10	Goal To Go Efficiency	2/2 - 100%			
+10	Safeties	0			
+10	Final Score	32			
+10	Time of Possession	21:08			
+					
+11	Passing	CP/AT	YDS	TD	INT
+11	R. Wilson	24/29	260	3	0
+11	Rushing	ATT	YDS	TD	LG
+11	T. Rawls	30	209	1	30
+11	R. Wilson	9	30	0	8
+11	F. Jackson	4	11	0	5
+11	T. Lockett	1	5	0	5
+11	Receiving	REC	YDS	TD	LG
+11	D. Baldwin	6	60	0	21
+11	T. Lockett	4	48	2	24T
+11	T. Rawls	3	46	1	31T
+11	J. Graham	3	39	0	20
+11	J. Kearse	3	34	0	18
+11	L. Willson	2	15	0	10
+11	F. Jackson	2	11	0	9
+11	C. Helfet	1	7	0	7
+11	Fumbles	FUM	LOST	REC	YDS
+11	D. Shead	0	0	0	0
+11	K. Wright	0	0	0	0
+11	Kicking	FG	LG	XP	PTS
+11	S. Hauschka	1/1	33	2/4	5
+11	Punting	NO	AVG	I20	LG
+11	J. Ryan	4	37.0	3	43
+11	Kickoff Returns	NO	AVG	TD	LG
+11	Punt Returns	NO	AVG	TD	LG
+11	T. Lockett	4	0	0	4
+11	Defense	T-A	SCK	INT	FF
+11	K. Chancellor	3-2	0.0	0	0
+11	D. Dobbs	3-1	0.0	0	0
+11	D. Shead	3-0	0.0	0	0
+11	B. Wagner	3-5	0.0	0	0
+11	C. Williams	3-2	0.0	0	0
+11	C. Avril	2-1	2.0	0	0
+11	M. Morgan	2-2	0.0	0	0
+11	R. Sherman	2-2	0.0	0	0
+11	K. Wright	2-4	0.0	0	1
+11	M. Burley	1-0	0.0	0	0
+11	C. Marsh	1-0	0.0	0	0
+11	E. Thomas	1-4	0.0	0	0
+11	M. Bennett	0-1	0.0	0	0
+11	F. Clark	0-1	0.0	0	0
+11	J. Hill	0-2	0.0	0	0
+11	A. Rubin	0-1	0.0	0	0
+11	Total First Downs	28			
+11	By Rushing	14			
+11	By Passing	14			
+11	By Penalty				
+11	Third Down Efficiency	8/14 - 57%			
+11	Fourth Down Efficiency	0/0 - 0%			
+11	Total Net Yards	508			
+11	Total Rushing/Passing Plays (includes Sacks)	75			
+11	Average Gain per Offensive Play	6.8			
+11	Net Yards Rushing	255			
+11	Total Rushing Plays	44			
+11	Average Gain per Rushing Play	5.8			
+11	Tackled for a Loss (Number-Yards)	1--4			
+11	Net Yards Passing	253			
+11	Times Sacked (Number-Yards)	2 - 7			
+11	Gross Yards Passing	260			
+11	Pass Comp-Att-Int	24 - 29 - 0			
+11	Average Gain per Passing Play (includes Sacks)	8.2			
+11	Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 2			
+11	Punts (Number-Average)	4 - 38.5			
+11	Blocked	0			
+11	Net Punting Average	37.0			
+11	FGs Blocked - PATs Blocked	0 - 1			
+11	Total Return Yardage (excludes Kickoffs)	1			
+11	Punt Returns (Number-Yards)	4 - 1			
+11	Kickoff Returns (Number-Yards)	0 - 0			
+11	Interception Returns (Number-Yards)	0 - 0			
+11	Penalties (Number-Yards)	8 - 51			
+11	Fumbles (Number-Lost)	0 - 0			
+11	Touchdowns	4			
+11	Rushing	1			
+11	Passing	3			
+11	Interceptions	0			
+11	Kickoff Returns	0			
+11	Fumble Returns	0			
+11	Punt Returns	0			
+11	Extra Points (Made-Attempted)	2 - 4			
+11	Kicking (Made-Attempted)	2 - 4			
+11	Two Point Conversions (Made-Attempted)	0 - 0			
+11	Field Goals (Made-Attempted)	1 - 1			
+11	Red Zone Efficiency	2/3 - 66%			
+11	Goal To Go Efficiency	1/1 - 100%			
+11	Safeties	0			
+11	Final Score	29			
+11	Time of Possession	37:39			
+					
+12	Passing	CP/AT	YDS	TD	INT
+12	R. Wilson	21/30	345	5	0
+12	Rushing	ATT	YDS	TD	LG
+12	T. Rawls	21	81	1	17
+12	R. Wilson	4	14	0	10
+12	F. Jackson	1	4	0	4
+12	D. Coleman	1	1	0	1
+12	Receiving	REC	YDS	TD	LG
+12	D. Baldwin	6	145	3	80T
+12	J. Graham	4	75	0	36
+12	J. Kearse	4	47	2	22
+12	T. Lockett	3	38	0	16
+12	K. Smith	1	21	0	21
+12	L. Willson	1	12	0	12
+12	F. Jackson	2	7	0	8
+12	Fumbles	FUM	LOST	REC	YDS
+12	J. Kearse	1	0	0	0
+12	R. Wilson	1	0	0	-3
+12	T. Rawls	0	0	1	0
+12	B. Wagner	0	0	0	0
+12	Kicking	FG	LG	XP	PTS
+12	S. Hauschka	0/0	0	3/4	3
+12	Punting	NO	AVG	I20	LG
+12	J. Ryan	6	36.3	3	63
+12	Kickoff Returns	NO	AVG	TD	LG
+12	T. Lockett	5	29	0	54
+12	Punt Returns	NO	AVG	TD	LG
+12	T. Lockett	0	0	0	0
+12	Defense	T-A	SCK	INT	FF
+12	D. Shead	8-2	0.0	0	0
+12	B. Wagner	7-5	0.0	0	1
+12	E. Thomas	6-0	0.0	0	0
+12	K. Wright	4-2	0.0	0	0
+12	C. Avril	2-0	1.0	0	0
+12	M. Burley	2-0	0.0	0	0
+12	K. Chancellor	2-3	0.0	1	0
+12	M. Morgan	2-2	0.0	0	0
+12	R. Sherman	2-3	0.0	1	0
+12	F. Clark	1-0	1.0	0	0
+12	J. Lane	1-1	0.0	1	0
+12	M. Bennett	0-2	0.0	0	0
+12	B. Irvin	0-2	0.0	0	0
+12	C. Marsh	0-1	0.0	0	0
+12	B. Mebane	0-2	0.0	0	0
+12	A. Rubin	0-1	0.0	1	0
+12	Total First Downs	21			
+12	By Rushing	5			
+12	By Passing	15			
+12	By Penalty				
+12	Third Down Efficiency	7/13 - 53%			
+12	Fourth Down Efficiency	0/0 - 0%			
+12	Total Net Yards	436			
+12	Total Rushing/Passing Plays (includes Sacks)	59			
+12	Average Gain per Offensive Play	7.4			
+12	Net Yards Rushing	100			
+12	Total Rushing Plays	27			
+12	Average Gain per Rushing Play	3.7			
+12	Tackled for a Loss (Number-Yards)	1--3			
+12	Net Yards Passing	336			
+12	Times Sacked (Number-Yards)	2 - 9			
+12	Gross Yards Passing	345			
+12	Pass Comp-Att-Int	21 - 30 - 0			
+12	Average Gain per Passing Play (includes Sacks)	10.5			
+12	Kickoffs (Number-In End Zone-Touchbacks)	7 - 7 - 3			
+12	Punts (Number-Average)	6 - 42.5			
+12	Blocked	0			
+12	Net Punting Average	36.3			
+12	FGs Blocked - PATs Blocked	0 - 1			
+12	Total Return Yardage (excludes Kickoffs)	82			
+12	Punt Returns (Number-Yards)	0 - 0			
+12	Kickoff Returns (Number-Yards)	5 - 148			
+12	Interception Returns (Number-Yards)	4 - 82			
+12	Penalties (Number-Yards)	8 - 76			
+12	Fumbles (Number-Lost)	2 - 0			
+12	Touchdowns	6			
+12	Rushing	1			
+12	Passing	5			
+12	Interceptions	0			
+12	Kickoff Returns	0			
+12	Fumble Returns	0			
+12	Punt Returns	0			
+12	Extra Points (Made-Attempted)	3 - 6			
+12	Kicking (Made-Attempted)	3 - 4			
+12	Two Point Conversions (Made-Attempted)	0 - 2			
+12	Field Goals (Made-Attempted)	0 - 0			
+12	Red Zone Efficiency	4/4 - 100%			
+12	Goal To Go Efficiency	2/2 - 100%			
+12	Safeties	0			
+12	Final Score	39			
+12	Time of Possession	28:00			
+					
+13	Passing	CP/AT	YDS	TD	INT
+13	R. Wilson	21/27	274	3	0
+13	T. Jackson	0/1	0	0	0
+13	Rushing	ATT	YDS	TD	LG
+13	T. Rawls	19	101	1	20
+13	R. Wilson	9	51	1	14
+13	D. Harris	3	7	0	3
+13	T. Lockett	1	7	0	7
+13	F. Jackson	1	5	0	5
+13	W. Tukuafu	1	4	0	4
+13	T. Jackson	2	-2	0	-1
+13	Receiving	REC	YDS	TD	LG
+13	D. Baldwin	5	94	2	53T
+13	T. Lockett	7	90	0	29
+13	L. Willson	2	36	0	22
+13	T. Rawls	3	22	0	9
+13	C. Helfet	1	13	0	13
+13	F. Jackson	2	13	1	8
+13	B. Daniels	1	6	0	6
+13	Fumbles	FUM	LOST	REC	YDS
+13	T. Lockett	1	0	0	0
+13	T. Rawls	1	1	0	0
+13	B. Irvin	0	0	0	0
+13	Kicking	FG	LG	XP	PTS
+13	S. Hauschka	1/1	23	5/5	8
+13	Punting	NO	AVG	I20	LG
+13	J. Ryan	2	27.0	0	40
+13	Kickoff Returns	NO	AVG	TD	LG
+13	T. Lockett	1	47	0	47
+13	Punt Returns	NO	AVG	TD	LG
+13	T. Lockett	3	6	0	19
+13	B. Daniels	1	7	0	7
+13	Defense	T-A	SCK	INT	FF
+13	K. Wright	9-1	0.0	0	0
+13	B. Wagner	7-0	0.0	0	0
+13	K. Chancellor	5-2	0.0	0	0
+13	M. Bennett	3-1	1.0	0	0
+13	B. Irvin	3-0	1.0	0	1
+13	F. Clark	2-0	2.0	0	0
+13	C. Marsh	2-0	0.0	0	0
+13	D. Shead	2-0	0.0	0	0
+13	K. McCray	1-0	0.0	0	0
+13	A. Rubin	1-0	0.0	0	0
+13	R. Sherman	1-0	0.0	0	0
+13	E. Thomas	1-1	0.0	1	0
+13	Total First Downs	25			
+13	By Rushing	11			
+13	By Passing	11			
+13	By Penalty				
+13	Third Down Efficiency	9/13 - 69%			
+13	Fourth Down Efficiency	1/1 - 100%			
+13	Total Net Yards	433			
+13	Total Rushing/Passing Plays (includes Sacks)	66			
+13	Average Gain per Offensive Play	6.6			
+13	Net Yards Rushing	173			
+13	Total Rushing Plays	36			
+13	Average Gain per Rushing Play	4.8			
+13	Tackled for a Loss (Number-Yards)	3--8			
+13	Net Yards Passing	260			
+13	Times Sacked (Number-Yards)	2 - 14			
+13	Gross Yards Passing	274			
+13	Pass Comp-Att-Int	21 - 28 - 0			
+13	Average Gain per Passing Play (includes Sacks)	8.7			
+13	Kickoffs (Number-In End Zone-Touchbacks)	7 - 6 - 1			
+13	Punts (Number-Average)	2 - 39.0			
+13	Blocked	0			
+13	Net Punting Average	27.0			
+13	FGs Blocked - PATs Blocked	0 - 0			
+13	Total Return Yardage (excludes Kickoffs)	51			
+13	Punt Returns (Number-Yards)	4 - 26			
+13	Kickoff Returns (Number-Yards)	1 - 47			
+13	Interception Returns (Number-Yards)	1 - 25			
+13	Penalties (Number-Yards)	9 - 65			
+13	Fumbles (Number-Lost)	2 - 1			
+13	Touchdowns	5			
+13	Rushing	2			
+13	Passing	3			
+13	Interceptions	0			
+13	Kickoff Returns	0			
+13	Fumble Returns	0			
+13	Punt Returns	0			
+13	Extra Points (Made-Attempted)	5 - 5			
+13	Kicking (Made-Attempted)	5 - 5			
+13	Two Point Conversions (Made-Attempted)	0 - 0			
+13	Field Goals (Made-Attempted)	1 - 1			
+13	Red Zone Efficiency	3/4 - 75%			
+13	Goal To Go Efficiency	2/3 - 66%			
+13	Safeties	0			
+13	Final Score	38			
+13	Time of Possession	35:10			
+					
+14	Passing	CP/AT	YDS	TD	INT
+14	R. Wilson	23/32	292	5	0
+14	T. Jackson	1/1	9	0	0
+14	Rushing	ATT	YDS	TD	LG
+14	T. Rawls	6	44	0	16
+14	D. Harris	18	42	0	6
+14	D. Coleman	1	19	0	19
+14	F. Jackson	7	15	0	5
+14	R. Wilson	1	6	0	6
+14	T. Jackson	3	-3	0	-1
+14	Receiving	REC	YDS	TD	LG
+14	T. Lockett	6	104	2	49T
+14	D. Baldwin	6	82	3	22T
+14	J. Kearse	7	74	0	20
+14	C. Helfet	2	20	0	17
+14	F. Jackson	1	8	0	8
+14	L. Willson	1	8	0	8
+14	K. Smith	1	5	0	5
+14	Fumbles	FUM	LOST	REC	YDS
+14	D. Harris	1	1	0	0
+14	F. Clark	0	0	0	0
+14	B. Wagner	0	0	1	0
+14	Kicking	FG	LG	XP	PTS
+14	S. Hauschka	0/0	0	5/5	5
+14	Punting	NO	AVG	I20	LG
+14	J. Ryan	3	35.7	0	63
+14	Kickoff Returns	NO	AVG	TD	LG
+14	Punt Returns	NO	AVG	TD	LG
+14	T. Lockett	1	0	0	0
+14	Defense	T-A	SCK	INT	FF
+14	K. Wright	5-3	0.0	0	0
+14	E. Thomas	4-0	0.0	0	0
+14	M. Bennett	3-1	1.0	0	0
+14	K. McCray	3-0	0.0	0	0
+14	J. Lane	2-0	0.0	0	0
+14	B. Mebane	2-1	0.0	0	0
+14	D. Shead	2-1	0.0	0	0
+14	R. Sherman	2-0	0.0	1	0
+14	B. Wagner	2-4	0.0	0	0
+14	C. Avril	1-1	0.0	0	0
+14	M. Burley	1-0	0.0	0	0
+14	F. Clark	1-0	0.0	0	1
+14	B. Irvin	1-0	0.0	0	0
+14	C. Marsh	1-0	0.0	0	0
+14	A. Francis	0-1	0.0	0	0
+14	A. Rubin	0-2	0.0	0	0
+14	Total First Downs	28			
+14	By Rushing	8			
+14	By Passing	17			
+14	By Penalty				
+14	Third Down Efficiency	8/12 - 66%			
+14	Fourth Down Efficiency	0/0 - 0%			
+14	Total Net Yards	424			
+14	Total Rushing/Passing Plays (includes Sacks)	69			
+14	Average Gain per Offensive Play	6.1			
+14	Net Yards Rushing	123			
+14	Total Rushing Plays	36			
+14	Average Gain per Rushing Play	3.4			
+14	Tackled for a Loss (Number-Yards)	4--7			
+14	Net Yards Passing	301			
+14	Times Sacked (Number-Yards)	0 - 0			
+14	Gross Yards Passing	301			
+14	Pass Comp-Att-Int	24 - 33 - 0			
+14	Average Gain per Passing Play (includes Sacks)	9.1			
+14	Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 6			
+14	Punts (Number-Average)	3 - 51.0			
+14	Blocked	0			
+14	Net Punting Average	35.7			
+14	FGs Blocked - PATs Blocked	0 - 0			
+14	Total Return Yardage (excludes Kickoffs)	4			
+14	Punt Returns (Number-Yards)	1 - 0			
+14	Kickoff Returns (Number-Yards)	0 - 0			
+14	Interception Returns (Number-Yards)	1 - 4			
+14	Penalties (Number-Yards)	6 - 42			
+14	Fumbles (Number-Lost)	1 - 1			
+14	Touchdowns	5			
+14	Rushing	0			
+14	Passing	5			
+14	Interceptions	0			
+14	Kickoff Returns	0			
+14	Fumble Returns	0			
+14	Punt Returns	0			
+14	Extra Points (Made-Attempted)	5 - 5			
+14	Kicking (Made-Attempted)	5 - 5			
+14	Two Point Conversions (Made-Attempted)	0 - 0			
+14	Field Goals (Made-Attempted)	0 - 0			
+14	Red Zone Efficiency	4/5 - 80%			
+14	Goal To Go Efficiency	0/1 - 0%			
+14	Safeties	0			
+14	Final Score	35			
+14	Time of Possession	35:43			
+					
+15	Passing	CP/AT	YDS	TD	INT
+15	R. Wilson	21/30	249	3	0
+15	Rushing	ATT	YDS	TD	LG
+15	C. Michael	16	84	0	10
+15	R. Wilson	5	46	0	16
+15	B. Brown	9	43	0	18
+15	D. Coleman	5	10	0	6
+15	T. Jackson	1	-1	0	-1
+15	Receiving	REC	YDS	TD	LG
+15	J. Kearse	7	110	0	39
+15	T. Lockett	5	55	1	27T
+15	D. Baldwin	4	45	2	27
+15	F. Jackson	2	17	0	10
+15	L. Willson	2	17	0	11
+15	C. Helfet	1	5	0	5
+15	Fumbles	FUM	LOST	REC	YDS
+15	M. Bennett	0	0	0	0
+15	B. Wagner	0	0	0	0
+15	Kicking	FG	LG	XP	PTS
+15	S. Hauschka	3/3	49	3/3	12
+15	Punting	NO	AVG	I20	LG
+15	J. Ryan	1	44.0	0	64
+15	Kickoff Returns	NO	AVG	TD	LG
+15	T. Lockett	4	22	0	30
+15	Punt Returns	NO	AVG	TD	LG
+15	T. Lockett	1	5	0	5
+15	Defense	T-A	SCK	INT	FF
+15	K. McCray	5-3	0.0	0	0
+15	M. Bennett	4-1	1.0	0	1
+15	J. Lane	4-0	0.0	0	0
+15	K. Wright	4-3	0.0	0	0
+15	M. Burley	2-0	1.0	1	0
+15	F. Clark	2-0	0.0	0	0
+15	B. Mebane	2-1	1.0	0	0
+15	E. Thomas	2-1	0.0	0	0
+15	B. Wagner	2-4	0.0	0	1
+15	C. Avril	1-0	0.0	0	0
+15	A. Rubin	1-0	0.0	0	0
+15	D. Shead	1-0	0.0	0	0
+15	R. Sherman	1-1	0.0	0	0
+15	Total First Downs	28			
+15	By Rushing	12			
+15	By Passing	14			
+15	By Penalty				
+15	Third Down Efficiency	9/12 - 75%			
+15	Fourth Down Efficiency	0/0 - 0%			
+15	Total Net Yards	423			
+15	Total Rushing/Passing Plays (includes Sacks)	68			
+15	Average Gain per Offensive Play	6.2			
+15	Net Yards Rushing	182			
+15	Total Rushing Plays	36			
+15	Average Gain per Rushing Play	5.1			
+15	Tackled for a Loss (Number-Yards)	1--2			
+15	Net Yards Passing	241			
+15	Times Sacked (Number-Yards)	2 - 8			
+15	Gross Yards Passing	249			
+15	Pass Comp-Att-Int	21 - 30 - 0			
+15	Average Gain per Passing Play (includes Sacks)	7.5			
+15	Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 1			
+15	Punts (Number-Average)	1 - 64.0			
+15	Blocked	0			
+15	Net Punting Average	44.0			
+15	FGs Blocked - PATs Blocked	0 - 0			
+15	Total Return Yardage (excludes Kickoffs)	5			
+15	Punt Returns (Number-Yards)	1 - 5			
+15	Kickoff Returns (Number-Yards)	4 - 91			
+15	Interception Returns (Number-Yards)	1 - 0			
+15	Penalties (Number-Yards)	5 - 30			
+15	Fumbles (Number-Lost)	0 - 0			
+15	Touchdowns	3			
+15	Rushing	0			
+15	Passing	3			
+15	Interceptions	0			
+15	Kickoff Returns	0			
+15	Fumble Returns	0			
+15	Punt Returns	0			
+15	Extra Points (Made-Attempted)	3 - 3			
+15	Kicking (Made-Attempted)	3 - 3			
+15	Two Point Conversions (Made-Attempted)	0 - 0			
+15	Field Goals (Made-Attempted)	3 - 3			
+15	Red Zone Efficiency	2/4 - 50%			
+15	Goal To Go Efficiency	1/2 - 50%			
+15	Safeties	0			
+15	Final Score	30			
+15	Time of Possession	34:33			
+					
+16	Passing	CP/AT	YDS	TD	INT
+16	R. Wilson	25/41	289	2	1
+16	Rushing	ATT	YDS	TD	LG
+16	R. Wilson	6	38	0	20
+16	F. Jackson	2	11	0	7
+16	B. Brown	7	9	0	4
+16	C. Michael	6	6	0	5
+16	W. Tukuafu	1	-5	0	-5
+16	Receiving	REC	YDS	TD	LG
+16	D. Baldwin	8	118	1	28
+16	C. Helfet	4	43	0	16
+16	F. Jackson	5	43	0	14
+16	J. Kearse	3	38	1	18T
+16	T. Lockett	3	33	0	16
+16	C. Michael	2	14	0	11
+16	Fumbles	FUM	LOST	REC	YDS
+16	P. Lewis	2	0	0	-21
+16	D. Baldwin	1	0	0	0
+16	W. Tukuafu	1	1	0	0
+16	R. Wilson	1	1	0	0
+16	F. Jackson	0	0	1	0
+16	J. Kearse	0	0	1	0
+16	C. Michael	0	0	1	0
+16	D. Shead	0	0	0	0
+16	K. Wright	0	0	0	0
+16	Kicking	FG	LG	XP	PTS
+16	S. Hauschka	1/1	26	2/2	5
+16	Punting	NO	AVG	I20	LG
+16	J. Ryan	5	35.6	2	45
+16	Kickoff Returns	NO	AVG	TD	LG
+16	T. Lockett	4	26	0	34
+16	Punt Returns	NO	AVG	TD	LG
+16	T. Lockett	2	10	0	13
+16	K. Smith	0	0	0	0
+16	Defense	T-A	SCK	INT	FF
+16	B. Wagner	9-2	0.0	0	0
+16	K. McCray	5-5	0.0	0	0
+16	B. Mebane	4-0	0.0	0	0
+16	K. Wright	4-2	0.0	0	1
+16	J. Lane	2-0	0.0	0	0
+16	A. Rubin	2-2	0.0	0	0
+16	D. Shead	2-2	0.0	0	1
+16	R. Sherman	2-1	0.0	0	0
+16	C. Avril	1-1	0.0	0	0
+16	M. Bennett	1-0	0.0	0	0
+16	B. Irvin	1-0	0.0	0	0
+16	E. Thomas	1-1	0.0	0	0
+16	Total First Downs	18			
+16	By Rushing	3			
+16	By Passing	13			
+16	By Penalty				
+16	Third Down Efficiency	8/17 - 47%			
+16	Fourth Down Efficiency	1/1 - 100%			
+16	Total Net Yards	312			
+16	Total Rushing/Passing Plays (includes Sacks)	67			
+16	Average Gain per Offensive Play	4.7			
+16	Net Yards Rushing	59			
+16	Total Rushing Plays	22			
+16	Average Gain per Rushing Play	2.7			
+16	Tackled for a Loss (Number-Yards)	4--17			
+16	Net Yards Passing	253			
+16	Times Sacked (Number-Yards)	4 - 36			
+16	Gross Yards Passing	289			
+16	Pass Comp-Att-Int	25 - 41 - 1			
+16	Average Gain per Passing Play (includes Sacks)	5.6			
+16	Kickoffs (Number-In End Zone-Touchbacks)	4 - 2 - 1			
+16	Punts (Number-Average)	5 - 40.4			
+16	Blocked	0			
+16	Net Punting Average	35.6			
+16	FGs Blocked - PATs Blocked	0 - 0			
+16	Total Return Yardage (excludes Kickoffs)	20			
+16	Punt Returns (Number-Yards)	2 - 20			
+16	Kickoff Returns (Number-Yards)	4 - 106			
+16	Interception Returns (Number-Yards)	0 - 0			
+16	Penalties (Number-Yards)	10 - 83			
+16	Fumbles (Number-Lost)	5 - 2			
+16	Touchdowns	2			
+16	Rushing	0			
+16	Passing	2			
+16	Interceptions	0			
+16	Kickoff Returns	0			
+16	Fumble Returns	0			
+16	Punt Returns	0			
+16	Extra Points (Made-Attempted)	2 - 2			
+16	Kicking (Made-Attempted)	2 - 2			
+16	Two Point Conversions (Made-Attempted)	0 - 0			
+16	Field Goals (Made-Attempted)	1 - 1			
+16	Red Zone Efficiency	2/3 - 66%			
+16	Goal To Go Efficiency	0/1 - 0%			
+16	Safeties	0			
+16	Final Score	17			
+16	Time of Possession	32:06			
+					
+17	Passing	CP/AT	YDS	TD	INT
+17	R. Wilson	19/28	197	3	0
+17	T. Jackson	3/4	28	0	0
+17	Rushing	ATT	YDS	TD	LG
+17	C. Michael	17	102	0	45
+17	B. Brown	9	20	1	5
+17	R. Wilson	5	13	0	9
+17	T. Lockett	2	7	0	8
+17	K. Williams	1	5	0	5
+17	T. Jackson	2	-2	0	-1
+17	Receiving	REC	YDS	TD	LG
+17	D. Baldwin	5	46	0	15
+17	C. Helfet	4	42	0	20
+17	T. Lockett	2	36	0	36
+17	J. Kearse	3	34	1	24T
+17	C. Coffman	4	29	1	8T
+17	K. Smith	1	17	0	17
+17	K. Williams	1	8	0	8
+17	W. Tukuafu	1	7	1	7T
+17	F. Jackson	1	6	0	6
+17	Fumbles	FUM	LOST	REC	YDS
+17	Kicking	FG	LG	XP	PTS
+17	S. Hauschka	3/4	52	3/4	12
+17	Punting	NO	AVG	I20	LG
+17	J. Ryan	2	46.5	2	46
+17	Kickoff Returns	NO	AVG	TD	LG
+17	Punt Returns	NO	AVG	TD	LG
+17	T. Lockett	4	34	0	66
+17	Defense	T-A	SCK	INT	FF
+17	K. Wright	5-1	0.0	0	0
+17	R. Sherman	3-0	0.0	0	0
+17	B. Coyle	2-1	0.0	0	0
+17	J. Hill	2-0	0.0	0	0
+17	K. McCray	2-1	0.0	0	0
+17	M. Morgan	2-0	0.0	0	0
+17	A. Rubin	2-0	0.0	0	0
+17	B. Wagner	2-0	0.0	0	0
+17	C. Avril	1-1	1.5	0	0
+17	M. Bennett	1-1	0.5	0	0
+17	M. Burley	1-0	0.0	0	0
+17	F. Clark	1-0	0.0	0	0
+17	D. Dobbs	1-0	0.0	0	0
+17	B. Irvin	1-0	0.0	0	0
+17	J. Lane	1-0	0.0	1	0
+17	B. Mebane	1-0	0.0	0	0
+17	D. Shead	1-0	0.0	1	0
+17	S. Terrell	1-0	0.0	0	0
+17	E. Thomas	0-0	0.0	1	0
+17	Total First Downs	22			
+17	By Rushing	7			
+17	By Passing	14			
+17	By Penalty				
+17	Third Down Efficiency	8/15 - 53%			
+17	Fourth Down Efficiency	1/1 - 100%			
+17	Total Net Yards	354			
+17	Total Rushing/Passing Plays (includes Sacks)	69			
+17	Average Gain per Offensive Play	5.1			
+17	Net Yards Rushing	145			
+17	Total Rushing Plays	36			
+17	Average Gain per Rushing Play	4.0			
+17	Tackled for a Loss (Number-Yards)	3--12			
+17	Net Yards Passing	209			
+17	Times Sacked (Number-Yards)	1 - 16			
+17	Gross Yards Passing	225			
+17	Pass Comp-Att-Int	22 - 32 - 0			
+17	Average Gain per Passing Play (includes Sacks)	6.3			
+17	Kickoffs (Number-In End Zone-Touchbacks)	8 - 8 - 7			
+17	Punts (Number-Average)	2 - 45.5			
+17	Blocked	0			
+17	Net Punting Average	46.5			
+17	FGs Blocked - PATs Blocked	0 - 0			
+17	Total Return Yardage (excludes Kickoffs)	195			
+17	Punt Returns (Number-Yards)	4 - 139			
+17	Kickoff Returns (Number-Yards)	0 - 0			
+17	Interception Returns (Number-Yards)	3 - 56			
+17	Penalties (Number-Yards)	6 - 70			
+17	Fumbles (Number-Lost)	0 - 0			
+17	Touchdowns	4			
+17	Rushing	1			
+17	Passing	3			
+17	Interceptions	0			
+17	Kickoff Returns	0			
+17	Fumble Returns	0			
+17	Punt Returns	0			
+17	Extra Points (Made-Attempted)	3 - 4			
+17	Kicking (Made-Attempted)	3 - 4			
+17	Two Point Conversions (Made-Attempted)	0 - 0			
+17	Field Goals (Made-Attempted)	3 - 4			
+17	Red Zone Efficiency	3/6 - 50%			
+17	Goal To Go Efficiency	3/3 - 100%			
+17	Safeties	0			
+17	Final Score	36			
+17	Time of Possession	36:37			
