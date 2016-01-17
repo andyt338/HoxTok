@@ -1366,3 +1366,93 @@ Safeties	1
 Final Score	23
 Time of Possession	33:21
 
+Passing	CP/AT	YDS	TD	INT
+D. Carr	21/33	194	1	1
+Rushing	ATT	YDS	TD	LG
+L. Murray	11	31	0	9
+D. Carr	2	12	0	7
+R. Helu	3	5	0	3
+Receiving	REC	YDS	TD	LG
+C. Walford	4	46	0	19
+M. Crabtree	3	34	1	31T
+L. Murray	4	25	0	11
+R. Helu	2	23	0	14
+A. Cooper	2	20	0	14
+S. Roberts	3	20	0	19
+J. Olawale	1	14	0	14
+M. Rivera	2	12	0	8
+Fumbles	FUM	LOST	REC	YDS
+D. Carr	2	0	0	0
+J. Feliciano	0	0	1	0
+Kicking	FG	LG	XP	PTS
+S. Janikowski	1/1	29	2/2	5
+Punting	NO	AVG	I20	LG
+M. King	6	35.6	1	57
+Kickoff Returns	NO	AVG	TD	LG
+T. Jones	3	41	0	70
+J. Ross	1	23	0	23
+Punt Returns	NO	AVG	TD	LG
+J. Ross	0	0	0	0
+Defense	T-A	SCK	INT	FF
+K. Mack	7-3	0.0	0	0
+C. Woodson	6-1	0.0	0	0
+T. Carrie	5-0	0.0	1	0
+B. Heeney	4-0	0.0	0	0
+L. Alexander	3-1	0.0	0	0
+J. Ellis	3-0	0.0	0	0
+M. Smith	3-2	0.0	0	0
+D. Amerson	2-0	0.0	1	0
+S. Harris	2-1	1.0	0	0
+C. Lofton	2-1	0.0	0	0
+T. Mays	2-1	0.0	0	0
+D. Autry	1-0	0.0	0	0
+D. Hayden	1-0	0.0	0	0
+B. Mayowa	1-0	0.0	0	0
+S. McGee	1-1	0.0	0	0
+D. Williams	1-1	0.0	0	0
+Total First Downs	14
+By Rushing	2
+By Passing	9
+By Penalty	
+Third Down Efficiency	3/14 - 21%
+Fourth Down Efficiency	1/1 - 100%
+Total Net Yards	205
+Total Rushing/Passing Plays (includes Sacks)	55
+Average Gain per Offensive Play	3.7
+Net Yards Rushing	48
+Total Rushing Plays	16
+Average Gain per Rushing Play	3.0
+Tackled for a Loss (Number-Yards)	2--2
+Net Yards Passing	157
+Times Sacked (Number-Yards)	6 - 37
+Gross Yards Passing	194
+Pass Comp-Att-Int	21 - 33 - 1
+Average Gain per Passing Play (includes Sacks)	4.0
+Kickoffs (Number-In End Zone-Touchbacks)	5 - 1 - 1
+Punts (Number-Average)	7 - 38.7
+Blocked	1
+Net Punting Average	31.1
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	26
+Punt Returns (Number-Yards)	0 - 0
+Kickoff Returns (Number-Yards)	4 - 147
+Interception Returns (Number-Yards)	2 - 26
+Penalties (Number-Yards)	7 - 59
+Fumbles (Number-Lost)	2 - 0
+Touchdowns	2
+Rushing	0
+Passing	1
+Interceptions	1
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	2 - 2
+Kicking (Made-Attempted)	2 - 2
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	1 - 1
+Red Zone Efficiency	0/1 - 0%
+Goal To Go Efficiency	0/0 - 0%
+Safeties	0
+Final Score	17
+Time of Possession	25:05
+

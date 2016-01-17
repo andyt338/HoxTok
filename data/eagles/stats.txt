@@ -1357,3 +1357,96 @@ Safeties	0
 Final Score	24
 Time of Possession	25:45
 
+Passing	CP/AT	YDS	TD	INT
+S. Bradford	30/38	320	2	1
+Rushing	ATT	YDS	TD	LG
+D. Murray	12	69	1	54T
+D. Sproles	3	24	1	13
+K. Barner	5	18	0	7
+R. Mathews	4	11	0	7
+S. Bradford	2	-2	0	-1
+Receiving	REC	YDS	TD	LG
+Z. Ertz	9	152	0	60
+J. Matthews	7	54	2	25
+B. Celek	2	38	0	24
+N. Agholor	2	23	0	16
+K. Barner	5	21	0	12
+D. Sproles	3	20	0	14
+R. Mathews	1	7	0	7
+T. Burton	1	5	0	5
+Fumbles	FUM	LOST	REC	YDS
+D. Murray	1	1	0	0
+C. Barwin	0	0	0	0
+W. Thurmond	0	0	1	83
+Kicking	FG	LG	XP	PTS
+C. Sturgis	0/0	0	5/5	5
+Punting	NO	AVG	I20	LG
+D. Jones	3	33.0	0	43
+Kickoff Returns	NO	AVG	TD	LG
+Z. Ertz	1	9	0	9
+J. Huff	1	15	0	15
+Punt Returns	NO	AVG	TD	LG
+Defense	T-A	SCK	INT	FF
+K. Alonso	8-1	0.0	0	0
+M. Jenkins	7-2	0.0	0	0
+F. Cox	6-2	0.0	0	0
+E. Biggers	5-2	0.0	0	0
+M. Kendricks	5-4	0.0	0	0
+E. Reynolds	5-2	0.0	0	0
+B. Allen	4-2	0.0	0	0
+B. Graham	3-1	0.0	0	0
+E. Rowe	3-2	0.0	0	0
+D. Ryans	3-1	0.0	0	0
+C. Barwin	2-0	1.0	0	1
+T. Hart	2-0	0.0	0	0
+C. Maragos	2-0	0.0	0	0
+B. Bair	1-0	0.0	0	0
+V. Curry	1-1	0.0	0	0
+M. Smith	1-1	1.0	0	0
+C. Thornton	0-5	0.0	0	0
+Total First Downs	23
+By Rushing	7
+By Passing	16
+By Penalty	
+Third Down Efficiency	10/13 - 76%
+Fourth Down Efficiency	0/0 - 0%
+Total Net Yards	435
+Total Rushing/Passing Plays (includes Sacks)	65
+Average Gain per Offensive Play	6.7
+Net Yards Rushing	120
+Total Rushing Plays	26
+Average Gain per Rushing Play	4.6
+Tackled for a Loss (Number-Yards)	4--7
+Net Yards Passing	315
+Times Sacked (Number-Yards)	1 - 5
+Gross Yards Passing	320
+Pass Comp-Att-Int	30 - 38 - 1
+Average Gain per Passing Play (includes Sacks)	8.1
+Kickoffs (Number-In End Zone-Touchbacks)	6 - 6 - 6
+Punts (Number-Average)	3 - 41.3
+Blocked	0
+Net Punting Average	33.0
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	0
+Punt Returns (Number-Yards)	0 - 0
+Kickoff Returns (Number-Yards)	2 - 24
+Interception Returns (Number-Yards)	0 - 0
+Penalties (Number-Yards)	3 - 11
+Fumbles (Number-Lost)	1 - 1
+Touchdowns	5
+Rushing	2
+Passing	2
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	1
+Punt Returns	0
+Extra Points (Made-Attempted)	5 - 5
+Kicking (Made-Attempted)	5 - 5
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	0 - 0
+Red Zone Efficiency	3/3 - 100%
+Goal To Go Efficiency	3/3 - 100%
+Safeties	0
+Final Score	35
+Time of Possession	28:06
+

@@ -1318,6 +1318,102 @@ Safeties	0
 Final Score	20
 Time of Possession	35:04
 
+Passing	CP/AT	YDS	TD	INT
+P. Rivers	21/35	228	2	1
+Rushing	ATT	YDS	TD	LG
+D. Brown	21	81	0	20
+J. Herndon	1	13	0	13
+D. Woodhead	5	11	0	4
+P. Rivers	2	5	0	5
+Receiving	REC	YDS	TD	LG
+T. Williams	2	90	1	80T
+D. Woodhead	8	51	0	16
+A. Gates	3	34	1	13T
+D. Inman	3	25	0	9
+J. Herndon	3	18	0	10
+D. Brown	2	10	0	6
+Fumbles	FUM	LOST	REC	YDS
+J. Herndon	1	0	0	0
+D. Inman	1	0	0	0
+P. Rivers	1	0	0	-3
+J. Addae	0	0	1	0
+M. Daniels	0	0	1	0
+D. Square	0	0	1	0
+M. Te'o	0	0	0	0
+S. Williams	0	0	1	0
+D. Woodhead	0	0	1	0
+Kicking	FG	LG	XP	PTS
+J. Lambo	2/2	50	2/2	8
+Punting	NO	AVG	I20	LG
+M. Scifres	7	43.1	1	56
+Kickoff Returns	NO	AVG	TD	LG
+C. Vaughn	1	17	0	17
+Punt Returns	NO	AVG	TD	LG
+J. Herndon	1	0	0	0
+Defense	T-A	SCK	INT	FF
+M. Te'o	7-2	0.0	0	1
+D. Perryman	6-0	0.0	0	0
+J. Addae	5-2	0.0	0	0
+S. Williams	5-1	1.0	1	2
+M. Ingram	3-0	1.0	0	0
+J. Attaochu	2-0	0.0	0	0
+G. Ducre	2-0	0.0	0	0
+A. Phillips	2-1	0.0	1	0
+K. Reyes	2-0	0.0	0	0
+P. Robinson	2-0	0.0	0	0
+D. Square	2-0	0.0	0	0
+D. Butler	1-0	0.0	0	0
+K. Emanuel	1-0	0.0	0	0
+C. Law	1-0	0.0	0	0
+C. Mager	1-0	0.0	0	0
+D. Philon	1-0	0.0	0	0
+C. Vaughn	1-0	0.0	0	0
+Total First Downs	15
+By Rushing	5
+By Passing	8
+By Penalty	
+Third Down Efficiency	6/18 - 33%
+Fourth Down Efficiency	0/2 - 0%
+Total Net Yards	317
+Total Rushing/Passing Plays (includes Sacks)	67
+Average Gain per Offensive Play	4.7
+Net Yards Rushing	110
+Total Rushing Plays	29
+Average Gain per Rushing Play	3.8
+Tackled for a Loss (Number-Yards)	3--4
+Net Yards Passing	207
+Times Sacked (Number-Yards)	3 - 21
+Gross Yards Passing	228
+Pass Comp-Att-Int	21 - 35 - 1
+Average Gain per Passing Play (includes Sacks)	5.4
+Kickoffs (Number-In End Zone-Touchbacks)	5 - 5 - 5
+Punts (Number-Average)	7 - 50.7
+Blocked	0
+Net Punting Average	43.1
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	45
+Punt Returns (Number-Yards)	1 - 0
+Kickoff Returns (Number-Yards)	1 - 17
+Interception Returns (Number-Yards)	2 - 45
+Penalties (Number-Yards)	7 - 45
+Fumbles (Number-Lost)	3 - 0
+Touchdowns	2
+Rushing	0
+Passing	2
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	2 - 2
+Kicking (Made-Attempted)	2 - 2
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	2 - 2
+Red Zone Efficiency	1/1 - 100%
+Goal To Go Efficiency	0/0 - 0%
+Safeties	0
+Final Score	20
+Time of Possession	34:32
+
 
 B. Flowers	1-0	0.0	0	0
 C. Law	1-2	0.0	0	0

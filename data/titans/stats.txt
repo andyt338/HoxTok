@@ -1354,3 +1354,90 @@ Safeties	0
 Final Score	6
 Time of Possession	23:47
 
+Passing	CP/AT	YDS	TD	INT
+A. Tanney	10/14	99	1	0
+Z. Mettenberger	5/13	38	0	1
+Rushing	ATT	YDS	TD	LG
+D. Cobb	19	73	1	12
+D. Walker	1	36	0	36
+B. Sankey	4	16	0	5
+T. McBride	1	8	0	8
+Z. Mettenberger	2	4	1	5T
+Receiving	REC	YDS	TD	LG
+D. Walker	9	94	0	29
+D. Green-Beckham	2	21	1	16
+H. Douglas	2	19	0	16
+A. Andrews	2	3	0	6
+Fumbles	FUM	LOST	REC	YDS
+H. Douglas	1	0	1	0
+Kicking	FG	LG	XP	PTS
+R. Succop	1/1	49	3/3	6
+Punting	NO	AVG	I20	LG
+B. Kern	6	47.0	2	52
+Kickoff Returns	NO	AVG	TD	LG
+Punt Returns	NO	AVG	TD	LG
+H. Douglas	2	4	0	9
+Defense	T-A	SCK	INT	FF
+A. Williamson	8-1	0.0	0	0
+Z. Brown	7-1	0.0	0	0
+C. Sensabaugh	5-2	0.0	0	0
+D. Bass	3-3	1.0	0	0
+M. Griffin	3-1	0.0	0	0
+B. Webb	3-0	0.0	0	0
+D. Jones	2-1	0.0	0	0
+W. Woodyard	2-2	0.0	0	0
+J. Casey	1-1	0.0	0	0
+P. Cox	1-0	0.0	0	0
+M. Huff	1-0	0.0	0	0
+B. Orakpo	1-2	0.0	0	0
+D. Searcy	1-2	0.0	1	0
+D. Stafford	1-0	0.0	0	0
+A. Woods	1-0	0.0	0	0
+A. Blackson	0-1	0.0	0	0
+K. Klug	0-1	0.0	0	0
+Total First Downs	14
+By Rushing	4
+By Passing	8
+By Penalty	
+Third Down Efficiency	4/14 - 28%
+Fourth Down Efficiency	1/2 - 50%
+Total Net Yards	231
+Total Rushing/Passing Plays (includes Sacks)	58
+Average Gain per Offensive Play	4.0
+Net Yards Rushing	137
+Total Rushing Plays	27
+Average Gain per Rushing Play	5.1
+Tackled for a Loss (Number-Yards)	1--1
+Net Yards Passing	94
+Times Sacked (Number-Yards)	4 - 43
+Gross Yards Passing	137
+Pass Comp-Att-Int	15 - 27 - 1
+Average Gain per Passing Play (includes Sacks)	3.0
+Kickoffs (Number-In End Zone-Touchbacks)	5 - 5 - 4
+Punts (Number-Average)	6 - 50.0
+Blocked	0
+Net Punting Average	47.0
+FGs Blocked - PATs Blocked	0 - 0
+Total Return Yardage (excludes Kickoffs)	14
+Punt Returns (Number-Yards)	2 - 9
+Kickoff Returns (Number-Yards)	0 - 0
+Interception Returns (Number-Yards)	1 - 5
+Penalties (Number-Yards)	6 - 60
+Fumbles (Number-Lost)	1 - 0
+Touchdowns	3
+Rushing	2
+Passing	1
+Interceptions	0
+Kickoff Returns	0
+Fumble Returns	0
+Punt Returns	0
+Extra Points (Made-Attempted)	3 - 3
+Kicking (Made-Attempted)	3 - 3
+Two Point Conversions (Made-Attempted)	0 - 0
+Field Goals (Made-Attempted)	1 - 1
+Red Zone Efficiency	3/3 - 100%
+Goal To Go Efficiency	3/3 - 100%
+Safeties	0
+Final Score	24
+Time of Possession	26:43
+
