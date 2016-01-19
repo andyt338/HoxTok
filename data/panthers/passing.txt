@@ -1,0 +1,18 @@
+week	name	cmp	att	yds	td	int
+1	C. Newton	18	31	175	1	1
+2	C. Newton	18	37	195	2	1
+3	C. Newton	20	31	315	2	0
+4	C. Newton	11	22	124	2	0
+6	C. Newton	20	36	269	1	2
+7	C. Newton	14	24	197	1	3
+8	C. Newton	16	35	248	2	1
+9	C. Newton	15	30	297	3	1
+10	C. Newton	21	25	217	1	0
+11	C. Newton	21	34	246	5	0
+12	C. Newton	16	27	183	0	0
+13	C. Newton	28	41	331	5	1
+14	C. Newton	15	21	265	3	0
+14	D. Anderson	4	6	36	0	0
+15	C. Newton	25	45	340	5	0
+16	C. Newton	17	30	142	0	0
+17	C. Newton	21	26	293	2	0

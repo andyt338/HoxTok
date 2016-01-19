@@ -1,0 +1,21 @@
+week	name	cmp	att	yds	td	int
+1	A. Smith	22	33	243	3	0
+2	A. Smith	16	25	191	0	2
+2	J. Maclin	0	0	0	0	0
+3	A. Smith	24	40	290	1	1
+4	A. Smith	31	45	386	0	0
+5	A. Smith	16	30	181	1	0
+6	A. Smith	22	37	282	1	0
+7	A. Smith	21	32	251	1	0
+8	A. Smith	18	26	145	2	0
+8	C. Daniel	2	2	4	0	0
+10	A. Smith	17	31	204	1	0
+11	A. Smith	20	25	253	0	0
+12	A. Smith	19	30	255	2	0
+13	A. Smith	16	22	162	2	0
+13	D. Colquitt	0	0	0	0	0
+14	A. Smith	15	23	191	1	1
+15	A. Smith	21	25	171	1	0
+16	A. Smith	15	22	125	2	1
+17	A. Smith	14	24	156	2	2
+17	C. Santos	1	1	3	0	0

@@ -1,0 +1,21 @@
+week	name	cmp	att	yds	td	int
+1	M. Mariota	13	15	209	4	0
+2	M. Mariota 	21	37 	257 2 	0
+3	M. Mariota	27	44	367	2	2
+5	M. Mariota	21	32	187	0	1
+6	M. Mariota	21	33	219	1	2
+6	Z. Mettenberger	5	8	63	0	0
+7	Z. Mettenberger	22	35	187	1	2
+8	Z. Mettenberger	22	31	171	0	1
+9	M. Mariota	28	39	371	4	0
+10	M. Mariota	16	24	185	0	1
+11	M. Mariota	22	35	231	0	0
+12	M. Mariota	17	37	218	3	2
+13	M. Mariota	20	29	268	3	1
+14	M. Mariota	21	39	274	0	1
+14	A. Andrews	1	1	41	1	0
+15	Z. Mettenberger	20	28	242	2	2
+15	M. Mariota	3	6	32	0	0
+16	Z. Mettenberger	27	51	234	1	1
+17	A. Tanney	10	14	99	1	0
+17	Z. Mettenberger	5	13	38	0	1

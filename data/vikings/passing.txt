@@ -1,0 +1,19 @@
+week	name	cmp	att	yds	td	int
+1	T. Bridgewater	23	32	231	0	1
+2	T. Bridgewater 	14	18 	153 1 	0
+3	T. Bridgewater	13	24	121	0	1
+4	T. Bridgewater	27	41	269	1	0
+6	T. Bridgewater	17	31	249	1	2
+7	T. Bridgewater	25	35	316	2	0
+8	T. Bridgewater	17	30	187	1	1
+9	T. Bridgewater	13	21	144	0	1
+9	S. Hill	2	6	15	0	0
+10	T. Bridgewater	14	22	140	1	0
+11	T. Bridgewater	25	37	296	1	0
+11	S. Hill	0	1	0	0	0
+12	T. Bridgewater	20	28	174	0	1
+13	T. Bridgewater	17	28	118	0	1
+14	T. Bridgewater	25	36	335	1	0
+15	T. Bridgewater	17	20	231	4	0
+16	T. Bridgewater	15	25	168	1	0
+17	T. Bridgewater	10	19	99	0	1

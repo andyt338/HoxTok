@@ -1,0 +1,26 @@
+week	name	cmp	att	yds	td	int
+1	B. Hoyer	18	34	236	1	1
+1	R. Mallett	8	13	98	1	0
+2	R. Mallett	27	58	244	1	1
+3	R. Mallett	24	39	228	1	1
+4	B. Hoyer	17	30	232	2	0
+4	R. Mallett	12	27	150	0	1
+5	B. Hoyer	24	31	312	2	1
+5	R. Mallett	7	10	50	0	1
+6	B. Hoyer	24	36	293	3	0
+7	B. Hoyer	23	49	273	3	1
+8	B. Hoyer	23	35	235	2	0
+10	B. Hoyer	12	22	123	0	1
+10	T. Yates	5	11	69	1	0
+11	T. Yates	16	34	229	2	0
+11	C. Shorts III	1	1	21	1	0
+12	B. Hoyer	21	27	205	2	1
+13	B. Hoyer	26	43	293	3	1
+14	B. Hoyer	11	22	155	0	0
+14	T. Yates	1	2	4	0	0
+15	B. Weeden	11	18	105	1	0
+15	T. Yates	6	10	68	0	1
+16	B. Weeden	15	24	200	2	0
+16	B. Daniels	1	2	7	0	0
+17	B. Hoyer	25	40	249	1	1
+17	J. Grimes	0	1	0	0	0

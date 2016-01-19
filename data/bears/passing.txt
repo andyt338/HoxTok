@@ -1,0 +1,19 @@
+week	name	cmp	att	yds	td	int
+1	J. Cutler	18	36	225	1	1
+2	J. Clausen 	14	23 	121 0 	1
+2	J. Cutler 	8	9 	120	1 	1
+3	J. Clausen	9	17	63	0	0
+4	J. Cutler	28	43	281	2	1
+5	J. Cutler	26	45	252	2	0
+6	J. Cutler	26	41	353	1	1
+8	J. Cutler	22	33	211	1	0
+9	J. Cutler	27	40	345	2	1
+10	J. Cutler	19	24	258	3	0
+11	J. Cutler	18	32	265	0	1
+12	J. Cutler	19	31	200	1	0
+13	J. Cutler	18	31	202	0	1
+14	J. Cutler	19	31	315	2	0
+15	J. Cutler	26	37	231	2	1
+16	J. Cutler	20	27	156	1	0
+17	J. Cutler	17	23	245	2	3
+17	M. Mariani	0	0	0	0	0

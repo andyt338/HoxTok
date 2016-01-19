@@ -1,0 +1,18 @@
+week	name	cmp	att	yds	td	int
+1	B. Bortles	22	40	183	1	2
+2	B. Bortles 	18	33 	273 2 	0
+3	B. Bortles	17	33	242	2	1
+4	B. Bortles	28	50	298	1	0
+5	B. Bortles	23	33	303	4	1
+6	B. Bortles	30	53	331	3	3
+7	B. Bortles	13	29	182	2	1
+9	B. Bortles	24	40	381	2	2
+10	B. Bortles	22	45	188	2	1
+11	B. Bortles	21	30	242	1	1
+11	B. Walters	0	1	0	0	0
+12	B. Bortles	30	49	329	2	1
+13	B. Bortles	24	36	322	5	0
+14	B. Bortles	16	30	250	3	0
+15	B. Bortles	23	38	297	1	1
+16	B. Bortles	27	35	368	4	2
+17	B. Bortles	17	32	239	0	2

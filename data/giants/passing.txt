@@ -1,0 +1,18 @@
+week	name	cmp	att	yds	td	int
+1	E. Manning	20	36	189	0	0
+2	E. Manning 	27	40 	292 2 	0
+3	E. Manning	23	32	279	2	0
+4	E. Manning	20	35	212	3	1
+5	E. Manning	41	54	441	3	1
+6	E. Manning	24	38	189	1	2
+7	E. Manning	13	24	170	0	0
+8	E. Manning	30	41	350	6	0
+9	E. Manning	26	40	213	2	2
+10	E. Manning	24	44	361	2	0
+12	E. Manning	26	51	321	2	3
+13	E. Manning	18	34	297	1	1
+14	E. Manning	27	31	337	4	0
+15	E. Manning	29	46	245	4	1
+16	E. Manning	15	29	234	1	3
+16	R. Nassib	5	5	68	1	0
+17	E. Manning	24	43	302	2	0

@@ -1,0 +1,19 @@
+week	name	cmp	att	yds	td	int
+1	P. Manning	24	40	175	0	1
+2	P. Manning	26	45	256	3	1
+3	P. Manning	31	42	324	2	1
+4	P. Manning	17	27	213	1	2
+5	P. Manning	22	35	266	0	2
+6	P. Manning	26	48	290	1	3
+8	P. Manning	21	29	340	0	1
+9	P. Manning	21	36	281	2	2
+10	B. Osweiler	14	24	146	1	1
+10	P. Manning	5	20	35	0	4
+11	B. Osweiler	20	27	250	2	0
+12	B. Osweiler	23	42	270	1	1
+13	B. Osweiler	16	26	166	1	1
+14	B. Osweiler	35	51	308	0	0
+15	B. Osweiler	21	44	296	3	1
+16	B. Osweiler	27	39	299	1	0
+17	B. Osweiler	14	22	232	1	2
+17	P. Manning	5	9	69	0	0

@@ -1,0 +1,19 @@
+week	name	cmp	att	yds	td	int
+1	D. Brees	30	48	355	1	1
+2	D. Brees 	24	38 	255 1 	1
+3	L. McCown	31	38	310	0	1
+4	D. Brees	33	41	359	2	0
+5	D. Brees	26	43	335	2	1
+6	D. Brees	30	39	312	1	0
+7	D. Brees	28	44	255	1	1
+7	L. McCown	1	1	25	0	0
+8	D. Brees	39	50	505	7	2
+9	D. Brees	28	39	387	3	1
+10	D. Brees	19	28	209	2	2
+12	D. Brees	25	44	228	0	1
+13	D. Brees	24	42	282	3	1
+14	D. Brees	31	41	312	2	0
+15	D. Brees	34	52	341	3	0
+16	D. Brees	25	36	412	3	0
+17	D. Brees	32	42	323	1	0
+17	T. Cadet	0	1	0	0	0

@@ -1,0 +1,19 @@
+week	name	cmp	att	yds	td	int
+1	T. Brady	25	32	288	4	0
+2	T. Brady 	38	59 	466 3 	0
+3	T. Brady	33	42	358	2	0
+5	T. Brady	20	27	275	2	0
+6	T. Brady	23	37	312	3	1
+7	T. Brady	34	54	355	2	0
+8	T. Brady	26	38	356	4	0
+9	T. Brady	26	39	299	2	1
+10	T. Brady	26	42	334	2	1
+11	T. Brady	20	39	277	1	1
+12	T. Brady	23	42	280	3	0
+13	T. Brady	29	56	312	3	2
+13	D. Amendola	1	1	36	0	0
+14	T. Brady	22	30	226	2	0
+15	T. Brady	23	35	267	2	0
+16	T. Brady	22	31	231	1	1
+17	T. Brady	12	21	134	0	0
+17	J. Garoppolo	1	4	6	0	0

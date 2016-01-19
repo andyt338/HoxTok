@@ -1,0 +1,18 @@
+week	name	cmp	att	yds	td	int
+1	T. Taylor	14	19	195	1	0
+2	T. Taylor 	23	30 	242 3 	3
+3	T. Taylor	21	29	277	3	0
+4	T. Taylor	28	42	274	1	1
+5	T. Taylor	10	17	109	1	0
+5	C. Hogan	1	1	4	0	0
+6	E. Manuel	28	42	263	1	1
+7	E. Manuel	24	42	298	2	2
+9	T. Taylor	11	12	181	1	0
+10	T. Taylor	17	27	158	1	0
+11	T. Taylor	20	36	233	0	0
+12	T. Taylor	21	38	291	3	0
+13	T. Taylor	11	21	211	3	0
+14	T. Taylor	19	36	268	1	1
+15	T. Taylor	16	27	235	2	0
+16	T. Taylor	13	18	179	0	1
+17	T. Taylor	18	28	182	0	0

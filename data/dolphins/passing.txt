@@ -1,0 +1,19 @@
+week	name	cmp	att	yds	td	int
+1	R. Tannehill	22	34	226	1	0
+2	R. Tannehill 	30	44 	359 2 	0
+3	R. Tannehill	26	49	297	2	3
+4	R. Tannehill	19	44	198	2	2
+6	R. Tannehill	22	29	266	2	2
+7	R. Tannehill	18	19	282	4	0
+7	M. Moore	1	1	14	0	0
+8	R. Tannehill	28	44	300	0	2
+9	R. Tannehill	26	35	307	0	0
+9	J. Landry	1	1	9	0	0
+10	R. Tannehill	21	36	217	2	0
+11	R. Tannehill	13	24	188	2	1
+12	R. Tannehill	33	58	351	3	1
+13	R. Tannehill	9	19	86	1	0
+14	R. Tannehill	25	41	236	1	0
+15	R. Tannehill	20	34	216	0	0
+16	R. Tannehill	26	38	329	0	1
+17	R. Tannehill	25	38	350	2	0

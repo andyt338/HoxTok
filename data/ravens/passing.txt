@@ -1,0 +1,18 @@
+week	name	cmp	att	yds	td	int
+1	J. Flacco	18	32	117	0	2
+2	J. Flacco 	32	45 	384 2 	1
+3	J. Flacco	32	49	362	2	1
+4	J. Flacco	20	33	189	1	1
+4	S. Koch	1	1	-3	0	0
+5	J. Flacco	19	35	210	1	0
+6	J. Flacco	33	53	343	2	2
+7	J. Flacco	26	40	252	1	1
+8	J. Flacco	25	37	319	1	0
+10	J. Flacco	34	45	316	3	2
+11	J. Flacco	27	44	299	1	2
+12	M. Schaub	20	34	232	2	2
+13	M. Schaub	32	46	308	1	2
+14	J. Clausen	23	40	274	0	1
+15	J. Clausen	26	45	281	2	2
+16	R. Mallett	28	41	274	1	0
+17	R. Mallett	30	56	292	1	2
