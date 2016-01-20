@@ -1,99 +1,255 @@
-Passing	CP/AT	YDS	TD	INT
-J. Winston	16/33	210	2	2
-Rushing	ATT	YDS	TD	LG
-D. Martin	11	52	0	14
-J. Winston	6	18	0	8
-C. Sims	5	12	0	7
-B. Rainey	3	10	0	7
-J. Lane	1	0	0	0
-Receiving	REC	YDS	TD	LG
-A. Seferian-Jenkins	5	110	2	41T
-V. Jackson	4	51	0	18
-C. Sims	2	23	0	18
-A. Humphries	2	14	0	12
-R. Shepard	1	6	0	6
-B. Rainey	1	4	0	4
-D. Martin	1	2	0	2
-Fumbles	FUM	LOST	REC	YDS
-J. Winston	2	0	2	-7
-L. David	0	0	0	0
-G. Johnson	0	0	1	0
-H. Melton	0	0	0	0
-Kicking	FG	LG	XP	PTS
-K. Brindza	0/0	0	2/2	2
-Punting	NO	AVG	I20	LG
-J. Schum	4	43.5	0	56
-Kickoff Returns	NO	AVG	TD	LG
-B. Rainey	3	27	0	32
-Punt Returns	NO	AVG	TD	LG
-B. Rainey	2	8	0	19
-Defense	T-A	SCK	INT	FF
-C. Conte	5-0	0.0	0	0
-C. McDonald	4-0	0.0	0	0
-A. Verner	4-0	0.0	0	0
-K. Alexander	3-2	0.0	0	0
-L. David	3-2	0.0	0	1
-D. Lansanah	3-2	0.0	0	0
-G. McCoy	3-0	1.0	0	0
-B. McDougald	3-1	0.0	0	0
-D. Swearinger	3-1	0.0	0	0
-J. Banks	2-0	0.0	0	0
-J. Smith	2-0	1.0	0	0
-W. Gholston	1-0	0.0	0	0
-G. Johnson	1-0	0.0	0	0
-H. Melton	1-1	0.0	0	1
-S. Moore	1-0	0.0	0	0
-M. Wright	1-1	0.0	0	0
-T. Jennings	0-1	0.0	0	0
-
-Passing	CP/AT	YDS	TD	INT
-J. Winston	14/21	207	1	0
-Rushing	ATT	YDS	TD	LG
-D. Martin	21	78	0	20
-C. Sims	8	38	0	12
-J. Winston	6	23	1	9
-Receiving	REC	YDS	TD	LG
-L. Murphy	3	82	0	54
-V. Jackson	3	54	1	22
-A. Seferian-Jenkins	2	29	0	21
-D. Martin	2	20	0	16
-C. Sims	3	14	0	12
-B. Rainey	1	8	0	8
-Fumbles	FUM	LOST	REC	YDS
-D. Martin	1	1	0	0
-J. Winston	1	1	0	0
-C. Conte	0	0	0	0
-H. Melton	0	0	1	0
-S. Moore	0	0	0	0
-J. Smith	0	0	0	0
-D. Swearinger	0	0	1	12
-Kicking	FG	LG	XP	PTS
-K. Brindza	4/5	55	2/2	14
-Punting	NO	AVG	I20	LG
-J. Schum	3	38.7	1	40
-Kickoff Returns	NO	AVG	TD	LG
-B. Rainey	1	37	0	37
-Punt Returns	NO	AVG	TD	LG
-B. Rainey	3	11	0	18
-Defense	T-A	SCK	INT	FF
-K. Alexander	4-4	0.0	0	0
-C. Conte	4-0	0.0	1	1
-L. David	4-4	0.0	0	0
-T. Jennings	4-1	0.0	0	0
-C. McDonald	4-2	0.0	0	0
-J. Banks	3-1	0.0	0	0
-W. Gholston	3-3	0.0	0	0
-B. McDougald	3-1	0.0	0	0
-J. Smith	3-0	3.0	0	2
-A. Verner	3-0	0.0	0	0
-D. Lansanah	2-0	0.0	0	0
-G. McCoy	2-0	1.0	0	0
-S. Moore	2-0	0.0	0	1
-T. McDaniel	1-0	0.0	0	0
-D. Swearinger	1-0	0.0	0	0
-G. Johnson	0-2	0.0	0	0
-H. Melton	0-1	0.0	0	0
-K. Tandy	0-1	0.0	0	0
-
-
-
+week	name	t	a	sck	int	ff	
+1	C. Conte	5	0	0.0	0	0	
+1	C. McDonald	4	0	0.0	0	0	
+1	A. Verner	4	0	0.0	0	0	
+1	K. Alexander	3	2	0.0	0	0	
+1	L. David	3	2	0.0	0	1	
+1	D. Lansanah	3	2	0.0	0	0	
+1	G. McCoy	3	0	1.0	0	0	
+1	B. McDougald	3	1	0.0	0	0	
+1	D. Swearinger	3	1	0.0	0	0	
+1	J. Banks	2	0	0.0	0	0	
+1	J. Smith	2	0	1.0	0	0	
+1	W. Gholston	1	0	0.0	0	0	
+1	G. Johnson	1	0	0.0	0	0	
+1	H. Melton	1	1	0.0	0	1	
+1	S. Moore	1	0	0.0	0	0	
+1	M. Wright	1	1	0.0	0	0	
+1	T. Jennings	0	1	0.0	0	0	
+2	K. Alexander 	4	4 	0.0 	0 	0	
+2	C. Conte 	4	0 	0.0 	1 	1	
+2	L. David 	4	4 	0.0 	0 	0	
+2	T. Jennings 	4	1 	0.0 	0 	0	
+2	C. McDonald 	4	2 	0.0 	0 	0	
+2	J. Banks 	3	1 	0.0 	0 	0	
+2	W. Gholston 	3	3 	0.0 	0 	0	
+2	B. McDougald 	3	1 	0.0 	0 	0	
+2	J. Smith 	3	0 	3.0 	0 	2	
+2	A. Verner 	3	0 	0.0 	0 	0	
+2	D. Lansanah 	2	0 	0.0 	0 	0	
+2	G. McCoy 	2	0 	1.0 	0 	0	
+2	S. Moore 	2	0 	0.0 	0 	1	
+2	T. McDaniel 	1	0 	0.0 	0 	0	
+2	D. Swearinger 	1	0 	0.0 	0 	0	
+2	G. Johnson 	0	2 	0.0 	0 	0	
+2	H. Melton 	0	1 	0.0 	0 	0	
+2	K. Tandy 	0	1 	0.0 	0 	0	
+3	K. Alexander	5	5	0.0	1	0	
+3	C. Conte	5	2	0.0	0	0	
+3	S. Moore	5	4	0.0	0	0	
+3	T. Jennings	4	2	0.0	0	0	
+3	C. McDonald	4	4	0.0	0	0	
+3	J. Smith	4	1	0.0	0	0	
+3	D. Swearinger	4	2	0.0	0	0	
+3	L. David	3	12	0.0	0	0	
+3	M. Jenkins	3	0	0.0	0	0	
+3	B. McDougald	3	5	0.0	0	0	
+3	B. Carter	2	1	0.0	0	0	
+3	W. Gholston	2	2	0.0	0	0	
+3	G. Johnson	2	0	0.0	0	0	
+3	G. McCoy	1	1	0.0	0	0	
+3	T. McDaniel	1	1	0.0	0	0	
+3	H. Melton	1	2	1.0	0	0	
+3	A. Verner	1	0	0.0	0	0	
+3	J. Banks	0	2	0.0	0	0	
+3	K. Tandy	0	1	0.0	0	0	
+4	C. Conte	7	1	0.0	0	1	
+4	B. McDougald	6	0	0.0	0	0	
+4	G. McCoy	4	0	1.0	0	0	
+4	K. Alexander	3	1	0.0	0	0	
+4	L. David	3	3	0.0	0	0	
+4	W. Gholston	3	1	0.0	0	0	
+4	D. Lansanah	2	1	1.0	0	0	
+4	C. McDonald	2	2	0.0	0	0	
+4	S. Moore	2	0	0.0	0	0	
+4	K. Tandy	2	0	0.0	0	0	
+4	B. Carter	1	0	0.0	0	0	
+4	T. Jennings	1	1	0.0	0	0	
+4	T. McDaniel	1	0	0.0	0	0	
+4	H. Melton	1	0	0.0	0	0	
+4	J. Smith	1	1	0.0	0	0	
+4	T. Fatinikun	0	1	0.0	0	0	
+4	G. Johnson	0	1	0.0	0	0	
+5	L. David	8	2	1.0	0	0	
+5	A. Verner	4	1	0.5	0	0	
+5	K. Alexander	3	2	1.0	0	0	
+5	T. Jennings	3	0	0.0	0	0	
+5	G. Johnson	3	1	0.0	0	1	
+5	D. Lansanah	3	3	0.0	0	0	
+5	C. McDonald	3	0	0.0	0	0	
+5	C. Conte	2	1	0.0	0	0	
+5	H. Jones	2	0	2.0	0	0	
+5	B. McDougald	2	1	0.0	1	0	
+5	M. Wright	2	0	0.0	0	0	
+5	M. Jenkins	1	0	0.0	0	0	
+5	G. McCoy	1	2	1.5	0	0	
+5	S. Moore	1	0	0.0	0	0	
+7	L. David	6	3	0.0	0	0	
+7	B. McDougald	6	3	0.0	0	0	
+7	K. Alexander	5	1	0.0	0	0	
+7	C. Conte	5	0	0.0	0	0	
+7	M. Jenkins	4	1	0.0	0	0	
+7	C. McDonald	4	2	0.0	0	0	
+7	J. Banks	3	0	0.0	0	0	
+7	J. Adjei-Barimah	2	0	0.0	0	0
+7	W. Gholston	2	0	0.0	0	0	
+7	G. Johnson	2	1	0.0	0	0	
+7	J. Smith	2	0	1.0	0	1	
+7	G. McCoy	1	1	0.0	0	0	
+7	A. Verner	1	3	0.0	0	0	
+8	K. Alexander	6	5	0.0	1	1	
+8	B. McDougald	6	2	0.0	0	0	
+8	J. Banks	5	2	0.0	0	0	
+8	C. Conte	5	4	0.0	0	0	
+8	M. Jenkins	4	0	0.0	0	0	
+8	H. Melton	4	0	0.0	0	0	
+8	A. Verner	4	1	0.0	0	0	
+8	J. Adjei-Barimah	3	0	0.0	0	0
+8	L. David	3	2	0.0	0	0	
+8	W. Gholston	3	2	0.0	0	0	
+8	D. Lansanah	3	1	0.0	0	0	
+8	B. Carter	1	0	0.0	0	0	
+8	G. Johnson	1	0	0.0	0	0	
+8	H. Jones	1	0	1.0	0	1	
+8	G. McCoy	1	0	0.0	0	0	
+8	J. Shirley	1	0	0.0	0	0	
+8	A. Spence	1	1	0.0	0	0	
+9	A. Verner	8	0	0.0	1	0	
+9	K. Tandy	7	1	0.0	0	0	
+9	L. David	6	5	0.0	0	0	
+9	K. Alexander	5	5	0.0	0	0	
+9	C. Conte	5	3	0.0	0	0	
+9	J. Adjei-Barimah	4	2	0.0	0	0
+9	W. Gholston	3	4	0.0	0	0	
+9	D. Lansanah	3	1	0.0	0	0	
+9	B. McDougald	3	0	0.0	0	0	
+9	S. Moore	3	0	0.0	1	1	
+9	H. Melton	2	0	0.0	0	0	
+9	A. Spence	2	1	0.0	0	0	
+9	B. Carter	1	0	0.0	0	0	
+9	G. Johnson	1	2	0.0	0	0	
+9	G. McCoy	1	0	0.0	0	0	
+10	J. Adjei-Barimah	6	0	0.0	0	0
+10	L. David	5	7	1.0	0	0	
+10	B. McDougald	5	0	0.0	1	0	
+10	K. Alexander	4	0	1.0	0	0	
+10	C. Conte	4	1	0.0	0	0	
+10	S. Moore	4	0	0.0	0	0	
+10	G. Johnson	3	1	0.0	0	1	
+10	A. Verner	3	0	0.0	0	0	
+10	W. Gholston	2	0	1.0	0	0	
+10	H. Jones	2	1	0.0	0	0	
+10	D. Lansanah	2	1	0.0	0	0	
+10	G. McCoy	1	0	0.0	0	0	
+10	A. Spence	1	1	0.0	0	0	
+10	T. McDaniel	0	1	0.0	0	0	
+11	K. Alexander	8	2	0.0	0	0	
+11	C. Conte	7	3	0.0	1	0	
+11	L. David	6	0	0.0	2	0	
+11	W. Gholston	5	0	0.0	0	1	
+11	B. Carter	4	0	0.0	0	0	
+11	B. McDougald	4	1	0.0	0	0	
+11	S. Moore	4	2	0.0	0	0	
+11	J. Adjei-Barimah	2	1	0.0	0	0
+11	G. McCoy	2	1	1.5	0	0	
+11	H. Melton	2	0	0.0	0	0	
+11	H. Jones	1	1	0.5	0	0	
+11	J. Smith	1	2	1.0	0	0	
+11	A. Spence	1	0	0.0	0	0	
+11	A. Verner	1	1	0.0	0	0	
+11	M. Wright	0	2	0.0	0	0	
+12	K. Alexander	7	3	0.0	0	0	
+12	J. Adjei-Barimah	6	3	0.0	0	0
+12	B. McDougald	5	1	0.0	0	0	
+12	L. David	4	3	0.0	0	0	
+12	D. Lansanah	4	0	0.0	0	0	
+12	W. Gholston	3	1	0.0	0	0	
+12	H. Jones	3	0	1.0	0	0	
+12	S. Moore	3	0	0.0	0	1	
+12	A. Spence	3	0	1.0	0	0	
+12	G. McCoy	2	0	1.0	0	0	
+12	B. Carter	1	0	0.0	0	0	
+12	A. Verner	1	0	0.0	0	0	
+12	C. Conte	0	1	0.0	0	0	
+12	T. McDaniel	0	2	0.0	0	0	
+13	K. Alexander	6	4	1.0	0	1	
+13	L. David	6	5	0.0	1	0	
+13	S. Moore	5	0	0.0	0	0	
+13	J. Adjei-Barimah	3	1	0.0	0	0
+13	C. Conte	3	1	0.0	0	0	
+13	B. McDougald	3	0	0.0	0	0	
+13	A. Verner	3	2	0.0	0	0	
+13	M. Wright	3	1	0.0	0	0	
+13	W. Gholston	2	1	2.0	0	0	
+13	H. Melton	2	1	0.0	0	0	
+13	K. Tandy	2	0	0.0	0	0	
+13	J. Banks	1	0	0.0	0	0	
+13	K. Brown	1	0	0.0	0	0	
+13	D. Lansanah	1	1	0.0	0	0	
+13	T. McDaniel	1	0	0.0	0	0	
+13	J. Shirley	1	0	0.0	0	0	
+14	L. David	10	3	0.0	0	0	
+14	B. Carter	6	2	1.0	0	0	
+14	M. Wright	6	2	0.0	0	0	
+14	J. Adjei-Barimah	5	0	0.0	0	0
+14	W. Gholston	5	0	0.0	0	0	
+14	B. McDougald	5	0	0.0	0	0	
+14	C. Conte	4	1	0.0	0	0	
+14	A. Verner	4	0	0.0	0	0	
+14	T. McDaniel	3	1	0.0	0	0	
+14	H. Melton	3	2	1.0	0	0	
+14	D. Lansanah	2	3	0.0	0	0	
+14	G. McCoy	2	1	0.0	0	0	
+14	S. Moore	2	0	0.0	0	0	
+14	K. Tandy	2	0	0.0	0	0	
+14	K. Brown	1	0	0.0	0	0	
+15	W. Gholston	7	4	0.0	0	0	
+15	L. David	6	2	0.0	0	0	
+15	D. Lansanah	3	5	0.0	0	0	
+15	C. Conte	2	2	0.0	0	0	
+15	O. Lemon	2	0	0.0	0	0	
+15	T. McDaniel	2	3	0.0	0	0	
+15	J. Smith	2	1	1.0	0	0	
+15	M. Wright	2	3	0.0	0	0	
+15	J. Keyes	1	0	0.0	0	0	
+15	B. McDougald	1	0	0.0	0	0	
+15	S. Moore	1	0	0.0	0	0	
+15	K. Tandy	1	0	0.0	0	0	
+15	J. George	0	1	0.0	0	0	
+15	H. Jones	0	1	0.5	0	0	
+15	G. McCoy	0	1	0.5	0	0	
+15	H. Melton	0	1	0.0	0	0	
+16	B. McDougald	10	2	0.0	0	0	
+16	L. David	8	1	0.0	0	0	
+16	K. Tandy	7	3	0.0	0	0	
+16	B. Carter	4	4	0.0	0	0	
+16	G. McCoy	4	0	1.0	0	0	
+16	S. Moore	4	1	0.0	0	0	
+16	A. Verner	4	1	0.0	0	0	
+16	J. Banks	3	0	0.0	0	0	
+16	W. Gholston	3	2	0.0	0	0	
+16	T. McDaniel	3	1	0.0	0	0	
+16	H. Melton	2	2	0.0	0	0	
+16	M. Wright	2	0	0.0	0	0	
+16	D. Bowers	1	0	0.0	0	0	
+16	M. Jenkins	1	0	0.0	0	0	
+16	G. Johnson	1	0	0.0	0	0	
+16	J. Smith	0	1	0.0	0	0	
+17	B. Carter	5	7	1.0	0	0	
+17	L. David	4	8	1.0	0	1	
+17	W. Gholston	3	0	0.0	0	0	
+17	K. Tandy	3	8	1.0	0	0	
+17	J. Adjei-Barimah	2	0	0.0	0	0
+17	J. Banks	2	1	0.0	0	0	
+17	B. McDougald	2	3	0.0	0	0	
+17	J. Keyes	1	3	0.0	0	0	
+17	G. McCoy	1	1	0.0	0	0	
+17	T. McDaniel	1	3	1.0	0	0	
+17	A. Verner	1	2	0.0	0	1	
+17	D. Bowers	0	2	0.0	0	0	
+17	G. Johnson	0	1	0.0	0	0	
+17	H. Jones	0	2	0.0	0	0	
+17	D. Lansanah	0	1	0.0	0	0	
+17	H. Melton	0	2	0.0	0	0	
+17	S. Moore	0	1	0.0	0	0	
+17	J. Smith	0	1	0.0	0	0	

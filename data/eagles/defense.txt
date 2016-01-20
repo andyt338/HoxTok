@@ -1,89 +1,251 @@
-Passing	CP/AT	YDS	TD	INT
-S. Bradford	36/52	336	1	2
-Rushing	ATT	YDS	TD	LG
-D. Sproles	5	50	0	27
-D. Murray	8	9	1	8T
-R. Mathews	3	4	1	3
-Receiving	REC	YDS	TD	LG
-J. Matthews	10	102	0	25
-D. Sproles	7	76	0	24
-Z. Ertz	3	46	0	21
-R. Cooper	3	25	0	12
-R. Mathews	3	24	0	12
-M. Austin	2	22	0	15
-J. Huff	2	19	0	13
-D. Murray	4	11	1	6
-B. Celek	1	6	0	6
-N. Agholor	1	5	0	5
-Fumbles	FUM	LOST	REC	YDS
-D. Sproles	1	0	0	0
-Kicking	FG	LG	XP	PTS
-C. Parkey	1/2	29	3/3	6
-Punting	NO	AVG	I20	LG
-D. Jones	5	37.6	1	60
-Kickoff Returns	NO	AVG	TD	LG
-Punt Returns	NO	AVG	TD	LG
-D. Sproles	3	8	0	15
-Defense	T-A	SCK	INT	FF
-B. Maxwell	8-2	0.0	0	0
-N. Carroll	5-0	0.0	0	0
-M. Kendricks	5-4	0.0	0	0
-K. Alonso	4-2	0.0	1	0
-C. Barwin	4-0	0.0	0	0
-M. Jenkins	4-1	0.0	0	0
-W. Thurmond	3-3	0.0	1	0
-B. Graham	2-1	0.0	0	0
-T. Hart	2-0	0.0	0	0
-B. Logan	2-2	0.0	0	0
-D. Ryans	2-0	0.0	0	0
-B. Allen	1-0	0.0	0	0
-F. Cox	1-1	1.0	0	0
-V. Curry	1-0	0.0	0	0
-C. Thornton	1-0	0.0	0	0
-C. Maragos	0-1	0.0	0	0
-
-Passing	CP/AT	YDS	TD	INT
-S. Bradford	23/37	224	1	2
-Rushing	ATT	YDS	TD	LG
-S. Bradford	2	9	0	9
-D. Murray	13	2	0	9
-R. Mathews	1	0	0	0
-D. Sproles	1	-4	0	-4
-Receiving	REC	YDS	TD	LG
-J. Matthews	6	80	1	32
-D. Murray	5	53	0	22
-N. Agholor	3	31	0	12
-D. Sproles	4	23	0	11
-J. Huff	2	20	0	11
-Z. Ertz	3	17	0	9
-Fumbles	FUM	LOST	REC	YDS
-S. Bradford	1	1	0	-2
-F. Cox	0	0	1	0
-J. Hicks	0	0	0	0
-M. Jenkins	0	0	1	34
-B. Maxwell	0	0	0	0
-Kicking	FG	LG	XP	PTS
-C. Parkey	1/1	46	1/1	4
-Punting	NO	AVG	I20	LG
-D. Jones	6	43.0	1	59
-Kickoff Returns	NO	AVG	TD	LG
-J. Huff	1	21	0	21
-Punt Returns	NO	AVG	TD	LG
-D. Sproles	2	10	0	15
-Defense	T-A	SCK	INT	FF
-J. Hicks	7-0	1.0	0	1
-M. Jenkins	7-0	0.0	0	0
-M. Kendricks	7-0	0.0	0	0
-C. Barwin	4-0	1.0	0	0
-B. Logan	4-1	0.0	0	0
-D. Ryans	4-2	0.0	0	0
-C. Thornton	4-0	1.0	0	0
-W. Thurmond	4-1	0.0	0	0
-N. Carroll	3-0	0.0	0	0
-B. Maxwell	3-1	0.0	0	1
-B. Graham	2-0	0.0	0	0
-K. Alonso	1-0	0.0	0	0
-F. Cox	1-1	0.0	0	0
-B. Allen	0-1	0.0	0	0
-T. Hart	0-1	0.0	0	0
-
+week	name	t	a	sck	int	ff
+1	B. Maxwell	8	2	0.0	0	0
+1	N. Carroll	5	0	0.0	0	0
+1	M. Kendricks	5	4	0.0	0	0
+1	K. Alonso	4	2	0.0	1	0
+1	C. Barwin	4	0	0.0	0	0
+1	M. Jenkins	4	1	0.0	0	0
+1	W. Thurmond	3	3	0.0	1	0
+1	B. Graham	2	1	0.0	0	0
+1	T. Hart	2	0	0.0	0	0
+1	B. Logan	2	2	0.0	0	0
+1	D. Ryans	2	0	0.0	0	0
+1	B. Allen	1	0	0.0	0	0
+1	F. Cox	1	1	1.0	0	0
+1	V. Curry	1	0	0.0	0	0
+1	C. Thornton	1	0	0.0	0	0
+1	C. Maragos	0	1	0.0	0	0
+2	J. Hicks	7	0	1.0	0	1
+2	M. Jenkins	7	0	0.0	0	0
+2	M. Kendricks	7	0	0.0	0	0
+2	C. Barwin	4	0	1.0	0	0
+2	B. Logan	4	1	0.0	0	0
+2	D. Ryans	4	2	0.0	0	0
+2	C. Thornton	4	0	1.0	0	0
+2	W. Thurmond	4	1	0.0	0	0
+2	N. Carroll	3	0	0.0	0	0
+2	B. Maxwell	3	1	0.0	0	1
+2	B. Graham	2	0	0.0	0	0
+2	K. Alonso	1	0	0.0	0	0
+2	F. Cox	1	1	0.0	0	0
+2	B. Allen	0	1	0.0	0	0
+2	T. Hart	0	1	0.0	0	0
+3	J. Hicks	9	1	0.0	1	0
+3	B. Maxwell	6	2	0.0	0	0
+3	M. Jenkins	5	1	0.0	0	2
+3	C. Barwin	4	0	1.0	0	0
+3	B. Bair	3	1	0.0	0	0
+3	N. Carroll	2	2	0.0	0	0
+3	N. Goode	2	0	0.0	0	0
+3	B. Logan	2	1	0.0	0	0
+3	D. Ryans	2	1	0.0	0	0
+3	W. Thurmond	2	2	0.0	1	0
+3	E. Biggers	1	0	0.0	0	0
+3	V. Curry	1	0	0.0	0	0
+3	B. Graham	1	2	0.0	0	0
+3	E. Rowe	1	0	0.0	1	0
+3	B. Allen	0	1	0.0	0	0
+3	F. Cox	0	3	0.0	0	0
+4	M. Jenkins	7	1	0.0	0	0
+4	N. Carroll	6	2	0.0	0	0
+4	B. Graham	6	1	1.0	0	1
+4	E. Biggers	5	3	0.0	0	0
+4	E. Rowe	5	1	0.0	0	0
+4	W. Thurmond	5	3	0.0	0	0
+4	F. Cox	4	1	0.0	0	0
+4	D. Ryans	4	2	0.0	0	0
+4	J. Hicks	3	3	0.0	0	0
+4	B. Logan	3	6	0.0	0	0
+4	B. Allen	1	4	0.0	0	0
+4	C. Barwin	1	1	0.0	0	0
+4	B. Maxwell	1	0	0.0	0	0
+4	B. Bair	0	1	0.0	0	0
+4	V. Curry	0	1	0.0	0	0
+5	F. Cox	6	0	3.0	0	2
+5	M. Jenkins	4	2	0.0	0	0
+5	B. Logan	4	1	1.0	0	0
+5	W. Thurmond	4	0	0.0	1	0
+5	E. Biggers	3	0	0.0	0	0
+5	N. Carroll	3	2	0.0	0	0
+5	N. Goode	3	0	0.0	0	0
+5	E. Rowe	3	0	0.0	0	0
+5	B. Allen	2	0	0.0	0	0
+5	C. Barwin	2	0	0.0	0	0
+5	J. Hicks	2	2	0.0	0	0
+5	B. Maxwell	2	0	0.0	0	0
+5	B. Braman	1	0	1.0	0	0
+5	C. Maragos	1	0	0.0	0	0
+5	D. Ryans	1	0	0.0	0	1
+5	T. Hart	0	1	0.0	0	0
+5	M. Smith	0	1	0.0	0	0
+5	C. Thornton	0	1	0.0	0	0
+6	J. Hicks	10	0	0.0	0	0
+6	N. Carroll	5	1	0.0	1	0
+6	B. Maxwell	5	1	0.0	0	0
+6	D. Ryans	5	0	0.0	1	0
+6	F. Cox	4	0	1.0	0	1
+6	B. Graham	4	0	1.0	0	0
+6	M. Jenkins	4	0	0.0	0	1
+6	B. Logan	3	0	0.0	0	0
+6	W. Thurmond	3	0	0.0	0	0
+6	B. Allen	1	0	0.0	0	0
+6	V. Curry	1	0	1.0	0	0
+6	C. Thornton	1	1	0.0	0	0
+6	E. Biggers	0	1	0.0	0	0
+6	N. Goode	0	1	0.0	0	0
+6	T. Hart	0	1	0.0	0	0
+7	N. Carroll	6	3	0.0	1	0
+7	J. Hicks	6	0	0.0	0	0
+7	B. Maxwell	4	1	0.0	1	0
+7	M. Kendricks	3	5	1.0	0	0
+7	F. Cox	2	0	0.0	0	0
+7	B. Graham	2	3	0.0	0	0
+7	W. Thurmond	2	2	0.0	0	0
+7	M. Jenkins	1	1	0.0	1	0
+7	C. Thornton	1	6	0.0	0	0
+7	C. Barwin	0	1	0.0	0	0
+7	T. Hart	0	6	0.0	0	0
+7	B. Logan	0	3	0.0	0	0
+7	C. Maragos	0	1	0.0	0	0
+9	M. Jenkins	8	1	0.0	0	0
+9	B. Graham	7	0	2.0	0	2
+9	N. Carroll	6	2	0.0	0	0
+9	J. Hicks	5	1	0.0	1	0
+9	M. Kendricks	5	0	1.0	0	0
+9	C. Barwin	4	0	1.0	0	0
+9	B. Allen	3	0	0.0	0	0
+9	C. Maragos	3	1	0.0	0	0
+9	B. Maxwell	3	1	0.0	0	0
+9	C. Thornton	3	0	0.0	0	0
+9	B. Logan	2	1	0.0	0	0
+9	W. Thurmond	2	0	0.0	0	0
+9	K. Alonso	1	0	0.0	0	0
+9	F. Cox	1	1	0.0	0	0
+10	M. Jenkins	8	2	0.0	0	0
+10	M. Kendricks	6	0	1.0	0	0
+10	W. Thurmond	5	1	1.0	0	1
+10	B. Logan	4	0	0.0	0	0
+10	K. Alonso	3	1	0.0	0	0
+10	B. Maxwell	3	0	0.0	0	0
+10	C. Barwin	2	3	0.5	0	0
+10	F. Cox	2	3	0.5	0	0
+10	E. Biggers	1	0	0.0	0	0
+10	N. Carroll	1	1	0.0	0	0
+10	V. Curry	1	1	0.5	0	0
+10	B. Graham	1	1	0.5	0	0
+10	T. Hart	1	0	0.0	0	0
+10	D. Ryans	0	3	0.0	0	0
+11	C. Barwin	6	0	0.0	0	0
+11	B. Logan	5	0	0.0	0	0
+11	C. Thornton	5	0	0.0	0	0
+11	W. Thurmond	5	0	1.0	0	1
+11	E. Biggers	4	0	0.0	0	0
+11	N. Carroll	4	1	0.0	0	0
+11	F. Cox	4	3	0.0	0	0
+11	M. Jenkins	4	1	0.0	0	0
+11	M. Kendricks	4	1	0.0	0	1
+11	B. Maxwell	3	1	0.0	0	0
+11	B. Graham	2	0	0.0	0	0
+11	T. Hart	2	1	0.0	0	0
+11	D. Ryans	2	0	0.0	0	0
+11	K. Alonso	1	0	0.0	0	0
+12	B. Maxwell	6	0	0.0	0	0
+12	W. Thurmond	6	3	0.0	0	0
+12	M. Kendricks	5	2	0.0	0	0
+12	B. Logan	5	0	0.0	0	0
+12	C. Barwin	4	1	0.0	0	0
+12	M. Jenkins	4	1	0.0	0	0
+12	B. Graham	3	0	0.0	0	0
+12	K. Alonso	2	2	0.0	0	0
+12	V. Curry	2	0	2.0	0	0
+12	D. Ryans	2	2	0.0	0	0
+12	B. Allen	1	0	0.0	0	0
+12	F. Cox	1	0	0.0	0	0
+12	T. Hart	1	0	0.0	0	0
+12	E. Reynolds	1	0	0.0	0	0
+12	E. Rowe	1	1	0.0	0	0
+12	C. Thornton	1	1	0.0	0	0
+12	E. Biggers	0	1	0.0	0	0
+12	N. Carroll	0	1	0.0	0	0
+13	M. Jenkins	6	1	0.0	1	0
+13	W. Thurmond	6	4	0.0	0	0
+13	B. Graham	4	0	2.0	0	0
+13	E. Reynolds	4	1	0.0	0	0
+13	C. Barwin	3	3	2.0	0	0
+13	E. Biggers	3	0	0.0	0	0
+13	M. Kendricks	3	1	0.0	0	0
+13	E. Rowe	3	0	0.0	0	0
+13	K. Alonso	2	1	0.0	0	0
+13	B. Bair	1	2	0.0	0	0
+13	F. Cox	1	2	0.0	0	0
+13	V. Curry	1	0	0.0	0	0
+13	B. Maxwell	1	2	0.0	1	0
+13	B. Allen	0	1	0.0	0	0
+13	T. Hart	0	4	0.0	0	0
+13	B. Logan	0	1	0.0	0	0
+13	D. Ryans	0	1	0.0	0	0
+14	F. Cox	7	1	1.0	0	0
+14	M. Kendricks	7	1	0.0	0	0
+14	M. Jenkins	6	2	0.0	0	0
+14	C. Barwin	4	0	0.0	0	0
+14	E. Rowe	4	0	0.0	0	0
+14	D. Ryans	3	1	0.0	0	0
+14	W. Thurmond	3	0	0.0	0	0
+14	K. Alonso	2	3	0.0	0	0
+14	B. Logan	2	0	0.0	0	0
+14	B. Maxwell	2	0	0.0	0	1
+14	B. Allen	1	0	0.0	0	0
+14	E. Biggers	1	0	0.0	0	0
+14	B. Graham	1	2	0.0	0	0
+14	E. Reynolds	1	0	0.0	1	0
+15	M. Kendricks	8	2	0.0	0	0
+15	B. Maxwell	6	0	0.0	0	0
+15	E. Biggers	5	0	0.0	0	0
+15	F. Cox	5	1	1.0	0	0
+15	M. Jenkins	5	2	0.0	0	0
+15	T. Hart	4	0	0.0	0	0
+15	B. Logan	3	0	0.0	0	0
+15	M. Smith	2	1	0.5	0	0
+15	K. Alonso	1	0	0.0	0	0
+15	C. Barwin	1	1	0.5	0	0
+15	V. Curry	1	0	0.0	0	0
+15	B. Graham	1	0	0.0	0	0
+15	E. Rowe	1	2	0.0	0	0
+15	D. Ryans	1	2	0.0	0	0
+15	W. Thurmond	1	0	0.0	0	0
+15	J. Watkins	1	0	0.0	0	0
+15	E. Reynolds	0	1	0.0	0	0
+15	C. Thornton	0	2	0.0	0	0
+16	M. Jenkins	6	0	0.0	0	0
+16	K. Alonso	5	3	0.0	0	0
+16	F. Cox	5	2	2.0	0	0
+16	E. Reynolds	5	1	0.0	0	0
+16	B. Allen	4	1	0.0	0	0
+16	C. Barwin	3	0	0.0	0	0
+16	E. Biggers	3	1	0.0	0	0
+16	M. Kendricks	3	1	0.0	0	0
+16	E. Rowe	3	0	0.0	0	0
+16	D. Ryans	3	2	0.0	0	0
+16	B. Bair	1	1	0.0	0	0
+16	C. Thornton	1	0	0.0	0	0
+16	W. Thurmond	1	0	0.0	0	0
+16	J. Watkins	1	0	0.0	0	0
+16	B. Graham	0	1	0.0	0	0
+16	T. Hart	0	1	0.0	0	0
+17	K. Alonso	8	1	0.0	0	0
+17	M. Jenkins	7	2	0.0	0	0
+17	F. Cox	6	2	0.0	0	0
+17	E. Biggers	5	2	0.0	0	0
+17	M. Kendricks	5	4	0.0	0	0
+17	E. Reynolds	5	2	0.0	0	0
+17	B. Allen	4	2	0.0	0	0
+17	B. Graham	3	1	0.0	0	0
+17	E. Rowe	3	2	0.0	0	0
+17	D. Ryans	3	1	0.0	0	0
+17	C. Barwin	2	0	1.0	0	1
+17	T. Hart	2	0	0.0	0	0
+17	C. Maragos	2	0	0.0	0	0
+17	B. Bair	1	0	0.0	0	0
+17	V. Curry	1	1	0.0	0	0
+17	M. Smith	1	1	1.0	0	0
+17	C. Thornton	0	5	0.0	0	0

@@ -1,90 +1,257 @@
-Passing	CP/AT	YDS	TD	INT
-R. Tannehill	22/34	226	1	0
-Rushing	ATT	YDS	TD	LG
-L. Miller	13	53	0	17
-J. Landry	1	14	0	14
-R. Tannehill	3	7	0	5
-D. Williams	1	0	0	0
-Receiving	REC	YDS	TD	LG
-J. Cameron	4	73	0	27
-J. Landry	8	53	0	20
-R. Matthews	4	34	1	15
-G. Jennings	3	29	0	11
-L. Miller	1	22	0	22
-K. Stills	1	12	0	12
-D. Williams	1	3	0	3
-Fumbles	FUM	LOST	REC	YDS
-L. James	1	0	1	0
-R. Tannehill	1	1	0	0
-Kicking	FG	LG	XP	PTS
-A. Franks	1/1	22	2/2	5
-Punting	NO	AVG	I20	LG
-M. Darr	4	43.5	1	63
-Kickoff Returns	NO	AVG	TD	LG
-L. James	2	27	0	29
-Punt Returns	NO	AVG	TD	LG
-J. Landry	2	37	1	69T
-Defense	T-A	SCK	INT	FF
-K. Misi	9-2	0.0	0	0
-J. Jenkins	7-4	0.0	0	0
-R. Jones	7-5	0.0	0	0
-J. Taylor	6-3	0.0	0	0
-T. Fede	4-2	0.0	0	0
-E. Mitchell	3-1	0.0	0	0
-K. Sheppard	3-2	0.0	0	0
-Br. McCain	2-4	0.0	1	0
-W. Aikens	2-0	0.0	0	0
-B. Grimes	1-1	0.0	1	0
-C. Mosley	1-0	0.0	0	0
-J. Phillips	1-0	1.0	0	0
-N. Suh	1-1	0.0	0	0
-M. Thomas	1-0	0.0	0	0
-Z. Vigil	1-0	0.0	0	0
-D. Shelby	0-1	0.0	0	0
-
-Passing	CP/AT	YDS	TD	INT
-R. Tannehill	30/44	359	2	0
-Rushing	ATT	YDS	TD	LG
-R. Tannehill	3	17	0	9
-L. Miller	10	14	0	6
-J. Landry	1	6	0	6
-D. Williams	2	5	0	3
-Receiving	REC	YDS	TD	LG
-R. Matthews	6	115	0	48
-J. Landry	8	110	0	36
-J. Cameron	3	62	0	26
-L. Miller	5	28	0	12
-J. Stoneburner	2	18	1	13
-D. Williams	3	15	1	10T
-K. Stills	2	8	0	8
-D. Parker	1	3	0	3
-Fumbles	FUM	LOST	REC	YDS
-R. Tannehill	1	0	0	0
-J. Fox	0	0	1	0
-Kicking	FG	LG	XP	PTS
-A. Franks	2/3	48	2/2	8
-Punting	NO	AVG	I20	LG
-M. Darr	6	39.5	0	54
-Kickoff Returns	NO	AVG	TD	LG
-R. Mostert	2	28	0	32
-Punt Returns	NO	AVG	TD	LG
-J. Landry	3	8	0	19
-Defense	T-A	SCK	INT	FF
-J. Jenkins	9-3	0.0	0	0
-R. Jones	8-3	0.0	0	0
-B. Grimes	5-1	0.0	0	0
-W. Aikens	2-2	0.0	0	0
-K. Misi	2-2	0.0	0	0
-K. Sheppard	2-2	0.0	0	0
-M. Thomas	2-0	0.0	0	0
-Br. McCain	1-1	0.0	0	0
-T. Fede	1-0	0.0	0	0
-E. Mitchell	1-0	0.0	0	0
-S. Paysinger	1-0	0.0	0	0
-D. Shelby	1-1	0.0	0	0
-N. Suh	1-0	0.0	0	0
-J. Taylor	1-1	0.0	0	0
-O. Vernon	1-0	0.0	0	0
-
-
-
+week	name	t	a	sck	int	ff
+1	K. Misi	9	2	0.0	0	0
+1	J. Jenkins	7	4	0.0	0	0
+1	R. Jones	7	5	0.0	0	0
+1	J. Taylor	6	3	0.0	0	0
+1	T. Fede	4	2	0.0	0	0
+1	E. Mitchell	3	1	0.0	0	0
+1	K. Sheppard	3	2	0.0	0	0
+1	Br. McCain	2	4	0.0	1	0
+1	W. Aikens	2	0	0.0	0	0
+1	B. Grimes	1	1	0.0	1	0
+1	C. Mosley	1	0	0.0	0	0
+1	J. Phillips	1	0	1.0	0	0
+1	N. Suh	1	1	0.0	0	0
+1	M. Thomas	1	0	0.0	0	0
+1	Z. Vigil	1	0	0.0	0	0
+1	D. Shelby	0	1	0.0	0	0
+2	J. Jenkins 	9	3 	0.0 	0 	0
+2	R. Jones 	8	3 	0.0 	0 	0
+2	B. Grimes 	5	1 	0.0 	0 	0
+2	W. Aikens 	2	2 	0.0 	0 	0
+2	K. Misi 	2	2 	0.0 	0 	0
+2	K. Sheppard 	2	2 	0.0 	0 	0
+2	M. Thomas 	2	0 	0.0 	0 	0
+2	Br. McCain 	1	1 	0.0 	0 	0
+2	T. Fede 	1	0 	0.0 	0 	0
+2	E. Mitchell 	1	0 	0.0 	0 	0
+2	S. Paysinger 	1	0 	0.0 	0 	0
+2	D. Shelby 	1	1 	0.0 	0 	0
+2	N. Suh 	1	0 	0.0 	0 	0
+2	J. Taylor 	1	1 	0.0 	0 	0
+2	O. Vernon 	1	0 	0.0 	0 	0
+3	R. Jones	8	1	0.0	0	0
+3	K. Misi	6	0	0.0	0	0
+3	K. Sheppard	6	0	0.0	0	0
+3	Br. McCain	5	0	0.0	0	0
+3	M. Thomas	5	0	0.0	0	0
+3	N. Suh	4	0	0.0	0	0
+3	J. Jenkins	3	0	0.0	0	0
+3	B. Grimes	2	0	0.0	0	0
+3	D. Shelby	2	0	0.0	0	0
+3	W. Aikens	1	0	0.0	0	0
+3	A. Francis	1	0	0.0	0	0
+3	E. Mitchell	1	0	0.0	0	0
+3	J. Taylor	1	0	0.0	0	0
+3	O. Vernon	1	0	0.0	0	0
+3	T. Fede	0	1	0.0	0	0
+3	Z. Vigil	0	1	0.0	0	0
+3	C. Wake	0	1	0.0	0	0
+4	R. Jones	10	1	0.0	0	0
+4	K. Misi	5	3	0.0	0	0
+4	S. Paysinger	4	1	0.0	0	0
+4	J. Taylor	4	0	0.0	0	0
+4	Br. McCain	3	1	0.0	0	0
+4	J. Jenkins	3	1	0.0	0	0
+4	N. Suh	3	0	0.0	0	0
+4	M. Thomas	3	0	0.0	0	0
+4	B. Grimes	2	0	0.0	0	0
+4	E. Mitchell	2	1	0.0	0	0
+4	D. Shelby	2	0	0.0	0	0
+4	O. Vernon	2	0	0.0	0	0
+4	Bo. McCain	1	0	0.0	0	0
+4	W. Aikens	1	0	0.0	0	0
+4	Z. Bowman	1	0	0.0	1	0
+4	K. Sheppard	1	2	0.0	0	0
+6	K. Misi	6	2	0.0	0	0
+6	R. Jones	5	3	0.0	1	0
+6	J. Jenkins	4	3	0.0	0	0
+6	C. Wake	4	0	4.0	0	2
+6	Bo. McCain	3	0	0.0	0	0
+6	O. Vernon	3	1	1.0	0	0
+6	J. Kovacs	2	0	1.0	0	0
+6	M. Thomas	2	1	0.0	0	0
+6	T. Fede	1	1	0.0	0	0
+6	B. Grimes	1	1	0.0	1	0
+6	N. Hewitt	1	1	0.0	0	0
+6	D. Shelby	1	0	0.0	0	0
+6	K. Sheppard	1	0	0.0	0	0
+6	J. Taylor	1	2	0.0	0	0
+6	Br. McCain	0	1	0.0	0	0
+6	E. Mitchell	0	3	0.0	0	0
+6	J. Phillips	0	1	0.0	0	0
+6	N. Suh	0	1	0.0	0	0
+6	Z. Vigil	0	1	0.0	0	0
+7	R. Jones	8	0	0.0	1	0
+7	J. Taylor	6	1	0.0	0	0
+7	N. Suh	5	1	2.0	0	0
+7	M. Thomas	4	0	0.0	0	0
+7	J. Jenkins	3	0	0.0	0	1
+7	K. Misi	3	0	0.0	0	0
+7	B. Grimes	2	1	0.0	0	0
+7	N. Hewitt	2	0	0.0	0	0
+7	E. Mitchell	2	1	0.0	0	0
+7	K. Sheppard	2	0	0.0	0	0
+7	C. Wake	2	0	2.0	0	2
+7	Bo. McCain	1	0	0.0	0	0
+7	T. Fede	1	1	0.0	0	0
+7	C. Mosley	1	1	0.0	0	0
+7	S. Paysinger	1	0	0.0	0	0
+7	J. Phillips	1	0	0.0	0	0
+7	D. Shelby	1	0	0.0	0	0
+7	Z. Vigil	1	0	0.0	0	0
+8	R. Jones	5	3	0.0	0	0
+8	K. Sheppard	5	3	0.0	0	0
+8	J. Taylor	4	3	0.0	0	0
+8	W. Aikens	3	1	0.0	0	0
+8	J. Jenkins	3	2	0.0	0	0
+8	K. Misi	3	3	0.0	0	0
+8	B. Grimes	2	0	0.0	0	0
+8	M. Thomas	2	3	0.0	0	0
+8	Bo. McCain	1	2	0.0	0	0
+8	S. Paysinger	1	0	0.0	0	0
+8	J. Phillips	1	1	0.0	0	0
+8	D. Shelby	1	1	0.0	0	0
+8	O. Vernon	1	4	1.0	0	0
+8	C. Wake	1	1	1.0	0	0
+8	T. Fede	0	2	0.0	0	0
+8	C. Mosley	0	1	0.0	0	0
+8	N. Suh	0	2	0.0	0	0
+9	B. Grimes	7	0	0.0	0	0
+9	R. Jones	6	1	1.0	0	0
+9	K. Misi	5	0	0.0	0	0
+9	O. Vernon	5	2	0.0	0	0
+9	K. Sheppard	4	0	0.0	0	0
+9	J. Jenkins	3	0	0.0	0	0
+9	J. Taylor	3	0	0.0	0	0
+9	M. Thomas	3	1	0.0	0	0
+9	Br. McCain	1	0	0.0	0	0
+9	C. McCain	1	0	0.0	0	0
+9	E. Mitchell	1	1	0.0	0	0
+9	J. Phillips	1	0	1.0	0	0
+9	D. Shelby	1	1	0.0	0	0
+9	N. Suh	1	2	1.0	0	0
+9	W. Aikens	0	1	0.0	0	0
+10	K. Sheppard	8	3	0.0	0	0
+10	N. Suh	7	2	1.0	0	0
+10	N. Hewitt	6	0	0.0	0	0
+10	R. Jones	6	3	1.0	1	0
+10	K. Misi	6	1	0.0	0	0
+10	W. Aikens	5	1	0.0	0	0
+10	J. Jenkins	4	1	0.0	0	0
+10	O. Vernon	4	0	0.0	0	0
+10	D. Shelby	3	0	1.0	0	1
+10	J. Taylor	3	0	0.0	0	0
+10	M. Thomas	3	1	0.0	0	0
+10	Br. McCain	2	0	0.0	0	0
+10	C. Mosley	2	0	0.0	0	0
+10	Bo. McCain	1	1	0.0	0	0
+10	T. Fede	1	0	0.0	0	0
+10	M. Hull	1	0	0.0	0	0
+10	T. Lippett	1	0	0.0	0	0
+10	C. McCain	1	0	1.0	0	1
+10	E. Mitchell	1	0	0.0	0	0
+11	K. Sheppard	10	4	0.0	0	0
+11	R. Jones	7	1	0.0	0	0
+11	B. Grimes	4	1	0.0	1	0
+11	N. Suh	4	3	0.0	0	0
+11	J. Taylor	4	2	0.0	0	0
+11	M. Thomas	3	0	0.0	0	0
+11	O. Vernon	3	2	1.0	0	0
+11	N. Hewitt	2	2	0.0	1	0
+11	J. Phillips	2	0	0.0	0	0
+11	D. Shelby	2	1	1.0	0	0
+11	Z. Vigil	2	1	0.0	0	0
+11	W. Aikens	1	0	0.0	0	0
+11	Z. Bowman	1	0	0.0	0	0
+11	E. Mitchell	1	0	0.0	0	0
+11	C. Mosley	0	1	0.0	0	0
+12	B. Grimes	5	0	0.0	0	0
+12	R. Jones	5	1	0.0	0	0
+12	Br. McCain	4	0	0.0	0	0
+12	K. Sheppard	4	5	0.0	0	0
+12	M. Thomas	4	4	0.0	0	0
+12	O. Vernon	4	1	1.0	0	0
+12	K. Misi	3	0	0.0	0	0
+12	N. Hewitt	2	2	0.0	0	0
+12	E. Mitchell	2	1	0.0	0	0
+12	J. Phillips	2	0	0.0	0	0
+12	J. Taylor	2	1	0.0	0	0
+12	S. Gary	1	1	0.0	0	0
+12	J. Jenkins	1	1	0.0	0	0
+12	N. Suh	1	3	0.0	0	0
+12	D. Shelby	0	2	0.0	0	0
+13	Bo. McCain	7	0	0.0	0	0
+13	R. Jones	7	3	0.0	1	0
+13	K. Sheppard	5	3	0.0	0	0
+13	O. Vernon	4	2	2.5	0	0
+13	B. Grimes	3	1	0.0	0	0
+13	J. Jenkins	3	4	0.0	0	0
+13	K. Misi	3	4	0.0	0	0
+13	M. Thomas	3	3	0.0	0	0
+13	Br. McCain	2	0	0.0	0	0
+13	S. Gary	2	1	0.0	0	0
+13	D. Shelby	2	1	0.5	1	0
+13	N. Suh	2	2	0.0	0	0
+13	T. Fede	1	0	0.0	0	0
+13	N. Hewitt	1	1	0.0	0	0
+13	J. Phillips	1	3	0.0	0	0
+13	R. Thomas	0	1	0.0	0	0
+14	R. Jones	9	1	0.0	0	0
+14	Br. McCain	6	0	0.0	0	0
+14	J. Jenkins	6	2	0.0	0	0
+14	K. Misi	5	1	0.0	0	0
+14	M. Thomas	5	0	0.0	0	0
+14	B. Grimes	3	0	0.0	0	0
+14	K. Sheppard	3	2	0.0	0	0
+14	N. Suh	3	1	0.0	0	0
+14	Bo. McCain	2	0	0.0	0	0
+14	O. Vernon	2	0	0.0	0	0
+14	S. Gary	1	0	0.0	0	0
+14	J. Phillips	1	0	0.0	0	0
+14	D. Shelby	1	1	0.0	0	0
+15	K. Sheppard	10	1	0.0	0	0
+15	M. Thomas	10	1	0.0	0	0
+15	R. Jones	8	0	0.0	1	0
+15	O. Vernon	6	5	0.5	0	0
+15	N. Suh	4	0	0.5	0	0
+15	Bo. McCain	3	0	0.0	0	0
+15	D. Coleman	3	0	0.0	0	0
+15	K. Misi	3	1	0.0	0	0
+15	B. Grimes	2	1	0.0	1	0
+15	N. Hewitt	2	1	0.0	0	0
+15	D. Shelby	2	2	0.0	0	0
+15	T. Lippett	1	1	0.0	0	0
+15	D. Moore	1	0	0.0	0	0
+15	S. Paysinger	1	1	0.0	0	0
+15	J. Phillips	1	0	0.0	0	0
+15	Z. Vigil	1	0	0.0	0	0
+16	T. Lippett	5	0	0.0	0	0
+16	K. Sheppard	4	2	0.0	0	0
+16	Br. McCain	3	0	0.0	0	0
+16	S. Gary	3	0	0.0	0	0
+16	R. Jones	3	3	0.0	0	0
+16	Z. Vigil	3	0	0.0	0	0
+16	B. Grimes	2	0	0.0	0	0
+16	N. Hewitt	2	1	0.0	0	0
+16	D. Moore	2	0	1.0	0	0
+16	O. Vernon	2	0	0.0	0	0
+16	J. Jenkins	1	0	0.0	0	0
+16	J. Phillips	1	0	0.0	0	0
+16	D. Shelby	1	1	0.0	0	0
+16	N. Suh	1	2	1.0	0	0
+16	M. Thomas	1	0	0.0	0	0
+17	D. Shelby	5	0	1.0	0	1
+17	M. Thomas	5	1	0.0	0	0
+17	N. Hewitt	4	2	0.0	0	0
+17	R. Jones	4	0	0.0	0	0
+17	K. Sheppard	4	1	0.0	0	0
+17	O. Vernon	3	3	0.5	0	0
+17	Br. McCain	2	1	0.0	0	0
+17	T. Lippett	2	0	0.0	0	0
+17	J. Phillips	2	0	0.0	0	0
+17	N. Suh	2	2	0.5	0	0
+17	D. Coleman	1	0	0.0	0	0
+17	B. Grimes	1	0	0.0	0	0
+17	S. Gary	0	1	0.0	0	0
+17	D. Moore	0	1	0.0	0	0

@@ -1,94 +1,255 @@
-Passing	CP/AT	YDS	TD	INT
-A. Dalton	25/34	269	2	0
-Rushing	ATT	YDS	TD	LG
-G. Bernard	8	63	0	28
-J. Hill	19	63	2	11
-A. Dalton	4	1	0	3
-Receiving	REC	YDS	TD	LG
-T. Eifert	9	104	2	31
-A. Green	5	63	0	30
-M. Sanu	2	34	0	28
-G. Bernard	6	25	0	14
-R. Burkhead	1	24	0	24
-M. Jones	2	19	0	12
-Fumbles	FUM	LOST	REC	YDS
-G. Atkins	0	0	0	0
-M. Johnson	0	0	1	0
-A. Jones	0	0	0	0
-Kicking	FG	LG	XP	PTS
-M. Nugent	2/2	35	3/4	9
-Punting	NO	AVG	I20	LG
-K. Huber	5	38.4	1	53
-Kickoff Returns	NO	AVG	TD	LG
-B. Tate	2	7	0	8
-Punt Returns	NO	AVG	TD	LG
-A. Jones	2	11	0	18
-B. Tate	0	0	0	0
-Defense	T-A	SCK	INT	FF
-A. Jones	10-0	0.0	0	1
-V. Rey	6-3	0.0	0	0
-R. Maualuga	4-3	0.0	0	0
-D. Dennard	3-0	0.0	0	0
-G. Atkins	2-0	1.0	0	1
-C. Carter	2-1	0.0	0	0
-L. Hall	2-1	0.0	0	0
-D. Kirkpatrick	2-0	0.0	0	0
-S. Williams	2-0	0.0	0	0
-C. Dunlap	1-1	1.0	0	0
-A. Hawk	1-3	0.0	0	0
-G. Iloka	1-1	0.0	0	0
-M. Johnson	1-0	0.0	0	0
-E. Lamur	1-1	0.0	0	0
-P. Dawson	0-1	0.0	0	0
-R. Nelson	0-0	0.0	1	0
-P. Sims	0-1	0.0	0	0
-
-Passing	CP/AT	YDS	TD	INT
-A. Dalton	16/26	214	3	0
-Rushing	ATT	YDS	TD	LG
-G. Bernard	20	123	0	26
-J. Hill	10	39	0	9
-A. Dalton	5	10	0	6
-M. Jones	1	3	0	3
-Receiving	REC	YDS	TD	LG
-T. Eifert	4	49	1	15
-M. Jones	2	48	1	45T
-A. Green	3	45	1	23
-J. Fisher	1	31	0	31
-G. Bernard	3	16	0	9
-M. Sanu	1	15	0	15
-R. Burkhead	1	8	0	8
-J. Hill	1	2	0	2
-Fumbles	FUM	LOST	REC	YDS
-J. Hill	2	2	0	-7
-C. Carter	0	0	1	0
-W. Gilberry	0	0	0	0
-E. Lamur	0	0	1	0
-Kicking	FG	LG	XP	PTS
-M. Nugent	1/2	21	3/3	6
-Punting	NO	AVG	I20	LG
-K. Huber	3	47.0	2	58
-Kickoff Returns	NO	AVG	TD	LG
-A. Jones	2	22	0	29
-B. Tate	1	29	0	29
-Punt Returns	NO	AVG	TD	LG
-B. Tate	2	14	0	17
-A. Jones	1	0	0	0
-Defense	T-A	SCK	INT	FF
-A. Jones	7-2	0.0	0	0
-D. Kirkpatrick	7-0	0.0	0	0
-G. Iloka	5-0	0.0	0	0
-L. Hall	4-0	0.0	0	0
-C. Dunlap	3-3	1.5	0	0
-W. Gilberry	2-1	1.0	0	1
-M. Johnson	2-1	0.0	0	0
-E. Lamur	2-0	0.0	0	0
-R. Maualuga	2-3	0.0	0	0
-R. Nelson	2-2	0.0	0	0
-V. Rey	2-2	0.0	1	0
-G. Atkins	0-3	1.0	0	0
-W. Clarke	0-1	0.5	0	0
-D. Peko	0-2	0.0	0	0
-
-
-
+week	name	t	a	sck	int	ff
+1	A. Jones	10	0	0.0	0	1
+1	V. Rey	6	3	0.0	0	0
+1	R. Maualuga	4	3	0.0	0	0
+1	D. Dennard	3	0	0.0	0	0
+1	G. Atkins	2	0	1.0	0	1
+1	C. Carter	2	1	0.0	0	0
+1	L. Hall	2	1	0.0	0	0
+1	D. Kirkpatrick	2	0	0.0	0	0
+1	S. Williams	2	0	0.0	0	0
+1	C. Dunlap	1	1	1.0	0	0
+1	A. Hawk	1	3	0.0	0	0
+1	G. Iloka	1	1	0.0	0	0
+1	M. Johnson	1	0	0.0	0	0
+1	E. Lamur	1	1	0.0	0	0
+1	P. Dawson	0	1	0.0	0	0
+1	R. Nelson	0	0	0.0	1	0
+1	P. Sims	0	1	0.0	0	0
+2	A. Jones 	7	2	0.0 0 	0
+2	D. Kirkpatrick 	7	0	0.0 0 	0
+2	G. Iloka 	5	0	0.0 0 	0
+2	L. Hall 	4	0	0.0 0 	0
+2	C. Dunlap 	3	3	1.5 0 	0
+2	W. Gilberry 2	1	1.0 0 	1
+2	M. Johnson 	2	1	0.0 0 	0
+2	E. Lamur 	2	0	0.0 0 	0
+2	R. Maualuga 2	3	0.0 0 	0
+2	R. Nelson 	2	2	0.0 0 	0
+2	V. Rey 	2	2	0.0 	1 	0
+2	G. Atkins 	0	3	1.0 0 	0
+2	W. Clarke 	0	1	0.5 0 	0
+2	D. Peko 	0	2	0.0 0 	0
+3	A. Hawk	5	1	0.0	0	0
+3	A. Jones	4	2	0.0	1	0
+3	V. Rey	4	4	0.0	0	0
+3	C. Dunlap	3	2	0.0	0	0
+3	S. Williams	3	0	0.0	0	0
+3	G. Atkins	2	2	0.0	0	0
+3	L. Hall	2	1	0.0	0	0
+3	D. Kirkpatrick	2	2	0.0	0	0
+3	E. Lamur	2	1	0.0	0	0
+3	R. Maualuga	2	3	0.0	0	0
+3	R. Nelson	2	1	0.0	0	0
+3	C. Peerman	2	0	0.0	0	1
+3	W. Gilberry	1	0	0.0	0	0
+3	G. Iloka	1	1	0.0	0	0
+3	D. Peko	1	2	0.0	0	0
+3	B. Thompson	1	1	0.0	0	0
+3	M. Johnson	0	1	0.0	0	0
+4	V. Rey	10	5	0.0	0	0
+4	R. Nelson	6	3	0.0	0	0
+4	D. Dennard	4	2	0.0	0	0
+4	M. Johnson	4	0	1.0	0	1
+4	R. Maualuga	4	4	0.0	0	0
+4	L. Hall	3	0	0.0	0	0
+4	D. Kirkpatrick	3	2	0.0	0	0
+4	S. Williams	3	3	0.0	0	0
+4	G. Atkins	2	1	1.0	0	0
+4	C. Dunlap	2	0	1.0	0	0
+4	W. Gilberry	2	0	0.0	0	0
+4	D. Peko	2	0	2.0	0	0
+4	W. Clarke	1	0	0.0	0	0
+4	E. Lamur	1	2	0.0	0	0
+4	A. Hawk	0	1	0.0	0	0
+4	A. Jones	0	1	0.0	0	0
+4	P. Sims	0	1	0.0	0	0
+5	V. Rey	6	7	0.0	0	0
+5	R. Maualuga	5	3	0.0	0	0
+5	A. Jones	4	1	1.0	1	0
+5	C. Dunlap	3	3	1.5	0	0
+5	G. Iloka	3	1	0.0	0	0
+5	G. Atkins	2	2	1.0	0	0
+5	D. Dennard	2	0	0.0	0	0
+5	A. Hawk	2	0	0.0	0	0
+5	R. Nelson	2	2	0.0	0	0
+5	D. Peko	2	2	0.0	0	0
+5	B. Thompson	1	1	0.0	0	0
+5	M. Johnson	0	3	0.0	0	0
+5	E. Lamur	0	3	0.5	0	0
+6	R. Nelson	8	3	0.0	0	0
+6	V. Rey	7	1	0.0	0	0
+6	D. Kirkpatrick	6	0	0.0	0	0
+6	G. Iloka	4	2	0.0	0	0
+6	M. Johnson	4	0	0.0	0	0
+6	A. Jones	4	1	0.0	0	0
+6	E. Lamur	3	3	0.0	0	0
+6	G. Atkins	2	0	0.0	0	0
+6	W. Gilberry	2	1	0.0	0	0
+6	R. Maualuga	2	4	0.0	0	0
+6	W. Clarke	1	0	0.0	0	0
+6	C. Dunlap	1	2	1.5	0	0
+6	C. Carter	0	1	0.0	0	0
+6	D. Dennard	0	1	0.0	1	0
+6	D. Peko	0	3	0.0	0	0
+6	B. Thompson	0	1	0.5	0	0
+8	V. Burfict	5	0	0.0	0	0
+8	L. Hall	5	0	0.0	0	0
+8	A. Jones	5	0	0.0	0	0
+8	R. Nelson	5	0	0.0	2	0
+8	V. Rey	5	3	0.0	0	0
+8	G. Iloka	4	0	0.0	0	0
+8	D. Kirkpatrick	3	0	0.0	0	0
+8	G. Atkins	2	0	1.0	0	0
+8	C. Dunlap	2	0	0.0	0	0
+8	E. Lamur	2	0	0.0	0	0
+8	D. Peko	2	0	0.0	0	0
+8	P. Sims	2	2	0.0	0	0
+8	C. Carter	1	0	0.0	0	0
+8	W. Gilberry	1	0	1.0	0	0
+8	A. Hawk	1	0	0.0	0	0
+8	M. Johnson	1	0	1.0	0	0
+8	S. Williams	1	0	0.0	1	0
+9	V. Rey	5	0	0.0	0	0
+9	C. Dunlap	4	0	2.0	0	0
+9	G. Iloka	4	0	0.0	0	0
+9	D. Kirkpatrick	4	0	0.0	0	0
+9	G. Atkins	3	1	1.0	0	0
+9	V. Burfict	2	1	0.0	0	0
+9	L. Hall	2	0	0.0	0	0
+9	R. Nelson	2	0	0.0	0	0
+9	D. Dennard	1	0	0.0	0	0
+9	M. Johnson	1	0	0.0	0	0
+9	A. Jones	1	0	0.0	0	0
+9	E. Lamur	1	0	0.0	0	0
+9	D. Peko	1	1	0.0	0	0
+9	B. Thompson	1	0	0.0	0	0
+9	W. Gilberry	0	1	0.0	0	0
+10	A. Jones	4	1	0.0	0	0
+10	G. Iloka	3	5	0.0	0	0
+10	V. Burfict	2	5	0.0	0	0
+10	D. Kirkpatrick	2	1	0.0	0	0
+10	R. Nelson	2	4	0.0	1	0
+10	V. Rey	2	2	1.0	0	0
+10	G. Atkins	1	2	0.0	0	0
+10	W. Clarke	1	0	0.0	0	0
+10	W. Gilberry	1	0	0.0	0	0
+10	L. Hall	1	1	0.0	0	0
+10	A. Hawk	1	1	1.0	0	0
+10	E. Lamur	1	2	0.0	0	0
+10	R. Maualuga	1	1	0.0	0	0
+10	D. Peko	1	2	1.0	0	0
+10	P. Sims	1	5	0.0	0	0
+10	D. Dennard	0	1	0.0	0	0
+10	M. Johnson	0	3	0.0	0	0
+11	V. Burfict	7	1	0.0	0	0
+11	M. Johnson	6	0	1.0	0	1
+11	G. Atkins	4	0	1.0	0	0
+11	L. Hall	4	2	0.0	1	0
+11	G. Iloka	4	0	0.0	0	0
+11	R. Nelson	3	0	0.0	1	0
+11	D. Dennard	2	0	0.0	0	0
+11	W. Gilberry	2	0	0.0	0	0
+11	A. Hawk	2	0	0.0	0	0
+11	D. Kirkpatrick	2	0	0.0	0	0
+11	E. Lamur	2	0	0.0	0	1
+11	V. Rey	2	0	0.0	0	0
+11	C. Dunlap	1	0	0.0	0	0
+11	R. Maualuga	1	1	0.0	0	0
+11	J. Shaw	1	0	0.0	0	0
+12	D. Kirkpatrick	9	1	0.0	0	0
+12	V. Burfict	6	1	0.0	0	0
+12	L. Hall	4	2	0.0	1	0
+12	A. Jones	4	0	0.0	0	0
+12	G. Atkins	3	0	1.0	0	0
+12	G. Iloka	3	1	0.0	1	0
+12	V. Rey	3	3	0.0	0	0
+12	E. Lamur	2	0	0.0	0	0
+12	R. Nelson	2	0	0.0	1	0
+12	D. Peko	2	1	0.0	0	0
+12	J. Shaw	2	0	0.0	0	0
+12	C. Dunlap	1	3	0.0	0	0
+12	R. Maualuga	1	1	0.0	0	0
+12	S. Williams	1	0	0.0	0	0
+12	W. Gilberry	0	3	0.0	0	0
+12	A. Hawk	0	1	0.0	0	0
+12	B. Thompson	0	1	0.0	0	0
+13	V. Burfict	6	2	0.0	0	0
+13	R. Nelson	5	0	0.0	1	0
+13	V. Rey	4	0	0.0	0	0
+13	J. Shaw	4	0	0.0	0	0
+13	C. Dunlap	3	0	1.0	0	1
+13	A. Jones	3	0	0.0	0	0
+13	D. Kirkpatrick	3	0	0.0	0	0
+13	R. Maualuga	3	0	0.0	0	0
+13	A. Hawk	2	0	0.0	0	0
+13	T. Hill	2	1	0.0	0	0
+13	M. Johnson	2	0	1.0	0	0
+13	D. Peko	2	0	1.0	0	0
+13	C. Carter	1	0	0.0	0	0
+13	P. Dawson	1	1	0.0	0	0
+13	W. Gilberry	1	0	0.0	0	0
+13	M. Hunt	1	0	0.0	0	0
+13	E. Lamur	1	0	0.0	0	0
+13	P. Sims	0	1	0.0	0	0
+13	S. Williams	0	1	0.0	0	0
+14	V. Burfict	11	0	0.0	0	0
+14	D. Kirkpatrick	6	1	0.0	0	0
+14	L. Hall	5	2	0.0	0	0
+14	R. Maualuga	5	2	0.0	0	0
+14	J. Shaw	5	2	0.0	0	0
+14	V. Rey	3	2	0.0	0	0
+14	C. Dunlap	2	2	1.0	0	0
+14	M. Johnson	2	1	1.0	0	0
+14	E. Lamur	2	0	0.0	0	0
+14	R. Nelson	2	1	0.0	1	0
+14	G. Atkins	1	0	0.0	0	0
+14	W. Gilberry	1	0	0.0	0	0
+14	G. Iloka	1	0	0.0	0	0
+14	D. Peko	1	1	0.0	0	0
+14	S. Williams	1	0	0.0	0	0
+14	M. Hunt	0	1	0.0	0	0
+15	R. Maualuga	7	3	0.0	0	0
+15	V. Burfict	5	2	1.0	1	0
+15	L. Hall	5	0	0.0	0	0
+15	D. Kirkpatrick	5	0	0.0	0	0
+15	G. Atkins	4	0	2.0	0	0
+15	C. Dunlap	3	0	0.0	0	1
+15	R. Nelson	3	1	0.0	0	0
+15	S. Williams	3	1	0.0	1	0
+15	P. Dawson	2	0	0.0	0	0
+15	W. Gilberry	2	0	0.0	0	0
+15	A. Hawk	2	0	0.0	0	0
+15	A. Jones	2	1	0.0	1	0
+15	M. Johnson	1	1	0.0	0	0
+15	D. Peko	1	2	1.0	0	0
+16	D. Kirkpatrick	7	0	0.0	0	0
+16	V. Burfict	5	1	0.0	0	0
+16	C. Dunlap	5	1	3.0	0	0
+16	M. Johnson	5	1	0.0	0	1
+16	A. Jones	5	0	0.0	0	0
+16	L. Hall	4	1	0.0	0	0
+16	S. Williams	4	0	0.0	0	0
+16	R. Maualuga	3	1	0.0	0	0
+16	D. Peko	2	0	0.0	0	0
+16	W. Gilberry	1	0	0.0	0	0
+16	V. Rey	1	0	0.0	0	0
+16	J. Shaw	1	0	0.0	0	0
+16	P. Sims	1	2	0.0	0	0
+16	R. Nelson	0	1	0.0	0	0
+17	V. Burfict	8	4	0.0	1	0
+17	R. Nelson	6	4	0.0	0	0
+17	S. Williams	4	1	0.0	0	0
+17	G. Atkins	3	0	1.0	0	0
+17	C. Dunlap	3	1	0.0	0	0
+17	L. Hall	3	1	0.0	0	0
+17	C. Lewis-Harris	3	0	0.0	0	0
+17	R. Maualuga	3	3	0.0	1	0
+17	G. Iloka	2	1	0.0	0	0
+17	D. Kirkpatrick	2	0	0.0	0	0
+17	V. Rey	2	1	0.0	0	0
+17	B. Thompson	1	0	0.0	0	0
+17	W. Gilberry	0	1	0.0	0	0
+17	A. Hawk	0	1	0.0	0	0
+17	M. Johnson	0	2	0.0	0	0
+17	D. Peko	0	2	0.0	0	0

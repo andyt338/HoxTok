@@ -1,90 +1,244 @@
-Passing	CP/AT	YDS	TD	INT
-M. McGloin	23/31	142	2	1
-D. Carr	7/12	61	0	0
-Rushing	ATT	YDS	TD	LG
-L. Murray	11	44	0	12
-D. Carr	1	8	0	8
-J. Olawale	1	6	0	6
-T. Jones	3	5	0	4
-Receiving	REC	YDS	TD	LG
-A. Cooper	5	47	0	24
-M. Crabtree	5	37	0	11
-L. Murray	7	36	0	11
-M. Reece	3	26	2	11T
-J. Olawale	3	19	0	11
-T. Jones	1	13	0	13
-S. Roberts	3	12	0	7
-R. Streater	1	8	0	8
-M. Rivera	1	4	0	4
-C. Walford	1	1	0	1
-Fumbles	FUM	LOST	REC	YDS
-D. Carr	1	0	0	0
-M. McGloin	1	1	0	0
-Kicking	FG	LG	XP	PTS
-S. Janikowski	0/0	0	1/1	1
-Punting	NO	AVG	I20	LG
-M. King	6	36.2	2	48
-Kickoff Returns	NO	AVG	TD	LG
-T. Jones	2	30	0	33
-L. Smith	1	8	0	8
-Punt Returns	NO	AVG	TD	LG
-T. Carrie	3	9	0	11
-Defense	T-A	SCK	INT	FF
-L. Asante	7-1	0.0	0	0
-M. Smith	6-1	0.0	0	0
-T. Carrie	5-1	0.0	0	0
-C. Woodson	5-2	0.0	0	0
-D. Hayden	3-1	0.0	0	0
-K. Mack	3-1	0.0	0	0
-J. Tuck	3-2	0.0	0	0
-D. Williams	3-1	0.0	0	0
-R. Armstrong	2-1	0.0	0	0
-C. Lofton	1-1	0.0	0	0
-A. Smith	1-1	0.0	0	0
-N. Allen	0-1	0.0	0	0
-
-Passing	CP/AT	YDS	TD	INT
-D. Carr	30/46	351	3	1
-Rushing	ATT	YDS	TD	LG
-L. Murray	15	65	1	9
-D. Carr	2	23	0	24
-T. Jones	2	9	0	7
-Receiving	REC	YDS	TD	LG
-M. Crabtree	9	111	1	37
-A. Cooper	7	109	1	68T
-A. Holmes	3	50	0	21
-L. Murray	3	22	0	12
-M. Reece	1	16	0	16
-M. Rivera	3	15	0	7
-S. Roberts	1	12	1	12T
-T. Jones	1	6	0	6
-L. Smith	1	6	0	6
-C. Walford	1	4	0	4
-Fumbles	FUM	LOST	REC	YDS
-T. Carrie	0	0	0	0
-C. Lofton	0	0	1	0
-Kicking	FG	LG	XP	PTS
-S. Janikowski	3/3	48	4/4	13
-Punting	NO	AVG	I20	LG
-M. King	2	49.0	1	70
-Kickoff Returns	NO	AVG	TD	LG
-Punt Returns	NO	AVG	TD	LG
-T. Carrie	2	2	0	5
-Defense	T-A	SCK	INT	FF
-C. Lofton	7-6	0.0	0	0
-M. Smith	7-5	0.0	0	0
-D. Hayden	4-2	0.0	0	0
-T. Carrie	3-1	0.0	0	1
-N. Thorpe	3-1	0.0	1	0
-C. Woodson	3-1	0.0	0	0
-L. Asante	2-3	0.0	0	0
-D. Autry	2-0	0.0	0	0
-T. Mays	2-3	0.0	0	0
-J. Tuck	2-2	0.0	0	0
-C. Wilson	2-0	0.0	0	0
-R. Armstrong	1-1	0.0	0	0
-B. Heeney	1-0	0.0	0	0
-K. Mack	1-0	0.0	0	0
-S. McGee	1-0	0.0	0	0
-A. Smith	1-0	0.0	0	0
-
+week	name	t	a	sck	int	ff
+1	L. Asante	7	1	0.0	0	0
+1	M. Smith	6	1	0.0	0	0
+1	T. Carrie	5	1	0.0	0	0
+1	C. Woodson	5	2	0.0	0	0
+1	D. Hayden	3	1	0.0	0	0
+1	K. Mack	3	1	0.0	0	0
+1	J. Tuck	3	2	0.0	0	0
+1	D. Williams	3	1	0.0	0	0
+1	R. Armstrong	2	1	0.0	0	0
+1	C. Lofton	1	1	0.0	0	0
+1	A. Smith	1	1	0.0	0	0
+1	N. Allen	0	1	0.0	0	0
+2	C. Lofton 	7	6 	0.0 	0 	0
+2	M. Smith 	7	5 	0.0 	0 	0
+2	D. Hayden 	4	2 	0.0 	0 	0
+2	T. Carrie 	3	1 	0.0 	0 	1
+2	N. Thorpe 	3	1 	0.0 	1 	0
+2	C. Woodson 	3	1 	0.0 	0 	0
+2	L. Asante 	2	3 	0.0 	0 	0
+2	D. Autry 	2	0 	0.0 	0 	0
+2	T. Mays 	2	3 	0.0 	0 	0
+2	J. Tuck 	2	2 	0.0 	0 	0
+2	C. Wilson 	2	0 	0.0 	0 	0
+2	R. Armstrong 	1	1 	0.0 	0 	0
+2	B. Heeney 	1	0 	0.0 	0 	0
+2	K. Mack 	1	0 	0.0 	0 	0
+2	S. McGee 	1	0 	0.0 	0 	0
+2	A. Smith 	1	0 	0.0 	0 	0
+3	M. Smith	7	1	1.0	0	0
+3	C. Lofton	5	2	0.0	0	0
+3	N. Thorpe	5	0	0.0	0	0
+3	C. Woodson	4	2	0.0	1	0
+3	T. Carrie	3	1	0.0	0	0
+3	D. Hayden	3	1	0.0	0	0
+3	K. Mack	3	1	2.0	0	1
+3	D. Amerson	2	1	0.0	0	0
+3	A. Smith	2	0	0.0	0	0
+3	R. Armstrong	1	0	1.0	0	0
+3	L. Asante	1	0	0.0	0	0
+3	D. Autry	1	0	0.0	0	0
+3	N. Ball	1	0	1.0	0	0
+3	S. McGee	0	3	0.0	0	0
+3	J. Tuck	0	2	0.0	0	0
+3	D. Williams	0	2	0.0	0	0
+4	M. Smith	8	1	0.0	0	0
+4	A. Smith	6	0	1.0	0	0
+4	D. Amerson	5	2	0.0	0	1
+4	C. Woodson	5	0	0.0	1	0
+4	R. Armstrong	4	0	0.0	0	0
+4	D. Hayden	4	0	0.0	0	0
+4	K. Mack	4	0	1.0	0	0
+4	N. Thorpe	4	1	0.0	0	0
+4	M. Edwards	3	0	0.0	0	1
+4	C. Lofton	2	2	0.0	0	0
+4	J. Tuck	2	0	1.0	0	0
+4	L. Asante	1	1	0.0	0	0
+4	D. Autry	1	0	0.0	0	0
+4	T. Carrie	1	0	0.0	0	0
+4	J. Ellis	1	0	0.0	0	0
+4	S. McGee	1	1	0.0	0	0
+4	D. Williams	1	0	0.0	0	0
+5	D. Hayden	5	0	0.0	0	0
+5	N. Thorpe	5	0	0.0	0	0
+5	D. Amerson	4	1	0.0	0	0
+5	K. Mack	4	2	0.0	0	0
+5	M. Edwards	3	3	0.5	0	0
+5	M. Smith	3	0	1.0	0	0
+5	N. Ball	2	0	0.0	0	0
+5	T. Carrie	2	1	0.0	0	0
+5	D. Williams	2	3	0.0	0	0
+5	C. Lofton	1	3	0.0	0	0
+5	A. Smith	1	3	0.5	0	0
+5	C. Woodson	1	3	0.0	2	0
+5	B. Mayowa	0	1	0.0	0	0
+5	S. McGee	0	1	0.0	0	0
+5	J. Tuck	0	1	0.0	0	0
+7	M. Smith	11	0	1.0	1	0
+7	D. Hayden	10	0	0.0	1	1
+7	R. Armstrong	6	0	0.0	0	0
+7	D. Amerson	5	1	0.0	0	0
+7	D. Williams	4	0	0.0	0	0
+7	C. Lofton	3	0	0.0	0	0
+7	S. McGee	3	1	0.0	0	0
+7	N. Thorpe	3	0	0.0	0	0
+7	M. Edwards	2	0	0.0	0	0
+7	S. Harris	2	1	0.0	0	0
+7	K. Mack	2	0	0.0	0	0
+7	C. Woodson	2	1	0.0	0	0
+7	N. Ball	1	1	0.0	0	0
+7	T. Carrie	1	2	0.0	0	0
+7	B. Mayowa	1	1	0.0	0	0
+7	A. Smith	1	2	0.0	0	0
+7	C. Wilson	1	0	0.0	0	0
+8	D. Amerson	7	0	0.0	0	0
+8	N. Thorpe	7	0	0.0	0	0
+8	D. Autry	5	0	1.0	0	0
+8	K. Mack	5	1	1.0	0	0
+8	L. Asante	4	1	0.0	0	0
+8	M. Edwards	4	0	0.0	0	0
+8	M. Smith	4	1	0.0	0	0
+8	C. Woodson	4	0	0.0	1	0
+8	D. Hayden	3	0	1.0	0	0
+8	A. Smith	3	1	0.0	0	0
+8	T. Carrie	2	0	0.0	0	0
+8	J. Ellis	1	0	0.0	0	0
+8	C. Lofton	1	0	0.0	0	0
+8	T. Mays	1	0	0.0	0	0
+9	D. Hayden	11	2	0.0	0	0
+9	D. Amerson	8	0	0.0	1	0
+9	C. Woodson	7	1	0.0	0	0
+9	L. Asante	4	0	0.0	0	0
+9	C. Lofton	4	0	0.0	0	0
+9	M. Edwards	3	0	0.0	0	0
+9	J. Ellis	3	0	0.0	0	0
+9	M. Smith	3	0	0.0	0	0
+9	A. Smith	3	0	1.0	0	0
+9	B. Mayowa	2	0	0.0	0	0
+9	N. Thorpe	2	1	0.0	0	0
+9	S. McGee	1	0	0.0	0	0
+9	D. Williams	1	2	0.0	0	0
+9	T. Mays	0	1	0.0	0	0
+10	M. Edwards	8	3	1.0	0	1
+10	M. Smith	6	3	0.0	0	0
+10	C. Lofton	5	2	1.0	0	0
+10	D. Williams	5	2	0.0	0	0
+10	C. Woodson	5	0	0.0	0	0
+10	D. Hayden	3	0	0.0	0	0
+10	A. Smith	3	0	1.0	0	0
+10	N. Allen	2	2	0.0	0	0
+10	J. Ellis	2	1	0.0	0	0
+10	K. Mack	2	2	1.0	0	0
+10	D. Amerson	1	0	0.0	0	0
+10	D. Autry	1	1	0.0	0	0
+10	T. Carrie	1	1	0.0	0	0
+10	S. McGee	1	0	0.0	0	0
+10	T. Mays	0	1	0.0	0	0
+11	K. Mack	8	0	0.0	0	0
+11	T. Carrie	7	1	0.0	0	0
+11	C. Woodson	6	0	0.0	0	0
+11	B. Heeney	5	2	1.0	0	0
+11	D. Hayden	4	0	0.0	0	0
+11	M. Smith	4	1	1.0	0	0
+11	N. Allen	3	0	0.0	0	0
+11	M. Edwards	3	0	0.0	0	0
+11	D. Williams	3	0	0.0	0	0
+11	B. Mayowa	2	0	1.0	0	0
+11	T. Mays	2	0	0.0	0	0
+11	S. McGee	2	0	0.0	0	0
+11	D. Autry	1	0	1.0	0	0
+11	J. Ellis	1	0	0.0	0	0
+11	C. Lofton	1	1	0.0	0	0
+11	N. Thorpe	1	0	0.0	0	0
+12	M. Smith	8	2	0.0	0	0
+12	T. Carrie	3	0	0.0	0	0
+12	K. Mack	3	3	2.0	0	0
+12	D. Amerson	2	0	0.0	1	0
+12	M. Edwards	2	1	0.0	0	0
+12	T. Mays	2	0	0.0	0	0
+12	D. Williams	2	0	0.0	0	0
+12	C. Woodson	2	1	0.0	0	0
+12	J. Ellis	1	2	0.0	0	0
+12	B. Heeney	1	0	0.0	0	0
+12	C. Lofton	1	1	0.0	0	0
+12	S. McGee	1	1	0.0	0	0
+12	N. Allen	0	0	0.0	1	0
+12	D. Autry	0	1	0.0	0	0
+13	K. Mack	5	3	2.0	0	0
+13	D. Amerson	4	0	0.0	0	0
+13	C. Lofton	4	0	0.0	0	0
+13	M. Smith	4	0	0.0	0	1
+13	C. Woodson	4	1	0.0	0	1
+13	D. Williams	3	2	1.0	0	0
+13	N. Allen	2	1	0.0	0	0
+13	D. Hayden	2	0	0.0	0	0
+13	T. Carrie	1	0	0.0	0	0
+13	J. Ellis	1	0	0.0	0	0
+13	B. Heeney	1	1	0.5	0	0
+13	M. Edwards	0	1	0.5	0	0
+13	S. Harris	0	1	0.0	0	0
+14	C. Lofton	8	0	0.0	0	0
+14	M. Smith	7	3	0.0	0	0
+14	K. Mack	6	1	5.0	0	1
+14	M. Edwards	5	0	0.0	0	1
+14	B. Heeney	5	2	0.0	0	1
+14	D. Amerson	4	0	0.0	0	0
+14	D. Autry	3	0	0.0	0	0
+14	T. Carrie	3	1	0.0	0	0
+14	D. Hayden	3	0	0.0	0	0
+14	B. Mayowa	3	0	0.0	0	0
+14	N. Thorpe	3	0	0.0	0	0
+14	D. Williams	3	1	0.0	0	0
+14	J. Ellis	2	0	0.0	0	0
+14	T. Mays	1	1	0.0	0	0
+14	D. McDonald	1	0	0.0	0	0
+14	L. Orr	1	0	0.0	0	0
+14	C. Woodson	1	1	0.0	0	0
+15	M. Smith	7	0	0.0	0	0
+15	D. Amerson	6	0	0.0	1	0
+15	S. Harris	5	0	0.0	0	0
+15	B. Mayowa	4	0	0.0	0	1
+15	D. Autry	3	0	0.0	0	0
+15	D. Hayden	3	0	0.0	0	0
+15	B. Heeney	3	1	1.0	0	0
+15	D. McDonald	3	0	0.0	0	0
+15	D. Williams	3	0	0.0	0	0
+15	C. Woodson	3	0	0.0	0	0
+15	S. McGee	2	0	0.0	0	0
+15	L. Alexander	1	0	0.0	0	0
+15	T. Carrie	1	1	0.0	0	0
+15	J. Ellis	1	0	0.0	0	0
+15	K. Mack	1	1	1.0	0	0
+15	M. Edwards	0	1	0.0	0	0
+16	M. Smith	11	3	0.0	0	1
+16	B. Heeney	7	0	0.0	0	0
+16	D. Hayden	5	0	0.0	0	0
+16	T. Mays	5	1	0.0	0	0
+16	T. Carrie	4	0	0.0	0	0
+16	J. Ellis	3	0	0.0	0	0
+16	K. Mack	3	2	0.0	0	0
+16	D. Amerson	2	0	0.0	0	0
+16	D. Autry	2	0	1.0	0	0
+16	D. Williams	2	1	0.0	0	0
+16	L. Alexander	1	0	0.0	0	0
+16	B. Mayowa	1	0	0.0	0	0
+16	S. McGee	1	0	0.0	0	0
+16	C. Woodson	1	1	0.0	0	0
+16	L. Orr	0	1	0.0	0	0
+17	K. Mack	7	3	0.0	0	0
+17	C. Woodson	6	1	0.0	0	0
+17	T. Carrie	5	0	0.0	1	0
+17	B. Heeney	4	0	0.0	0	0
+17	L. Alexander	3	1	0.0	0	0
+17	J. Ellis	3	0	0.0	0	0
+17	M. Smith	3	2	0.0	0	0
+17	D. Amerson	2	0	0.0	1	0
+17	S. Harris	2	1	1.0	0	0
+17	C. Lofton	2	1	0.0	0	0
+17	T. Mays	2	1	0.0	0	0
+17	D. Autry	1	0	0.0	0	0
+17	D. Hayden	1	0	0.0	0	0
+17	B. Mayowa	1	0	0.0	0	0
+17	S. McGee	1	1	0.0	0	0
+17	D. Williams	1	1	0.0	0	0

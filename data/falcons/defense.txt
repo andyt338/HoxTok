@@ -1,88 +1,279 @@
-Passing	CP/AT	YDS	TD	INT
-M. Ryan	23/34	298	2	2
-Rushing	ATT	YDS	TD	LG
-T. Coleman	20	80	0	20
-D. Freeman	10	18	0	9
-M. Ryan	5	7	0	6
-Receiving	REC	YDS	TD	LG
-J. Jones	9	141	2	44
-R. White	4	84	0	25
-D. Freeman	3	29	0	12
-J. Tamme	3	19	0	8
-L. Hankerson	2	16	0	13
-N. Williams	1	5	0	5
-L. Toilolo	1	4	0	4
-Fumbles	FUM	LOST	REC	YDS
-J. Durant	0	0	0	0
-Kicking	FG	LG	XP	PTS
-M. Bryant	4/4	47	2/2	14
-Punting	NO	AVG	I20	LG
-M. Bosher	4	51.5	3	62
-Kickoff Returns	NO	AVG	TD	LG
-E. Weems	3	19	0	26
-Punt Returns	NO	AVG	TD	LG
-E. Weems	2	9	0	9
-Defense	T-A	SCK	INT	FF
-P. Worrilow	9-3	0.0	0	0
-W. Moore	7-2	0.0	1	0
-R. Allen	5-2	0.0	1	0
-J. Durant	4-4	0.0	0	1
-P. Adams	3-0	0.0	0	0
-K. Biermann	2-1	0.0	0	0
-J. Collins	2-0	0.0	0	0
-J. Babineaux	1-2	0.0	0	0
-V. Beasley	1-2	0.0	0	0
-A. Clayborn	1-0	0.0	0	0
-K. Ishmael	1-0	0.0	0	0
-O. Schofield	1-0	0.0	0	0
-R. Alford	0-1	0.0	0	0
-M. Goodman	0-2	0.0	0	0
-T. Jackson	0-1	0.0	0	0
-G. Jarrett	0-1	0.0	0	0
-
-Passing	CP/AT	YDS	TD	INT
-M. Ryan	30/46	363	1	0
-Rushing	ATT	YDS	TD	LG
-T. Coleman	9	32	1	11
-D. Freeman	12	25	1	7
-M. Ryan	1	-1	0	-1
-Receiving	REC	YDS	TD	LG
-J. Jones	13	135	0	37
-L. Hankerson	6	77	1	20
-J. Tamme	4	77	0	41
-D. Freeman	4	34	0	11
-P. DiMarco	1	19	0	19
-N. Williams	1	12	0	12
-T. Ward	1	9	0	9
-Fumbles	FUM	LOST	REC	YDS
-V. Beasley	0	0	0	0
-K. Biermann	0	0	0	0
-P. Soliai	0	0	1	0
-Kicking	FG	LG	XP	PTS
-M. Bryant	1/1	42	3/3	6
-Punting	NO	AVG	I20	LG
-M. Bosher	5	37.4	0	69
-Kickoff Returns	NO	AVG	TD	LG
-T. Ward	1	10	0	10
-E. Weems	1	21	0	21
-Punt Returns	NO	AVG	TD	LG
-E. Weems	1	10	0	10
-Defense	T-A	SCK	INT	FF
-J. Durant	9-1	0.0	0	0
-W. Moore	5-3	0.0	0	0
-P. Adams	4-3	0.0	0	0
-R. Alford	4-0	0.0	0	0
-J. Babineaux	4-2	0.0	0	0
-N. Stupar	4-1	0.0	0	0
-R. Allen	3-0	0.0	0	0
-V. Beasley	3-2	1.0	0	1
-K. Biermann	3-0	1.0	0	1
-J. Bartu	2-0	0.0	0	0
-T. Jackson	2-3	0.0	0	0
-P. Soliai	2-0	0.0	0	0
-P. Worrilow	2-1	0.0	0	0
-A. Bradford	1-0	0.0	0	0
-O. Schofield	1-2	0.0	0	0
-R. Therezie	1-0	0.0	0	0
-D. Trufant	1-2	0.0	0	0
-
+week	name	t	a	sck	int	ff
+1	P. Worrilow	9	3	0.0	0	0
+1	W. Moore	7	2	0.0	1	0
+1	R. Allen	5	2	0.0	1	0
+1	J. Durant	4	4	0.0	0	1
+1	P. Adams	3	0	0.0	0	0
+1	K. Biermann	2	1	0.0	0	0
+1	J. Collins	2	0	0.0	0	0
+1	J. Babineaux	1	2	0.0	0	0
+1	V. Beasley	1	2	0.0	0	0
+1	A. Clayborn	1	0	0.0	0	0
+1	K. Ishmael	1	0	0.0	0	0
+1	O. Schofield	1	0	0.0	0	0
+1	R. Alford	0	1	0.0	0	0
+1	M. Goodman	0	2	0.0	0	0
+1	T. Jackson	0	1	0.0	0	0
+1	G. Jarrett	0	1	0.0	0	0
+2	J. Durant 	9	1 	0.0 	0 	0
+2	W. Moore 	5	3 	0.0 	0 	0
+2	P. Adams 	4	3 	0.0 	0 	0
+2	R. Alford 	4	0 	0.0 	0 	0
+2	J. Babineaux 	4	2 	0.0 	0 	0
+2	N. Stupar 	4	1 	0.0 	0 	0
+2	R. Allen 	3	0 	0.0 	0 	0
+2	V. Beasley 	3	2 	1.0 	0 	1
+2	K. Biermann 	3	0 	1.0 	0 	1
+2	J. Bartu 	2	0 	0.0 	0 	0
+2	T. Jackson 	2	3 	0.0 	0 	0
+2	P. Soliai 	2	0 	0.0 	0 	0
+2	P. Worrilow 	2	1 	0.0 	0 	0
+2	A. Bradford 	1	0 	0.0 	0 	0
+2	O. Schofield 	1	2 	0.0 	0 	0
+2	R. Therezie 	1	0 	0.0 	0 	0
+2	D. Trufant 	1	2 	0.0 	0 	0
+3	J. Durant	8	1	0.0	0	0
+3	R. Allen	7	0	0.0	0	0
+3	P. Worrilow	5	0	0.0	0	0
+3	W. Moore	4	0	0.0	1	0
+3	P. Adams	2	1	0.0	0	0
+3	V. Beasley	2	0	1.0	0	0
+3	A. Clayborn	2	0	1.0	0	0
+3	R. Therezie	2	0	0.0	0	0
+3	D. Trufant	2	1	0.0	0	0
+3	R. Alford	1	0	0.0	0	0
+3	T. Jackson	1	0	0.0	0	0
+3	O. Schofield	1	1	0.0	0	0
+3	P. Soliai	1	0	0.0	0	0
+3	N. Stupar	1	0	0.0	0	0
+3	J. Babineaux	0	1	0.0	0	0
+4	P. Adams	4	0	0.0	0	0
+4	A. Bradford	4	1	0.0	0	1
+4	W. Moore	4	0	0.0	0	1
+4	N. Stupar	3	0	0.0	0	0
+4	R. Therezie	3	2	0.0	0	0
+4	P. Worrilow	3	1	0.0	0	0
+4	J. Bartu	2	1	0.0	0	0
+4	K. Biermann	2	0	0.0	0	0
+4	K. Ishmael	2	2	0.0	0	0
+4	B. Reed	2	0	0.0	0	0
+4	D. Trufant	2	0	0.0	0	0
+4	R. Alford	1	0	0.0	0	0
+4	J. Babineaux	1	0	0.0	1	0
+4	V. Beasley	1	0	0.0	0	0
+4	J. Collins	1	0	0.0	0	0
+4	J. Durant	1	0	0.0	0	0
+4	R. Hageman	1	1	1.0	0	0
+4	G. Jarrett	1	0	0.0	0	0
+4	D. Southward	1	0	0.0	0	0
+5	P. Worrilow	8	0	0.0	0	0
+5	P. Adams	4	0	0.0	0	1
+5	W. Moore	4	0	0.0	0	0
+5	P. Soliai	3	0	0.0	0	0
+5	N. Stupar	3	1	1.0	0	0
+5	R. Allen	2	1	0.0	0	0
+5	J. Babineaux	2	0	0.0	0	0
+5	K. Biermann	2	0	0.0	0	0
+5	A. Clayborn	2	0	0.0	0	0
+5	K. Ishmael	2	0	0.0	0	0
+5	O. Schofield	2	1	0.0	0	0
+5	R. Therezie	2	0	0.0	0	0
+5	D. Trufant	2	0	0.0	0	0
+5	R. Alford	1	0	0.0	2	0
+5	J. Bartu	1	0	0.0	0	0
+5	V. Beasley	1	0	0.0	0	0
+5	R. Hageman	1	0	0.0	0	0
+5	G. Jarrett	1	0	0.0	0	0
+6	P. Worrilow	7	2	0.0	0	0
+6	R. Therezie	6	1	0.0	0	0
+6	R. Alford	5	0	0.0	0	0
+6	R. Allen	5	0	0.0	0	0
+6	W. Moore	5	1	0.0	0	0
+6	J. Bartu	4	1	0.0	0	0
+6	K. Biermann	4	2	0.0	0	0
+6	V. Beasley	2	1	0.0	0	0
+6	A. Clayborn	2	0	1.0	0	0
+6	R. Hageman	2	1	0.0	0	0
+6	K. Ishmael	2	1	0.0	0	0
+6	T. Jackson	2	2	0.0	0	0
+6	P. Adams	1	1	0.0	0	0
+6	J. Babineaux	1	0	0.0	0	0
+6	O. Schofield	1	0	0.0	0	0
+6	D. Trufant	1	0	0.0	0	0
+6	G. Jarrett	0	1	0.0	0	0
+6	B. Reed	0	2	0.0	0	0
+6	P. Soliai	0	1	0.0	0	0
+6	N. Stupar	0	1	0.0	0	0
+7	R. Allen	6	0	0.0	0	0
+7	J. Durant	6	2	0.0	0	0
+7	K. Ishmael	6	0	0.0	0	0
+7	R. Alford	5	1	0.0	0	0
+7	V. Beasley	2	0	0.0	0	0
+7	O. Schofield	2	0	1.0	0	0
+7	K. Biermann	1	1	0.0	0	0
+7	G. Jarrett	1	0	0.0	0	0
+7	D. Trufant	1	0	0.0	0	0
+7	P. Worrilow	1	4	0.0	1	0
+7	R. Hageman	0	1	0.0	0	0
+7	T. Jackson	0	1	0.0	0	0
+7	W. Moore	0	1	0.0	0	0
+7	B. Reed	0	1	0.0	0	0
+7	R. Therezie	0	0	0.0	1	0
+8	R. Allen	5	1	1.0	0	0
+8	K. Biermann	4	2	0.0	0	0
+8	P. Adams	3	0	0.0	0	0
+8	R. Alford	3	1	0.0	0	0
+8	R. Hageman	3	1	0.0	0	0
+8	G. Jarrett	3	0	0.0	0	0
+8	J. Durant	2	2	0.0	0	0
+8	K. Ishmael	2	1	0.0	0	0
+8	T. Jackson	2	1	0.0	0	0
+8	P. Soliai	2	1	0.0	0	0
+8	R. Therezie	2	1	0.0	0	0
+8	P. Worrilow	2	3	0.0	0	0
+8	J. Babineaux	1	0	0.0	0	0
+8	A. Clayborn	1	0	0.0	0	0
+8	B. Reed	1	0	0.0	0	0
+8	O. Schofield	1	0	1.0	0	0
+8	D. Trufant	1	1	0.0	0	0
+8	V. Beasley	0	1	0.0	0	0
+9	P. Wheeler	8	2	0.0	0	0
+9	P. Worrilow	5	0	0.0	0	0
+9	J. Collins	4	0	0.0	0	0
+9	J. Babineaux	3	0	0.0	0	0
+9	K. Biermann	3	1	0.0	0	0
+9	K. Ishmael	3	3	0.0	0	0
+9	B. Reed	3	2	0.0	0	0
+9	D. Trufant	3	1	0.0	0	0
+9	R. Hageman	2	1	0.0	0	0
+9	P. Soliai	2	1	0.0	0	0
+9	N. Stupar	2	0	0.0	0	0
+9	P. Adams	1	0	0.0	1	0
+9	R. Allen	1	0	0.0	0	0
+9	V. Beasley	1	0	0.0	1	0
+9	T. Jackson	1	1	0.0	0	0
+9	G. Jarrett	1	1	0.0	0	0
+9	O. Schofield	1	0	0.0	0	0
+9	R. Therezie	1	0	0.0	0	0
+11	J. Durant	7	2	0.0	0	0
+11	P. Soliai	4	0	0.0	0	0
+11	D. Trufant	4	0	1.0	0	0
+11	P. Worrilow	4	2	0.0	1	0
+11	R. Allen	3	0	0.0	1	0
+11	K. Biermann	3	3	1.0	0	0
+11	J. Collins	3	0	0.0	0	0
+11	W. Moore	3	1	0.0	0	0
+11	O. Schofield	3	0	0.0	0	1
+11	R. Alford	2	1	0.0	0	0
+11	A. Clayborn	2	0	0.0	0	0
+11	C. Godfrey	2	1	0.0	0	0
+11	N. Stupar	2	0	0.0	0	0
+11	V. Beasley	1	0	0.0	0	0
+11	R. Hageman	1	0	0.0	0	0
+11	T. Jackson	1	0	0.0	0	0
+11	G. Jarrett	0	1	0.0	0	0
+11	B. Reed	0	1	0.0	0	0
+12	D. Trufant	6	0	0.0	0	0
+12	P. Wheeler	6	5	0.0	0	0
+12	P. Worrilow	5	2	0.0	0	0
+12	R. Allen	3	3	0.0	1	0
+12	T. Jackson	3	1	0.0	0	0
+12	W. Moore	3	4	0.0	0	0
+12	O. Schofield	3	1	0.0	0	0
+12	J. Babineaux	2	1	0.0	0	0
+12	K. Biermann	2	5	0.0	0	0
+12	R. Therezie	2	0	0.0	0	0
+12	R. Alford	1	1	0.0	0	0
+12	A. Clayborn	1	0	0.0	0	0
+12	J. Collins	1	0	0.0	0	0
+12	J. Durant	1	1	0.0	0	0
+12	C. Godfrey	1	1	0.0	0	0
+12	R. Hageman	1	0	0.0	0	0
+12	P. Soliai	1	2	0.0	0	0
+12	N. Stupar	1	1	0.0	0	0
+12	G. Jarrett	0	1	0.0	0	0
+13	R. Allen	8	0	0.0	0	0
+13	P. Worrilow	6	3	0.0	0	1
+13	J. Durant	5	0	0.0	0	0
+13	G. Jarrett	4	0	1.0	0	0
+13	R. Therezie	4	0	0.0	0	0
+13	P. Wheeler	4	0	0.0	0	0
+13	J. Babineaux	2	0	0.0	0	0
+13	K. Biermann	2	0	0.0	0	0
+13	R. Hageman	2	1	0.0	0	0
+13	D. Trufant	2	2	0.0	1	0
+13	J. Collins	1	0	0.0	0	0
+13	T. Jackson	1	0	0.0	0	0
+13	W. Moore	1	1	0.0	0	0
+13	B. Reed	1	0	0.0	0	0
+13	O. Schofield	1	0	0.0	0	0
+13	R. Alford	0	2	0.0	0	0
+13	A. Clayborn	0	1	0.0	0	0
+13	K. Ishmael	0	2	0.0	0	0
+14	R. Alford	5	0	0.0	0	0
+14	K. Ishmael	5	2	0.0	0	0
+14	P. Worrilow	4	4	0.0	0	0
+14	R. Allen	3	0	0.0	0	0
+14	J. Durant	3	5	0.0	0	0
+14	J. Babineaux	2	1	1.0	0	0
+14	V. Beasley	2	0	1.0	0	0
+14	W. Moore	2	0	0.0	0	0
+14	R. Therezie	2	1	0.0	0	0
+14	P. Adams	1	0	0.0	0	0
+14	A. Clayborn	1	0	0.0	0	0
+14	T. Jackson	1	3	0.0	0	0
+14	J. Mbu	1	1	0.0	0	0
+14	D. Trufant	1	0	0.0	0	0
+14	K. Biermann	0	1	0.0	0	0
+14	R. Hageman	0	3	0.0	0	0
+14	G. Jarrett	0	6	0.0	0	0
+15	J. Durant	7	1	0.0	0	0
+15	P. Adams	5	0	0.0	0	0
+15	N. Stupar	5	1	0.0	0	0
+15	R. Allen	4	1	0.0	0	0
+15	D. Trufant	3	0	0.0	0	0
+15	R. Hageman	2	1	0.0	0	0
+15	G. Jarrett	2	0	0.0	0	0
+15	P. Soliai	2	0	0.0	0	0
+15	R. Alford	1	0	0.0	0	0
+15	J. Babineaux	1	0	0.0	0	1
+15	K. Biermann	1	1	0.0	0	0
+15	A. Clayborn	1	0	1.0	0	0
+15	B. Reed	1	0	0.0	0	0
+15	O. Schofield	1	0	0.0	0	0
+15	P. Wheeler	1	0	1.0	0	1
+15	K. Ishmael	0	0	0.0	1	0
+15	R. Therezie	0	1	0.0	0	0
+16	R. Alford	6	1	0.0	0	0
+16	V. Beasley	4	0	1.0	0	1
+16	P. Adams	3	1	0.0	0	0
+16	R. Allen	3	0	0.0	0	0
+16	N. Stupar	3	1	0.0	0	0
+16	D. Trufant	3	0	0.0	0	0
+16	J. Durant	2	3	0.0	0	0
+16	P. Wheeler	2	1	0.0	0	0
+16	K. Biermann	1	2	0.5	0	0
+16	C. Godfrey	1	0	0.0	0	0
+16	R. Hageman	1	0	0.0	0	0
+16	K. Ishmael	1	1	0.0	0	0
+16	O. Schofield	1	0	0.0	0	0
+16	P. Worrilow	1	0	0.0	0	0
+16	J. Babineaux	0	1	0.5	0	0
+16	M. Goodman	0	1	0.0	0	0
+16	T. Jackson	0	1	0.0	0	0
+17	R. Alford	7	0	0.0	0	0
+17	C. Godfrey	6	0	0.0	0	1
+17	K. Ishmael	5	1	0.0	0	0
+17	P. Worrilow	5	3	0.0	0	0
+17	O. Schofield	3	1	0.0	0	0
+17	D. Trufant	3	0	0.0	0	0
+17	J. Babineaux	2	0	0.0	0	0
+17	J. Durant	2	3	0.0	0	0
+17	B. Reed	2	1	0.0	0	0
+17	R. Allen	1	1	0.0	0	0
+17	K. Biermann	1	1	0.0	0	0
+17	A. Clayborn	1	0	0.0	0	0
+17	R. Hageman	1	0	0.0	0	0
+17	N. Stupar	1	0	0.0	0	0
+17	T. Jackson	0	3	0.0	0	0
+17	J. Mbu	0	2	0.0	0	0

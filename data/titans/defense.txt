@@ -1,96 +1,249 @@
-Passing	CP/AT	YDS	TD	INT
-M. Mariota	13/15	209	4	0
-Rushing	ATT	YDS	TD	LG
-B. Sankey	12	74	1	16
-T. West	13	41	0	12
-D. McCluster	2	8	0	5
-M. Mariota	2	6	0	9
-Z. Mettenberger	3	-5	0	-1
-Receiving	REC	YDS	TD	LG
-K. Wright	4	101	1	52T
-D. Walker	3	43	1	22
-H. Douglas	2	24	1	20
-A. Fasano	1	18	0	18
-B. Sankey	2	12	1	12T
-J. Hunter	1	11	0	11
-Fumbles	FUM	LOST	REC	YDS
-B. Sankey	1	0	0	0
-T. West	1	1	0	0
-A. Blackson	0	0	0	0
-J. Fowler	0	0	1	0
-Kicking	FG	LG	XP	PTS
-R. Succop	0/0	0	6/6	6
-Punting	NO	AVG	I20	LG
-B. Kern	4	43.0	1	57
-Kickoff Returns	NO	AVG	TD	LG
-B. Sankey	1	17	0	17
-Punt Returns	NO	AVG	TD	LG
-D. McCluster	2	7	0	13
-Defense	T-A	SCK	INT	FF
-Z. Brown	6-1	0.0	0	0
-D. Jones	6-0	0.0	0	0
-M. Griffin	4-1	0.0	0	0
-D. Morgan	4-1	2.0	0	0
-A. Blackson	3-0	1.0	0	1
-J. Casey	3-0	1.0	0	0
-D. Searcy	3-1	0.0	0	0
-P. Cox	2-0	0.0	0	0
-M. Martin	2-1	0.0	0	0
-D. Stafford	2-0	0.0	0	0
-A. Williamson	2-0	0.0	0	0
-K. Klug	1-1	0.0	0	0
-B. Orakpo	1-0	0.0	0	0
-C. Riggs	1-0	0.0	0	0
-W. Woodyard	1-1	0.0	0	0
-B. Wreh-Wilson	1-0	0.0	0	0
-D. Mount	0-0	0.0	1	0
-C. Sensabaugh	0-0	0.0	1	0
-
-Passing	CP/AT	YDS	TD	INT
-M. Mariota	21/37	257	2	0
-Rushing	ATT	YDS	TD	LG
-D. McCluster	10	98	0	44
-B. Sankey	12	42	0	8
-M. Mariota	3	19	0	12
-T. West	3	10	0	4
-J. Fowler	1	3	0	3
-H. Douglas	1	-6	0	-6
-Receiving	REC	YDS	TD	LG
-A. Fasano	5	84	1	33
-C. Coffman	4	42	0	16
-J. Hunter	2	34	0	20
-D. McCluster	4	26	0	13
-J. Fowler	1	19	0	19
-K. Wright	2	17	0	10
-D. Green-Beckham	1	13	1	13T
-C. Stevens	1	13	0	13
-H. Douglas	1	9	0	9
-Fumbles	FUM	LOST	REC	YDS
-M. Mariota	3	2	0	0
-T. West	1	1	0	0
-D. McCluster	0	0	1	0
-D. Morgan	0	0	0	0
-W. Woodyard	0	0	0	0
-Kicking	FG	LG	XP	PTS
-R. Succop	0/0	0	2/2	2
-Punting	NO	AVG	I20	LG
-B. Kern	6	24.0	1	55
-Kickoff Returns	NO	AVG	TD	LG
-Punt Returns	NO	AVG	TD	LG
-D. McCluster	4	10	0	16
-Defense	T-A	SCK	INT	FF
-Z. Brown	5-2	0.0	0	0
-D. Morgan	5-1	1.0	0	1
-A. Woods	4-1	0.0	0	0
-M. Griffin	3-2	0.0	0	0
-B. Orakpo	3-1	0.0	0	0
-C. Sensabaugh	3-1	0.0	0	0
-A. Williamson	3-3	0.0	0	0
-D. Searcy	2-1	0.0	0	0
-P. Cox	1-1	0.0	0	0
-D. Jones	1-0	0.0	0	0
-W. Woodyard	1-0	1.0	0	1
-R. Pitoitua	0-1	0.0	0	0
-
-
-
+week	name	t	a 	sck	int	ff	
+1	Z. Brown	6	1	0.0	0	0	
+1	D. Jones	6	0	0.0	0	0	
+1	M. Griffin	4	1	0.0	0	0	
+1	D. Morgan	4	1	2.0	0	0	
+1	A. Blackson	3	0	1.0	0	1	
+1	J. Casey	3	0	1.0	0	0	
+1	D. Searcy	3	1	0.0	0	0	
+1	P. Cox	2	0	0.0	0	0	
+1	M. Martin	2	1	0.0	0	0	
+1	D. Stafford	2	0	0.0	0	0	
+1	A. Williamson	2	0	0.0	0	0	
+1	K. Klug	1	1	0.0	0	0	
+1	B. Orakpo	1	0	0.0	0	0	
+1	C. Riggs	1	0	0.0	0	0	
+1	W. Woodyard	1	1	0.0	0	0	
+1	B. Wreh-Wilson	1	0	0.0	0	0
+1	D. Mount	0	0	0.0	1	0	
+1	C. Sensabaugh	0	0	0.0	1	0	
+2	Z. Brown 	5	2 	0.0 	0 	0	
+2	D. Morgan 	5	1 	1.0 	0 	1	
+2	A. Woods 	4	1 	0.0 	0 	0	
+2	M. Griffin 	3	2 	0.0 	0 	0	
+2	B. Orakpo 	3	1 	0.0 	0 	0	
+2	C. Sensabaugh 	3	1 	0.0 	0 	0	
+2	A. Williamson 	3	3 	0.0 	0 	0	
+2	D. Searcy 	2	1 	0.0 	0 	0	
+2	P. Cox 	1	1 	0.0 	0 	0	
+2	D. Jones 	1	0 	0.0 	0 	0	
+2	W. Woodyard 	1	0 	1.0 	0 	1	
+2	R. Pitoitua 	0	1 	0.0 	0 	0	
+3	P. Cox	4	0	0.0	1	0	
+3	A. Williamson	4	4	0.0	0	0	
+3	Z. Brown	3	2	0.0	1	0	
+3	J. Casey	3	0	1.0	0	0	
+3	M. Griffin	3	3	0.0	0	0	
+3	K. Klug	3	0	1.0	0	1	
+3	D. Searcy	3	1	0.0	0	0	
+3	D. Jones	2	1	0.0	0	0	
+3	C. Sensabaugh	2	2	0.0	0	0	
+3	D. Morgan	1	0	0.0	0	0	
+3	B. Orakpo	1	0	1.0	0	0	
+3	D. Stafford	1	0	0.0	0	0	
+3	B. Wreh-Wilson	1	0	0.0	0	0
+3	W. Woodyard	0	1	0.0	0	0	
+5	A. Williamson	7	2	1.0	0	0	
+5	W. Woodyard	6	3	0.0	0	0	
+5	J. Casey	4	2	1.5	0	0	
+5	Z. Brown	2	1	0.0	0	0	
+5	P. Cox	2	0	0.0	0	0	
+5	M. Griffin	2	4	0.0	0	0	
+5	J. McCourty	1	0	0.0	0	0	
+5	D. Morgan	1	2	1.5	0	0	
+5	B. Orakpo	1	0	0.0	0	0	
+5	R. Pitoitua	1	0	0.0	0	1	
+5	D. Searcy	1	0	0.0	0	0	
+5	C. Sensabaugh	1	0	0.0	0	0	
+5	A. Woods	1	0	0.0	0	0	
+5	D. Jones	0	2	0.0	0	0	
+6	Z. Brown	8	4	0.0	0	0	
+6	D. Searcy	8	0	0.0	0	0	
+6	W. Woodyard	7	2	1.0	0	0	
+6	B. Orakpo	4	0	1.0	0	0	
+6	J. Casey	3	1	0.0	0	0	
+6	D. Morgan	3	1	0.0	0	0	
+6	A. Woods	3	0	0.0	0	0	
+6	B. Wreh-Wilson	3	0	0.0	0	0
+6	M. Griffin	2	2	0.0	1	0	
+6	D. Bass	1	0	0.0	0	0	
+6	D. Jones	1	1	0.0	0	0	
+6	C. Sensabaugh	1	1	0.0	1	0	
+6	J. McCourty	0	2	0.0	0	0	
+7	W. Woodyard	6	3	0.0	0	0	
+7	Z. Brown	5	0	0.0	0	0	
+7	C. Sensabaugh	5	1	0.0	0	0	
+7	J. McCourty	4	1	0.0	0	0	
+7	B. Orakpo	4	1	0.0	0	0	
+7	D. Searcy	4	1	0.0	0	0	
+7	A. Williamson	4	1	0.0	1	0	
+7	J. Casey	3	0	0.0	0	0	
+7	B. Wreh-Wilson	3	0	0.0	0	0
+7	D. Stafford	2	0	0.0	0	0	
+7	D. Jones	1	1	0.0	0	0	
+7	D. Morgan	1	0	0.0	0	0	
+7	A. Woods	1	0	0.0	0	0	
+7	D. Bass	0	0	0.0	1	0	
+7	K. Klug	0	1	0.0	0	0	
+8	W. Woodyard	7	0	0.0	0	0	
+8	M. Griffin	6	3	0.0	0	0	
+8	J. McCourty	5	2	0.0	0	0	
+8	J. Casey	4	1	0.5	0	0	
+8	B. Orakpo	2	0	1.0	0	0	
+8	C. Sensabaugh	2	3	0.0	0	0	
+8	Z. Brown	1	6	0.5	0	0	
+8	S. Hill	1	0	0.0	0	0	
+8	D. Jones	1	2	0.0	0	0	
+8	K. Klug	1	0	1.0	0	0	
+8	D. Morgan	1	1	0.0	0	0	
+8	D. Searcy	1	2	0.0	0	0	
+8	D. Stafford	1	0	0.0	0	0	
+8	A. Williamson	1	0	0.0	0	0	
+8	B. Wreh-Wilson	1	1	0.0	0	0
+8	A. Blackson	0	1	0.0	0	0	
+9	M. Griffin	6	2	0.0	0	0	
+9	W. Woodyard	6	2	1.0	0	0	
+9	Z. Brown	5	1	0.0	0	0	
+9	B. Webb	5	0	0.0	1	0	
+9	A. Williamson	4	3	0.0	0	0	
+9	D. Jones	3	2	0.0	0	0	
+9	B. Orakpo	3	1	2.0	0	0	
+9	C. Riggs	3	0	0.0	0	0	
+9	D. Searcy	2	1	0.0	0	0	
+9	C. Sensabaugh	2	2	0.0	0	0	
+9	D. Bass	1	0	0.0	0	0	
+9	A. Blackson	1	2	1.0	0	0	
+9	J. Casey	1	0	0.0	0	0	
+9	P. Cox	1	1	0.0	0	0	
+9	A. Woods	1	1	0.0	0	0	
+10	A. Williamson	7	7	0.5	0	0	
+10	B. Orakpo	5	1	1.0	0	0	
+10	M. Griffin	4	2	1.0	0	0	
+10	D. Searcy	4	0	0.0	0	0	
+10	W. Woodyard	4	4	1.0	0	0	
+10	B. Webb	3	1	0.0	0	0	
+10	A. Woods	3	2	0.0	0	0	
+10	Z. Brown	2	0	0.0	0	0	
+10	C. Sensabaugh	2	0	0.0	0	0	
+10	B. Wreh-Wilson	2	0	0.0	0	0
+10	D. Bass	1	1	0.5	0	0	
+10	J. Casey	1	0	0.0	0	0	
+10	S. Hill	1	0	0.0	0	0	
+10	D. Jones	1	0	0.0	0	0	
+10	D. Morgan	1	1	0.0	0	0	
+10	C. Riggs	1	0	0.0	0	0	
+10	D. Stafford	1	1	1.0	0	0	
+11	C. Sensabaugh	6	0	0.0	0	0	
+11	W. Woodyard	4	2	1.0	0	0	
+11	D. Bass	3	0	0.0	0	0	
+11	P. Cox	3	0	0.0	0	0	
+11	M. Griffin	3	2	0.0	0	0	
+11	S. Hill	3	1	0.0	0	0	
+11	D. Searcy	3	0	0.0	0	0	
+11	A. Williamson	3	2	1.0	0	0	
+11	Z. Brown	2	0	0.0	1	0	
+11	B. Orakpo	2	0	1.0	0	1	
+11	C. Riggs	2	0	0.0	0	0	
+11	A. Blackson	1	0	0.0	0	0	
+11	J. Casey	1	0	1.0	0	0	
+11	D. Jones	1	1	0.0	0	0	
+11	K. Klug	1	0	0.0	0	0	
+11	R. Pitoitua	1	0	0.0	0	0	
+11	D. Stafford	1	0	0.0	0	0	
+12	A. Williamson	7	4	1.0	0	0	
+12	M. Griffin	5	3	0.0	0	0	
+12	P. Cox	4	1	0.0	0	0	
+12	B. Wreh-Wilson	4	0	0.0	0	0
+12	D. Searcy	3	2	0.0	0	0	
+12	B. Orakpo	2	2	0.0	0	0	
+12	D. Stafford	2	1	0.0	0	0	
+12	D. Bass	1	0	0.0	0	0	
+12	A. Blackson	1	0	0.0	0	0	
+12	Z. Brown	1	0	0.0	0	0	
+12	J. Casey	1	5	0.0	0	0	
+12	S. Hill	1	2	0.0	0	0	
+12	D. Jones	1	0	0.0	0	0	
+12	C. Sensabaugh	1	0	0.0	0	0	
+12	W. Woodyard	1	4	0.0	0	0	
+13	M. Griffin	7	2	0.0	0	0	
+13	B. Orakpo	3	1	0.0	0	0	
+13	D. Searcy	3	1	0.5	0	0	
+13	C. Sensabaugh	3	0	0.0	0	0	
+13	D. Bass	2	1	0.0	0	0	
+13	P. Cox	2	0	0.0	0	0	
+13	A. Williamson	2	4	0.0	0	0	
+13	J. Casey	1	2	1.0	0	0	
+13	K. Klug	1	1	0.5	0	0	
+13	B. Webb	1	0	0.0	0	0	
+13	B. Wreh-Wilson	1	0	0.0	0	0
+13	Z. Brown	0	1	0.0	0	0	
+13	S. Hill	0	2	0.0	0	0	
+13	D. Jones	0	3	0.0	0	0	
+13	A. Woods	0	2	0.0	0	0	
+13	W. Woodyard	0	2	0.0	0	0	
+14	B. Webb	7	1	0.0	0	0	
+14	C. Sensabaugh	5	2	0.0	0	0	
+14	M. Griffin	4	3	0.0	0	0	
+14	W. Woodyard	4	2	0.0	0	0	
+14	Z. Brown	3	2	0.0	0	0	
+14	P. Cox	3	1	0.0	0	0	
+14	K. Klug	3	0	1.0	0	0	
+14	J. Casey	2	5	0.0	0	0	
+14	M. Huff	1	0	0.0	0	0	
+14	D. Jones	1	1	0.0	0	0	
+14	D. Searcy	1	0	0.0	0	0	
+14	D. Stafford	1	1	0.0	0	0	
+14	J. Tavai	1	0	0.0	0	0	
+14	A. Williamson	1	2	0.0	0	0	
+14	D. Bass	0	4	0.0	0	0	
+14	A. Blackson	0	2	0.0	0	0	
+14	B. Orakpo	0	2	0.0	0	0	
+15	A. Williamson	5	4	0.0	0	0	
+15	D. Bass	4	1	0.0	0	0	
+15	M. Griffin	4	2	0.0	0	0	
+15	B. Orakpo	4	0	0.0	0	0	
+15	D. Stafford	4	1	0.0	0	0	
+15	C. Sensabaugh	3	2	0.0	0	0	
+15	J. Casey	2	1	1.0	0	0	
+15	M. Huff	2	1	0.0	0	0	
+15	K. Klug	2	3	0.5	0	0	
+15	W. Woodyard	2	3	0.0	0	0	
+15	Z. Brown	1	1	0.0	0	0	
+15	P. Cox	1	0	0.0	0	0	
+15	D. Jones	1	3	0.0	0	0	
+15	B. Webb	1	0	0.0	0	0	
+15	A. Blackson	0	1	0.5	0	0	
+15	A. Woods	0	1	0.0	0	0	
+16	M. Griffin	9	2	0.0	0	0	
+16	A. Williamson	5	2	0.0	0	0	
+16	D. Bass	4	1	0.0	0	0	
+16	Z. Brown	4	0	0.0	0	0	
+16	J. Casey	4	2	0.0	0	0	
+16	D. Jones	3	2	0.0	0	0	
+16	D. Searcy	3	1	0.0	0	0	
+16	A. Blackson	2	0	0.0	0	0	
+16	P. Cox	2	0	0.0	0	0	
+16	B. Orakpo	2	2	0.0	0	0	
+16	K. Klug	1	0	0.0	0	0	
+16	C. Sensabaugh	1	0	0.0	0	0	
+16	J. Tavai	1	0	1.0	0	1	
+16	S. Hill	0	1	0.0	0	0	
+16	A. Woods	0	1	0.0	0	0	
+16	W. Woodyard	0	2	0.0	0	0	
+17	A. Williamson	8	1	0.0	0	0	
+17	Z. Brown	7	1	0.0	0	0	
+17	C. Sensabaugh	5	2	0.0	0	0	
+17	D. Bass	3	3	1.0	0	0	
+17	M. Griffin	3	1	0.0	0	0	
+17	B. Webb	3	0	0.0	0	0	
+17	D. Jones	2	1	0.0	0	0	
+17	W. Woodyard	2	2	0.0	0	0	
+17	J. Casey	1	1	0.0	0	0	
+17	P. Cox	1	0	0.0	0	0	
+17	M. Huff	1	0	0.0	0	0	
+17	B. Orakpo	1	2	0.0	0	0	
+17	D. Searcy	1	2	0.0	1	0	
+17	D. Stafford	1	0	0.0	0	0	
+17	A. Woods	1	0	0.0	0	0	
+17	A. Blackson	0	1	0.0	0	0	
+17	K. Klug	0	1	0.0	0	0	

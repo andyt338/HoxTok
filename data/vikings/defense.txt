@@ -1,91 +1,233 @@
-Passing	CP/AT	YDS	TD	INT
-T. Bridgewater	23/32	231	0	1
-Rushing	ATT	YDS	TD	LG
-A. Peterson	10	31	0	9
-J. McKinnon	3	20	0	15
-T. Bridgewater	3	16	0	10
-M. Asiata	1	4	0	4
-Receiving	REC	YDS	TD	LG
-M. Wallace	6	63	0	19
-K. Rudolph	5	53	0	19
-M. Asiata	2	28	0	21
-C. Johnson	2	27	0	18
-J. Wright	1	27	0	27
-A. Peterson	3	21	0	17
-J. McKinnon	2	8	0	10
-R. Ellison	1	3	0	3
-C. Patterson	1	1	0	1
-Fumbles	FUM	LOST	REC	YDS
-A. Cole	0	0	1	0
-Kicking	FG	LG	XP	PTS
-B. Walsh	1/2	37	0/0	3
-Punting	NO	AVG	I20	LG
-J. Locke	4	37.5	2	44
-Kickoff Returns	NO	AVG	TD	LG
-C. Patterson	1	21	0	21
-Punt Returns	NO	AVG	TD	LG
-M. Sherels	2	4	0	9
-Defense	T-A	SCK	INT	FF
-A. Barr	10-2	0.0	0	0
-T. Newman	7-0	0.0	0	0
-X. Rhodes	7-0	0.0	0	0
-G. Hodges	5-3	0.0	0	0
-H. Smith	5-4	0.0	0	0
-R. Blanton	3-0	0.0	0	0
-E. Griffen	3-1	0.5	0	0
-A. Sendejo	3-0	0.0	0	0
-L. Joseph	2-1	0.0	0	0
-B. Robison	2-0	0.0	0	0
-C. Greenway	1-1	0.5	0	0
-D. Hunter	1-0	0.0	0	0
-T. Johnson	1-1	0.0	0	0
-E. Kendricks	1-0	0.0	0	0
-C. Munnerlyn	1-0	0.0	0	0
-S. Crichton	0-1	0.0	0	0
-
-Passing	CP/AT	YDS	TD	INT
-T. Bridgewater	14/18	153	1	0
-Rushing	ATT	YDS	TD	LG
-A. Peterson	29	134	0	25
-J. Wright	1	29	0	29
-T. Bridgewater	6	21	1	8
-M. Asiata	2	8	0	6
-J. McKinnon	3	6	0	3
-Z. Line	1	1	1	1T
-Receiving	REC	YDS	TD	LG
-A. Peterson	2	58	0	49
-M. Wallace	3	38	0	22
-K. Rudolph	5	30	1	11
-J. Wright	1	17	0	17
-C. Johnson	3	10	0	4
-Fumbles	FUM	LOST	REC	YDS
-A. Peterson	2	1	1	0
-C. Munnerlyn	0	0	0	0
-A. Sendejo	0	0	1	28
-H. Smith	0	0	0	0
-S. Stephen	0	0	1	0
-Kicking	FG	LG	XP	PTS
-B. Walsh	2/2	28	2/3	8
-Punting	NO	AVG	I20	LG
-J. Locke	3	44.0	2	53
-Kickoff Returns	NO	AVG	TD	LG
-C. Patterson	2	31	0	33
-Punt Returns	NO	AVG	TD	LG
-M. Sherels	3	13	0	31
-Defense	T-A	SCK	INT	FF
-C. Munnerlyn	7-0	0.0	0	1
-H. Smith	6-0	0.0	0	1
-B. Robison	5-1	0.0	0	0
-A. Sendejo	5-1	0.0	0	0
-X. Rhodes	4-2	0.0	0	0
-G. Hodges	3-2	0.0	0	0
-L. Joseph	3-1	0.0	0	0
-E. Kendricks	3-2	0.0	0	0
-A. Barr	2-0	0.0	0	0
-C. Greenway	2-0	0.0	0	0
-S. Crichton	1-0	0.0	0	0
-E. Griffen	1-0	1.0	0	0
-T. Newman	1-1	0.0	0	0
-J. Trattou	1-0	0.0	1	0
-S. Floyd	0-2	0.0	0	0
-
+week	name	t	a 	sck	int	ff
+1	A. Barr	10	2	0.0	0	0
+1	T. Newman	7	0	0.0	0	0
+1	X. Rhodes	7	0	0.0	0	0
+1	G. Hodges	5	3	0.0	0	0
+1	H. Smith	5	4	0.0	0	0
+1	R. Blanton	3	0	0.0	0	0
+1	E. Griffen	3	1	0.5	0	0
+1	A. Sendejo	3	0	0.0	0	0
+1	L. Joseph	2	1	0.0	0	0
+1	B. Robison	2	0	0.0	0	0
+1	C. Greenway	1	1	0.5	0	0
+1	D. Hunter	1	0	0.0	0	0
+1	T. Johnson	1	1	0.0	0	0
+1	E. Kendricks	1	0	0.0	0	0
+1	C. Munnerlyn	1	0	0.0	0	0
+1	S. Crichton	0	1	0.0	0	0
+2	C. Munnerlyn 	7	0 	0.0 	0 	1
+2	H. Smith 	6	0 	0.0 	0 	1
+2	B. Robison 	5	1 	0.0 	0 	0
+2	A. Sendejo 	5	1 	0.0 	0 	0
+2	X. Rhodes 	4	2 	0.0 	0 	0
+2	G. Hodges 	3	2 	0.0 	0 	0
+2	L. Joseph 	3	1 	0.0 	0 	0
+2	E. Kendricks 	3	2 	0.0 	0 	0
+2	A. Barr 	2	0 	0.0 	0 	0
+2	C. Greenway 	2	0 	0.0 	0 	0
+2	S. Crichton 	1	0 	0.0 	0 	0
+2	E. Griffen 	1	0 	1.0 	0 	0
+2	T. Newman 	1	1 	0.0 	0 	0
+2	J. Trattou 	1	0 	0.0 	1 	0
+2	S. Floyd 	0	2 	0.0 	0 	0
+3	E. Kendricks	9	0	0.0	0	0
+3	A. Barr	6	0	1.0	0	1
+3	H. Smith	5	3	0.0	0	0
+3	E. Griffen	4	2	1.5	0	0
+3	T. Newman	4	0	0.0	0	0
+3	T. Waynes	4	1	0.0	0	0
+3	G. Hodges	3	1	0.0	0	0
+3	X. Rhodes	3	0	0.0	0	0
+3	A. Sendejo	3	1	0.0	0	0
+3	S. Crichton	2	0	0.0	0	0
+3	L. Joseph	2	0	0.0	0	0
+3	B. Robison	2	0	0.0	0	0
+3	R. Blanton	1	0	0.0	0	0
+3	A. Exum	1	0	0.0	0	0
+3	S. Floyd	1	2	0.5	0	0
+3	C. Greenway	1	0	0.0	1	0
+3	T. Johnson	1	1	1.0	0	0
+3	C. Munnerlyn	1	0	0.0	0	0
+3	S. Stephen	1	1	0.0	0	0
+4	A. Barr	5	1	0.0	1	0
+4	R. Blanton	4	1	0.0	0	0
+4	E. Kendricks	4	0	1.0	0	0
+4	T. Newman	4	0	0.0	0	0
+4	X. Rhodes	4	0	0.0	0	0
+4	G. Hodges	3	0	0.0	0	0
+4	L. Joseph	3	0	0.0	0	0
+4	C. Munnerlyn	3	0	0.0	0	0
+4	H. Smith	2	1	0.0	1	0
+4	E. Griffen	1	0	0.0	0	0
+4	T. Johnson	1	1	0.0	0	0
+4	B. Robison	1	0	1.0	0	0
+4	S. Stephen	1	0	0.0	0	0
+4	S. Crichton	0	1	0.0	0	0
+4	S. Floyd	0	1	0.0	0	0
+6	E. Kendricks	9	1	1.0	0	0
+6	A. Sendejo	7	0	0.0	0	0
+6	D. Hunter	3	1	0.5	0	1
+6	T. Newman	3	0	0.0	0	0
+6	T. Waynes	3	0	0.0	0	0
+6	S. Floyd	2	1	0.5	0	0
+6	L. Joseph	2	2	0.0	0	0
+6	C. Munnerlyn	2	0	0.0	0	0
+6	X. Rhodes	2	0	0.0	0	0
+6	B. Robison	2	1	0.0	0	0
+6	H. Smith	2	0	0.0	0	0
+6	T. Johnson	1	0	0.0	0	0
+6	A. Barr	0	1	0.0	0	0
+7	E. Kendricks	6	0	2.0	0	0
+7	L. Joseph	5	1	0.0	0	0
+7	H. Smith	5	4	1.0	0	0
+7	A. Sendejo	4	2	0.0	0	0
+7	A. Barr	3	1	0.5	0	0
+7	C. Greenway	3	0	1.0	0	0
+7	T. Johnson	2	1	1.0	0	0
+7	C. Munnerlyn	2	0	0.0	0	0
+7	X. Rhodes	2	0	0.0	0	0
+7	E. Griffen	1	1	1.5	0	0
+7	B. Robison	1	0	0.0	0	0
+7	T. Newman	0	1	0.0	0	0
+8	E. Kendricks	6	1	0.0	0	0
+8	T. Newman	6	2	0.0	0	0
+8	X. Rhodes	5	0	0.0	0	0
+8	H. Smith	5	2	0.0	0	0
+8	E. Griffen	4	1	0.0	0	0
+8	C. Munnerlyn	4	0	0.0	0	0
+8	A. Sendejo	3	1	0.0	0	0
+8	A. Barr	2	2	0.0	0	0
+8	C. Greenway	2	0	0.0	0	0
+8	L. Joseph	2	1	0.0	0	0
+8	D. Hunter	1	0	1.0	0	0
+8	B. Robison	1	0	0.0	0	0
+9	C. Greenway	8	2	0.0	0	0
+9	L. Joseph	7	3	0.5	0	0
+9	A. Barr	5	1	0.0	0	0
+9	C. Munnerlyn	5	0	0.0	0	0
+9	A. Sendejo	5	2	0.5	0	0
+9	B. Robison	4	1	0.0	0	0
+9	E. Griffen	3	0	0.0	0	0
+9	T. Waynes	3	0	0.0	0	0
+9	A. Cole	2	0	0.0	0	0
+9	T. Johnson	2	1	0.0	0	0
+9	T. Newman	2	0	0.0	0	0
+9	X. Rhodes	2	0	0.0	0	0
+9	D. Hunter	1	1	0.0	0	0
+9	B. Watts	1	0	0.0	0	0
+10	C. Munnerlyn	7	1	0.0	0	0
+10	A. Barr	6	0	0.0	0	0
+10	A. Sendejo	6	1	0.0	0	0
+10	H. Smith	6	0	0.0	0	0
+10	C. Greenway	4	4	0.0	0	0
+10	L. Joseph	4	3	0.0	0	1
+10	X. Rhodes	3	0	0.0	0	0
+10	E. Griffen	2	1	1.0	0	0
+10	D. Hunter	2	0	1.0	0	0
+10	T. Newman	2	2	0.0	2	0
+10	B. Robison	1	0	0.0	0	0
+10	B. Watts	1	1	0.0	0	0
+10	T. Waynes	1	1	0.0	0	0
+10	T. Johnson	0	1	0.0	0	0
+11	L. Joseph	9	0	0.0	0	0
+11	A. Barr	5	1	0.0	0	0
+11	A. Sendejo	5	1	0.0	0	0
+11	E. Kendricks	4	3	0.0	0	0
+11	H. Smith	4	0	0.0	0	0
+11	E. Griffen	3	1	1.0	0	0
+11	D. Hunter	3	0	0.0	0	0
+11	C. Munnerlyn	3	0	1.0	0	0
+11	S. Floyd	2	1	0.0	0	0
+11	T. Johnson	2	1	0.0	0	0
+11	T. Newman	2	2	0.0	0	0
+11	X. Rhodes	2	0	0.0	0	0
+11	B. Robison	2	0	0.0	0	0
+11	C. Greenway	1	0	0.0	0	0
+12	R. Blanton	8	1	0.0	0	0
+12	A. Barr	7	1	1.0	0	2
+12	C. Greenway	4	1	0.0	0	0
+12	E. Kendricks	4	2	0.0	0	0
+12	A. Exum	3	0	0.0	0	0
+12	L. Joseph	2	1	0.0	0	0
+12	C. Munnerlyn	2	1	0.0	1	0
+12	X. Rhodes	2	0	0.0	0	0
+12	A. Sendejo	2	1	0.0	0	0
+12	S. Floyd	1	2	0.0	0	0
+12	E. Griffen	1	0	1.0	0	0
+12	D. Hunter	1	0	0.0	0	0
+12	T. Johnson	1	0	0.0	0	0
+12	T. Newman	1	1	0.0	1	0
+12	B. Robison	1	0	0.0	0	0
+13	R. Blanton	7	2	0.0	0	0
+13	S. Floyd	6	1	0.0	0	0
+13	A. Exum	5	0	0.0	0	1
+13	C. Greenway	5	1	0.0	0	0
+13	X. Rhodes	5	0	0.0	0	0
+13	D. Hunter	3	0	0.0	0	0
+13	T. Johnson	3	0	0.0	0	0
+13	E. Kendricks	3	4	0.0	0	0
+13	T. Newman	3	0	0.0	0	0
+13	B. Robison	3	0	2.0	0	0
+13	E. Griffen	2	0	0.0	0	0
+13	C. Munnerlyn	2	0	0.0	0	0
+13	H. Smith	2	0	0.0	0	0
+13	J. Trusnik	2	1	0.0	0	0
+14	C. Greenway	8	0	0.0	0	0
+14	A. Harris	7	1	0.0	0	0
+14	E. Kendricks	6	2	0.0	0	0
+14	X. Rhodes	5	0	0.0	0	0
+14	T. Waynes	5	0	0.0	0	0
+14	C. Munnerlyn	4	0	0.0	0	0
+14	T. Johnson	3	1	0.0	0	0
+14	K. Ellis	2	0	0.0	0	0
+14	D. Hunter	2	1	1.0	0	0
+14	B. Robison	2	1	0.0	0	0
+14	S. Floyd	1	1	0.0	0	0
+14	E. Griffen	1	0	1.0	0	0
+14	T. Newman	1	0	0.0	0	0
+14	E. Robinson	1	0	0.0	0	0
+15	T. Newman	8	0	0.0	0	0
+15	E. Kendricks	6	0	0.0	0	0
+15	D. Hunter	5	1	1.5	0	0
+15	X. Rhodes	5	0	0.0	0	0
+15	C. Greenway	4	1	1.0	0	0
+15	A. Harris	4	1	0.0	0	0
+15	T. Johnson	3	0	1.0	0	0
+15	A. Sendejo	3	1	0.0	0	0
+15	T. Waynes	3	0	0.0	0	0
+15	C. Munnerlyn	2	1	0.0	0	0
+15	B. Robison	2	0	1.0	0	1
+15	S. Floyd	1	2	0.5	0	0
+15	E. Griffen	1	0	0.0	0	0
+15	E. Robinson	1	0	0.0	0	0
+15	J. Trattou	0	0	0.0	1	0
+16	C. Greenway	6	3	0.0	0	0
+16	E. Kendricks	5	2	0.0	0	0
+16	T. Johnson	4	1	2.0	0	0
+16	H. Smith	4	1	0.0	1	0
+16	C. Munnerlyn	3	0	0.0	1	0
+16	T. Newman	3	0	0.0	0	0
+16	A. Sendejo	3	0	0.0	1	0
+16	E. Griffen	2	2	0.0	0	0
+16	D. Hunter	2	0	1.0	0	0
+16	E. Robinson	2	2	0.0	0	0
+16	A. Barr	1	0	0.0	0	0
+16	A. Harris	1	1	0.0	0	0
+16	L. Joseph	1	1	0.0	0	0
+16	X. Rhodes	1	1	0.0	0	0
+16	B. Robison	1	0	1.0	0	0
+16	M. Sherels	1	0	0.0	0	0
+16	T. Waynes	1	0	0.0	0	0
+17	A. Sendejo	8	5	0.0	0	0
+17	C. Greenway	6	0	0.0	0	0
+17	E. Kendricks	6	3	0.0	0	0
+17	S. Floyd	5	2	1.0	0	0
+17	E. Griffen	5	1	2.0	0	1
+17	T. Newman	5	1	0.0	0	0
+17	C. Munnerlyn	3	1	0.0	0	0
+17	X. Rhodes	3	0	0.0	1	0
+17	H. Smith	3	2	0.5	0	0
+17	A. Barr	2	4	1.0	0	0
+17	K. Ellis	1	2	0.0	0	0
+17	D. Hunter	1	0	0.0	0	0
+17	T. Johnson	1	2	0.5	0	0

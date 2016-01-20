@@ -1,90 +1,239 @@
-Passing	CP/AT	YDS	TD	INT
-T. Romo	36/45	356	3	2
-Rushing	ATT	YDS	TD	LG
-J. Randle	16	65	0	15
-D. McFadden	6	16	0	8
-T. Romo	1	-1	0	-1
-Receiving	REC	YDS	TD	LG
-L. Dunbar	8	70	0	24
-T. Williams	5	60	0	21
-J. Witten	8	60	2	15
-C. Beasley	4	49	0	16
-D. Bryant	5	48	0	18
-J. Randle	3	42	0	25
-D. McFadden	1	19	0	19
-G. Escobar	2	8	1	6
-Fumbles	FUM	LOST	REC	YDS
-C. Beasley	1	1	0	0
-T. Frederick	1	0	0	0
-J. Randle	1	0	1	0
-T. Romo	0	0	1	0
-Kicking	FG	LG	XP	PTS
-D. Bailey	2/2	32	3/3	9
-Punting	NO	AVG	I20	LG
-C. Jones	2	52.0	1	54
-Kickoff Returns	NO	AVG	TD	LG
-L. Dunbar	3	23	0	32
-T. Patmon	2	13	0	20
-Punt Returns	NO	AVG	TD	LG
-C. Beasley	1	-3	0	-3
-Defense	T-A	SCK	INT	FF
-S. Lee	7-2	0.0	0	0
-B. Carr	5-0	0.0	0	0
-B. Church	4-4	0.0	0	0
-A. Hitchens	4-4	0.0	0	0
-T. Crawford	3-0	1.0	0	0
-T. Patmon	3-1	0.0	0	0
-M. Claiborne	2-0	0.0	0	0
-T. McClain	2-0	0.0	0	0
-K. Wilber	2-0	0.0	0	0
-J. Wilcox	2-1	0.0	0	0
-B. Jones	1-0	0.0	0	0
-J. Crawford	0-1	0.0	0	0
-D. Lawrence	0-3	0.0	0	0
-J. Mincey	0-1	0.0	0	0
-
-Passing	CP/AT	YDS	TD	INT
-T. Romo	18/27	195	0	0
-B. Weeden	7/7	73	1	0
-Rushing	ATT	YDS	TD	LG
-J. Randle	18	51	0	6
-D. McFadden	10	31	0	9
-T. Romo	1	12	0	12
-L. Dunbar	1	8	0	8
-B. Weeden	3	7	0	9
-Receiving	REC	YDS	TD	LG
-T. Williams	4	84	1	42T
-J. Witten	7	56	0	11
-L. Dunbar	3	45	0	39
-D. McFadden	2	21	0	14
-D. Street	1	18	0	18
-G. Escobar	2	16	0	13
-C. Beasley	4	14	0	9
-J. Randle	1	14	0	14
-G. Swaim	1	0	0	0
-Fumbles	FUM	LOST	REC	YDS
-G. Escobar	1	1	0	0
-T. Romo	1	1	0	0
-N. Hayden	0	0	1	0
-Kicking	FG	LG	XP	PTS
-D. Bailey	2/2	28	2/2	8
-Punting	NO	AVG	I20	LG
-C. Jones	6	45.8	2	61
-Kickoff Returns	NO	AVG	TD	LG
-L. Dunbar	1	31	0	31
-Punt Returns	NO	AVG	TD	LG
-C. Beasley	2	0	0	1
-Defense	T-A	SCK	INT	FF
-S. Lee	9-5	0.0	1	0
-B. Church	4-2	0.0	0	0
-D. Lawrence	3-0	0.0	0	0
-B. Carr	2-0	0.0	0	0
-M. Claiborne	2-1	0.0	0	0
-N. Hayden	2-0	0.0	0	0
-A. Hitchens	2-3	1.0	0	0
-J. Mincey	2-1	0.0	0	0
-B. Jones	1-0	0.0	0	0
-J. Wilcox	1-0	0.0	1	0
-J. Crawford	0-1	0.0	0	0
-J. Heath	0-1	0.0	0	0
-
+week	name	t	a	sck	int	ff
+1	S. Lee	7	2	0.0	0	0
+1	B. Carr	5	0	0.0	0	0
+1	B. Church	4	4	0.0	0	0
+1	A. Hitchens	4	4	0.0	0	0
+1	T. Crawford	3	0	1.0	0	0
+1	T. Patmon	3	1	0.0	0	0
+1	M. Claiborne	2	0	0.0	0	0
+1	T. McClain	2	0	0.0	0	0
+1	K. Wilber	2	0	0.0	0	0
+1	J. Wilcox	2	1	0.0	0	0
+1	B. Jones	1	0	0.0	0	0
+1	J. Crawford	0	1	0.0	0	0
+1	D. Lawrence	0	3	0.0	0	0
+1	J. Mincey	0	1	0.0	0	0
+2	S. Lee	9	5	0.0	1	0
+2	B. Church	4	2	0.0	0	0
+2	D. Lawrence	3	0	0.0	0	0
+2	B. Carr	2	0	0.0	0	0
+2	M. Claiborne	2	1	0.0	0	0
+2	N. Hayden	2	0	0.0	0	0
+2	A. Hitchens	2	3	1.0	0	0
+2	J. Mincey	2	1	0.0	0	0
+2	B. Jones	1	0	0.0	0	0
+2	J. Wilcox	1	0	0.0	1	0
+2	J. Crawford	0	1	0.0	0	0
+2	J. Heath	0	1	0.0	0	0
+3	S. Lee	7	3	1.0	0	0
+3	B. Carr	6	2	0.0	0	0
+3	M. Claiborne	5	0	0.0	0	0
+3	N. Hayden	5	0	0.0	0	0
+3	A. Hitchens	5	2	0.0	0	0
+3	B. Church	4	2	0.0	0	0
+3	B. Jones	3	1	0.0	0	0
+3	J. Wilcox	3	0	0.0	0	0
+3	K. Wilber	2	2	0.0	0	0
+3	D. Lawrence	1	1	0.0	0	0
+3	T. Patmon	1	0	0.0	0	0
+3	J. Crawford	0	1	0.0	0	0
+3	A. Gachkar	0	1	0.0	0	0
+4	A. Hitchens	9	2	1.0	0	0
+4	B. Church	6	2	0.0	0	0
+4	B. Carr	5	0	0.0	0	0
+4	N. Hayden	5	1	0.0	0	0
+4	A. Gachkar	4	1	0.0	0	0
+4	D. Wilson	4	3	0.0	0	0
+4	M. Claiborne	3	1	0.0	0	0
+4	B. Jones	3	1	0.0	0	0
+4	D. Lawrence	3	2	1.0	0	0
+4	S. Lee	2	1	0.0	0	0
+4	J. Crawford	1	1	1.0	0	0
+4	J. Heath	1	0	0.0	0	0
+4	D. Irving	1	1	0.0	0	0
+4	J. Wilcox	1	1	0.0	0	0
+4	T. Patmon	0	1	0.0	0	0
+5	B. Church	5	3	0.0	0	0
+5	J. Wilcox	5	0	0.0	0	0
+5	G. Hardy	4	1	2.0	0	1
+5	R. McClain	4	4	1.0	0	0
+5	T. Crawford	3	1	1.0	0	0
+5	B. Jones	3	2	0.0	0	0
+5	S. Lee	3	2	0.0	0	0
+5	J. Mincey	2	1	0.0	0	0
+5	B. Carr	1	0	0.0	0	0
+5	M. Claiborne	1	1	0.0	0	0
+5	J. Crawford	1	0	1.0	0	0
+5	C. White	1	0	0.0	0	0
+5	K. Wilber	1	0	0.0	0	0
+5	N. Hayden	0	1	0.0	0	0
+5	A. Hitchens	0	1	0.0	0	0
+5	D. Lawrence	0	1	0.0	0	0
+7	B. Carr	7	0	0.0	0	0
+7	B. Jones	6	1	0.0	0	0
+7	B. Church	4	2	0.0	0	0
+7	R. McClain	4	0	0.0	0	0
+7	S. Lee	3	6	0.0	0	0
+7	C. White	3	0	0.0	0	0
+7	T. Crawford	2	1	0.0	0	0
+7	J. Crawford	2	0	1.0	0	0
+7	G. Hardy	2	1	1.0	0	0
+7	N. Hayden	2	0	0.0	0	0
+7	M. Claiborne	0	1	0.0	0	0
+7	A. Hitchens	0	1	0.0	0	0
+7	D. Lawrence	0	1	0.0	0	0
+7	J. Wilcox	0	1	0.0	0	0
+8	B. Church	5	4	0.0	0	0
+8	D. Lawrence	5	2	0.0	0	0
+8	S. Lee	5	6	0.0	0	0
+8	B. Carr	4	0	0.0	0	0
+8	M. Claiborne	3	1	0.0	0	0
+8	R. McClain	3	1	0.0	0	0
+8	G. Hardy	2	2	0.0	1	0
+8	N. Hayden	2	2	0.0	0	0
+8	D. Irving	2	0	0.0	0	0
+8	B. Jones	2	1	0.0	0	0
+8	T. Crawford	1	1	0.0	0	0
+8	J. Heath	1	0	0.0	0	0
+8	J. Mincey	1	0	0.0	0	0
+8	J. Wilcox	0	2	0.0	0	0
+9	M. Claiborne	5	0	0.0	0	0
+9	J. Heath	5	1	0.0	0	0
+9	B. Jones	5	0	0.0	0	0
+9	J. Wilcox	5	2	0.0	0	0
+9	B. Church	4	4	0.0	0	0
+9	B. Carr	3	1	0.0	0	0
+9	S. Lee	3	2	0.0	0	0
+9	G. Hardy	2	1	1.0	0	0
+9	N. Hayden	2	0	0.0	0	0
+9	A. Hitchens	2	1	0.0	0	0
+9	D. Irving	2	1	0.0	0	0
+9	R. McClain	2	1	0.0	0	0
+9	K. Wilber	2	0	0.0	0	0
+9	T. Crawford	1	0	0.0	0	0
+9	A. Gachkar	1	1	0.0	0	0
+9	D. Lawrence	1	3	0.0	0	0
+9	J. Mincey	1	1	0.0	0	0
+10	B. Church	9	2	0.0	0	0
+10	R. McClain	6	2	0.0	0	0
+10	A. Hitchens	4	2	0.0	0	0
+10	B. Carr	3	0	0.0	0	0
+10	T. Crawford	3	2	1.0	0	0
+10	N. Hayden	3	1	0.0	0	0
+10	D. Lawrence	3	0	1.0	0	0
+10	T. Patmon	3	0	0.0	0	0
+10	M. Claiborne	2	1	0.0	0	0
+10	J. Heath	2	0	0.0	2	0
+10	D. Irving	2	1	0.0	0	0
+10	J. Mincey	2	1	0.0	0	0
+10	K. Wilber	2	0	0.0	0	0
+10	R. Gregory	1	1	0.0	0	0
+10	G. Hardy	1	0	0.0	0	0
+10	B. Jones	1	1	0.0	0	0
+10	J. Wilcox	1	0	0.0	0	0
+11	S. Lee	4	0	0.0	0	0
+11	B. Church	3	1	0.0	0	0
+11	J. Crawford	3	0	1.0	0	0
+11	B. Jones	3	0	0.0	0	0
+11	R. McClain	3	0	0.0	1	0
+11	J. Heath	2	1	0.0	0	0
+11	R. Gregory	1	0	0.0	0	0
+11	G. Hardy	1	1	0.5	0	0
+11	N. Hayden	1	0	0.0	0	0
+11	D. Irving	1	1	0.5	0	0
+11	D. Lawrence	1	0	1.0	0	0
+11	J. Mincey	1	0	0.0	0	0
+11	T. Patmon	1	0	0.0	0	0
+11	B. Carr	0	1	0.0	0	0
+11	J. Wilcox	0	1	0.0	0	0
+12	R. McClain	7	5	0.0	0	0
+12	S. Lee	5	6	0.0	0	0
+12	T. Crawford	4	1	1.0	0	0
+12	N. Hayden	4	2	0.0	0	0
+12	J. Wilcox	4	1	0.0	0	0
+12	B. Carr	3	2	0.0	0	0
+12	J. Heath	3	0	0.0	0	0
+12	B. Church	2	2	0.0	0	0
+12	R. Gregory	2	1	0.0	0	0
+12	B. Jones	2	0	0.0	0	0
+12	T. Patmon	2	0	0.0	0	0
+12	J. Crawford	1	0	0.0	0	0
+12	J. Mincey	1	1	0.0	0	0
+12	K. Wilber	1	2	0.0	0	0
+12	D. Irving	0	1	0.0	0	0
+12	D. Lawrence	0	2	0.0	0	0
+13	B. Church	7	3	0.0	0	0
+13	S. Lee	6	7	1.0	0	0
+13	R. McClain	5	5	0.0	0	0
+13	M. Claiborne	4	1	0.0	0	0
+13	D. Lawrence	4	0	2.0	0	1
+13	B. Carr	3	2	0.0	0	0
+13	J. Crawford	2	0	0.0	0	0
+13	B. Jones	2	3	0.0	0	0
+13	R. Gregory	1	0	0.0	0	0
+13	G. Hardy	1	1	0.0	0	0
+13	N. Hayden	1	3	0.0	0	0
+13	T. Patmon	1	0	0.0	0	0
+13	J. Wilcox	1	1	0.0	0	0
+13	T. Crawford	0	3	0.0	0	0
+14	B. Church	9	2	0.0	0	0
+14	S. Lee	7	4	0.0	0	0
+14	B. Carr	5	3	0.0	0	0
+14	R. McClain	5	6	0.0	0	0
+14	G. Hardy	4	2	1.0	0	0
+14	N. Hayden	4	2	0.0	0	0
+14	D. Lawrence	4	1	1.0	0	0
+14	J. Wilcox	4	3	0.0	0	0
+14	M. Claiborne	3	0	0.0	0	0
+14	T. Crawford	2	1	0.0	0	0
+14	B. Jones	2	4	0.0	0	0
+14	J. Crawford	1	0	0.0	0	0
+14	R. Gregory	1	0	0.0	0	0
+14	J. Heath	1	0	0.0	0	0
+14	J. Mincey	1	0	0.0	0	0
+14	A. Hitchens	0	3	0.0	0	0
+15	B. Jones	6	0	0.0	0	0
+15	D. Lawrence	6	1	1.0	0	0
+15	B. Carr	5	2	0.0	0	0
+15	A. Hitchens	5	5	0.0	0	0
+15	B. Church	4	3	0.0	0	0
+15	G. Hardy	4	1	0.0	0	0
+15	S. Lee	4	4	0.0	0	0
+15	T. Crawford	2	0	1.0	0	0
+15	D. McCray	1	0	0.0	0	0
+15	T. Mitchell	1	2	0.0	1	0
+15	K. Wilber	1	0	0.0	0	0
+15	J. Wilcox	1	1	0.0	0	0
+15	N. Hayden	0	1	0.0	0	0
+15	J. Mincey	0	1	0.0	0	0
+16	S. Lee	11	4	0.5	0	0
+16	B. Carr	5	1	0.0	0	0
+16	B. Church	5	2	0.0	0	1
+16	R. McClain	5	0	1.0	0	0
+16	D. Olatoye	5	1	0.0	1	0
+16	B. Jones	3	2	0.0	0	0
+16	T. Mitchell	3	1	0.0	0	0
+16	A. Hitchens	2	1	0.0	0	0
+16	D. Lawrence	2	1	1.0	0	0
+16	J. Wilcox	2	2	0.0	0	0
+16	J. Crawford	1	1	0.0	0	0
+16	T. Crawford	1	0	0.0	0	0
+16	R. Gregory	1	1	0.0	0	0
+16	G. Hardy	1	2	0.5	0	0
+16	C. Walker	1	1	0.0	0	0
+16	N. Hayden	0	1	0.0	0	0
+17	A. Hitchens	6	2	0.0	0	1
+17	R. McClain	6	6	0.0	0	0
+17	T. Mitchell	5	0	1.0	0	1
+17	D. Olatoye	5	2	0.0	0	0
+17	B. Jones	4	2	0.0	0	0
+17	B. Carr	3	2	0.0	0	0
+17	J. Crawford	2	2	0.0	0	0
+17	N. Hayden	2	1	0.0	0	0
+17	D. Lawrence	2	2	0.0	0	0
+17	J. Wilcox	2	0	0.0	0	0
+17	T. Crawford	1	2	0.0	0	0
+17	G. Hardy	1	0	0.0	0	0
+17	K. Wilber	1	1	0.0	0	0
+17	R. Gregory	0	1	0.0	0	0
+17	J. Mincey	0	1	0.0	0	0

@@ -1,99 +1,263 @@
-Passing	CP/AT	YDS	TD	INT
-T. Brady	25/32	288	4	0
-Rushing	ATT	YDS	TD	LG
-D. Lewis	15	69	0	13
-J. Edelman	1	9	0	9
-B. Bolden	5	1	0	3
-T. Brady	3	1	0	2
-Receiving	REC	YDS	TD	LG
-J. Edelman	11	97	0	14
-R. Gronkowski	5	94	3	52
-D. Lewis	4	51	0	19
-D. Amendola	2	24	0	18
-B. Bolden	1	12	0	12
-A. Dobson	1	9	0	9
-S. Chandler	1	1	1	1T
-Fumbles	FUM	LOST	REC	YDS
-D. Lewis	1	0	0	0
-R. Gronkowski	0	0	1	0
-Kicking	FG	LG	XP	PTS
-S. Gostkowski	0/0	0	4/4	4
-Punting	NO	AVG	I20	LG
-R. Allen	4	42.0	1	67
-Kickoff Returns	NO	AVG	TD	LG
-M. Williams	1	8	0	8
-Punt Returns	NO	AVG	TD	LG
-D. Amendola	1	1	0	1
-Defense	T-A	SCK	INT	FF
-D. Hightower	6-2	1.0	0	0
-B. Fletcher	4-2	0.0	0	0
-M. Butler	3-2	0.0	0	0
-J. Collins	3-3	0.0	0	0
-D. McCourty	3-2	0.0	0	0
-R. Ninkovich	3-1	0.0	0	0
-T. Brown	2-2	0.0	0	0
-P. Chung	2-3	0.0	0	0
-D. Harmon	2-1	0.0	1	0
-J. Sheard	2-1	1.0	0	0
-A. Branch	1-1	0.0	0	0
-M. Brown	1-1	1.0	0	0
-C. Jones	1-2	0.0	0	0
-J. Mayo	1-1	0.0	0	0
-S. Siliga	1-2	0.0	0	0
-G. Grissom	0-1	0.0	0	0
-
-Passing	CP/AT	YDS	TD	INT
-T. Brady	38/59	466	3	0
-Rushing	ATT	YDS	TD	LG
-D. Lewis	7	40	1	13
-J. Edelman	1	12	0	12
-L. Blount	2	4	0	4
-D. Amendola	1	3	0	3
-B. Bolden	1	1	0	1
-T. Brady	3	-4	0	-1
-Receiving	REC	YDS	TD	LG
-R. Gronkowski	7	113	1	36
-D. Lewis	6	98	0	40
-J. Edelman	11	97	2	22T
-A. Dobson	7	87	0	24
-D. Amendola	1	29	0	29
-S. Chandler	3	23	0	9
-M. Williams	1	15	0	15
-B. Bolden	1	2	0	2
-T. Cadet	1	2	0	2
-Fumbles	FUM	LOST	REC	YDS
-T. Brady	1	1	0	0
-D. Lewis	1	1	0	0
-A. Branch	0	0	0	0
-J. Collins	0	0	0	0
-B. Fletcher	0	0	0	0
-Kicking	FG	LG	XP	PTS
-S. Gostkowski	4/4	50	4/4	16
-Punting	NO	AVG	I20	LG
-R. Allen	1	40.0	0	54
-Kickoff Returns	NO	AVG	TD	LG
-Punt Returns	NO	AVG	TD	LG
-D. Amendola	3	13	0	28
-J. Edelman	1	2	0	2
-Defense	T-A	SCK	INT	FF
-J. Collins	8-3	2.5	0	1
-D. Hightower	8-4	0.5	0	0
-C. Jones	5-1	3.0	0	0
-D. McCourty	5-1	0.0	0	0
-M. Butler	4-2	0.0	1	0
-B. Fletcher	4-0	0.0	0	1
-T. Brown	3-1	0.0	0	0
-R. Ninkovich	3-1	1.0	0	0
-L. Ryan	3-1	0.0	1	0
-P. Chung	2-1	0.0	0	0
-J. Sheard	2-1	0.0	0	0
-A. Branch	1-0	1.0	0	1
-M. Brown	1-0	0.0	0	0
-J. Freeny	1-0	0.0	0	0
-R. Johnson	1-0	0.0	0	0
-J. Mayo	1-1	0.0	0	0
-S. Siliga	1-0	0.0	0	0
-D. Harmon	0-0	0.0	1	0
-
-
-
+week	name	t	a	sck	int	ff
+1	D. Hightower	6	2	1.0	0	0
+1	B. Fletcher	4	2	0.0	0	0
+1	M. Butler	3	2	0.0	0	0
+1	J. Collins	3	3	0.0	0	0
+1	D. McCourty	3	2	0.0	0	0
+1	R. Ninkovich	3	1	0.0	0	0
+1	T. Brown	2	2	0.0	0	0
+1	P. Chung	2	3	0.0	0	0
+1	D. Harmon	2	1	0.0	1	0
+1	J. Sheard	2	1	1.0	0	0
+1	A. Branch	1	1	0.0	0	0
+1	M. Brown	1	1	1.0	0	0
+1	C. Jones	1	2	0.0	0	0
+1	J. Mayo	1	1	0.0	0	0
+1	S. Siliga	1	2	0.0	0	0
+1	G. Grissom	0	1	0.0	0	0
+2	J. Collins 	8	3 	2.5 	0 	1
+2	D. Hightower 	8	4 	0.5 	0 	0
+2	C. Jones 	5	1 	3.0 	0 	0
+2	D. McCourty 	5	1 	0.0 	0 	0
+2	M. Butler 	4	2 	0.0 	1 	0
+2	B. Fletcher 	4	0 	0.0 	0 	1
+2	T. Brown 	3	1 	0.0 	0 	0
+2	R. Ninkovich 	3	1 	1.0 	0 	0
+2	L. Ryan 	3	1 	0.0 	1 	0
+2	P. Chung 	2	1 	0.0 	0 	0
+2	J. Sheard 	2	1 	0.0 	0 	0
+2	A. Branch 	1	0 	1.0 	0 	1
+2	M. Brown 	1	0 	0.0 	0 	0
+2	J. Freeny 	1	0 	0.0 	0 	0
+2	R. Johnson 	1	0 	0.0 	0 	0
+2	J. Mayo 	1	1 	0.0 	0 	0
+2	S. Siliga 	1	0 	0.0 	0 	0
+2	D. Harmon 	0	0 	0.0 	1 	0
+3	M. Butler	4	0	0.0	0	0
+3	J. Collins	4	1	1.0	0	1
+3	L. Ryan	4	0	0.0	0	0
+3	J. Coleman	2	1	0.0	0	0
+3	C. Jones	2	0	0.0	0	0
+3	J. Richards	2	0	0.0	0	0
+3	J. Sheard	2	0	1.0	0	0
+3	A. Branch	1	0	0.0	0	0
+3	M. Brown	1	0	0.0	0	0
+3	P. Chung	1	0	0.0	0	0
+3	D. Easley	1	1	0.0	0	0
+3	J. Freeny	1	1	0.0	0	0
+3	D. Harmon	1	0	0.0	0	0
+3	D. Hightower	1	0	0.0	0	0
+3	J. Mayo	1	0	0.0	0	0
+3	D. McCourty	1	0	0.0	1	0
+3	R. Ninkovich	1	0	0.0	0	0
+3	S. Siliga	1	2	0.0	0	0
+3	M. Slater	1	0	0.0	0	0
+5	T. Brown	6	1	0.0	0	0
+5	J. Collins	6	4	0.0	0	1
+5	D. McCourty	6	1	0.0	0	0
+5	P. Chung	5	2	0.0	0	0
+5	D. Hightower	4	0	1.0	0	0
+5	J. Sheard	3	0	2.0	0	0
+5	A. Branch	2	0	0.0	0	0
+5	D. Easley	2	0	0.0	0	0
+5	J. Richards	2	0	0.0	0	0
+5	L. Ryan	2	1	0.0	1	0
+5	M. Butler	1	0	0.0	0	0
+5	J. Coleman	1	0	0.0	0	0
+5	J. Mayo	1	1	0.0	0	0
+5	S. Siliga	1	3	0.0	0	0
+5	M. Brown	0	2	0.0	0	0
+5	C. Jones	0	1	0.0	0	0
+5	R. Ninkovich	0	1	0.0	0	0
+6	M. Butler	7	1	0.0	0	0
+6	D. McCourty	7	2	0.0	0	0
+6	L. Ryan	6	3	0.0	0	0
+6	P. Chung	4	0	0.0	0	0
+6	J. Freeny	3	4	0.0	0	0
+6	D. Harmon	2	0	0.0	0	0
+6	C. Jones	2	2	2.5	0	0
+6	B. Bolden	1	0	0.0	0	0
+6	M. Brown	1	3	0.0	0	0
+6	J. Coleman	1	0	0.0	0	0
+6	J. Collins	1	4	0.0	0	0
+6	R. Ninkovich	1	0	0.0	0	0
+6	J. Richards	1	0	0.0	0	0
+6	J. Sheard	1	0	0.0	0	0
+6	T. Wilson	1	0	0.0	0	0
+6	A. Branch	0	2	0.0	0	0
+6	D. Easley	0	1	0.5	0	0
+6	A. Hicks	0	1	0.0	0	0
+6	S. Siliga	0	1	0.0	0	0
+7	D. Hightower	10	0	0.0	0	0
+7	J. Collins	6	6	1.0	0	0
+7	M. Butler	5	2	0.0	0	0
+7	P. Chung	5	3	0.0	0	0
+7	L. Ryan	4	1	0.0	0	0
+7	C. Jones	3	0	1.0	0	1
+7	A. Branch	2	1	0.0	0	0
+7	M. Brown	2	1	0.0	0	0
+7	J. Coleman	2	1	0.0	0	0
+7	J. Freeny	2	0	0.0	0	0
+7	D. McCourty	2	2	0.0	0	0
+7	D. Easley	1	0	0.0	0	0
+7	D. Harmon	1	0	0.0	0	0
+7	R. Ninkovich	1	1	0.0	0	0
+7	J. Richards	1	0	0.0	0	0
+7	A. Hicks	0	2	0.0	0	0
+7	S. Siliga	0	3	0.0	0	0
+8	L. Ryan	6	1	0.0	1	0
+8	M. Butler	5	0	0.0	0	0
+8	J. Coleman	5	0	0.0	0	0
+8	C. Jones	4	0	2.0	0	0
+8	D. Hightower	3	0	1.0	0	0
+8	D. McCourty	3	0	1.0	0	0
+8	M. Brown	2	0	0.0	0	0
+8	P. Chung	1	3	0.0	0	0
+8	J. Collins	1	1	0.0	0	0
+8	D. Easley	1	2	0.0	0	0
+8	G. Grissom	1	1	0.0	0	0
+8	J. Mayo	1	0	0.0	0	0
+8	R. Ninkovich	1	1	1.0	0	0
+8	J. Richards	1	1	0.0	0	0
+8	S. Siliga	1	0	0.0	0	0
+8	A. Branch	0	1	0.0	0	0
+8	D. Harmon	0	1	0.0	1	0
+9	L. Ryan	6	0	0.0	1	0
+9	M. Butler	4	1	0.0	0	0
+9	C. Jones	3	1	1.0	0	0
+9	D. McCourty	3	1	0.0	0	0
+9	J. Coleman	2	1	0.0	0	0
+9	J. Freeny	2	2	0.0	0	1
+9	R. Ninkovich	2	2	0.0	0	0
+9	S. Siliga	2	1	0.0	0	0
+9	A. Branch	1	1	0.0	0	1
+9	M. Brown	1	1	0.0	0	0
+9	P. Chung	1	2	0.0	0	0
+9	G. Grissom	1	0	0.0	0	0
+9	D. Hightower	1	0	0.0	0	0
+9	J. Bostic	0	1	0.0	0	0
+9	D. Harmon	0	1	0.0	0	0
+9	A. Hicks	0	1	0.0	0	0
+10	D. Hightower	8	1	0.0	0	0
+10	M. Brown	4	3	1.0	0	0
+10	P. Chung	4	6	0.0	0	0
+10	J. Freeny	4	4	0.0	0	0
+10	J. Coleman	3	1	0.0	0	0
+10	J. Mayo	3	1	0.0	0	0
+10	D. McCourty	3	0	0.0	0	0
+10	R. Ninkovich	3	1	1.0	0	0
+10	L. Ryan	3	0	0.0	0	0
+10	M. Butler	2	0	0.0	0	0
+10	C. Jones	2	1	1.0	0	1
+10	J. Sheard	2	0	0.0	0	0
+10	S. Siliga	2	2	0.0	0	0
+10	A. Branch	1	1	0.0	0	0
+10	D. Easley	1	1	0.0	0	0
+10	D. Harmon	1	0	0.0	0	0
+10	A. Hicks	1	0	0.0	0	0
+10	R. Melvin	1	2	0.0	0	0
+11	L. Ryan	7	2	0.0	0	0
+11	J. Mayo	5	0	0.0	0	0
+11	J. Freeny	4	2	0.0	0	0
+11	D. Hightower	4	0	0.0	0	0
+11	R. Ninkovich	4	2	1.5	0	1
+11	J. Sheard	4	1	0.0	0	1
+11	M. Butler	3	0	0.0	0	0
+11	P. Chung	3	2	0.0	0	0
+11	T. Wilson	3	0	0.0	0	0
+11	M. Brown	2	1	0.0	0	0
+11	D. Easley	1	1	0.5	0	0
+11	C. Jones	1	0	0.0	0	0
+11	D. McCourty	1	0	0.0	0	0
+11	A. Hicks	0	1	0.0	0	0
+12	M. Butler	7	0	0.0	0	0
+12	J. Freeny	7	5	1.0	0	0
+12	A. Branch	4	0	0.0	0	0
+12	M. Brown	4	0	1.0	0	0
+12	J. Mayo	4	1	0.0	0	0
+12	D. McCourty	4	0	0.0	0	0
+12	R. Ninkovich	4	2	1.0	0	0
+12	P. Chung	3	2	0.0	0	0
+12	L. Ryan	3	1	0.0	0	0
+12	D. Hightower	2	1	0.0	0	0
+12	C. Jones	2	0	0.0	1	1
+12	S. Siliga	2	0	0.0	0	0
+12	D. Easley	1	0	0.0	0	0
+12	R. Melvin	1	0	0.0	0	0
+12	T. Wilson	1	0	0.0	0	0
+13	P. Chung	4	2	0.0	0	1
+13	J. Collins	3	5	0.0	0	1
+13	D. Harmon	3	0	0.0	0	0
+13	C. Jones	3	1	0.0	0	0
+13	D. McCourty	3	4	0.0	0	0
+13	L. Ryan	3	0	0.0	0	0
+13	A. Branch	2	1	0.0	0	0
+13	M. Brown	2	0	0.0	0	0
+13	J. Freeny	2	3	0.0	0	0
+13	J. Mayo	2	2	1.0	0	0
+13	M. Butler	1	0	0.0	0	0
+13	J. Sheard	1	2	0.0	0	0
+13	R. Ninkovich	0	2	0.0	0	0
+13	S. Siliga	0	1	0.0	0	0
+13	T. Wilson	0	1	0.0	0	0
+14	J. Mayo	7	1	0.0	0	0
+14	P. Chung	5	3	0.0	0	0
+14	J. Collins	5	4	0.0	0	0
+14	A. Hicks	5	1	2.0	0	0
+14	J. Sheard	4	0	2.0	0	2
+14	M. Brown	2	0	0.0	0	0
+14	R. Ninkovich	2	1	1.0	0	0
+14	M. Butler	1	0	0.0	0	0
+14	D. Easley	1	0	1.0	0	0
+14	D. McCourty	1	0	0.0	0	0
+14	L. Ryan	1	3	0.0	0	0
+14	A. Branch	0	2	0.0	0	0
+14	C. Jones	0	2	0.0	0	0
+15	P. Chung	5	2	0.0	0	0
+15	L. Ryan	5	1	0.0	0	0
+15	M. Butler	3	2	0.0	1	0
+15	J. Collins	3	4	1.0	1	0
+15	J. Sheard	3	1	1.0	0	0
+15	A. Branch	2	2	0.0	0	0
+15	A. Hicks	2	2	1.0	0	0
+15	C. Jones	2	2	2.0	0	1
+15	J. Mayo	2	4	0.0	0	0
+15	R. Ninkovich	2	1	0.0	0	0
+15	J. Richards	2	0	0.0	0	0
+15	M. Brown	1	1	0.0	0	0
+15	T. Wilson	1	0	0.0	0	0
+15	D. Hightower	0	1	0.0	0	0
+15	L. Johnson	0	2	0.0	0	0
+15	S. Siliga	0	1	0.0	0	0
+16	J. Collins	6	2	0.0	0	1
+16	L. Johnson	5	1	0.0	0	0
+16	J. Richards	5	2	0.0	0	1
+16	D. Hightower	4	1	0.0	0	0
+16	J. Sheard	4	1	1.0	0	1
+16	D. Harmon	3	2	0.0	0	0
+16	L. Ryan	3	1	0.0	0	0
+16	M. Brown	2	3	0.0	0	0
+16	M. Butler	2	1	0.0	0	0
+16	R. Ninkovich	2	2	0.0	0	0
+16	T. Wilson	2	1	0.0	0	0
+16	A. Branch	1	0	0.0	0	0
+16	J. Coleman	1	0	0.0	0	0
+16	C. Jones	1	0	0.0	0	0
+16	J. Mayo	1	0	0.0	0	0
+16	S. Siliga	0	1	0.0	0	0
+17	D. McCourty	7	0	0.0	0	0
+17	J. Mayo	6	0	0.0	0	0
+17	M. Brown	5	1	0.0	0	0
+17	J. Collins	5	1	0.0	0	0
+17	A. Branch	4	1	0.0	0	0
+17	M. Butler	4	0	0.0	0	0
+17	P. Chung	4	2	0.0	0	0
+17	R. Ninkovich	4	1	0.0	0	0
+17	L. Johnson	3	0	0.0	0	0
+17	L. Ryan	2	1	0.0	0	0
+17	G. Grissom	1	0	1.0	0	0
+17	A. Hicks	1	4	0.0	0	0
+17	D. Fleming	0	1	0.0	0	0
+17	D. Harmon	0	1	0.0	0	0
+17	J. Richards	0	1	0.0	0	0
+17	J. Sheard	0	2	0.0	0	0

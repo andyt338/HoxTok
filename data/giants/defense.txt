@@ -1,92 +1,272 @@
-Passing	CP/AT	YDS	TD	INT
-E. Manning	20/36	189	0	0
-Rushing	ATT	YDS	TD	LG
-R. Jennings	13	52	1	27
-S. Vereen	3	14	0	7
-A. Williams	6	14	0	5
-D. Harris	1	11	0	11
-E. Manning	1	8	0	8
-Receiving	REC	YDS	TD	LG
-S. Vereen	4	45	0	18
-O. Beckham Jr.	5	44	0	16
-D. Fells	3	33	0	13
-P. Parker	2	23	0	15
-R. Randle	3	23	0	16
-L. Donnell	3	21	0	8
-Fumbles	FUM	LOST	REC	YDS
-S. Vereen	1	0	0	0
-R. Ayers Jr.	0	0	0	0
-T. McBride	0	0	0	0
-P. Parker	0	0	1	2
-D. Rodgers-Cromartie	0	0	1	57
-Kicking	FG	LG	XP	PTS
-J. Brown	4/4	50	2/2	14
-Punting	NO	AVG	I20	LG
-B. Wing	4	45.5	3	63
-Kickoff Returns	NO	AVG	TD	LG
-Punt Returns	NO	AVG	TD	LG
-D. Harris	2	1	0	3
-Defense	T-A	SCK	INT	FF
-U. Unga	10-2	0.0	1	0
-P. Amukamara	6-2	0.0	0	0
-D. Rodgers-Cromarti	6-0	0.0	0	0
-T. McBride	4-0	0.0	1	1
-B. Meriweather	4-1	0.0	0	0
-J. Thomas	3-1	0.0	0	0
-R. Ayers Jr.	2-1	0.0	0	1
-L. Collins	2-2	0.0	0	0
-D. Kennard	2-3	0.0	0	0
-K. Wynn	2-0	0.0	0	0
-J. Casillas	1-0	0.0	0	0
-J. Hankins	1-2	0.0	0	0
-M. Herzlich	1-0	0.0	0	0
-C. Jenkins	1-0	0.0	0	0
-M. Kuhn	1-0	0.0	0	0
-G. Selvie	1-2	0.0	0	0
-
-Passing	CP/AT	YDS	TD	INT
-E. Manning	27/40	292	2	0
-Rushing	ATT	YDS	TD	LG
-A. Williams	6	43	0	35
-E. Manning	2	23	0	18
-S. Vereen	6	19	0	12
-R. Jennings	9	12	0	6
-Receiving	REC	YDS	TD	LG
-O. Beckham Jr.	7	146	1	67T
-S. Vereen	8	76	0	37
-L. Donnell	4	28	1	10T
-P. Parker	3	17	0	6
-R. Jennings	2	12	0	9
-G. Davis	1	5	0	5
-R. Randle	1	5	0	5
-J. Cunningham	1	3	0	3
-Fumbles	FUM	LOST	REC	YDS
-E. Manning	2	1	0	0
-L. Donnell	0	0	1	0
-Kicking	FG	LG	XP	PTS
-J. Brown	2/2	44	2/2	8
-Punting	NO	AVG	I20	LG
-B. Wing	4	38.5	3	47
-Kickoff Returns	NO	AVG	TD	LG
-D. Harris	2	38	0	41
-Punt Returns	NO	AVG	TD	LG
-D. Harris	4	16	0	29
-Defense	T-A	SCK	INT	FF
-D. Kennard	7-2	0.0	0	0
-L. Collins	6-0	0.0	0	0
-J. Hosley	6-2	0.0	0	0
-B. Meriweather	6-2	0.0	0	0
-P. Amukamara	4-0	0.0	0	0
-K. Wynn	4-0	0.0	0	0
-R. Ayers Jr.	3-0	1.0	0	0
-G. Selvie	3-1	0.0	0	0
-J. Thomas	3-4	0.0	0	0
-J. Casillas	2-0	0.0	0	0
-J. Hankins	2-0	0.0	0	0
-D. Rodgers-Cromarti	2-0	0.0	0	0
-C. Jenkins	1-1	1.0	0	0
-U. Unga	1-4	0.0	0	0
-J. Bromley	0-2	0.0	0	0
-M. Herzlich	0-1	0.0	0	0
-T. McBride	0-1	0.0	0	0
-
+week	name	t	a	sck	int	ff	
+1	U. Unga	10	2	0.0	1	0	
+1	P. Amukamara	6	2	0.0	0	0	
+1	D. Rodgers	Cromartie	6	0	0.0	0	0
+1	T. McBride	4	0	0.0	1	1	
+1	B. Meriweather	4	1	0.0	0	0	
+1	J. Thomas	3	1	0.0	0	0	
+1	R. Ayers Jr.	2	1	0.0	0	1	
+1	L. Collins	2	2	0.0	0	0	
+1	D. Kennard	2	3	0.0	0	0	
+1	K. Wynn	2	0	0.0	0	0	
+1	J. Casillas	1	0	0.0	0	0	
+1	J. Hankins	1	2	0.0	0	0	
+1	M. Herzlich	1	0	0.0	0	0	
+1	C. Jenkins	1	0	0.0	0	0	
+1	M. Kuhn	1	0	0.0	0	0	
+1	G. Selvie	1	2	0.0	0	0	
+2	D. Kennard 	7	2 	0.0 	0 	0	
+2	L. Collins 	6	0 	0.0 	0 	0	
+2	J. Hosley 	6	2 	0.0 	0 	0	
+2	B. Meriweather 	6	2 	0.0 	0 	0	
+2	P. Amukamara 	4	0 	0.0 	0 	0	
+2	K. Wynn 	4	0 	0.0 	0 	0	
+2	R. Ayers Jr. 	3	0 	1.0 	0 	0	
+2	G. Selvie 	3	1 	0.0 	0 	0	
+2	J. Thomas 	3	4 	0.0 	0 	0	
+2	J. Casillas 	2	0 	0.0 	0 	0	
+2	J. Hankins 	2	0 	0.0 	0 	0	
+2	D. Rodgers	Cromartie 	2	0 	0.0 	0 	0
+2	C. Jenkins 	1	1 	1.0 	0 	0	
+2	U. Unga 	1	4 	0.0 	0 	0	
+2	J. Bromley 	0	2 	0.0 	0 	0	
+2	M. Herzlich 	0	1 	0.0 	0 	0	
+2	T. McBride 	0	1 	0.0 	0 	0	
+3	J. Casillas	7	0	1.0	0	0	
+3	P. Amukamara	6	2	0.0	1	0	
+3	U. Unga	6	3	0.0	1	1	
+3	T. McBride	5	1	0.0	0	0	
+3	L. Collins	4	2	0.0	0	0	
+3	D. Kennard	4	1	0.0	0	0	
+3	B. Meriweather	4	1	0.0	0	0	
+3	K. Wynn	3	5	0.0	0	0	
+3	J. Bromley	2	1	0.0	0	0	
+3	J. Hankins	2	1	0.0	0	0	
+3	T. Wade	2	0	0.0	0	1	
+3	J. Hosley	1	0	0.0	0	0	
+3	C. Jenkins	1	1	0.0	0	0	
+3	D. Moore	1	0	0.0	0	0	
+3	G. Selvie	1	1	0.0	0	0	
+3	J. Thomas	1	0	0.0	0	0	
+4	K. Wynn	7	1	0.0	0	0	
+4	P. Amukamara	5	1	0.0	0	1	
+4	L. Collins	4	2	0.0	0	0	
+4	J. Beason	3	2	0.0	0	0	
+4	J. Hankins	3	1	0.0	0	0	
+4	T. McBride	3	0	0.0	0	0	
+4	D. Rodgers	Cromartie	3	1	0.0	0	0
+4	J. Casillas	2	5	0.0	0	0	
+4	C. Dahl	2	0	0.0	0	0	
+4	B. Meriweather	2	3	0.0	0	0	
+4	D. Moore	2	1	0.0	0	0	
+4	J. Thomas	2	1	0.0	0	0	
+4	J. Bromley	1	1	0.0	0	0	
+4	C. Jenkins	1	0	1.0	0	0	
+4	D. Kennard	1	3	0.0	1	0	
+4	O. Odighizuwa	1	1	0.0	0	0	
+4	U. Unga	1	1	0.0	0	0	
+4	N. Whitlock	1	0	1.0	0	0	
+4	M. Herzlich	0	1	0.0	0	0	
+4	G. Selvie	0	1	0.0	0	0	
+5	U. Unga	7	0	0.0	0	0	
+5	L. Collins	6	0	0.0	0	0	
+5	P. Amukamara	5	1	0.0	0	0	
+5	D. Rodgers	Cromartie	5	1	0.0	0	2
+5	M. Herzlich	4	1	0.0	0	0	
+5	B. Meriweather	3	2	0.0	0	0	
+5	D. Moore	3	0	2.0	0	1	
+5	C. Dahl	2	0	0.0	0	0	
+5	J. Hankins	2	1	0.0	0	0	
+5	T. McBride	2	0	0.0	0	0	
+5	J. Thomas	2	0	0.0	0	0	
+5	T. Wade	2	1	0.0	0	0	
+5	J. Brinkley	1	0	0.0	0	0	
+5	J. Bromley	1	2	0.0	0	0	
+5	C. Jenkins	1	1	0.0	0	0	
+5	M. Kuhn	1	1	0.0	0	0	
+5	O. Odighizuwa	1	0	0.0	0	0	
+5	K. Wynn	1	3	0.0	0	0	
+6	B. Meriweather	6	0	0.0	1	0	
+6	U. Unga	6	1	0.0	0	1	
+6	L. Collins	4	1	0.0	1	0	
+6	C. Dahl	4	2	0.0	0	0	
+6	D. Rodgers	Cromartie	4	0	0.0	0	0
+6	J. Thomas	4	1	0.0	0	0	
+6	T. Wade	4	2	0.0	0	0	
+6	K. Wynn	3	0	0.0	0	0	
+6	J. Bromley	2	0	0.0	0	0	
+6	J. Hankins	2	1	0.0	0	0	
+6	M. Kuhn	2	1	0.0	0	0	
+6	D. Moore	2	1	1.0	0	0	
+6	G. Selvie	2	1	0.0	0	0	
+6	J. Beason	1	1	0.0	0	0	
+6	J. Casillas	1	2	0.0	0	0	
+6	J. Hosley	1	3	0.0	1	0	
+6	C. Jenkins	0	1	0.0	0	0	
+7	J. Beason	7	4	0.0	0	0	
+7	D. Kennard	7	0	0.0	0	0	
+7	L. Collins	6	3	0.0	0	0	
+7	B. Meriweather	5	2	0.0	1	0	
+7	T. Wade	5	1	0.0	0	0	
+7	J. Casillas	4	3	0.0	0	0	
+7	J. Bromley	3	1	0.0	0	0	
+7	J. Hankins	3	1	0.0	0	0	
+7	G. Selvie	3	3	0.5	0	0	
+7	K. Wynn	3	3	0.0	0	0	
+7	J. Hosley	2	1	0.0	0	0	
+7	C. Jenkins	2	0	0.0	0	0	
+7	D. Rodgers	Cromartie	2	0	0.0	2	0
+7	J. Thomas	2	4	0.0	0	0	
+7	C. Dahl	1	0	0.0	0	0	
+7	M. Kuhn	1	0	0.5	0	0	
+7	R. Ayers Jr.	0	1	0.0	0	0	
+8	D. Rodgers	Cromartie	6	0	0.0	1	0
+8	J. Hankins	5	2	0.0	0	0	
+8	J. Hosley	5	2	0.0	0	0	
+8	J. Casillas	4	2	0.0	0	0	
+8	L. Collins	4	5	0.0	0	0	
+8	T. McBride	4	0	0.0	1	0	
+8	T. Wade	4	1	0.0	0	0	
+8	U. Unga	3	2	0.0	0	0	
+8	K. Wynn	3	2	0.0	0	0	
+8	R. Ayers Jr.	2	1	0.0	0	0	
+8	J. Brinkley	2	1	0.0	0	0	
+8	C. Dahl	2	1	0.0	0	0	
+8	D. Kennard	2	2	0.0	0	0	
+8	J. Bromley	0	2	0.0	0	0	
+8	B. Meriweather	0	1	0.0	0	0	
+9	J. Casillas	6	0	0.0	0	0	
+9	J. Brinkley	5	2	0.0	0	1	
+9	L. Collins	4	1	0.0	0	0	
+9	D. Kennard	4	2	0.0	0	0	
+9	D. Rodgers	Cromartie	3	0	0.0	0	0
+9	J. Bromley	2	1	0.0	0	0	
+9	C. Dahl	2	0	0.0	0	0	
+9	J. Pierre	Paul	2	0	0.0	0	0
+9	T. Wade	2	0	0.0	0	0	
+9	R. Ayers Jr.	1	0	0.0	0	0	
+9	J. Hankins	1	0	0.0	0	1	
+9	J. Hosley	1	0	0.0	0	0	
+9	C. Jenkins	1	0	0.0	0	0	
+9	T. McBride	1	0	0.0	0	0	
+9	B. Meriweather	1	1	0.0	0	0	
+9	D. Moore	1	0	0.0	0	0	
+9	K. Wynn	1	0	0.0	0	0	
+9	M. Herzlich	0	1	0.0	0	0	
+10	J. Brinkley	9	3	1.0	0	1	
+10	J. Casillas	7	0	0.0	0	0	
+10	D. Rodgers	Cromartie	7	0	0.0	0	0
+10	L. Collins	4	1	0.0	0	0	
+10	C. Dahl	4	1	1.0	0	0	
+10	D. Kennard	4	2	0.0	0	0	
+10	B. Meriweather	4	0	0.0	0	0	
+10	J. Hosley	3	0	0.0	0	0	
+10	R. Ayers Jr.	2	0	1.0	0	1	
+10	T. Wade	2	0	0.0	0	0	
+10	C. Jenkins	1	1	0.0	0	0	
+10	M. Kuhn	1	3	0.0	0	0	
+10	K. Wynn	1	0	0.0	0	0	
+10	M. Herzlich	0	2	0.0	0	0	
+10	T. McBride	0	0	0.0	1	0	
+10	D. Moore	0	1	0.0	0	0	
+10	G. Selvie	0	1	0.0	0	0	
+12	L. Collins	7	1	0.0	0	0	
+12	J. Brinkley	5	2	0.0	0	0	
+12	C. Dahl	5	2	0.0	0	0	
+12	D. Kennard	5	5	0.0	0	0	
+12	P. Amukamara	3	1	0.0	0	0	
+12	J. Casillas	3	2	0.0	0	0	
+12	B. Meriweather	3	2	0.0	0	0	
+12	T. Wade	3	1	0.0	0	0	
+12	R. Ayers Jr.	2	1	0.0	0	0	
+12	M. Hughes	2	0	0.0	0	0	
+12	J. Pierre	Paul	2	2	0.0	0	0
+12	J. Hosley	1	1	0.0	0	0	
+12	C. Jenkins	1	2	0.0	0	0	
+12	D. Rodgers	Cromartie	1	0	0.0	0	0
+12	K. Wynn	1	4	0.0	0	0	
+12	M. Kuhn	0	3	0.0	0	0	
+13	J. Casillas	7	0	0.0	0	0	
+13	L. Collins	6	1	0.0	0	0	
+13	T. Wade	6	0	0.0	0	0	
+13	J. Brinkley	5	0	0.0	0	1	
+13	J. Pierre	Paul	5	1	0.0	0	0
+13	P. Amukamara	4	1	0.0	0	0	
+13	C. Dahl	4	0	0.0	0	0	
+13	R. Ayers Jr.	3	2	2.0	0	0	
+13	D. Moore	3	2	0.0	0	0	
+13	U. Unga	3	1	0.0	0	0	
+13	J. Bromley	2	0	0.0	0	0	
+13	D. Rodgers	Cromartie	2	3	0.0	0	0
+13	C. Taylor	2	1	0.0	0	0	
+13	J. Thomas	2	0	0.0	0	0	
+13	M. Herzlich	1	1	0.0	0	0	
+13	C. Jenkins	1	1	1.0	0	0	
+13	M. Kuhn	1	2	0.0	0	0	
+13	K. Wynn	1	0	0.0	0	0	
+14	P. Amukamara	5	0	0.0	0	0	
+14	L. Collins	5	2	0.0	0	1	
+14	J. Brinkley	4	2	0.0	0	0	
+14	T. Wade	4	0	0.0	0	0	
+14	D. Rodgers	Cromartie	3	0	0.0	0	0
+14	M. Kuhn	2	1	0.0	0	0	
+14	J. Thomas	2	1	0.0	0	0	
+14	U. Unga	2	1	0.0	0	0	
+14	R. Ayers Jr.	1	0	1.0	0	0	
+14	J. Bromley	1	0	0.0	0	0	
+14	J. Casillas	1	1	0.0	0	0	
+14	C. Dahl	1	2	0.0	0	0	
+14	M. Herzlich	1	0	0.0	0	1	
+14	J. Pierre	Paul	1	2	0.0	0	0
+14	G. Selvie	1	0	0.0	0	0	
+14	C. Taylor	1	2	0.0	0	0	
+14	K. Wynn	1	0	0.0	0	0	
+14	C. Jenkins	0	1	0.0	0	0	
+14	T. McBride	0	1	0.0	0	0	
+15	P. Amukamara	7	0	0.0	0	0	
+15	L. Collins	7	2	0.0	0	0	
+15	R. Ayers Jr.	6	0	2.0	0	0	
+15	C. Dahl	5	2	0.0	0	0	
+15	J. Brinkley	4	5	0.0	0	0	
+15	J. Casillas	4	0	0.0	0	0	
+15	J. Pierre	Paul	3	0	1.0	0	0
+15	D. Rodgers	Cromartie	3	0	0.0	0	0
+15	J. Thomas	3	4	0.0	0	0	
+15	U. Unga	3	2	0.0	0	0	
+15	J. Bromley	2	1	0.0	0	0	
+15	C. Jenkins	2	0	0.0	0	0	
+15	T. McBride	1	0	0.0	0	0	
+15	C. Taylor	1	1	0.0	0	0	
+15	M. Hughes	0	2	0.0	0	0	
+15	K. Wynn	0	2	0.0	0	0	
+16	L. Collins	7	1	0.0	0	0	
+16	P. Amukamara	6	0	0.0	0	0	
+16	J. Casillas	6	3	1.0	0	0	
+16	R. Ayers Jr.	5	1	1.5	0	0	
+16	J. Brinkley	5	2	0.0	0	0	
+16	D. Rodgers	Cromartie	4	0	0.0	0	0
+16	J. Thomas	3	0	0.0	0	0	
+16	J. Bromley	2	2	0.0	0	0	
+16	C. Dahl	2	0	0.0	0	0	
+16	J. Pierre	Paul	2	0	0.0	0	0
+16	G. Selvie	2	1	0.5	0	0	
+16	K. Wynn	2	0	0.0	0	0	
+16	M. Herzlich	1	1	0.0	0	0	
+16	C. Jenkins	1	0	0.0	0	0	
+16	B. Meriweather	1	1	0.0	0	0	
+16	T. Wade	1	0	0.0	0	0	
+17	J. Brinkley	8	1	0.0	0	1	
+17	J. Casillas	7	0	0.0	1	0	
+17	J. Pierre	Paul	6	0	0.0	0	0
+17	P. Amukamara	4	0	0.0	0	0	
+17	R. Ayers Jr.	4	3	1.0	0	0	
+17	L. Collins	4	4	0.0	0	0	
+17	B. Meriweather	4	0	0.0	0	0	
+17	T. Wade	4	3	0.0	0	0	
+17	T. McBride	3	0	0.0	0	0	
+17	G. Selvie	2	0	0.0	0	0	
+17	J. Bromley	1	4	0.0	0	0	
+17	M. Herzlich	1	0	0.0	0	0	
+17	M. Hughes	1	1	0.0	0	0	
+17	C. Jenkins	1	2	0.0	0	0	
+17	D. Rodgers	Cromartie	1	1	0.0	0	0
