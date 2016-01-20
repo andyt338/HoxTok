@@ -11,7 +11,7 @@ function selectData1() {
 	rushingStats.push({week:50, name:"C. Johnson", att:0, yds:0, td:0, lg:0, color:"#ef3c42"});
 	rushingStats.push({week:50, name:"D. Johnson", att:0, yds:0, td:0, lg:0, color:"#52c67f"});
 	rushingStats.push({week:50, name:"A. Ellington", att:0, yds:0, td:0, lg:0, color:"#3f77c4"});
-	rushingStats.push({week:50, name:"K Williams", att:0, yds:0, td:0, lg:0, color:"#ffff2d"});
+	rushingStats.push({week:50, name:"K. Williams", att:0, yds:0, td:0, lg:0, color:"#ffff2d"});
 	rushingStats.push({week:50, name:"S. Taylor", att:0, yds:0, td:0, lg:0, color:"#f4aa2f"});
 	rushingStats.push({week:50, name:"C. Palmer", att:0, yds:0, td:0, lg:0, color:"#fad435"});
 	rushingStats.push({week:50, name:"Jo. Brown", att:0, yds:0, td:0, lg:0, color:"#f25e40"});

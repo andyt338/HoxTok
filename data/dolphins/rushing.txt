@@ -48,7 +48,7 @@ week	name	att	yds	td	lg
 13	L. Miller	20	113	0	22
 13	J. Ajayi	4	12	0	4
 13	R. Tannehill	1	11	0	11
-13	Da. Williams	1	1	0	1
+13	D. Williams	1	1	0	1
 14	L. Miller	12	89	2	38
 14	R. Tannehill	4	24	0	12
 14	J. Ajayi	5	15	0	9
@@ -56,12 +56,12 @@ week	name	att	yds	td	lg
 15	J. Ajayi	6	27	1	12
 15	L. Miller	9	12	0	7
 15	R. Tannehill	3	4	1	2
-15	Da. Williams	1	1	0	1
+15	D. Williams	1	1	0	1
 16	L. Miller	15	31	1	7
 16	R. Tannehill	1	28	0	28
 16	J. Ajayi	9	23	0	10
 17	L. Miller	19	60	0	29
 17	R. Tannehill	3	17	0	19
-17	Da. Williams	3	11	0	8
+17	D. Williams	3	11	0	8
 17	J. Landry	2	6	0	5
 17	J. Ajayi	7	2	0	4
