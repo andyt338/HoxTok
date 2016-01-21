@@ -1,6 +1,6 @@
 week	name	cmp	att	yds	td	int
 1	A. Rodgers	18	23	189	3	0
-2	A. Rodgers 	25	33 	249 2 	0
+2	A. Rodgers	25	33	249	2	0
 3	A. Rodgers	24	35	333	5	0
 4	A. Rodgers	22	32	224	1	0
 5	A. Rodgers	19	30	241	2	2

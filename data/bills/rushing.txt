@@ -4,10 +4,10 @@ week	name	att	yds	td	lg
 1	T. Taylor	9	41	0	31
 1	P. Harvin	1	9	0	9
 1	A. Dixon	3	1	1	4
-2	L. McCoy 	15 	89 	0 	18
-2	T. Taylor 	5 	43 	1 	23
-2	K. Williams 	6 	21 	1 	7
-2	P. Harvin 	1 	7 	0 	7
+2	L. McCoy	15	89	0	18
+2	T. Taylor	5	43	1	23
+2	K. Williams	6	21	1	7	
+2	P. Harvin	1	7	0	7
 3	K. Williams	12	110	1	41
 3	P. Harvin	2	16	0	9
 3	L. McCoy	11	16	0	9

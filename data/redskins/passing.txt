@@ -1,6 +1,6 @@
 week	name	cmp	att	yds	td	int
 1	K. Cousins	21	31	196	1	2
-2	K. Cousins 	23	27 	203 1 	0
+2	K. Cousins	23	27	203	1	0
 3	K. Cousins	30	49	316	1	2
 4	K. Cousins	31	46	290	1	0
 5	K. Cousins	21	32	219	1	2

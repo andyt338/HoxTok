@@ -1,6 +1,6 @@
 week	name	cmp	att	yds	td	int
 1	A. Dalton	25	34	269	2	0
-2	A. Dalton 	16	26 	214 3 	0
+2	A. Dalton	16	26	214	3	0
 3	A. Dalton	20	32	383	3	1
 4	A. Dalton	17	24	321	1	0
 5	A. Dalton	30	44	331	2	1

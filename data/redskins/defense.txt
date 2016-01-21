@@ -1,4 +1,4 @@
-week	name	t	a 	sck	int	ff
+week	name	t	a	sck	int	ff
 1	D. Goldson	6	0	0.0	0	0
 1	D. Hall	6	2	0.0	0	0
 1	T. Robinson	6	2	0.0	0	0
@@ -14,21 +14,21 @@ week	name	t	a 	sck	int	ff
 1	C. Baker	0	3	0.5	0	0
 1	C. Culliver	0	1	0.0	0	0
 1	T. Murphy	0	3	0.0	0	0
-2	T. Robinson 	5	1 	0.0 	0 	0
-2	K. Robinson 	4	2 	0.0 	0 	0
-2	D. Hall 	3	1 	0.0 	0 	0
-2	S. Paea 	3	0 	0.0 	0 	0
-2	R. Kerrigan 	2	2 	0.0 	0 	1
-2	P. Riley 	2	2 	0.0 	0 	0
-2	B. Breeland 	1	0 	0.0 	0 	0
-2	W. Compton 	1	1 	0.0 	0 	0
-2	D. Goldson 	1	0 	0.0 	0 	0
-2	K. Jarrett 	1	1 	0.0 	0 	0
-2	R. Jean Francois 	1	0 	0.0 	0 	0
-2	T. Murphy 	1	1 	0.0 	0 	0
-2	C. Baker 	0	1 	0.0 	0 	0
-2	J. Hatcher 	0	1 	0.0 	0 	0
-2	T. Knighton 	0	1 	0.0 	0 	0
+2	T. Robinson	5	1	0.0	0	0
+2	K. Robinson	4	2	0.0	0	0
+2	D. Hall	3	1	0.0	0	0
+2	S. Paea	3	0	0.0	0	0
+2	R. Kerrigan	2	2	0.0	0	1
+2	P. Riley	2	2	0.0	0	0
+2	B. Breeland	1	0	0.0	0	0
+2	W. Compton	1	1	0.0	0	0
+2	D. Goldson	1	0	0.0	0	0
+2	K. Jarrett	1	1	0.0	0	0
+2	R. Jean-Francois	1	0	0.0	0	0
+2	T. Murphy	1	1	0.0	0	0
+2	C. Baker	0	1	0.0	0	0
+2	J. Hatcher	0	1	0.0	0	0
+2	T. Knighton	0	1	0.0	0	0
 3	K. Robinson	10	3	0.0	0	0
 3	W. Compton	8	3	0.0	0	0
 3	D. Goldson	7	3	0.0	0	0
@@ -39,7 +39,7 @@ week	name	t	a 	sck	int	ff
 3	T. Knighton	3	3	0.0	0	0
 3	T. Robinson	3	4	0.0	0	0
 3	B. Breeland	2	1	0.0	0	0
-3	R. Jean Francois	1	3	0.0	0	0
+3	R. Jean-Francois	1	3	0.0	0	0
 3	R. Kerrigan	1	0	0.0	0	0
 3	S. Paea	1	0	0.0	0	0
 3	T. Murphy	0	3	0.0	0	0
@@ -56,7 +56,7 @@ week	name	t	a 	sck	int	ff
 4	S. Paea	1	1	0.0	0	0
 4	K. Robinson	1	2	0.0	0	0
 4	T. Robinson	1	2	0.0	0	0
-4	R. Jean Francois	0	1	0.0	0	0
+4	R. Jean-Francois	0	1	0.0	0	0
 4	T. Knighton	0	1	0.0	0	0
 5	D. Goldson	7	2	0.0	0	0
 5	W. Blackmon	6	1	0.0	0	1
@@ -72,7 +72,7 @@ week	name	t	a 	sck	int	ff
 5	T. Knighton	2	0	0.0	0	0
 5	T. Murphy	2	2	0.0	0	0
 5	P. Smith	2	0	0.0	0	0
-5	R. Jean Francois	1	1	0.0	0	0
+5	R. Jean-Francois	1	1	0.0	0	0
 5	J. Johnson	1	0	0.0	0	0
 5	S. Paea	1	0	0.0	0	0
 6	D. Goldson	7	6	0.0	0	0
@@ -84,7 +84,7 @@ week	name	t	a 	sck	int	ff
 6	C. Baker	2	3	0.0	0	0
 6	W. Blackmon	1	0	0.0	0	0
 6	J. Hatcher	1	0	0.0	0	0
-6	R. Jean Francois	1	1	0.0	0	0
+6	R. Jean-Francois	1	1	0.0	0	0
 6	T. Knighton	1	2	0.0	0	0
 6	W. Compton	0	1	0.0	0	0
 6	K. Golston	0	4	0.0	0	0
@@ -107,7 +107,7 @@ week	name	t	a 	sck	int	ff
 7	T. Knighton	1	1	0.5	0	0
 7	P. Riley	1	1	0.0	0	0
 7	K. Jarrett	0	1	0.0	0	0
-7	R. Jean Francois	0	2	0.0	0	0
+7	R. Jean-Francois	0	2	0.0	0	0
 7	J. Johnson	0	1	0.0	0	0
 7	T. Murphy	0	1	0.0	0	0
 7	S. Paea	0	1	0.5	0	0
@@ -121,7 +121,7 @@ week	name	t	a 	sck	int	ff
 9	W. Blackmon	3	5	0.0	0	1
 9	C. Culliver	2	0	0.0	0	0
 9	S. Paea	2	1	0.0	0	1
-9	R. Jean Francois	1	2	0.0	0	0
+9	R. Jean-Francois	1	2	0.0	0	0
 9	R. Kerrigan	1	1	0.0	0	0
 9	P. Smith	1	0	0.0	0	0
 9	B. Breeland	0	1	0.0	0	0
@@ -136,7 +136,7 @@ week	name	t	a 	sck	int	ff
 10	W. Blackmon	1	1	0.0	0	0
 10	C. Culliver	1	2	0.0	0	0
 10	J. Hatcher	1	1	0.0	0	0
-10	R. Jean Francois	1	1	0.0	0	0
+10	R. Jean-Francois	1	1	0.0	0	0
 10	R. Kerrigan	1	1	0.0	0	0
 10	T. Knighton	1	0	0.0	0	0
 10	T. Murphy	1	4	0.5	0	0
@@ -162,7 +162,7 @@ week	name	t	a 	sck	int	ff
 11	T. Knighton	1	2	0.0	0	0
 11	S. Paea	1	3	0.0	0	0
 11	M. Foster	0	1	0.0	0	0
-11	R. Jean Francois	0	2	0.0	0	0
+11	R. Jean-Francois	0	2	0.0	0	0
 12	B. Breeland	4	1	0.0	0	0
 12	W. Compton	4	6	0.0	0	0
 12	D. Hall	4	0	0.0	0	0
@@ -177,7 +177,7 @@ week	name	t	a 	sck	int	ff
 12	T. Knighton	1	2	0.0	0	0
 12	S. Paea	1	0	0.0	0	0
 12	P. Smith	1	2	0.0	0	0
-12	R. Jean Francois	0	1	0.0	0	0
+12	R. Jean-Francois	0	1	0.0	0	0
 13	C. Baker	4	0	0.0	0	1
 13	B. Breeland	4	1	0.0	0	0
 13	W. Compton	4	3	0.0	0	0
@@ -193,7 +193,7 @@ week	name	t	a 	sck	int	ff
 13	K. Jarrett	1	4	0.0	0	0
 13	P. Smith	1	0	0.0	0	0
 13	K. Golston	0	1	0.0	0	0
-13	R. Jean Francois	0	1	0.0	0	0
+13	R. Jean-Francois	0	1	0.0	0	0
 14	M. Foster	6	0	0.0	0	0
 14	D. Hall	6	0	0.0	0	0
 14	B. Breeland	4	1	0.0	0	0
@@ -220,7 +220,7 @@ week	name	t	a 	sck	int	ff
 15	P. Smith	2	2	1.0	0	0
 15	H. Bates	1	0	0.0	0	0
 15	W. Compton	1	4	0.0	0	0
-15	R. Jean Francois	1	1	1.0	0	0
+15	R. Jean-Francois	1	1	1.0	0	0
 15	T. Murphy	1	0	0.0	0	0
 15	C. Baker	0	2	0.0	0	0
 15	F. Kearse	0	1	0.0	0	0
@@ -235,7 +235,7 @@ week	name	t	a 	sck	int	ff
 16	B. Breeland	3	0	0.0	0	1
 16	P. Smith	3	1	3.0	0	1
 16	Q. Dunbar	2	0	0.0	0	0
-16	R. Jean Francois	2	0	1.0	0	0
+16	R. Jean-Francois	2	0	1.0	0	0
 16	T. Knighton	2	0	0.0	0	0
 17	W. Blackmon	7	0	0.0	1	1
 17	W. Compton	5	0	0.0	1	0

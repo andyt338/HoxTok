@@ -1,4 +1,4 @@
-week	name	t	a 	sck	int	ff	
+week	name	t	a	sck	int	ff	
 1	Z. Brown	6	1	0.0	0	0	
 1	D. Jones	6	0	0.0	0	0	
 1	M. Griffin	4	1	0.0	0	0	
@@ -17,18 +17,18 @@ week	name	t	a 	sck	int	ff
 1	B. Wreh-Wilson	1	0	0.0	0	0
 1	D. Mount	0	0	0.0	1	0	
 1	C. Sensabaugh	0	0	0.0	1	0	
-2	Z. Brown 	5	2 	0.0 	0 	0	
-2	D. Morgan 	5	1 	1.0 	0 	1	
-2	A. Woods 	4	1 	0.0 	0 	0	
-2	M. Griffin 	3	2 	0.0 	0 	0	
-2	B. Orakpo 	3	1 	0.0 	0 	0	
-2	C. Sensabaugh 	3	1 	0.0 	0 	0	
-2	A. Williamson 	3	3 	0.0 	0 	0	
-2	D. Searcy 	2	1 	0.0 	0 	0	
-2	P. Cox 	1	1 	0.0 	0 	0	
-2	D. Jones 	1	0 	0.0 	0 	0	
-2	W. Woodyard 	1	0 	1.0 	0 	1	
-2	R. Pitoitua 	0	1 	0.0 	0 	0	
+2	Z. Brown	5	2	0.0	0	0	
+2	D. Morgan	5	1	1.0	0	1	
+2	A. Woods	4	1	0.0	0	0	
+2	M. Griffin	3	2	0.0	0	0	
+2	B. Orakpo	3	1	0.0	0	0	
+2	C. Sensabaugh	3	1	0.0	0	0	
+2	A. Williamson	3	3	0.0	0	0	
+2	D. Searcy	2	1	0.0	0	0	
+2	P. Cox	1	1	0.0	0	0	
+2	D. Jones	1	0	0.0	0	0	
+2	W. Woodyard	1	0	1.0	0	1	
+2	R. Pitoitua	0	1	0.0	0	0	
 3	P. Cox	4	0	0.0	1	0	
 3	A. Williamson	4	4	0.0	0	0	
 3	Z. Brown	3	2	0.0	1	0	

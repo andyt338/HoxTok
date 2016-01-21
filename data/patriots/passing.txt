@@ -1,6 +1,6 @@
 week	name	cmp	att	yds	td	int
 1	T. Brady	25	32	288	4	0
-2	T. Brady 	38	59 	466 3 	0
+2	T. Brady	38	59	466	3	0
 3	T. Brady	33	42	358	2	0
 5	T. Brady	20	27	275	2	0
 6	T. Brady	23	37	312	3	1

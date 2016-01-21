@@ -1,4 +1,4 @@
-week	name	t	a 	sck	int	ff
+week	name	t	a	sck	int	ff
 1	W. Allen	8	0	1.0	0	0
 1	R. Shazier	5	2	0.0	0	0
 1	W. Gay	4	0	0.0	0	0

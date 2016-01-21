@@ -1,10 +1,10 @@
 week	name	att	yds	td	lg
 1	J. Forsett	14	43	0	20
 1	J. Allen	9	30	0	8
-2	J. Forsett 	15 	68 	0 	16
-2	L. Taliaferro 	7 	34 	1 	7
-2	J. Allen 	1 	5 	0 	5
-2	J. Flacco 	2 	2 	0 	2
+2	J. Forsett	15	68	0	16
+2	L. Taliaferro	7	34	1	7
+2	J. Allen	1	5	0	5
+2	J. Flacco	2	2	0	2
 3	J. Forsett	10	13	0	5
 3	J. Allen	3	12	0	9
 3	M. Campanaro	1	8	0	8

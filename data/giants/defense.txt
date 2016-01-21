@@ -15,23 +15,23 @@ week	name	t	a	sck	int	ff
 1	C. Jenkins	1	0	0.0	0	0	
 1	M. Kuhn	1	0	0.0	0	0	
 1	G. Selvie	1	2	0.0	0	0	
-2	D. Kennard 	7	2 	0.0 	0 	0	
-2	L. Collins 	6	0 	0.0 	0 	0	
-2	J. Hosley 	6	2 	0.0 	0 	0	
-2	B. Meriweather 	6	2 	0.0 	0 	0	
-2	P. Amukamara 	4	0 	0.0 	0 	0	
-2	K. Wynn 	4	0 	0.0 	0 	0	
-2	R. Ayers Jr. 	3	0 	1.0 	0 	0	
-2	G. Selvie 	3	1 	0.0 	0 	0	
-2	J. Thomas 	3	4 	0.0 	0 	0	
-2	J. Casillas 	2	0 	0.0 	0 	0	
-2	J. Hankins 	2	0 	0.0 	0 	0	
-2	D. Rodgers	Cromartie 	2	0 	0.0 	0 	0
-2	C. Jenkins 	1	1 	1.0 	0 	0	
-2	U. Unga 	1	4 	0.0 	0 	0	
-2	J. Bromley 	0	2 	0.0 	0 	0	
-2	M. Herzlich 	0	1 	0.0 	0 	0	
-2	T. McBride 	0	1 	0.0 	0 	0	
+2	D. Kennard	7	2	0.0	0	0	
+2	L. Collins	6	0	0.0	0	0	
+2	J. Hosley	6	2	0.0	0	0	
+2	B. Meriweather	6	2	0.0	0	0	
+2	P. Amukamara	4	0	0.0	0	0	
+2	K. Wynn	4	0	0.0	0	0	
+2	R. Ayers Jr.	3	0	1.0	0	0	
+2	G. Selvie	3	1	0.0	0	0	
+2	J. Thomas	3	4	0.0	0	0	
+2	J. Casillas	2	0	0.0	0	0	
+2	J. Hankins	2	0	0.0	0	0	
+2	D. Rodgers	Cromartie	2	0	0.0	0	0
+2	C. Jenkins	1	1	1.0	0	0	
+2	U. Unga	1	4	0.0	0	0	
+2	J. Bromley	0	2	0.0	0	0	
+2	M. Herzlich	0	1	0.0	0	0	
+2	T. McBride	0	1	0.0	0	0	
 3	J. Casillas	7	0	1.0	0	0	
 3	P. Amukamara	6	2	0.0	1	0	
 3	U. Unga	6	3	0.0	1	1	

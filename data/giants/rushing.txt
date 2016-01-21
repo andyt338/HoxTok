@@ -4,10 +4,10 @@ week	name	att	yds	td	lg
 1	A. Williams	6	14	0	5
 1	D. Harris	1	11	0	11
 1	E. Manning	1	8	0	8
-2	A. Williams 6 	43 	0 	35
-2	E. Manning 	2 	23 	0 	18
-2	S. Vereen 	6 	19 	0 	12
-2	R. Jennings 9 	12 	0 	6
+2	A. Williams	6	43	0	35
+2	E. Manning	2	23	0	18
+2	S. Vereen	6	19	0	12
+2	R. Jennings	9	12	0	6
 3	R. Jennings	11	32	0	9
 3	A. Williams	14	29	1	11
 3	S. Vereen	6	23	0	5

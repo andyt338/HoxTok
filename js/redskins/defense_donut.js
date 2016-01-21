@@ -29,7 +29,7 @@ function selectData3() {
 	defenseStats.push({week:50,name:"D. Everett",t:0,a:0,sck:0,int:0,ff:0,color:"#3ba314"});
 	defenseStats.push({week:50,name:"S. Paea",t:0,a:0,sck:0,int:0,ff:0,color:"#8aab20"});
 	defenseStats.push({week:50,name:"Q. Dunbar",t:0,a:0,sck:0,int:0,ff:0,color:"#06bb4c"});
-	defenseStats.push({week:50,name:"R. Jean",t:0,a:0,sck:0,int:0,ff:0,color:"#39b392"});
+	defenseStats.push({week:50,name:"R. Jean-Francois",t:0,a:0,sck:0,int:0,ff:0,color:"#39b392"});
 	defenseStats.push({week:50,name:"H. Bates",t:0,a:0,sck:0,int:0,ff:0,color:"#1bb959"});
 	defenseStats.push({week:50,name:"D. Phillips",t:0,a:0,sck:0,int:0,ff:0,color:"#a98008"});
 	defenseStats.push({week:50,name:"J. Jeffcoat",t:0,a:0,sck:0,int:0,ff:0,color:"#fef5ed"});

@@ -1,6 +1,6 @@
 week	name	cmp	att	yds	td	int
 1	E. Manning	20	36	189	0	0
-2	E. Manning 	27	40 	292 2 	0
+2	E. Manning	27	40	292	2	0
 3	E. Manning	23	32	279	2	0
 4	E. Manning	20	35	212	3	1
 5	E. Manning	41	54	441	3	1

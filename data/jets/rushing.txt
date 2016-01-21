@@ -3,9 +3,9 @@ week	name	att	yds	td	lg
 1	B. Powell	12	62	0	21
 1	T. Bohanon	2	2	0	2
 1	R. Fitzpatrick	2	-1	0	0
-2	C. Ivory 	14 	57 	0 	19
-2	B. Powell 	12 	38 	0 	23
-2	R. Fitzpatrick 	1 	6 	0 	6
+2	C. Ivory	14	57	0	19
+2	B. Powell	12	38	0	23
+2	R. Fitzpatrick	1	6	0	6
 3	B. Powell	10	31	0	10
 3	R. Fitzpatrick	4	13	0	5
 3	Z. Stacy	2	3	0	2

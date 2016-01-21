@@ -1,6 +1,6 @@
 week	name	cmp	att	yds	td	int
 1	T. Bridgewater	23	32	231	0	1
-2	T. Bridgewater 	14	18 	153 1 	0
+2	T. Bridgewater	14	18	153	1	0
 3	T. Bridgewater	13	24	121	0	1
 4	T. Bridgewater	27	41	269	1	0
 6	T. Bridgewater	17	31	249	1	2

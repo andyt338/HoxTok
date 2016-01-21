@@ -1,229 +1,229 @@
-name	t	a	sck	int	ff
-J. Fleming	7	0	0.0	0	0
-H. Abdullah	6	1	0.0	0	0
-D. Johnson	6	2	1.0	0	0
-M. Peters	5	2	0.0	1	0
-A. Bailey	3	1	2.0	0	0
-J. Houston	3	0	1.0	0	1
-E. Berry	2	0	0.0	0	0
-D. Ford	2	0	0.0	0	0
-T. Hali	2	1	0.0	0	0
-J. Howard	2	3	1.0	0	0
-J. Mauga	2	3	0.0	0	0
-R. Parker	2	2	0.0	0	0
-D. Poe	1	1	0.0	0	0
-T. Branch	0	1	0.0	0	0
-J. Howard	7	0	0.0	0	0
-R. Parker	6	0	0.0	0	0
-J. Houston	5	1	2.0	0	0
-M. Peters	5	0	0.0	1	0
-E. Berry	4	0	0.0	0	0
-J. Fleming	4	1	0.0	0	0
-P. Gaines	3	1	0.0	0	0
-J. Mauga	3	0	0.0	0	0
-A. Bailey	2	0	0.0	0	0
-M. Devito	2	1	1.0	0	0
-D. Johnson	2	0	0.0	0	0
-T. Hali	1	0	0.0	0	0
-N. Williams	1	0	0.0	0	0
-D. Johnson	8	0	0.0	0	0
-R. Parker	6	0	0.0	0	0
-T. Branch	5	2	0.0	0	0
-J. Howard	5	3	0.0	0	0
-E. Berry	4	1	0.0	0	0
-J. Houston	4	0	0.0	0	0
-T. Hali	3	0	1.0	0	0
-J. Mauga	3	1	0.0	0	0
-M. Peters	3	0	0.0	0	0
-D. Poe	3	0	0.0	0	0
-M. Devito	2	0	0.0	0	0
-P. Gaines	2	0	0.0	0	0
-M. Cooper	1	0	0.0	0	0
-J. Fleming	1	0	0.0	0	0
-D. Ford	1	0	0.0	0	0
-A. Bailey	0	1	0.0	0	0
-R. Parker	5	3	0.0	0	0
-E. Berry	4	1	0.0	0	0
-R. Wilson	4	4	0.0	0	0
-H. Abdullah	2	0	0.0	0	0
-A. Bailey	2	1	0.0	0	0
-M. Peters	2	1	0.0	0	0
-D. Poe	2	2	0.0	0	0
-S. Smith	2	1	0.0	0	0
-J. Houston	1	2	0.0	0	0
-D. Johnson	1	1	0.0	0	0
-J. Mauga	1	0	0.0	0	0
-N. Williams	1	1	0.0	0	0
-M. Devito	0	1	0.0	0	0
-T. Hali	0	1	0.0	0	0
-J. Howard	0	3	0.0	0	0
-M. Peters	7	0	0.0	0	0
-A. Bailey	5	2	1.5	0	1
-D. Johnson	5	0	0.0	0	0
-S. Smith	4	0	0.0	0	0
-H. Abdullah	3	1	0.0	0	0
-E. Berry	3	0	0.0	0	0
-J. Howard	3	3	0.5	0	0
-T. Branch	2	1	0.0	0	0
-T. Hali	2	0	0.0	0	0
-J. Houston	2	0	0.0	0	0
-R. Parker	2	0	0.0	0	0
-D. Poe	2	2	0.0	0	0
-R. Wilson	2	2	0.0	0	0
-D. Ford	1	1	0.0	0	0
-M. Devito	0	1	0.0	0	0
-N. Williams	0	1	0.0	0	0
-R. Wilson	7	1	0.0	0	0
-D. Johnson	6	3	0.0	0	0
-M. Peters	6	0	0.0	1	0
-A. Bailey	5	3	1.0	0	1
-T. Hali	4	1	0.0	0	0
-R. Parker	4	0	0.0	1	0
-E. Berry	3	0	0.0	0	0
-M. Devito	3	1	0.0	0	0
-J. Houston	3	0	1.0	0	0
-S. Smith	2	1	0.0	0	0
-N. Williams	2	1	0.0	0	0
-H. Abdullah	1	0	0.0	0	0
-J. Howard	1	1	0.0	0	0
-R. Nunez	Roches	1	0	0.0	0
-T. Hali	4	1	2.0	0	1
-M. Peters	4	0	0.0	0	0
-A. Bailey	3	2	0.0	0	0
-E. Berry	3	3	0.0	1	0
-S. Smith	3	0	0.0	0	0
-D. Ford	2	0	0.0	0	0
-D. Johnson	2	2	0.0	1	0
-J. Mauga	2	1	0.0	0	0
-H. Abdullah	1	1	0.0	0	0
-J. Houston	1	1	0.0	0	0
-J. Howard	1	2	0.0	0	0
-S. Nelson	1	0	0.0	0	0
-R. Parker	1	2	0.0	0	0
-D. Poe	1	1	0.0	0	0
-D. Johnson	5	0	1.0	0	0
-S. Smith	5	0	0.0	1	0
-H. Abdullah	4	0	0.0	0	0
-T. Branch	4	0	0.0	0	0
-R. Parker	4	0	2.0	0	0
-E. Berry	3	0	0.0	0	0
-M. Peters	3	0	0.0	0	0
-D. Poe	3	0	1.0	0	0
-D. Ford	2	0	0.0	0	0
-J. Houston	2	1	1.5	1	0
-R. Nunez	Roches	2	0	0.0	0
-A. Bailey	1	0	0.0	0	0
-J. Howard	1	1	0.0	0	0
-J. Mauga	1	0	0.0	0	0
-T. Hali	0	2	0.5	0	0
-D. Johnson	6	1	1.0	0	0
-T. Hali	4	0	0.0	0	0
-R. Parker	4	1	0.0	1	0
-J. Houston	3	0	2.0	0	0
-J. Howard	3	1	1.0	0	1
-S. Smith	3	0	0.0	1	0
-D. Sorensen	3	0	0.0	0	0
-H. Abdullah	2	0	0.0	0	0
-E. Berry	2	0	0.0	1	0
-M. Devito	2	0	1.0	0	0
-J. Mauga	2	0	0.0	1	0
-M. Peters	2	0	0.0	1	0
-D. Poe	1	1	0.0	0	0
-E. Berry	8	0	0.0	0	0
-D. Johnson	8	1	0.0	0	0
-J. Mauga	6	1	1.0	0	0
-T. Hali	5	0	2.0	0	0
-T. Branch	4	0	0.0	0	0
-R. Parker	3	0	0.0	0	0
-D. Poe	3	1	0.0	0	0
-H. Abdullah	2	2	0.0	0	0
-D. Alexander	1	1	0.0	0	0
-M. Cooper	1	0	0.0	0	0
-J. Houston	1	0	0.0	1	0
-J. Howard	1	2	0.0	0	0
-R. Nunez	Roches	1	0	0.0	0
-M. Peters	1	1	0.0	0	0
-M. Devito	0	1	0.0	0	0
-J. Mauga	9	0	0.0	0	0
-D. Johnson	7	2	0.0	0	0
-E. Berry	5	0	0.0	0	0
-R. Parker	5	0	0.0	0	0
-T. Hali	3	1	1.0	0	1
-S. Smith	3	0	0.0	0	0
-F. Zombo	3	1	0.0	0	0
-J. Howard	2	0	0.0	0	0
-M. Peters	2	0	0.0	0	0
-D. Poe	2	0	0.0	0	1
-H. Abdullah	1	0	0.0	0	0
-T. Branch	1	0	0.0	0	0
-D. Moses	1	0	0.0	0	1
-D. Johnson	13	1	1.0	0	1
-R. Parker	7	0	0.0	0	0
-M. Peters	6	0	0.0	1	1
-S. Smith	5	0	0.0	0	0
-E. Berry	3	0	0.0	0	0
-T. Branch	3	1	0.0	1	0
-T. Hali	3	1	0.0	0	0
-J. Mauga	3	0	0.0	1	0
-D. Sorensen	3	1	1.0	0	0
-M. Devito	2	0	0.0	0	0
-D. Poe	2	0	0.0	0	0
-F. Zombo	2	0	2.0	0	0
-D. Ford	1	0	0.0	0	0
-J. Howard	1	0	0.0	0	0
-D. Ford	7	0	3.0	0	0
-T. Hali	5	1	0.0	0	0
-D. Johnson	5	1	0.0	1	0
-E. Berry	4	1	0.0	0	0
-R. Parker	4	0	1.0	0	0
-M. Peters	3	2	0.0	0	0
-S. Smith	3	1	0.0	0	0
-D. Sorensen	3	0	0.0	0	0
-J. Howard	2	0	1.0	0	0
-D. Poe	2	0	0.0	0	0
-A. Bailey	1	0	0.0	0	0
-T. Branch	1	1	0.0	0	0
-J. Mauga	1	1	0.0	0	0
-D. Johnson	7	5	0.0	0	1
-E. Berry	4	0	0.0	0	0
-J. Mauga	4	4	0.0	0	0
-S. Smith	4	0	0.0	0	0
-T. Branch	3	1	0.0	0	0
-D. Sorensen	3	0	0.0	0	0
-D. Ford	2	0	0.0	0	0
-T. Hali	2	0	0.0	0	0
-J. Howard	2	1	1.0	0	0
-R. Parker	2	2	1.0	0	0
-M. Peters	2	1	0.0	2	0
-D. Poe	1	1	0.0	0	0
-N. Williams	1	1	0.0	0	0
-A. Bailey	0	1	0.0	0	0
-M. Devito	0	1	0.0	0	0
-J. Mauga	7	0	0.0	0	0
-R. Parker	7	0	0.0	0	0
-T. Branch	6	0	0.0	0	0
-D. Johnson	6	0	0.0	0	0
-D. Poe	5	1	0.0	0	0
-E. Berry	3	0	0.0	0	0
-A. Bailey	2	1	0.0	0	0
-J. Howard	2	0	0.0	0	0
-S. Smith	2	0	0.0	0	0
-M. Devito	1	0	0.0	0	0
-D. Ford	1	0	0.0	0	0
-M. Peters	1	0	0.0	1	0
-D. Sorensen	1	0	0.0	0	0
-F. Zombo	1	0	0.0	0	0
-D. Johnson	8	2	0.0	0	0
-R. Parker	5	1	1.0	1	1
-T. Branch	4	0	1.0	0	0
-S. Smith	4	2	0.0	0	0
-J. Howard	3	1	1.0	0	0
-A. Bailey	2	0	0.0	0	0
-D. Ford	2	1	1.0	0	0
-F. Zombo	2	1	1.0	0	1
-M. Devito	1	0	1.0	0	0
-T. Hali	1	0	0.0	0	0
-J. Mauga	1	1	0.0	0	0
-M. Peters	1	0	0.0	0	0
-D. Poe	1	0	0.0	0	0
-D. Sorensen	1	1	0.0	0	0
+week	name	t	a	sck	int	ff
+1	J. Fleming	7	0	0.0	0	0
+1	H. Abdullah	6	1	0.0	0	0
+1	D. Johnson	6	2	1.0	0	0
+1	M. Peters	5	2	0.0	1	0
+1	A. Bailey	3	1	2.0	0	0
+1	J. Houston	3	0	1.0	0	1
+1	E. Berry	2	0	0.0	0	0
+1	D. Ford	2	0	0.0	0	0
+1	T. Hali	2	1	0.0	0	0
+1	J. Howard	2	3	1.0	0	0
+1	J. Mauga	2	3	0.0	0	0
+1	R. Parker	2	2	0.0	0	0
+1	D. Poe	1	1	0.0	0	0
+1	T. Branch	0	1	0.0	0	0
+2	J. Howard	7	0	0.0	0	0
+2	R. Parker	6	0	0.0	0	0
+2	J. Houston	5	1	2.0	0	0
+2	M. Peters	5	0	0.0	1	0
+2	E. Berry	4	0	0.0	0	0
+2	J. Fleming	4	1	0.0	0	0
+2	P. Gaines	3	1	0.0	0	0
+2	J. Mauga	3	0	0.0	0	0
+2	A. Bailey	2	0	0.0	0	0
+2	M. Devito	2	1	1.0	0	0
+2	D. Johnson	2	0	0.0	0	0
+2	T. Hali	1	0	0.0	0	0
+2	N. Williams	1	0	0.0	0	0
+3	D. Johnson	8	0	0.0	0	0
+3	R. Parker	6	0	0.0	0	0
+3	T. Branch	5	2	0.0	0	0
+3	J. Howard	5	3	0.0	0	0
+3	E. Berry	4	1	0.0	0	0
+3	J. Houston	4	0	0.0	0	0
+3	T. Hali	3	0	1.0	0	0
+3	J. Mauga	3	1	0.0	0	0
+3	M. Peters	3	0	0.0	0	0
+3	D. Poe	3	0	0.0	0	0
+3	M. Devito	2	0	0.0	0	0
+3	P. Gaines	2	0	0.0	0	0
+3	M. Cooper	1	0	0.0	0	0
+3	J. Fleming	1	0	0.0	0	0
+3	D. Ford	1	0	0.0	0	0
+3	A. Bailey	0	1	0.0	0	0
+4	R. Parker	5	3	0.0	0	0
+4	E. Berry	4	1	0.0	0	0
+4	R. Wilson	4	4	0.0	0	0
+4	H. Abdullah	2	0	0.0	0	0
+4	A. Bailey	2	1	0.0	0	0
+4	M. Peters	2	1	0.0	0	0
+4	D. Poe	2	2	0.0	0	0
+4	S. Smith	2	1	0.0	0	0
+4	J. Houston	1	2	0.0	0	0
+4	D. Johnson	1	1	0.0	0	0
+4	J. Mauga	1	0	0.0	0	0
+4	N. Williams	1	1	0.0	0	0
+4	M. Devito	0	1	0.0	0	0
+4	T. Hali	0	1	0.0	0	0
+4	J. Howard	0	3	0.0	0	0
+5	M. Peters	7	0	0.0	0	0
+5	A. Bailey	5	2	1.5	0	1
+5	D. Johnson	5	0	0.0	0	0
+5	S. Smith	4	0	0.0	0	0
+5	H. Abdullah	3	1	0.0	0	0
+5	E. Berry	3	0	0.0	0	0
+5	J. Howard	3	3	0.5	0	0
+5	T. Branch	2	1	0.0	0	0
+5	T. Hali	2	0	0.0	0	0
+5	J. Houston	2	0	0.0	0	0
+5	R. Parker	2	0	0.0	0	0
+5	D. Poe	2	2	0.0	0	0
+5	R. Wilson	2	2	0.0	0	0
+5	D. Ford	1	1	0.0	0	0
+5	M. Devito	0	1	0.0	0	0
+5	N. Williams	0	1	0.0	0	0
+6	R. Wilson	7	1	0.0	0	0
+6	D. Johnson	6	3	0.0	0	0
+6	M. Peters	6	0	0.0	1	0
+6	A. Bailey	5	3	1.0	0	1
+6	T. Hali	4	1	0.0	0	0
+6	R. Parker	4	0	0.0	1	0
+6	E. Berry	3	0	0.0	0	0
+6	M. Devito	3	1	0.0	0	0
+6	J. Houston	3	0	1.0	0	0
+6	S. Smith	2	1	0.0	0	0
+6	N. Williams	2	1	0.0	0	0
+6	H. Abdullah	1	0	0.0	0	0
+6	J. Howard	1	1	0.0	0	0
+6	R. Nunez-Roches	1	0	0.0	0	0
+7	T. Hali	4	1	2.0	0	1
+7	M. Peters	4	0	0.0	0	0
+7	A. Bailey	3	2	0.0	0	0
+7	E. Berry	3	3	0.0	1	0
+7	S. Smith	3	0	0.0	0	0
+7	D. Ford	2	0	0.0	0	0
+7	D. Johnson	2	2	0.0	1	0
+7	J. Mauga	2	1	0.0	0	0
+7	H. Abdullah	1	1	0.0	0	0
+7	J. Houston	1	1	0.0	0	0
+7	J. Howard	1	2	0.0	0	0
+7	S. Nelson	1	0	0.0	0	0
+7	R. Parker	1	2	0.0	0	0
+7	D. Poe	1	1	0.0	0	0
+8	D. Johnson	5	0	1.0	0	0
+8	S. Smith	5	0	0.0	1	0
+8	H. Abdullah	4	0	0.0	0	0
+8	T. Branch	4	0	0.0	0	0
+8	R. Parker	4	0	2.0	0	0
+8	E. Berry	3	0	0.0	0	0
+8	M. Peters	3	0	0.0	0	0
+8	D. Poe	3	0	1.0	0	0
+8	D. Ford	2	0	0.0	0	0
+8	J. Houston	2	1	1.5	1	0
+8	R. Nunez-Roches	2	0	0.0	0	0
+8	A. Bailey	1	0	0.0	0	0
+8	J. Howard	1	1	0.0	0	0
+8	J. Mauga	1	0	0.0	0	0
+8	T. Hali	0	2	0.5	0	0
+10	D. Johnson	6	1	1.0	0	0
+10	T. Hali	4	0	0.0	0	0
+10	R. Parker	4	1	0.0	1	0
+10	J. Houston	3	0	2.0	0	0
+10	J. Howard	3	1	1.0	0	1
+10	S. Smith	3	0	0.0	1	0
+10	D. Sorensen	3	0	0.0	0	0
+10	H. Abdullah	2	0	0.0	0	0
+10	E. Berry	2	0	0.0	1	0
+10	M. Devito	2	0	1.0	0	0
+10	J. Mauga	2	0	0.0	1	0
+10	M. Peters	2	0	0.0	1	0
+10	D. Poe	1	1	0.0	0	0
+11	E. Berry	8	0	0.0	0	0
+11	D. Johnson	8	1	0.0	0	0
+11	J. Mauga	6	1	1.0	0	0
+11	T. Hali	5	0	2.0	0	0
+11	T. Branch	4	0	0.0	0	0
+11	R. Parker	3	0	0.0	0	0
+11	D. Poe	3	1	0.0	0	0
+11	H. Abdullah	2	2	0.0	0	0
+11	D. Alexander	1	1	0.0	0	0
+11	M. Cooper	1	0	0.0	0	0
+11	J. Houston	1	0	0.0	1	0
+11	J. Howard	1	2	0.0	0	0
+11	R. Nunez-Roches	1	0	0.0	0	0
+11	M. Peters	1	1	0.0	0	0
+11	M. Devito	0	1	0.0	0	0
+12	J. Mauga	9	0	0.0	0	0
+12	D. Johnson	7	2	0.0	0	0
+12	E. Berry	5	0	0.0	0	0
+12	R. Parker	5	0	0.0	0	0
+12	T. Hali	3	1	1.0	0	1
+12	S. Smith	3	0	0.0	0	0
+12	F. Zombo	3	1	0.0	0	0
+12	J. Howard	2	0	0.0	0	0
+12	M. Peters	2	0	0.0	0	0
+12	D. Poe	2	0	0.0	0	1
+12	H. Abdullah	1	0	0.0	0	0
+12	T. Branch	1	0	0.0	0	0
+12	D. Moses	1	0	0.0	0	1
+13	D. Johnson	13	1	1.0	0	1
+13	R. Parker	7	0	0.0	0	0
+13	M. Peters	6	0	0.0	1	1
+13	S. Smith	5	0	0.0	0	0
+13	E. Berry	3	0	0.0	0	0
+13	T. Branch	3	1	0.0	1	0
+13	T. Hali	3	1	0.0	0	0
+13	J. Mauga	3	0	0.0	1	0
+13	D. Sorensen	3	1	1.0	0	0
+13	M. Devito	2	0	0.0	0	0
+13	D. Poe	2	0	0.0	0	0
+13	F. Zombo	2	0	2.0	0	0
+13	D. Ford	1	0	0.0	0	0
+13	J. Howard	1	0	0.0	0	0
+14	D. Ford	7	0	3.0	0	0
+14	T. Hali	5	1	0.0	0	0
+14	D. Johnson	5	1	0.0	1	0
+14	E. Berry	4	1	0.0	0	0
+14	R. Parker	4	0	1.0	0	0
+14	M. Peters	3	2	0.0	0	0
+14	S. Smith	3	1	0.0	0	0
+14	D. Sorensen	3	0	0.0	0	0
+14	J. Howard	2	0	1.0	0	0
+14	D. Poe	2	0	0.0	0	0
+14	A. Bailey	1	0	0.0	0	0
+14	T. Branch	1	1	0.0	0	0
+14	J. Mauga	1	1	0.0	0	0
+15	D. Johnson	7	5	0.0	0	1
+15	E. Berry	4	0	0.0	0	0
+15	J. Mauga	4	4	0.0	0	0
+15	S. Smith	4	0	0.0	0	0
+15	T. Branch	3	1	0.0	0	0
+15	D. Sorensen	3	0	0.0	0	0
+15	D. Ford	2	0	0.0	0	0
+15	T. Hali	2	0	0.0	0	0
+15	J. Howard	2	1	1.0	0	0
+15	R. Parker	2	2	1.0	0	0
+15	M. Peters	2	1	0.0	2	0
+15	D. Poe	1	1	0.0	0	0
+15	N. Williams	1	1	0.0	0	0
+15	A. Bailey	0	1	0.0	0	0
+15	M. Devito	0	1	0.0	0	0
+16	J. Mauga	7	0	0.0	0	0
+16	R. Parker	7	0	0.0	0	0
+16	T. Branch	6	0	0.0	0	0
+16	D. Johnson	6	0	0.0	0	0
+16	D. Poe	5	1	0.0	0	0
+16	E. Berry	3	0	0.0	0	0
+16	A. Bailey	2	1	0.0	0	0
+16	J. Howard	2	0	0.0	0	0
+16	S. Smith	2	0	0.0	0	0
+16	M. Devito	1	0	0.0	0	0
+16	D. Ford	1	0	0.0	0	0
+16	M. Peters	1	0	0.0	1	0
+16	D. Sorensen	1	0	0.0	0	0
+16	F. Zombo	1	0	0.0	0	0
+17	D. Johnson	8	2	0.0	0	0
+17	R. Parker	5	1	1.0	1	1
+17	T. Branch	4	0	1.0	0	0
+17	S. Smith	4	2	0.0	0	0
+17	J. Howard	3	1	1.0	0	0
+17	A. Bailey	2	0	0.0	0	0
+17	D. Ford	2	1	1.0	0	0
+17	F. Zombo	2	1	1.0	0	1
+17	M. Devito	1	0	1.0	0	0
+17	T. Hali	1	0	0.0	0	0
+17	J. Mauga	1	1	0.0	0	0
+17	M. Peters	1	0	0.0	0	0
+17	D. Poe	1	0	0.0	0	0
+17	D. Sorensen	1	1	0.0	0	0

@@ -1,7 +1,7 @@
 week	name	cmp	att	yds	td	int
 1	J. Manziel	13	24	182	1	1
 1	J. McCown	5	8	49	0	0
-2	J. Manziel 	8	15 	172 2 	0
+2	J. Manziel	8	15	172	2	0
 3	J. McCown	28	49	341	2	1
 4	J. McCown	32	41	356	2	0
 5	J. McCown	36	51	457	2	0

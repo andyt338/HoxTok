@@ -1,4 +1,4 @@
-week	name	t	a 	sck	int	ff	
+week	name	t	a	sck	int	ff
 1	J. Smith	8	0	0.0	1	0	
 1	B. Williams	6	1	0.0	0	0	
 1	K. Arrington	4	0	0.0	0	0	
@@ -14,19 +14,19 @@ week	name	t	a 	sck	int	ff
 1	C. Upshaw	2	1	0.0	0	0	
 1	K. Lewis	1	0	0.0	0	0	
 1	A. McClellan	1	1	1.0	0	0	
-2	C. Mosley 	8	1 	0.0 	0 	0	
-2	D. Smith 	7	1 	0.0 	0 	0	
-2	J. Smith 	5	0 	1.0 	0 	0	
-2	L. Webb 	5	0 	0.0 	0 	0	
-2	K. Arrington 	3	2 	0.0 	0 	0	
-2	L. Guy 	3	1 	0.0 	0 	0	
-2	W. Hill 	3	1 	0.0 	1 	0	
-2	E. Dumervil 	2	0 	0.0 	0 	0	
-2	A. McClellan 	2	0 	0.0 	0 	0	
-2	K. Lewis 	1	2 	0.0 	0 	0	
-2	Z. Smith 	1	0 	0.0 	0 	0	
-2	C. Upshaw 	1	1 	0.0 	0 	0	
-2	B. Williams 	1	0 	0.0 	0 	0	
+2	C. Mosley	8	1	0.0	0	0	
+2	D. Smith	7	1	0.0	0	0	
+2	J. Smith	5	0	1.0	0	0	
+2	L. Webb	5	0	0.0	0	0	
+2	K. Arrington	3	2	0.0	0	0	
+2	L. Guy	3	1	0.0	0	0	
+2	W. Hill	3	1	0.0	1	0	
+2	E. Dumervil	2	0	0.0	0	0	
+2	A. McClellan	2	0	0.0	0	0	
+2	K. Lewis	1	2	0.0	0	0	
+2	Z. Smith	1	0	0.0	0	0	
+2	C. Upshaw	1	1	0.0	0	0	
+2	B. Williams	1	0	0.0	0	0	
 3	W. Hill	4	0	1.0	0	0	
 3	C. Mosley	4	2	0.0	0	0	
 3	B. Williams	4	4	0.0	0	0	

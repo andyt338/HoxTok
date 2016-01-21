@@ -1,6 +1,6 @@
 week	name	cmp	att	yds	td	int
 1	B. Bortles	22	40	183	1	2
-2	B. Bortles 	18	33 	273 2 	0
+2	B. Bortles	18	33	273	2	0
 3	B. Bortles	17	33	242	2	1
 4	B. Bortles	28	50	298	1	0
 5	B. Bortles	23	33	303	4	1

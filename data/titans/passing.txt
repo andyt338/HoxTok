@@ -1,6 +1,6 @@
 week	name	cmp	att	yds	td	int
 1	M. Mariota	13	15	209	4	0
-2	M. Mariota 	21	37 	257 2 	0
+2	M. Mariota	21	37	257	2	0
 3	M. Mariota	27	44	367	2	2
 5	M. Mariota	21	32	187	0	1
 6	M. Mariota	21	33	219	1	2

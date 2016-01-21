@@ -3,11 +3,11 @@ week	name	att	yds	td	lg
 1	J. Cutler	4	31	0	12
 1	J. Rodgers	4	16	0	5
 1	J. Langford	1	1	0	1
-2	M. Forte 	15 	61 	0 	27
-2	J. Cutler 	3 	24 	0 	10
-2	J. Langford	6 	21 	1 	6
-2	J. Rodgers 	2 	8 	0 	5
-2	J. Clausen 	2 	-5 	0 	0
+2	M. Forte	15	61	0	27
+2	J. Cutler	3	24	0	10
+2	J. Langford	6	21	1	6
+2	J. Rodgers	2	8	0	5
+2	J. Clausen	2	-5	0	0
 3	M. Forte	20	74	0	12
 3	J. Clausen	3	13	0	11
 3	J. Rodgers	4	11	0	5

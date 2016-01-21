@@ -1,6 +1,6 @@
 week	name	cmp	att	yds	td	int
 1	R. Fitzpatrick	15	24	179	2	1
-2	R. Fitzpatrick 	22	34 	244 2 	1
+2	R. Fitzpatrick	22	34	244	2	1
 3	R. Fitzpatrick	35	58	283	2	3
 4	R. Fitzpatrick	16	29	218	1	1
 6	R. Fitzpatrick	19	26	253	2	1

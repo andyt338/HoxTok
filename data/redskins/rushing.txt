@@ -4,8 +4,8 @@ week	name	att	yds	td	lg
 1	C. Thompson	3	11	0	7
 1	J. Crowder	1	2	0	2
 1	K. Cousins	2	-1	0	0
-2	M. Jones 	19 	123 2 	39
-2	A. Morris 	18 	59 	0 	35
+2	M. Jones	19	123	2	39
+2	A. Morris	18	59	0	35
 3	M. Jones	11	38	0	10
 3	C. Thompson	2	29	0	26
 3	A. Morris	6	19	0	7

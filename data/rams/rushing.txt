@@ -1,6 +1,6 @@
 week	name	att	yds	td	lg
 1	B. Cunningham	16	45	0	9
-1	T. Austin	4	17	1	16T
+1	T. Austin	4	17	1	16
 1	N. Foles	4	11	1	9
 1	I. Pead	2	3	0	4
 2	T. Austin	4	40	0	16
@@ -25,7 +25,7 @@ week	name	att	yds	td	lg
 7	T. Austin	1	21	0	21
 7	B. Cunningham	4	11	0	8
 7	N. Foles	2	-2	0	-1
-8	T. Gurley	20	133	1	71T
+8	T. Gurley	20	133	1	71
 8	T. Mason	15	46	0	9
 8	T. Austin	3	21	1	13
 8	N. Foles	3	-3	0	-1
@@ -55,7 +55,7 @@ week	name	att	yds	td	lg
 14	T. Mason	4	7	0	6
 14	C. Keenum	2	2	0	3
 15	T. Gurley	21	48	1	9
-15	T. Austin	4	32	1	21T
+15	T. Austin	4	32	1	21
 15	T. Mason	3	13	0	7
 15	B. Cunningham	2	8	0	4
 15	C. Keenum	3	-3	0	-1
@@ -69,5 +69,3 @@ week	name	att	yds	td	lg
 17	T. Austin	6	32	0	13
 17	M. Brown	4	17	0	13
 17	C. Keenum	1	2	0	2
-
-

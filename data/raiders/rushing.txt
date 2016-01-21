@@ -3,9 +3,9 @@ week	name	att	yds	td	lg
 1	D. Carr	1	8	0	8
 1	J. Olawale	1	6	0	6
 1	T. Jones	3	5	0	4
-2	L. Murray 	15 	65 	1 	9
-2	D. Carr 	2 	23 	0 	24
-2	T. Jones 	2 	9 	0 	7
+2	L. Murray	15	65	1	9
+2	D. Carr	2	23	0	24
+2	T. Jones	2	9	0	7
 3	L. Murray	26	139	1	54
 3	T. Jones	2	16	0	9
 3	M. Reece	1	1	0	1

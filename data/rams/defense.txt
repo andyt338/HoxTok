@@ -1,4 +1,4 @@
-week	name	t	a 	sck	int	ff
+week	name	t	a	sck	int	ff
 1	L. Joyner	7	0	1.0	0	0
 1	A. Donald	5	4	2.0	0	0
 1	J. Jenkins	5	1	0.0	0	0

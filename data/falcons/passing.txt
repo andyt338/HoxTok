@@ -1,6 +1,6 @@
 week	name	cmp	att	yds	td	int
 1	M. Ryan	23	34	298	2	2
-2	M. Ryan 30	46 	363 1 	0
+2	M. Ryan	30	46	363	1	0
 3	M. Ryan	24	36	285	2	0
 4	M. Ryan	19	27	256	1	0
 5	M. Ryan	24	42	254	0	2

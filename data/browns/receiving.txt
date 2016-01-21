@@ -7,10 +7,10 @@ week	name	rec	yds	td	lg
 1	M. Johnson	2	14	0	8
 1	I. Crowell	2	13	0	8
 1	J. Dray	1	13	0	13
-2	T. Benjamin 3 	115 	2 	60
-2	A. Hawkins 	3 	43 	0 	18
-2	G. Barnidge 1 	17 	0 	17
-2	T. Gabriel 	1 	-3 	0 	-3
+2	T. Benjamin	3	115	2	60
+2	A. Hawkins	3	43	0	18
+2	G. Barnidge	1	17	0	17
+2	T. Gabriel	1	-3	0	-3
 3	G. Barnidge	6	105	1	40
 3	B. Hartline	5	96	0	41
 3	T. Benjamin	4	45	1	17

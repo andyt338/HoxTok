@@ -4,9 +4,9 @@ week	name	att	yds	td	lg
 1	D. Johnson	7	22	0	8
 1	I. Crowell	12	20	0	8
 1	S. Draughn	1	4	0	4
-2	I. Crowell 	15 	72 	1 	15
-2	D. Johnson 	12 	43 	0 	20
-2	J. Manziel 	3 	1 	0 	2
+2	I. Crowell	15	72	1	15
+2	D. Johnson	12	43	0	20
+2	J. Manziel	3	1	0	2
 3	I. Crowell	10	36	0	17
 3	D. Johnson	4	3	0	6
 4	I. Crowell	12	63	0	32

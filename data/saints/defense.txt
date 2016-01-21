@@ -1,4 +1,4 @@
-week	name	t	a 	sck	int	ff
+week	name	t	a	sck	int	ff
 1	D. Swann	6	0	0.0	0	0
 1	D. Breaux	4	1	0.0	0	0
 1	J. Jenkins	4	1	0.0	0	0
@@ -13,22 +13,22 @@ week	name	t	a 	sck	int	ff
 1	D. Hawthorne	1	1	0.0	0	0
 1	J. Sanford	1	0	0.0	0	0
 1	K. Williams	1	0	0.0	0	0
-2	K. Vaccaro 	6	3 	0.0 	0 	0
-2	K. Phillips 	5	3 	0.0 	0 	0
-2	D. Hawthorne 	4	1 	0.0 	0 	0
-2	H. Kikaha 	4	3 	1.0 	0 	1
-2	S. Anthony 	3	4 	0.0 	0 	0
-2	K. Edebali 	3	0 	1.0 	0 	0
-2	D. Swann 	3	1 	0.0 	0 	0
-2	R. Humber 	2	2 	0.0 	0 	0
-2	C. Jordan 	2	1 	1.0 	0 	0
-2	K. Williams 	2	0 	0.0 	0 	1
-2	D. Breaux 	1	0 	0.0 	0 	0
-2	B. Browner 	1	2 	0.0 	0 	0
-2	J. Jenkins 	1	1 	0.0 	0 	0
-2	K. Wilson 	1	0 	0.0 	0 	0
-2	A. Hicks 	0	1 	0.0 	0 	0
-2	B. Richardson 	0	2 	0.0 	0 	0
+2	K. Vaccaro	6	3	0.0	0	0
+2	K. Phillips	5	3	0.0	0	0
+2	D. Hawthorne	4	1	0.0	0	0
+2	H. Kikaha	4	3	1.0	0	1
+2	S. Anthony	3	4	0.0	0	0
+2	K. Edebali	3	0	1.0	0	0
+2	D. Swann	3	1	0.0	0	0
+2	R. Humber	2	2	0.0	0	0
+2	C. Jordan	2	1	1.0	0	0
+2	K. Williams	2	0	0.0	0	1
+2	D. Breaux	1	0	0.0	0	0
+2	B. Browner	1	2	0.0	0	0
+2	J. Jenkins	1	1	0.0	0	0
+2	K. Wilson	1	0	0.0	0	0
+2	A. Hicks	0	1	0.0	0	0
+2	B. Richardson	0	2	0.0	0	0
 3	B. Browner	6	1	0.0	0	0
 3	R. Humber	4	5	0.0	0	0
 3	H. Kikaha	4	2	1.0	0	0
