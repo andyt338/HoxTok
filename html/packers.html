@@ -41,10 +41,9 @@
 			<div class="container">
 				<h2 style="color:white">Packers</h2>
 				<div class="row">
-				  	<div class="col-sm-6"><h4>Offense - Receiving</h4></div>
-				  	<div class="col-sm-6"><h4>Offense - Rushing</h4></div>
+				  	<div class="col-sm-6" style="padding-top:20px"><h4>Offense - Receiving</h4></div>
+				  	<div class="col-sm-6" style="padding-top:20px"><h4>Offense - Rushing</h4></div>
 				</div>
-				<br></br>
 				<div id="donut3d" style="float:left; padding-left:6%"></div>
 				<div style="float:left; padding-left:5%; padding-top:5%">
 					<p id="displayWeek"></p>
@@ -79,10 +78,54 @@
 						</div>
 					</form>
 				</div>
+				<div class="row">
+				  	<div class="col-sm-6" style="padding-top:40px"><h4>Offense - Passing</h4></div>
+				  	<div class="col-sm-6" style="padding-top:40px"><h4>Defense</h4></div>
+				</div>
+				<div id="donut3d2" style="float:left; padding-left:6%"></div>
+				<div style="float:left; padding-left:5%; padding-top:5%">
+					<p id="displayWeek2"></p>
+					<button class="btn btn-primary" onClick="changeData2()">Next Week</button>
+					<br></br>
+					<form role="form">
+				    	<div class="form-group">
+				      		<label for="category2">Select list (select one):</label>
+						  	<select class="btn btn-primary" id="category2">
+						    	<option value="cmp">cmp</option>
+						    	<option value="att">att</option>
+						    	<option value="yds">yds</option>
+						    	<option value="td">td</option>
+						    	<option value="int">int</option>
+						  	</select>
+						</div>
+					</form>
+				</div>
+				<div id="donut3d3" style="float:left; padding-left:6%"></div>
+				<div style="float:left; padding-left:5%; padding-top:5%">
+					<p id="displayWeek3"></p>
+					<button class="btn btn-primary" onClick="changeData3()">Next Week</button>
+					<br></br>
+					<form role="form">
+				    	<div class="form-group">
+				      		<label for="category3">Select list (select one):</label>
+						  	<select class="btn btn-primary" id="category3">
+						    	<option value="t">t</option>
+						    	<option value="a">a</option>
+						    	<option value="sck">sck</option>
+						    	<option value="int">int</option>
+						    	<option value="ff">ff</option>
+						  	</select>
+						</div>
+					</form>
+				</div>
 				<script src="/js/Donut3D.js"></script>
-				<script src="/js/packers/receiving_donut.js"></script>
+				<script src="/js/Packers/receiving_donut.js"></script>
 				<script src="/js/Donut3D.js"></script>
-				<script src="/js/packers/rushing_donut.js"></script>
+				<script src="/js/Packers/rushing_donut.js"></script>
+				<script src="/js/Donut3D.js"></script>
+				<script src="/js/Packers/passing_donut.js"></script>
+				<script src="/js/Donut3D.js"></script>
+				<script src="/js/Packers/defense_donut.js"></script>
 			</div>
 		</section>
 
