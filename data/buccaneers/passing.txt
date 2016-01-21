@@ -1,17 +1,17 @@
 week	name	cmp	att	yds	td	int
-1	J. Winston	16/33	210	2	2
-2	J. Winston	14/21	207	1	0
-3	J. Winston	17/36	261	1	1
-4	J. Winston	26/43	287	2	4
-5	J. Winston	13/19	209	1	0
-7	J. Winston	21/29	297	2	0
-8	J. Winston	16/29	177	1	0
-9	J. Winston	19/36	247	0	0
-10	J. Winston	22/39	264	0	2
-11	J. Winston	19/29	246	5	0
-12	J. Winston	20/36	245	1	1
-13	J. Winston	18/27	227	1	1
-14	J. Winston	18/32	182	1	0
-15	J. Winston	29/50	363	2	1
-16	J. Winston	15/29	295	2	1
-17	J. Winston	29/47	325	0	2
+1	J. Winston	16	33	210	2	2
+2	J. Winston	14	21	207	1	0
+3	J. Winston	17	36	261	1	1
+4	J. Winston	26	43	287	2	4
+5	J. Winston	13	19	209	1	0
+7	J. Winston	21	29	297	2	0
+8	J. Winston	16	29	177	1	0
+9	J. Winston	19	36	247	0	0
+10	J. Winston	22	39	264	0	2
+11	J. Winston	19	29	246	5	0
+12	J. Winston	20	36	245	1	1
+13	J. Winston	18	27	227	1	1
+14	J. Winston	18	32	182	1	0
+15	J. Winston	29	50	363	2	1
+16	J. Winston	15	29	295	2	1
+17	J. Winston	29	47	325	0	2

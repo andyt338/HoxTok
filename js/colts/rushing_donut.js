@@ -20,10 +20,10 @@ function selectData1() {
 	rushingStats.push({week:50, name:"T. Williams", att:0, yds:0, td:0, lg:0, color:"#f2823a"});
 	rushingStats.push({week:50, name:"C. Whitehurst", att:0, yds:0, td:0, lg:0, color:"#a7d52a"});
 	rushingStats.push({week:50, name:"P. McAfee", att:0, yds:0, td:0, lg:0, color:"#3438bd"});
-	rushingStats.push({week:50, name:"T. Varga", rec:0, yds:0, td:0, lg:0, color:"#4daecf"});
-	rushingStats.push({week:50, name:"D. Allen", rec:0, yds:0, td:0, lg:0, color:"#f69537"});
-	rushingStats.push({week:50, name:"J. Reitz", rec:0, yds:0, td:0, lg:0, color:"#3438bd"});
-	rushingStats.push({week:50, name:"C. Anderson", rec:0, yds:0, td:0, lg:0, color:"#fdf32f"});
+	rushingStats.push({week:50, name:"T. Varga", att:0, yds:0, td:0, lg:0, color:"#4daecf"});
+	rushingStats.push({week:50, name:"D. Allen", att:0, yds:0, td:0, lg:0, color:"#f69537"});
+	rushingStats.push({week:50, name:"J. Reitz", att:0, yds:0, td:0, lg:0, color:"#3438bd"});
+	rushingStats.push({week:50, name:"C. Anderson", att:0, yds:0, td:0, lg:0, color:"#fdf32f"});
 
 	var newRushingStats = newWeeklyArray1(rushingStats);
 

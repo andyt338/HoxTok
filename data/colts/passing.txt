@@ -18,5 +18,5 @@ week	name	cmp	att	yds	td	int
 15	C. Whitehurst	1	2	13	0	0
 16	M. Hasselbeck	8	15	99	0	0
 16	C. Whitehurst	9	14	78	0	0
-17	Jo. Freeman	15	28	149	1	1
+17	J. Freeman	15	28	149	1	1
 17	R. Lindley	6	10	58	1	0

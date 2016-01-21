@@ -73,7 +73,7 @@ function changeData1() {
 	}
 }
 
-d3.tsv("/data/seahawks/rushing.txt", function(data) {
+d3.tsv("/data/bears/rushing.txt", function(data) {
 	stats1 = data;
 	var svg = d3.select("#donut3d1").append("svg").attr("width",300).attr("height",285);
 	svg.append("g").attr("id","rushingDonut");

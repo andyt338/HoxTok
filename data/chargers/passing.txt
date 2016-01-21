@@ -1,4 +1,4 @@
-fweek	name	cmp	att	yds	td	int
+week	name	cmp	att	yds	td	int
 1	P. Rivers	34	41	403	2	2
 2	P. Rivers	21	27	241	2	1
 3	P. Rivers	21	34	246	1	1

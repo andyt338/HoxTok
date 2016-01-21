@@ -56,7 +56,7 @@ week	name	att	yds	td	lg
 16	P. Dorsett	1	2	0	2
 16	C. Whitehurst	1	-1	0	-1
 17	F. Gore	19	76	0	15
-17	Jo. Freeman	8	24	0	9
+17	J. Freeman	8	24	0	9
 17	T. Williams	2	12	0	12
 17	P. Dorsett	1	11	0	11
 17	D. Herron	2	4	0	3

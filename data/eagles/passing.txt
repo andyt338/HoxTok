@@ -1,18 +1,18 @@
 week	name	cmp	att	yds	td	int
-1	S. Bradford	36/52	336	1	2
-2	S. Bradford	23/37	224	1	2
-3	S. Bradford	14/28	118	1	0
-4	S. Bradford	15/28	270	3	0
-5	S. Bradford	32/45	333	2	2
-6	S. Bradford	24/38	280	1	3
-7	S. Bradford	26/46	205	0	1
-9	S. Bradford	25/36	295	1	0
-10	S. Bradford	19/25	236	1	0
-10	M. Sanchez	14/23	156	0	1
-11	M. Sanchez	26/41	261	2	3
-12	M. Sanchez	19/27	199	2	0
-13	S. Bradford	14/24	120	2	0
-14	S. Bradford	23/38	247	1	1
-15	S. Bradford	28/41	361	2	2
-16	S. Bradford	37/56	380	1	0
-17	S. Bradford	30/38	320	2	1
+1	S. Bradford	36	52	336	1	2
+2	S. Bradford	23	37	224	1	2
+3	S. Bradford	14	28	118	1	0
+4	S. Bradford	15	28	270	3	0
+5	S. Bradford	32	45	333	2	2
+6	S. Bradford	24	38	280	1	3
+7	S. Bradford	26	46	205	0	1
+9	S. Bradford	25	36	295	1	0
+10	S. Bradford	19	25	236	1	0
+10	M. Sanchez	14	23	156	0	1
+11	M. Sanchez	26	41	261	2	3
+12	M. Sanchez	19	27	199	2	0
+13	S. Bradford	14	24	120	2	0
+14	S. Bradford	23	38	247	1	1
+15	S. Bradford	28	41	361	2	2
+16	S. Bradford	37	56	380	1	0
+17	S. Bradford	30	38	320	2	1
