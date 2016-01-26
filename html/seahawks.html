@@ -132,8 +132,31 @@
 		<section id="three" style="margin:auto" class="wrapper style3 special">
 			<div class="container">
 				<input type="checkbox"><span style="color:white"> Sort Values<br></span>
+					<form role="form">
+				    	<div class="form-group">
+				      		<label for="category4">Select list (select one):</label>
+						  	<select class="btn btn-primary" id="category4">
+						    	<option value="rec">rec</option>
+						    	<option value="yds">yds</option>
+						    	<option value="td">td</option>
+						    	<option value="lg">lg</option>
+						  	</select>
+						</div>
+					</form>
+					<form role="form">
+				    	<div class="form-group">
+				      		<label for="category5">Select list (select one):</label>
+						  	<select class="btn btn-primary" id="category5">
+						    	<option value="J. Kearse">J. Kearse</option>
+						    	<option value="D. Baldwin">D. Baldwin</option>
+						    	<option value="J. Graham">J. Graham</option>
+						    	<option value="L. Willson">L. Willson</option>
+						  	</select>
+						</div>
+					</form>
+					<button type="button" onclick="updateData()" class="btn btn-primary">Submit</button>
 				<div id="sortablebarchart"></div>
-				<script src="/js/sortablebarchart.js"></script>
+				<script src="/js/seahawks/receiving_bar.js"></script>
 			</div>
 		</section>
 
