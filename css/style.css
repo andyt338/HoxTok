@@ -1275,6 +1275,10 @@ label {
   right: 10px;
 }
 
+.btn.btn-primary {
+	width: 125px;
+	height: 34px;
+}
 
 
 

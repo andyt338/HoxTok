@@ -18,25 +18,26 @@ var yAxis = d3.svg.axis()
 
 function run() {
 
-  var svg = d3.select("#sortablebarchart").append("svg")
+  var svg = d3.select("#sortablebarchart3").append("svg")
       .attr("width", width + margin.left + margin.right)
       .attr("height", height + margin.top + margin.bottom)
     .append("g")
       .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
-  var e = document.getElementById("category4");
-  var e1 = document.getElementById("category5");
+  var e = document.getElementById("category10");
+  var e1 = document.getElementById("category11");
   var category = e.options[e.selectedIndex].value;
   var player = e1.options[e1.selectedIndex].value;
 
-  d3.tsv("/data/seahawks/receiving.txt", function(error, data) {
+  d3.tsv("/data/seahawks/defense.txt", function(error, data) {
 
     data.forEach(function(d) {
       if (d.name==player) {
-        if (category == "rec") d.frequency =+ d.rec;
-        else if (category == "yds") d.frequency =+ d.yds;
-        else if (category == "td") d.frequency =+ d.td;
-        else if (category == "lg") d.frequency =+ d.lg;
+        if (category == "t") d.frequency =+ d.t;
+        else if (category == "a") d.frequency =+ d.a;
+        else if (category == "sck") d.frequency =+ d.sck;
+        else if (category == "int") d.frequency =+ d.int;
+        else if (category == "ff") d.frequency =+ d.ff;
       }
       else 
         d.frequency = 0;
@@ -112,34 +113,38 @@ function run() {
 
 run();
 
-function updateData() {
+function updateData3() {
 
   var savedData = [];
   var count = 0;
 
-  var e = document.getElementById("category4");
-  var e1 = document.getElementById("category5");
+  var e = document.getElementById("category10");
+  var e1 = document.getElementById("category11");
   var category = e.options[e.selectedIndex].value;
   var player = e1.options[e1.selectedIndex].value;
 
-  d3.tsv("/data/seahawks/receiving.txt", function(error, data) {
+  d3.tsv("/data/seahawks/defense.txt", function(error, data) {
 
     data.forEach(function(d) {
       if (d.name==player) {
-        if (category == "rec") {
-          d.frequency =+ d.rec;
+        if (category == "t") {
+          d.frequency =+ d.t;
           savedData[count++] = d.frequency;
         }
-        else if (category == "yds") {
-          d.frequency =+ d.yds; 
+        else if (category == "a") {
+          d.frequency =+ d.a; 
           savedData[count++] = d.frequency;
         }
-        else if (category == "td") {
-          d.frequency =+ d.td;
+        else if (category == "sck") {
+          d.frequency =+ d.sck;
           savedData[count++] = d.frequency;
         }
-        else if (category == "lg") {
-          d.frequency =+ d.lg;
+        else if (category == "int") {
+          d.frequency =+ d.int;
+          savedData[count++] = d.frequency;
+        }
+        else if (category == "ff") {
+          d.frequency =+ d.ff;
           savedData[count++] = d.frequency;
         }
       }
@@ -149,7 +154,7 @@ function updateData() {
 
     x.domain(data.map(function(d) { return d.week; }));
     y.domain([0, d3.max(data, function(d) { return d.frequency; })]);
-    var svg = d3.select("#sortablebarchart").transition();
+    var svg = d3.select("#sortablebarchart3").transition();
     count = 0;
 
     svg.selectAll(".bar")
