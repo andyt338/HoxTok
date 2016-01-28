@@ -9,7 +9,7 @@ function selectData2() {
 	var passingStats = [];
 	
 	passingStats.push({week:50, name:"A. Rodgers", cmp:0, att:0, yds:0, td:0, int:0, color:"#3f77c4"});
-	passingStats.push({week:50, name:"S. Tolzein", cmp:0, att:0, yds:0, td:0, int:0, color:"#f4aa2f"});
+	passingStats.push({week:50, name:"S. Tolzien", cmp:0, att:0, yds:0, td:0, int:0, color:"#f4aa2f"});
 
 	var newPassingStats = newWeeklyArray2(passingStats);
 

@@ -40,11 +40,12 @@
 		<section id="one" style="margin:auto" class="wrapper style3 special">
 			<div class="container">
 				<h2 style="color:white">Panthers</h2>
+
 				<div class="row">
-				  	<div class="col-sm-6" style="padding-top:20px"><h4>Offense - Receiving</h4></div>
-				  	<div class="col-sm-6" style="padding-top:20px"><h4>Offense - Rushing</h4></div>
+				  	<div class="col-sm-12" style="padding-top:20px"><h4>Offense - Receiving</h4></div>
 				</div>
-				<div id="donut3d" style="float:left; padding-left:6%"></div>
+
+				<div id="donut3d" style="float:left; padding-left:1%"></div>
 				<div style="float:left; padding-left:5%; padding-top:5%">
 					<p id="displayWeek"></p>
 					<button class="btn btn-primary" onClick="changeData()">Next Week</button>
@@ -61,7 +62,44 @@
 						</div>
 					</form>
 				</div>
-				<div id="donut3d1" style="float:left; padding-left:6%"></div>
+				<div id="sortablebarchart" style="float:left; padding-left:6%; width:450px"></div>
+				<div style="float:left; padding-left:4%; padding-top:5%">
+					<form role="form">
+				    	<div class="form-group">
+						  	<select class="btn btn-primary" id="category4">
+						    	<option value="rec">rec</option>
+						    	<option value="yds">yds</option>
+						    	<option value="td">td</option>
+						    	<option value="lg">lg</option>
+						  	</select>
+						</div>
+					</form>
+					<form role="form">
+				    	<div class="form-group">
+						  	<select class="btn btn-primary" id="category5">
+								<option value="G. Olsen">G. Olsen</option>
+								<option value="T. Ginn">T. Ginn</option>
+								<option value="J. Cotchery">J. Cotchery</option>
+								<option value="D. Funchess">D. Funchess</option>
+								<option value="C. Brown">C. Brown</option>
+								<option value="M. Tolbert">M. Tolbert</option>
+								<option value="E. Dickson">E. Dickson</option>
+								<option value="J. Stewart">J. Stewart</option>
+								<option value="F. Whittaker">F. Whittaker</option>
+								<option value="B. Bersin">B. Bersin</option>
+								<option value="C. Artis-Payne">C. Artis-Payne</option>
+								<option value="S. Simonson">S. Simonson</option>
+						  	</select>
+						</div>
+					</form>
+					<button type="button" onclick="updateData()" class="btn btn-primary">Submit</button>
+				</div>
+
+				<div class="row">
+				  	<div class="col-sm-12" style="padding-top:20px"><h4>Offense - Rushing</h4></div>
+				</div>
+
+				<div id="donut3d1" style="float:left; padding-left:1%"></div>
 				<div style="float:left; padding-left:5%; padding-top:5%">
 					<p id="displayWeek1"></p>
 					<button class="btn btn-primary" onClick="changeData1()">Next Week</button>
@@ -78,11 +116,43 @@
 						</div>
 					</form>
 				</div>
-				<div class="row">
-				  	<div class="col-sm-6" style="padding-top:40px"><h4>Offense - Passing</h4></div>
-				  	<div class="col-sm-6" style="padding-top:40px"><h4>Defense</h4></div>
+				<div id="sortablebarchart1" style="float:left; padding-left:6%; width:450px"></div>
+				<div style="float:left; padding-left:4%; padding-top:5%">
+					<form role="form">
+				    	<div class="form-group">
+						  	<select class="btn btn-primary" id="category6">
+						    	<option value="att">att</option>
+						    	<option value="yds">yds</option>
+						    	<option value="td">td</option>
+						    	<option value="lg">lg</option>
+						  	</select>
+						</div>
+					</form>
+					<form role="form">
+				    	<div class="form-group">
+						  	<select class="btn btn-primary" id="category7">
+								<option value="J. Stewart">J. Stewart</option>
+								<option value="C. Newton">C. Newton</option>
+								<option value="M. Tolbert">M. Tolbert</option>
+								<option value="C. Artis-Payne">C. Artis-Payne</option>
+								<option value="F. Whittaker">F. Whittaker</option>
+								<option value="D. Anderson">D. Anderson</option>
+								<option value="C. Brown">C. Brown</option>
+								<option value="T. Ginn">T. Ginn</option>
+								<option value="J. Cotchery">J. Cotchery</option>
+								<option value="J. Webb">J. Webb</option>
+								<option value="B. Nortman">B. Nortman</option>
+						  	</select>
+						</div>
+					</form>
+					<button type="button" onclick="updateData1()" class="btn btn-primary">Submit</button>
 				</div>
-				<div id="donut3d2" style="float:left; padding-left:6%"></div>
+
+				<div class="row">
+				  	<div class="col-sm-12" style="padding-top:20px"><h4>Offense - Passing</h4></div>
+				</div>
+
+				<div id="donut3d2" style="float:left; padding-left:1%"></div>
 				<div style="float:left; padding-left:5%; padding-top:5%">
 					<p id="displayWeek2"></p>
 					<button class="btn btn-primary" onClick="changeData2()">Next Week</button>
@@ -100,7 +170,35 @@
 						</div>
 					</form>
 				</div>
-				<div id="donut3d3" style="float:left; padding-left:6%"></div>
+				<div id="sortablebarchart2" style="float:left; padding-left:6%; width:450px"></div>
+				<div style="float:left; padding-left:4%; padding-top:5%">
+					<form role="form">
+				    	<div class="form-group">
+						  	<select class="btn btn-primary" id="category8">
+						    	<option value="cmp">cmp</option>
+						    	<option value="att">att</option>
+						    	<option value="yds">yds</option>
+						    	<option value="td">td</option>
+						    	<option value="int">int</option>
+						  	</select>
+						</div>
+					</form>
+					<form role="form">
+				    	<div class="form-group">
+						  	<select class="btn btn-primary" id="category9">
+						    	<option value="C. Newton">C. Newton</option>
+						    	<option value="D. Anderson">D. Anderson</option>
+						  	</select>
+						</div>
+					</form>
+					<button type="button" onclick="updateData2()" class="btn btn-primary">Submit</button>
+				</div>
+
+				<div class="row">
+				  	<div class="col-sm-12" style="padding-top:40px"><h4>Defense</h4></div>
+				</div>
+
+				<div id="donut3d3" style="float:left; padding-left:1%"></div>
 				<div style="float:left; padding-left:5%; padding-top:5%">
 					<p id="displayWeek3"></p>
 					<button class="btn btn-primary" onClick="changeData3()">Next Week</button>
@@ -118,23 +216,92 @@
 						</div>
 					</form>
 				</div>
+				<div id="sortablebarchart3" style="float:left; padding-left:6%; width:450px"></div>
+				<div style="float:left; padding-left:4%; padding-top:5%">
+					<form role="form">
+				    	<div class="form-group">
+						  	<select class="btn btn-primary" id="category10">
+						    	<option value="t">t</option>
+						    	<option value="a">a</option>
+						    	<option value="sck">sck</option>
+						    	<option value="int">int</option>
+						    	<option value="ff">ff</option>
+						  	</select>
+						</div>
+					</form>
+					<form role="form">
+				    	<div class="form-group">
+						  	<select class="btn btn-primary" id="category11">
+								<option value="L. Kuechly">L. Kuechly</option>
+								<option value="T. Davis">T. Davis</option>
+								<option value="K. Coleman">K. Coleman</option>
+								<option value="J. Norman">J. Norman</option>
+								<option value="R. Harper">R. Harper</option>
+								<option value="B. Benwikere">B. Benwikere</option>
+								<option value="A. Klein">A. Klein</option>
+								<option value="K. Short">K. Short</option>
+								<option value="C. Tillman">C. Tillman</option>
+								<option value="S. Thompson">S. Thompson</option>
+								<option value="T. Boston">T. Boston</option>
+								<option value="C. Jones">C. Jones</option>
+								<option value="K. Ealy">K. Ealy</option>
+								<option value="J. Allen">J. Allen</option>
+								<option value="M. Addison">M. Addison</option>
+								<option value="C. Finnegan">C. Finnegan</option>
+								<option value="S. Lotulelei">S. Lotulelei</option>
+								<option value="T. Williams">T. Williams</option>
+								<option value="K. Love">K. Love</option>
+								<option value="B. Jacobs">B. Jacobs</option>
+								<option value="D. Edwards">D. Edwards</option>
+								<option value="R. Delaire">R. Delaire</option>
+								<option value="J. Webb">J. Webb</option>
+								<option value="D. Mayo">D. Mayo</option>
+								<option value="C. Johnson">C. Johnson</option>
+								<option value="R. McClain">R. McClain</option>
+								<option value="W. Horton">W. Horton</option>
+								<option value="E. Dickson">E. Dickson</option>
+								<option value="C. Newton">C. Newton</option>
+								<option value="G. Gano">G. Gano</option>
+								<option value="G. Olsen">G. Olsen</option>
+								<option value="T. Ginn">T. Ginn</option>
+								<option value="M. Tolbert">M. Tolbert</option>
+								<option value="F. Whittaker">F. Whittaker</option>
+								<option value="T. Turner">T. Turner</option>
+								<option value="K. Norwood">K. Norwood</option>
+								<option value="J. Stewart">J. Stewart</option>
+								<option value="M. Remmers">M. Remmers</option>
+								<option value="D. Funchess">D. Funchess</option>
+								<option value="B. Bersin">B. Bersin</option>
+								<option value="J. Cotchery">J. Cotchery</option>
+								<option value="C. Cole">C. Cole</option>
+								<option value="J. Jansen">J. Jansen</option>
+						  	</select>
+						</div>
+					</form>
+					<button type="button" onclick="updateData3()" class="btn btn-primary">Submit</button>
+				</div>
+
 				<script src="/js/Donut3D.js"></script>
-				<script src="/js/Panthers/receiving_donut.js"></script>
+				<script src="/js/panthers/receiving_donut.js"></script>
 				<script src="/js/Donut3D.js"></script>
-				<script src="/js/Panthers/rushing_donut.js"></script>
+				<script src="/js/panthers/rushing_donut.js"></script>
 				<script src="/js/Donut3D.js"></script>
-				<script src="/js/Panthers/passing_donut.js"></script>
+				<script src="/js/panthers/passing_donut.js"></script>
 				<script src="/js/Donut3D.js"></script>
-				<script src="/js/Panthers/defense_donut.js"></script>
+				<script src="/js/panthers/defense_donut.js"></script>
+				<script src="/js/Donut3D.js"></script>
+				<script src="/js/panthers/receiving_bar.js"></script>
+				<script src="/js/Donut3D.js"></script>
+				<script src="/js/panthers/rushing_bar.js"></script>
+				<script src="/js/Donut3D.js"></script>
+				<script src="/js/panthers/passing_bar.js"></script>
+				<script src="/js/Donut3D.js"></script>
+				<script src="/js/panthers/defense_bar.js"></script>
+
 			</div>
 		</section>
 
 		<section id="three" style="margin:auto" class="wrapper style3 special">
-			<div class="container">
-				<input type="checkbox"><span style="color:white"> Sort Values<br></span>
-				<div id="sortablebarchart"></div>
-				<script src="/js/sortablebarchart.js"></script>
-			</div>
 		</section>
 
 		<footer id="footer">
