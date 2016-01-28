@@ -14,7 +14,7 @@ function selectData1() {
 	rushingStats.push({week:50, name:"O. Darkwa", att:0, yds:0, td:0, lg:0, color:"#ffff2d"});
 	rushingStats.push({week:50, name:"E. Manning", att:0, yds:0, td:0, lg:0, color:"#f4aa2f"});
 	rushingStats.push({week:50, name:"D. Harris", att:0, yds:0, td:0, lg:0, color:"#f25e40"});
-	rushingStats.push({week:50, name:"O. Beckham", att:0, yds:0, td:0, lg:0, color:"#fad435"});
+	rushingStats.push({week:50, name:"O. Beckham Jr.", att:0, yds:0, td:0, lg:0, color:"#fad435"});
 
 	var newRushingStats = newWeeklyArray1(rushingStats);
 

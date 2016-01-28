@@ -78,36 +78,6 @@ function run() {
         .attr("y", function(d) { return y(d.frequency); })
         .attr("height", function(d) { return height - y(d.frequency); });
 
-    d3.select("input").on("change", change);
-
-    var sortTimeout = setTimeout(function() {
-      d3.select("input").property("checked", false).each(change);
-    }, 2000);
-
-    function change() {
-      clearTimeout(sortTimeout);
-
-      var x0 = x.domain(data.sort(this.checked
-          ? function(a, b) { return b.frequency - a.frequency; }
-          : function(a, b) { return a.week - b.week; })
-          .map(function(d) { return d.week; }))
-          .copy();
-
-      svg.selectAll(".bar")
-          .sort(function(a, b) { return x0(a.week) - x0(b.week); });
-
-      var transition = svg.transition().duration(750),
-          delay = function(d, i) { return i * 10; };
-
-      transition.selectAll(".bar")
-          .delay(delay)
-          .attr("x", function(d) { return x0(d.week); });
-
-      transition.select(".x.axis")
-          .call(xAxis)
-        .selectAll("g")
-          .delay(delay);
-    }
   });
 }
 

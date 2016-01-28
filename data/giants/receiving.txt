@@ -117,6 +117,6 @@ week	name	rec	yds	td	lg
 17	R. Randle	4	79	1	45
 17	S. Vereen	6	72	0	15
 17	W. Tye	5	67	1	18
-17	O. Beckham	5	54	0	24
+17	O. Beckham Jr.	5	54	0	24
 17	H. Nicks	2	24	0	19
 17	R. Jennings	2	6	0	3

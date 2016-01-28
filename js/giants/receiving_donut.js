@@ -8,7 +8,7 @@ var count = 0;
 function selectData() {
 	var receivingStats = [];
 
-	receivingStats.push({week:50, name:"O. Beckham", rec:0, yds:0, td:0, lg:0, color:"#ef3c42"});
+	receivingStats.push({week:50, name:"O. Beckham Jr.", rec:0, yds:0, td:0, lg:0, color:"#ef3c42"});
 	receivingStats.push({week:50, name:"S. Vereen", rec:0, yds:0, td:0, lg:0, color:"#52c67f"});
 	receivingStats.push({week:50, name:"R. Randle", rec:0, yds:0, td:0, lg:0, color:"#dff429"});
 	receivingStats.push({week:50, name:"W. Tye", rec:0, yds:0, td:0, lg:0, color:"#3f77c4"});
