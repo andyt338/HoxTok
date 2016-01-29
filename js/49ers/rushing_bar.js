@@ -29,7 +29,7 @@ function run() {
   var category = e.options[e.selectedIndex].value;
   var player = e1.options[e1.selectedIndex].value;
 
-  d3.tsv("/data/seahawks/rushing.txt", function(error, data) {
+  d3.tsv("/data/49ers/rushing.txt", function(error, data) {
 
     data.forEach(function(d) {
       if (d.name==player) {
