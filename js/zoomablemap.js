@@ -45,12 +45,13 @@
            .attr("height", "30")
            .attr("x", function(d) {
             if(d.team=="Raiders"){return projection([d.lon, d.lat])[0]-5;}
-            else if(d.team=="Forty-Niners"){return projection([d.lon, d.lat])[0]-25;}
+            else if(d.team=="Forty-Niners"){return projection([d.lon, d.lat])[0]-30;}
             else if(d.team=="Giants"){return projection([d.lon, d.lat])[0]-5;}
             else if(d.team=="Jets"){return projection([d.lon, d.lat])[0]-30;}
             else if(d.team=="Ravens"){return projection([d.lon, d.lat])[0];}
             else if(d.team=="Redskins"){return projection([d.lon, d.lat])[0]-25;}
             else if(d.team=="Bengals"){return projection([d.lon, d.lat])[0]-10;}
+            else if(d.team=="Lions"){return projection([d.lon, d.lat])[0]-20;}
             else {return projection([d.lon, d.lat])[0]-15;}
            })
            .attr("y", function(d) {
