@@ -9,7 +9,7 @@ function selectData3() {
 	var defenseStats = [];
 
 	defenseStats.push({week:50,name:"C. Jones",t:0,a:0,sck:0,int:0,ff:0,color:"#3f77c4"});
-	defenseStats.push({week:50,name:"A. Amos",t:0,a:0,sck:0,int:0,ff:0,color:"#1277c4"});
+	defenseStats.push({week:50,name:"A. Amos",t:0,a:0,sck:0,int:0,ff:0,color:"#23abc4"});
 	defenseStats.push({week:50,name:"S. McClellin",t:0,a:0,sck:0,int:0,ff:0,color:"#f4aa2f"});
 	defenseStats.push({week:50,name:"K. Fuller",t:0,a:0,sck:0,int:0,ff:0,color:"#a58fd5"});
 	defenseStats.push({week:50,name:"P. McPhee",t:0,a:0,sck:0,int:0,ff:0,color:"#08b258"});
