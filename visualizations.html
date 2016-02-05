@@ -7,13 +7,14 @@
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
 		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
-		<script src="js/jquery.min.js"></script>
-		<script src="js/skel.min.js"></script>
-		<script src="js/skel-layers.min.js"></script>
-		<script src="js/init.js"></script>
+		<script src="/js/jquery.min.js"></script>
+		<script src="/js/skel.min.js"></script>
+		<script src="/js/skel-layers.min.js"></script>
+		<script src="/js/init.js"></script>
 		<script src="//d3js.org/d3.v3.min.js"></script>
 		<script src="//d3js.org/topojson.v1.min.js"></script>
   		<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+		<script type='text/javascript' src="http://twitter.github.io/typeahead.js/releases/latest/typeahead.bundle.js"></script>
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 		<style>
 			@import url(css/style.css?aea6f0a);
@@ -46,8 +47,13 @@
 		</section>
 
 		<section id="two" style="margin:auto" class="wrapper style3 special">
-			<script> $(function(){ $("#includedContent").load("/standings.html"); }); </script>
+			<script> $(function(){ $("#includedContent").load("/html/standings.html"); }); </script>
 			<div class="container" id="includedContent"></div>
+		</section>
+
+		<section id="three" style="margin:auto" class="wrapper style3 special">
+			<script> $(function(){ $("#includedContent1").load("/html/search.html"); }); </script>
+			<div class="container" id="includedContent1"></div>
 		</section>
 
 		<footer id="footer">

@@ -1282,7 +1282,45 @@ label {
 	height: 34px;
 }
 
-logo {
-	height: 30px;
-	width: 30px;
+.tt-input, /* UPDATE: newer versions use tt-input instead of tt-query */
+.tt-hint {
+    width: 396px;
+    height: 30px;
+    padding: 8px 12px;
+    font-size: 24px;
+    line-height: 30px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    outline: none;
 }
+
+/* .tt-input {
+    vertical-align: bottom;
+}
+
+.tt-hint {
+    color: #999;
+} */
+
+.tt-menu {
+    margin-top: 12px;
+    padding: 8px 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    /* border-radius: 8px; */
+}
+
+.tt-suggestion {
+    padding: 3px 20px;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.tt-suggestion.tt-cursor {
+    color: #fff;
+    background-color: #0097cf;
+}
+
+/* .tt-suggestion p {
+    margin: 0;
+} */
