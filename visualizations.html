@@ -15,6 +15,7 @@
 		<script src="//d3js.org/topojson.v1.min.js"></script>
   		<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 		<script type='text/javascript' src="http://twitter.github.io/typeahead.js/releases/latest/typeahead.bundle.js"></script>
+		<script src="/js/search.js"></script>
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 		<style>
 			@import url(css/style.css?aea6f0a);
@@ -34,26 +35,33 @@
 					<li><a href="/index.html#">Home</a></li>
 					<li><a href="/powerrankings.html">Power Rankings</a></li>
 					<li><a href="/visualizations.html">Visualizations</a></li>
-<!-- 				  	<div class="col-sm-3">
-				    	<div class="input-group">
-				      		<input type="text" class="form-control" placeholder="Search player">
+					<form class="navbar-form navbar-left" role="search">
+				    	<div class="input-group" style="width:250px;">
+				      		<input type="text" id="player" class="typeahead" onkeypress="searchPlayer()" style="margin-top:13.5px; height:34px; border-top-right-radius: 0em; border-bottom-right-radius: 0em;" placeholder="Search player">
 				      		<span class="input-group-btn">
-				        		<button class="btn btn-default" type="button">Go!</button>
+				        		<button class="btn btn-default" onclick="searchPlayer()" type="button">Go!</button>
 				      		</span>
 				    	</div>
-</div> -->
+			      	</form>
 				</ul>
 			</nav>
 		</header>
 
-		<section id="three" style="margin:auto; margin-top:-100px" class="wrapper style3 special">
-			<script> $(function(){ $("#includedContent1").load("/html/search.html"); }); </script>
-			<div class="container" id="includedContent1"></div>
+		<section style="margin-top:-100px; height:40px" class="wrapper style3 special">
+			<div class="container">
+				<h3 style="color:white; margin-top:-10px;">Player Search<h3>
+			</div>
+		</section>
+
+		<section id="three" style="margin:auto" style="margin-top:-100px" class="wrapper style3 special">
+			<div class="container">
+				<h3 style="color:white; margin-top:-170px" id="displayData"></h3>
+			</div>
 		</section>
 
 		<section id="one" style="margin:auto" class="wrapper style3 special">
 			<div class="container">
-				<h3 style="color:white; margin-top:-20px">Click to zoom in, select logo to see info on your team<h3>
+				<h3 style="color:white; margin-top:-60px">Click to zoom in, select logo to see info on your team<h3>
 				<div id="zoomablemap"></div>
 				<script src="js/zoomablemap.js"></script>
 			</div>

@@ -1324,3 +1324,44 @@ label {
 /* .tt-suggestion p {
     margin: 0;
 } */
+
+.navbar-form {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	height: 61px;
+}
+.input-group{
+	padding-right:25px;
+	height: 61px;
+}
+::-webkit-input-placeholder {
+	font-size: 14px;
+    transition: color 0.2s ease-in-out;
+    color: #666;
+    display: inline-block;
+    text-decoration: none;
+}
+:-moz-placeholder { /* older Firefox*/
+	font-size: 14px;
+    transition: color 0.2s ease-in-out;
+    color: #666;
+    display: inline-block;
+    text-decoration: none;
+}
+::-moz-placeholder { /* Firefox 19+ */ 
+	font-size: 14px;
+    transition: color 0.2s ease-in-out;
+    color: #666;
+    display: inline-block;
+    text-decoration: none;
+} 
+:-ms-input-placeholder { 
+	font-size: 14px;
+    transition: color 0.2s ease-in-out;
+    color: #666;
+    display: inline-block;
+    text-decoration: none;
+}
+.navbar-form .input-group-btn {
+    height: 61px;
+}
