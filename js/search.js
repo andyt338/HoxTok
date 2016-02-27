@@ -12,11 +12,10 @@ $(document).ready(function() {
     for (var i=0; i < dat0.length; i++){
       dat1[i] = dat0[i][0];
     }
-    for (var i=0; i < dat0.length; i++){
+/*    for (var i=0; i < dat0.length; i++){
       dat1[i] = dat1[i].slice(0, 2) + " " + dat1[i].slice(2);
-    }
+    }*/
     dat1[0] = " ";
-    stats = dat1;
 
     var substringMatcher = function(strs) {
       return function findMatches(q, cb) {
