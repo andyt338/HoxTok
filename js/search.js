@@ -12,9 +12,7 @@ $(document).ready(function() {
     for (var i=0; i < dat0.length; i++){
       dat1[i] = dat0[i][0];
     }
-/*    for (var i=0; i < dat0.length; i++){
-      dat1[i] = dat1[i].slice(0, 2) + " " + dat1[i].slice(2);
-    }*/
+
     dat1[0] = " ";
 
     var substringMatcher = function(strs) {
