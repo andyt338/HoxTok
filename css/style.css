@@ -1444,6 +1444,14 @@ span.twitter-typeahead {
   fill: orangered ;
 }
 
+.bar_totalDefense {
+  fill: green;
+}
+
+.bar_totalDefense:hover {
+  fill: greenyellow;
+}
+
 .x.axis path {
   display: none;
 }
