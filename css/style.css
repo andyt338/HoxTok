@@ -1452,6 +1452,22 @@ span.twitter-typeahead {
   fill: greenyellow;
 }
 
+.bar_passingOffense {
+  fill: blue;
+}
+
+.bar_passingOffense:hover {
+  fill: blueviolet;
+}
+
+.bar_passingDefense {
+  fill: red;
+}
+
+.bar_passingDefense:hover {
+  fill: darkred;
+}
+
 .x.axis path {
   display: none;
 }

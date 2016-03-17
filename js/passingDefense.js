@@ -23,9 +23,9 @@ var tip = d3.tip()
     return "<span>" + d.Team + ": </span> <span style='color:red'>" + d.frequency + "</span>";
   })
 
-function run2() {
+function run6() {
 
-  var svg = d3.select("#totalDefense").append("svg")
+  var svg = d3.select("#passingDefense").append("svg")
       .attr("width", width + margin.left + margin.right)
       .attr("height", height + margin.top + margin.bottom)
     .append("g")
@@ -33,10 +33,10 @@ function run2() {
 
   svg.call(tip);
 
-  var e = document.getElementById("totalDefenseCategory");
+  var e = document.getElementById("passingDefenseCategory");
   var category = e.options[e.selectedIndex].value;
 
-  d3.csv("/data/miscellaneous_data/total_defense_2015.csv", type, function(error, data) {
+  d3.csv("/data/miscellaneous_data/passing_defense_2015.csv", type, function(error, data) {
     x.domain(data.map(function(d) { return d.Team; }));
     y.domain([0, d3.max(data, function(d) { return d.frequency; })]);
 
@@ -65,10 +65,10 @@ function run2() {
         .attr("fill", "white")
         .text("Frequency");
 
-    svg.selectAll(".bar_totalDefense")
+    svg.selectAll(".bar_passingDefense")
         .data(data)
       .enter().append("rect")
-        .attr("class", "bar_totalDefense")
+        .attr("class", "bar_passingDefense")
         .attr("x", function(d) { return x(d.Team); })
         .attr("width", x.rangeBand())
         .attr("y", function(d) { return y(d.frequency); })
@@ -81,76 +81,71 @@ function run2() {
   function type(d) {
     if (category == "Pts/G") d.frequency =+ d.Pts_Per_G;
     else if (category == "Tot Pts") d.frequency =+ d.Tot_Pts;
-    else if (category == "Scrm Plys") d.frequency =+ d.Scrm_Plys;
+    else if (category == "Comp") d.frequency =+ d.Comp;
+    else if (category == "Att") d.frequency =+ d.Att;
+    else if (category == "Pct") d.frequency =+ d.Pct;
+    else if (category == "Att/G") d.frequency =+ d.Att_Per_G;
+    else if (category == "Yds") d.frequency =+ d.Yds;
+    else if (category == "Avg") d.frequency =+ d.Avg;
     else if (category == "Yds/G") d.frequency =+ d.Yds_Per_G;
-    else if (category == "Yds/P") d.frequency =+ d.Yds_Per_P;
-    else if (category == "1st/G") d.frequency =+ d.First_Per_G;
-    else if (category == "3rd Md") d.frequency =+ d.Third_Md;
-    else if (category == "3rd Att") d.frequency =+ d.Third_Att;
-    else if (category == "3rd Pct") d.frequency =+ d.Third_Pct;
-    else if (category == "4th Md") d.frequency =+ d.Fourth_Md;
-    else if (category == "4th Att") d.frequency =+ d.Fourth_Att;
-    else if (category == "4th Pct") d.frequency =+ d.Fourth_Pct;
-    else if (category == "Pen") d.frequency =+ d.Pen;
-    else if (category == "Pen Yds") d.frequency =+ d.Pen_Yds;
-    else if (category == "ToP/G") d.frequency =+ d.ToP_Per_G;
-    else if (category == "FUM") d.frequency =+ d.FUM;
-    else if (category == "Lost") d.frequency =+ d.Lost;
-    else if (category == "TO") d.frequency =+ d.TO;
+    else if (category == "TD") d.frequency =+ d.TD;
+    else if (category == "Int") d.frequency =+ d.Int;
+    else if (category == "1st") d.frequency =+ d.First;
+    else if (category == "1st%") d.frequency =+ d.First_Perc;
+    else if (category == "Lng") d.frequency =+ d.Lng;
+    else if (category == "20+") d.frequency =+ d.Twenty_Plus;
+    else if (category == "40+") d.frequency =+ d.Forty_Plus;
+    else if (category == "Sck") d.frequency =+ d.Sck;
+    else if (category == "Rate") d.frequency =+ d.Rate;
 
     return d;
   }
 
 }
 
-run2();
+run6();
 
-function run3(){
+function run7(){
 
   var savedData = [];
   var count = 0;
 
-  var e = document.getElementById("totalDefenseCategory");
+  var e = document.getElementById("passingDefenseCategory");
   var category = e.options[e.selectedIndex].value;
 
   console.log(category);
 
-  d3.csv("/data/miscellaneous_data/total_defense_2015.csv", function(error, data) {
+  d3.csv("/data/miscellaneous_data/passing_defense_2015.csv", function(error, data) {
 
     data.forEach(function(d) {
       if (category == "Pts/G") d.frequency =+ d.Pts_Per_G;
       else if (category == "Tot Pts") d.frequency =+ d.Tot_Pts;
-      else if (category == "Scrm Plys") d.frequency =+ d.Scrm_Plys;
+      else if (category == "Comp") d.frequency =+ d.Comp;
+      else if (category == "Att") d.frequency =+ d.Att;
+      else if (category == "Pct") d.frequency =+ d.Pct;
+      else if (category == "Att/G") d.frequency =+ d.Att_Per_G;
+      else if (category == "Yds") d.frequency =+ d.Yds;
+      else if (category == "Avg") d.frequency =+ d.Avg;
       else if (category == "Yds/G") d.frequency =+ d.Yds_Per_G;
-      else if (category == "Yds/P") d.frequency =+ d.Yds_Per_P;
-      else if (category == "1st/G") d.frequency =+ d.First_Per_G;
-      else if (category == "3rd Md") d.frequency =+ d.Third_Md;
-      else if (category == "3rd Att") d.frequency =+ d.Third_Att;
-      else if (category == "3rd Pct") d.frequency =+ d.Third_Pct;
-      else if (category == "4th Md") d.frequency =+ d.Fourth_Md;
-      else if (category == "4th Att") d.frequency =+ d.Fourth_Att;
-      else if (category == "4th Pct") d.frequency =+ d.Fourth_Pct;
-      else if (category == "Pen") d.frequency =+ d.Pen;
-      else if (category == "Pen Yds") d.frequency =+ d.Pen_Yds;
-      else if (category == "ToP/G") d.frequency =+ d.ToP_Per_G;
-      else if (category == "FUM") d.frequency =+ d.FUM;
-      else if (category == "Lost") d.frequency =+ d.Lost;
-      else if (category == "TO") d.frequency =+ d.TO;
+      else if (category == "TD") d.frequency =+ d.TD;
+      else if (category == "Int") d.frequency =+ d.Int;
+      else if (category == "1st") d.frequency =+ d.First;
+      else if (category == "1st%") d.frequency =+ d.First_Perc;
+      else if (category == "Lng") d.frequency =+ d.Lng;
+      else if (category == "20+") d.frequency =+ d.Twenty_Plus;
+      else if (category == "40+") d.frequency =+ d.Forty_Plus;
+      else if (category == "Sck") d.frequency =+ d.Sck;
+      else if (category == "Rate") d.frequency =+ d.Rate;
 
       savedData[count++] = d.frequency;
     });
 
-    function determineDomain() {
-      if (category == "TO") {y.domain([-25, d3.max(data, function(d) { return d.frequency; })]);}
-      else {y.domain([0, d3.max(data, function(d) { return d.frequency; })]);}
-    }
-
     x.domain(data.map(function(d) { return d.Team; }));
-    determineDomain();
-    var svg = d3.select("#totalDefense").transition();
+    y.domain([0, d3.max(data, function(d) { return d.frequency; })]);
+    var svg = d3.select("#passingDefense").transition();
     count = 0;
     
-    svg.selectAll(".bar_totalDefense")    
+    svg.selectAll(".bar_passingDefense")    
       .attr("x", function(d) { return x(d.Team); })
       .attr("width", x.rangeBand())
       .attr("y", function(d) { 
