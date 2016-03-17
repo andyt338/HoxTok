@@ -36,15 +36,24 @@
 					<li><a href="/visualizations.html">Visualizations</a></li>
 					<form class="navbar-form navbar-left" role="search">
 				    	<div class="input-group" style="width:280px;">
-				      		<input type="text" id="player" class="typeahead" onkeypress="searchPlayer()" style="margin-top:12.5px; height:34px; border-top-right-radius: 0em; border-bottom-right-radius: 0em; background-color:white;" placeholder="Search player">
+				      		<input type="text" id="player" class="typeahead" onkeypress="searchPlayer(); handle(event)" style="margin-top:12.5px; height:34px; border-top-right-radius: 0em; border-bottom-right-radius: 0em; background-color:white;" placeholder="Search player">
 				      		<span class="input-group-btn">
-				        		<button class="btn btn-default" onclick="searchPlayer()" type="button">Go!</button>
+				        		<button class="btn btn-default" onclick="searchPlayer(); location.href='#displayData'" type="button">Go!</button>
 				      		</span>
 				    	</div>
 			      	</form>
 				</ul>
 			</nav>
 		</header>
+
+		<script>
+		    function handle(e){
+		        if(e.keyCode === 13){
+		            location.href='#displayData';
+		        }
+		        return false;
+		    }
+		</script>
 
 		<section style="width:80%; margin:auto" id="one" class="wrapper style1">
 			<div class="container 75%">
@@ -55,7 +64,7 @@
 						</header>
 					</div>
 					<div class="6u$ 12u$(medium)" style="margin-top:-45px">
-						<p>HoxTok or "Hawks Talk" focuses on data visualization for all things Seahawks, as well as the rest of the NFL. I also offer commentary on the state of the NFL as well in the form of power rankings, which although seemingly biased at first, is merely an objetive and accurate representation of how dominant the Hawks truly are. I hope viewing this data in the forms we present them proves useful to you, and if you have any suggestions for data you'd like to see / how you'd like it to be presented, feel free to email me at andyt338@gmail.com.</p>
+						<p>HoxTok or "Hawks Talk" focuses on data visualization for all things Seahawks, as well as the rest of the NFL. I also offer commentary on the state of the NFL as well in the form of power rankings, which although seemingly biased at first, is merely an objetive and accurate representation of how dominant the Hawks truly are. I hope viewing this data in the forms presented proves useful to you, and if you have any suggestions for data you'd like to see / how you'd like it to be presented, feel free to email me at andyt338@gmail.com.</p>
 					</div>
 				</div>
 			</div>

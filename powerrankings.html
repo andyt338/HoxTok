@@ -36,15 +36,24 @@
 					<li><a href="/visualizations.html">Visualizations</a></li>
 					<form class="navbar-form navbar-left" role="search">
 				    	<div class="input-group" style="width:280px;">
-				      		<input type="text" id="player" class="typeahead" onkeypress="searchPlayer()" style="margin-top:12.5px; height:34px; border-top-right-radius: 0em; border-bottom-right-radius: 0em; background-color:white;" placeholder="Search player">
+				      		<input type="text" id="player" class="typeahead" onkeypress="searchPlayer(); handle(event)" style="margin-top:12.5px; height:34px; border-top-right-radius: 0em; border-bottom-right-radius: 0em; background-color:white;" placeholder="Search player">
 				      		<span class="input-group-btn">
-				        		<button class="btn btn-default" onclick="searchPlayer()" type="button">Go!</button>
+				        		<button class="btn btn-default" onclick="searchPlayer(); location.href='#displayData'" type="button">Go!</button>
 				      		</span>
 				    	</div>
 			      	</form>
 				</ul>
 			</nav>
 		</header>
+
+		<script>
+		    function handle(e){
+		        if(e.keyCode === 13){
+		            location.href='#displayData';
+		        }
+		        return false;
+		    }
+		</script>
 
 		<section id="one">
 			<div class="container">
