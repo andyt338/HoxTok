@@ -1468,6 +1468,22 @@ span.twitter-typeahead {
   fill: darkred;
 }
 
+.bar_rushingOffense {
+  fill: cyan;
+}
+
+.bar_rushingOffense:hover {
+  fill: darkcyan;
+}
+
+.bar_rushingDefense {
+  fill: indigo;
+}
+
+.bar_rushingDefense:hover {
+  fill: hotpink;
+}
+
 .x.axis path {
   display: none;
 }
