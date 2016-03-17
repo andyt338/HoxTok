@@ -15,6 +15,9 @@
 		<script src="//d3js.org/topojson.v1.min.js"></script>
   		<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 		<script type='text/javascript' src="http://twitter.github.io/typeahead.js/releases/latest/typeahead.bundle.js"></script>
+
+		<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+
 		<script src="/js/search.js"></script>
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 		<style>
@@ -70,6 +73,37 @@
 		<section id="two" style="margin:auto" class="wrapper style3 special">
 			<script> $(function(){ $("#includedContent").load("/html/standings.html"); }); </script>
 			<div class="container" id="includedContent"></div>
+		</section>
+
+		<section id="four" style="margin:auto" class="wrapper style3 special">
+			<h3 style="color: white; margin-top: -100px">Total Offense</h3>
+			<form role="form">
+		    	<div class="form-group">
+				  	<select class="btn btn-primary" id="totalOffenseCategory">
+						<option value="Pts/G">Pts/G</option>
+						<option value="Tot Pts">Tot Pts</option>
+						<option value="Scrm Plys">Scrm Plys</option>
+						<option value="Yds/G">Yds/G</option>
+						<option value="Yds/P">Yds/P</option>
+						<option value="1st/G">1st/G</option>
+						<option value="3rd Md">3rd Md</option>
+						<option value="3rd Att">3rd Att</option>
+						<option value="3rd Pct">3rd Pct</option>
+						<option value="4th Md">4th Md</option>
+						<option value="4th Att">4th Att</option>
+						<option value="4th Pct">4th Pct</option>
+						<option value="Pen">Pen</option>
+						<option value="Pen Yds">Pen Yds</option>
+						<option value="ToP/G">ToP/G</option>
+						<option value="FUM">FUM</option>
+						<option value="Lost">Lost</option>
+						<option value="TO">TO</option>
+				  	</select>
+				</div>
+			</form>
+			<button style="margin-top: -50px" type="button" onclick="run1()" class="btn btn-primary">Submit</button>
+			<div id="totalOffense"></div>
+			<script src="js/totalOffense.js"></script>
 		</section>
 
 		<footer id="footer">
