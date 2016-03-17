@@ -14,6 +14,8 @@
 		<script src="//d3js.org/d3.v3.min.js"></script>
 		<script src="//d3js.org/topojson.v1.min.js"></script>
   		<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  		<script type='text/javascript' src="http://twitter.github.io/typeahead.js/releases/latest/typeahead.bundle.js"></script>
+		<script src="/js/search.js"></script>
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 		<style>
 			@import url(/css/style.css?aea6f0a);
@@ -33,9 +35,26 @@
 					<li><a href="/index.html#">Home</a></li>
 					<li><a href="/powerrankings.html">Power Rankings</a></li>
 					<li><a href="/visualizations.html">Visualizations</a></li>
+					<form class="navbar-form navbar-left" role="search">
+				    	<div class="input-group" style="width:280px;">
+				      		<input type="text" id="player" class="typeahead" onkeypress="searchPlayer(); handle(event)" style="margin-top:12.5px; height:34px; border-top-right-radius: 0em; border-bottom-right-radius: 0em; background-color:white;" placeholder="Search player">
+				      		<span class="input-group-btn">
+				        		<button class="btn btn-default" onclick="searchPlayer(); location.href='#displayData'" type="button">Go!</button>
+				      		</span>
+				    	</div>
+			      	</form>
 				</ul>
 			</nav>
 		</header>
+
+		<script>
+		    function handle(e){
+		        if(e.keyCode === 13){
+		            location.href='#displayData';
+		        }
+		        return false;
+		    }
+		</script>
 
 		<section id="one" style="margin:auto" class="wrapper style3 special">
 			<div class="container">
@@ -301,13 +320,14 @@
 			</div>
 		</section>
 
+		<section id="three" style="margin-top:-100px" class="wrapper style3 special">
+			<div class="container">
+				<h3 style="color:white" id="displayData"></h3>
+			</div>
+		</section>
+
 		<footer id="footer">
 			<div class="container">
-				<ul class="icons">
-					<li><a href="https://www.facebook.com/andy.thompson.520562" class="icon fa-facebook"></a></li>
-					<li><a href="#" class="icon fa-twitter"></a></li>
-					<li><a href="#" class="icon fa-instagram"></a></li>
-				</ul>
 			</div>
 		</footer>
 
