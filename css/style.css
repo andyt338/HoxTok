@@ -37,12 +37,11 @@
 
 	a {
 		color: white;
-		/* text-decoration: underline; */
 	}
 
 		a:hover {
-			text-decoration: underline;
-			color: white;
+			color: #484848;
+			text-decoration: none;
 		}
 
 	strong, b {
@@ -1516,3 +1515,51 @@ span.twitter-typeahead {
   top: 100%;
   left: 0;
 }
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    background-color: white;
+    border: 0;
+    height: 62.3906px;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: white;
+}
+
+.navbar-default {
+    background-color: #f8f8f8;
+    border: 0; 
+}
+
+#header nav {
+    height: inherit;
+    line-height: 50%;
+    position: absolute;
+    top: 0;
+    vertical-align: middle;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #777;
+    height: 62.3906px;
+}
+
+.navbar-form .input-group {
+    display: inline-table;
+    vertical-align: middle;
+    height: 62.3906px;
+}
+
+.input-group-btn:last-child>.btn, .input-group-btn:last-child>.btn-group {
+    z-index: 2;
+    margin-left: -1px;
+    vertical-align: middle;
+    height: 62.3906px;
+    height: 34px;
+}
+
+
+
+
+
+
